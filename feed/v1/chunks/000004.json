@@ -1,0 +1,899 @@
+{
+  "items": [
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Song et al.",
+      "field": "engineering",
+      "has_explainer": false,
+      "hook": "Ordered PtCo fuel cell catalysts lose less than half the voltage of disordered ones over 90,000 cycles.",
+      "id": "doi-10.1002-anie.6908014",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Loss at 1.5 A/cm2 after 90,000 cycles, ordered",
+        "unit": "mV",
+        "value": "28"
+      },
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "With matched particle size and composition, the ordered PtCo showed no big performance gain but slowed degradation by suppressing cobalt diffusion and dissolution. It lost 28 mV against 65 mV at 1.5 A per cm2. The result is for one alloy in accelerated lab tests.",
+      "tags": [
+        "fuel cells",
+        "catalysts"
+      ],
+      "title": "Identification of the Intrinsic Ordering Effect of PtCo Intermetallic Catalysts on Fuel Cell Durability.",
+      "url": "https://doi.org/10.1002/anie.6908014",
+      "venue": "Angewandte Chemie International Edition"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Li et al.",
+      "field": "chemistry",
+      "has_explainer": false,
+      "hook": "One palladium cage turns into a bowl or a helicate depending on which guest molecule is added.",
+      "hook_turn": "depending on which guest molecule is added.",
+      "id": "doi-10.1002-anie.8018415",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "A flexible ligand with palladium forms a cage, and different guest molecules push it into a bowl or a triple-stranded helicate. Guests can be added, removed, or swapped to move between the three shapes, shown by guest-exchange experiments. The switching is shown for one ligand design; a rigid biphenyl analogue did not switch.",
+      "tags": [
+        "supramolecular chemistry",
+        "self-assembly"
+      ],
+      "title": "Guest-Directed Navigation of a Ligand Conformational Landscape Enables Palladium-Organic Cage-Bowl-Helicate Interconversion.",
+      "url": "https://doi.org/10.1002/anie.8018415",
+      "venue": "Angewandte Chemie International Edition"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Duvanova et al.",
+      "field": "chemistry",
+      "has_explainer": false,
+      "hook": "A gallium-68 tungsten-oxide cluster enters cells better than free gallium-68, a possible PET cell tracer.",
+      "id": "doi-10.1002-anie.9529520",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Radiochemical purity of Cs68GaPW11",
+        "unit": "%",
+        "value": ">96"
+      },
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Chemists built a tungsten-oxide cage (a Keggin polyoxometalate) holding radioactive gallium-68 and made it in under an hour. In hamster ovary cells it was taken up more than gallium chloride or gallium-oxine and showed low toxicity. Only one cell line was tested, and no animal imaging is reported.",
+      "tags": [
+        "radiopharmaceuticals",
+        "PET imaging"
+      ],
+      "title": "A 68Ga-Substituted Keggin Phosphotungstate as an Intrinsically Radiolabeled Inorganic PET Tracer for Cell Tracking.",
+      "url": "https://doi.org/10.1002/anie.9529520",
+      "venue": "Angewandte Chemie International Edition"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Kwon et al.",
+      "field": "chemistry",
+      "has_explainer": false,
+      "hook": "Octahedral MgO crystals with {111} faces store surface oxygen that boosts methane coupling into C2+ products.",
+      "id": "doi-10.1002-anie.9539988",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Magnesium oxide crystals exposing {111} faces outperformed conventional MgO in oxidative coupling of methane. Kinetics, operando Raman spectroscopy, and calculations point to surface-bound molecular oxygen that helps break C-H bonds and is used up during reaction, then restored by oxidation. The evidence is for one benchmark reaction on lab-scale catalysts.",
+      "tags": [
+        "catalysis",
+        "methane conversion"
+      ],
+      "title": "MgO Facets as Regenerable Molecular Oxygen Reservoirs in Oxidative Coupling of Methane.",
+      "url": "https://doi.org/10.1002/anie.9539988",
+      "venue": "Angewandte Chemie International Edition"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Wang et al.",
+      "field": "chemistry",
+      "has_explainer": false,
+      "hook": "Adding boron-sulfur bonds speeds up OLED emitters and gives a device with 30.2% external quantum efficiency.",
+      "hook_turn": "gives a device with 30.2% external quantum efficiency.",
+      "id": "doi-10.1002-anie.9776772",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "External quantum efficiency of the OLED device",
+        "unit": "%",
+        "value": "30.2"
+      },
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Putting boron-sulfur bonds into narrowband OLED emitter molecules strengthens spin-orbit coupling, so spent energy states recycle into light faster (rates above 2.6 x 10^5 per second). It also made the borylation synthesis easier, with yields up to 85%. Results are from one emitter pair in a lab device, with no lifetime data in the abstract.",
+      "tags": [
+        "OLED",
+        "light-emitting molecules"
+      ],
+      "title": "Incorporating B-S Bonds Into Multi-Resonance Frameworks for Narrowband Emitters With Fast Reverse Intersystem Crossing and Facile Synthesis.",
+      "url": "https://doi.org/10.1002/anie.9776772",
+      "venue": "Angewandte Chemie International Edition"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Giacomelli et al.",
+      "field": "math",
+      "has_explainer": false,
+      "hook": "A 1957 formula for the energy of a dilute gas of fermions is proved correct.",
+      "hook_turn": "is proved correct.",
+      "id": "doi-10.1007-s00222-026-01459-9",
+      "published": "2026-11-11",
+      "significance": 8,
+      "status": "peer_reviewed",
+      "summary": "The authors prove the Huang-Yang formula, a three-term expansion for the ground state energy of a low-density gas of spin 1/2 fermions with repulsive short-range forces. The result depends on the interaction only through its scattering length. This lower bound completes the program begun with the matching upper bound, and applies to the dilute regime only.",
+      "tags": [
+        "mathematical physics",
+        "Fermi gas"
+      ],
+      "title": "The Huang–Yang conjecture for the low-density Fermi gas",
+      "url": "https://doi.org/10.1007/s00222-026-01459-9",
+      "venue": "Inventiones mathematicae"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Zhou et al.",
+      "field": "neuroscience",
+      "has_explainer": false,
+      "hook": "The blood-brain barrier lets 92 plasma proteins into the mouse brain, such as APOA1 for astrocytes.",
+      "id": "doi-10.1016-j.cell.2026.10.039",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Proteins sampled by the healthy blood-brain barrier",
+        "unit": "plasma proteins",
+        "value": "191"
+      },
+      "significance": 8,
+      "status": "peer_reviewed",
+      "summary": "Labeling proteins with bioorthogonal proteomics, the team found the barrier samples 191 plasma proteins and passes 92 into brain tissue, each homing to particular cell types. APOA1 crosses via SR-B1 and drives cholesterol efflux in astrocytes; boosting it rescued deficits in early-stage 5xFAD Alzheimer's mice. All of this is in mice, and human relevance is untested.",
+      "tags": [
+        "blood-brain barrier",
+        "Alzheimer's disease"
+      ],
+      "title": "The blood-brain barrier imports diverse neuroprotective proteins through pathways impaired early in Alzheimer's disease models.",
+      "url": "https://doi.org/10.1016/j.cell.2026.10.039",
+      "venue": "Cell"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Chen et al.",
+      "field": "neuroscience",
+      "has_explainer": false,
+      "hook": "Sub-second dopamine bursts track juvenile play, and timed stimulation restored play in autism-model rats.",
+      "id": "doi-10.1016-j.cell.2026.10.040",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Using 3D pose tracking and dopamine recording in the nucleus accumbens, researchers linked dopamine to moments of proactive play, with sex differences. In Shank3-deficient rats these responses were lost or inverted, and stimulating dopamine projections time-locked to play restored reciprocal play. The work is in rats and one genetic autism model.",
+      "tags": [
+        "dopamine",
+        "social behavior",
+        "autism"
+      ],
+      "title": "Sub-second dopamine reinforcement shapes juvenile social play.",
+      "url": "https://doi.org/10.1016/j.cell.2026.10.040",
+      "venue": "Cell"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Mahmoudi et al.",
+      "field": "neuroscience",
+      "has_explainer": false,
+      "hook": "In rats, degrading an action-outcome link overwrites learning for good, unlike extinction, which recovers.",
+      "id": "doi-10.1016-j.cub.2026.10.040",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Rats learned two lever-reward links, then one was degraded by giving its reward without pressing. Responding stayed low after two weeks and after a surprise reward, unlike the recovery seen after extinction. Silencing the lateral orbitofrontal cortex impaired learning of the degradation but not its recall. Results are from rats on one task type.",
+      "tags": [
+        "learning",
+        "relapse",
+        "orbitofrontal cortex"
+      ],
+      "title": "Lateral orbitofrontal cortex enables new learning to overwrite previously acquired information.",
+      "url": "https://doi.org/10.1016/j.cub.2026.10.040",
+      "venue": "Current Biology"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Kunik et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "The dark magic mushroom Galerina indica makes both psilocybin and deadly amatoxins, a first in one species.",
+      "hook_turn": "a first in one species.",
+      "id": "doi-10.1016-j.cub.2026.10.041",
+      "published": "2026-11-11",
+      "significance": 7,
+      "status": "peer_reviewed",
+      "summary": "Mass spectrometry found psilocybin and amatoxins together in Galerina indica tissue, and genome analysis located the genes for both. Phylogenetic analysis suggests the psilocybin genes arrived by horizontal gene transfer after amatoxin production was already present. The timing is inferred from sequence trees, not observed directly.",
+      "tags": [
+        "fungi",
+        "horizontal gene transfer"
+      ],
+      "title": "The \"dark magic mushroom\" co-produces amatoxins and psilocybin.",
+      "url": "https://doi.org/10.1016/j.cub.2026.10.041",
+      "venue": "Current Biology"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Bonato et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "Climbing pea plants emit volatiles just before neighbor-driven bursts of circling movement.",
+      "id": "doi-10.1016-j.cub.2026.10.050",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Tracking pea shoot tips in 3D while profiling emitted volatiles, the authors saw seven volatile features rise before peak circling speed when a neighbor was present, and not in isolated plants. Neighbors also moved more and grew faster. The link is a timing association, and the authors say causation is not shown.",
+      "tags": [
+        "plant behavior",
+        "plant communication"
+      ],
+      "title": "Volatile emission dynamics are temporally associated with neighbor-modulated movement in climbing plants.",
+      "url": "https://doi.org/10.1016/j.cub.2026.10.050",
+      "venue": "Current Biology"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Dobrott et al.",
+      "field": "neuroscience",
+      "has_explainer": false,
+      "hook": "In mice, cerebellar outputs to the red nucleus support reach correction and learning; broader ones do not.",
+      "id": "doi-10.1016-j.neuron.2026.10.010",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "In reaching mice, small corrective submovements appeared spontaneously or after neural perturbations. Closed-loop perturbation of red nucleus-projecting neurons was compensated and shifted future submovement timing, while perturbing the interposed nucleus broadly was neither compensated nor learned. Findings are in mice performing one reach task.",
+      "tags": [
+        "cerebellum",
+        "motor learning"
+      ],
+      "title": "Dissociable cerebellar pathways for reach correction and learning.",
+      "url": "https://doi.org/10.1016/j.neuron.2026.10.010",
+      "venue": "Neuron"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Ramos et al.",
+      "field": "medicine",
+      "has_explainer": false,
+      "hook": "Glioblastoma reverts to a fetal glial progenitor-like state, and the gene POU3F3 helps sustain it.",
+      "id": "doi-10.1016-j.neuron.2026.10.012",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "A spatiotemporal multi-omic map of human glioblastoma showed enrichment of a glial intermediate progenitor-like state at tumor core, margin, and recurrence. The lncRNA NRXN1-DT and EGFR mark this state, and POU3F3 regulates them and stem-like properties. No treatment has been tested, and the dataset is limited to the patient samples studied.",
+      "tags": [
+        "glioblastoma",
+        "cancer biology"
+      ],
+      "title": "Glial progenitor-like state is preferentially co-opted in glioblastoma and sustained by POU3F3.",
+      "url": "https://doi.org/10.1016/j.neuron.2026.10.012",
+      "venue": "Neuron"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Chen et al.",
+      "field": "neuroscience",
+      "has_explainer": false,
+      "hook": "One neonatal antisense dose rescued autism-like behavior and hippocampal damage in mice with a GRIA1 variant.",
+      "id": "doi-10.1016-j.neuron.2026.10.013",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Mice carrying the autism-linked GRIA1 A636T variant showed autism-like behavior and progressive hippocampal neuron loss from excitotoxicity, because their AMPA receptors never switched to the calcium-impermeable form. A single allele-specific antisense oligonucleotide given at birth prevented the damage. It is a mouse model, and treatment so early may be hard to match in people.",
+      "tags": [
+        "autism",
+        "antisense therapy"
+      ],
+      "title": "Antisense oligonucleotide silencing rescues neurodevelopmental deficits in AMPA receptor gain-of-function mice.",
+      "url": "https://doi.org/10.1016/j.neuron.2026.10.013",
+      "venue": "Neuron"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Sunkavalli et al.",
+      "field": "neuroscience",
+      "has_explainer": false,
+      "hook": "After mating, male mice's dopamine release drops and takes about a week to recover, tracking their drive.",
+      "id": "doi-10.1016-j.neuron.2026.10.022",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Deep-brain imaging in the medial preoptic area showed tonic dopamine falling after mating and returning over several days. Reduced firing of dopamine neurons explains the first day or two, while a slower loss and recovery of the neurons' ability to make dopamine explains the rest of the week. This is in male mice only.",
+      "tags": [
+        "dopamine",
+        "motivation"
+      ],
+      "title": "Slow-timescale regulation of dopamine release governs recovery of a motivational drive over days.",
+      "url": "https://doi.org/10.1016/j.neuron.2026.10.022",
+      "venue": "Neuron"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Mosenzon et al.",
+      "field": "medicine",
+      "has_explainer": false,
+      "hook": "An antibody against myostatin eased the muscle loss that comes with semaglutide weight loss.",
+      "hook_turn": "eased the muscle loss that comes with semaglutide weight loss.",
+      "id": "doi-10.1016-s0140-6736-26-01953-7",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Adults with obesity enrolled in COURAGE trial",
+        "unit": "participants",
+        "value": "975"
+      },
+      "significance": 8,
+      "status": "peer_reviewed",
+      "summary": "In a 975-person phase 2 trial, adding the myostatin-blocking antibody trevogrumab to semaglutide left people with less lean mass lost at week 26 than semaglutide alone (about 3 points less). Adding a second antibody, garetosmab, helped more but caused more serious side effects and dropouts, including two deaths. Only body composition was measured, so whether it protects strength or health is unknown.",
+      "tags": [
+        "obesity",
+        "muscle loss",
+        "GLP-1 drugs"
+      ],
+      "title": "Trevogrumab (anti-GDF8) with or without garetosmab (anti-activin A) for prevention of muscle loss during semaglutide-induced weight reduction in people with obesity (COURAGE): a two-part, phase 2, double-blind, placebo-controlled, randomised trial.",
+      "url": "https://doi.org/10.1016/s0140-6736(26)01953-7",
+      "venue": "The Lancet"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Bhunia et al.",
+      "field": "chemistry",
+      "has_explainer": false,
+      "hook": "Polyynes 48 carbons long show less bond alternation, and linear and ring forms relax differently.",
+      "hook_turn": "and linear and ring forms relax differently.",
+      "id": "doi-10.1021-jacs.6c05190",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Spectroscopy on 48-carbon linear and cyclic polyynes in liquid found the ground states are highly delocalized, with a softened Peierls distortion. After light absorption, the linear chains twist toward a cumulene-like shape more weakly and briefly than short chains do. The data show vibronic coupling grows more slowly with length than extrapolation predicts. Only two chain topologies at one length were tested, in solution.",
+      "tags": [
+        "carbon chains",
+        "polyynes",
+        "ultrafast spectroscopy"
+      ],
+      "title": "Electronic Dynamics in Long Linear and Cyclic Polyynes",
+      "url": "https://doi.org/10.1021/jacs.6c05190",
+      "venue": "Journal of the American Chemical Society"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Xu et al.",
+      "field": "chemistry",
+      "has_explainer": false,
+      "hook": "A growing helical polymer picks the right mirror-image monomer far better than its catalyst alone does.",
+      "hook_turn": "picks the right mirror-image monomer far better than its catalyst alone does.",
+      "id": "doi-10.1021-jacs.6c10680",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Selectivity factor Krel at 33% conversion",
+        "value": "~138"
+      },
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "In a rhodium and chiral amine system, polymerizing racemic diazoacetates gets more selective as the chain grows and curls into a one-handed helix. The selectivity factor rises from 15 at 3% conversion to about 138 at 33%, then levels off. Computation on decamers supports helix-driven enantiomer recognition. The result is shown for one catalyst family and its monomers.",
+      "tags": [
+        "polymerization",
+        "chirality",
+        "catalysis"
+      ],
+      "title": "Dynamic Nonlinear Effects in the Asymmetric Kinetic Resolution Polymerization of Racemic Diazoacetates to One-Handed Helical Polycarbenes",
+      "url": "https://doi.org/10.1021/jacs.6c10680",
+      "venue": "Journal of the American Chemical Society"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Yanagikawa et al.",
+      "field": "chemistry",
+      "has_explainer": false,
+      "hook": "Molybdenum clusters glow with circularly polarized light, and a spin-forbidden transition is seen by MCD.",
+      "hook_turn": "and a spin-forbidden transition is seen by MCD.",
+      "id": "doi-10.1021-jacs.6c12735",
+      "published": "2026-11-11",
+      "readout": {
+        "exponent": -2,
+        "label": "Phosphorescence MCPL signal at 1.6 T",
+        "unit": "dissymmetry factor g",
+        "value": "~1.0"
+      },
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Three Mo6I8 cluster compounds were measured with magnetic circular dichroism and magnetic circularly polarized luminescence. The authors report the first direct MCD observation of a spin-forbidden singlet-to-triplet transition in a metal cluster, and strong phosphorescent polarization. Calculations were done on a chlorine model cluster, and the triplet signal needed highly concentrated solutions.",
+      "tags": [
+        "metal clusters",
+        "circularly polarized light",
+        "spectroscopy"
+      ],
+      "title": "Magneto-Optical Studies on the Orbital Angular Momenta and Spin–Orbit Coupling in the Excited Triplet States of Octahedral Mo6 Clusters: Magnetic Circular Dichroism and Magnetic Circularly Polarized Luminescence",
+      "url": "https://doi.org/10.1021/jacs.6c12735",
+      "venue": "Journal of the American Chemical Society"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Yan et al.",
+      "field": "physics",
+      "has_explainer": false,
+      "hook": "Ordered hydronium-water layers on gold create new electronic states that photoemission can see.",
+      "hook_turn": "that photoemission can see.",
+      "id": "doi-10.1021-jacs.6c13974",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Angle-resolved photoemission on Au(111) revealed parabolic interfacial states when water formed ordered Eigen- or Zundel-type hydronium layers, unlike disordered water, which is insulating. Calculations trace them to gold's surface state with a lighter effective mass. The layers form only at 120-140 K in vacuum, far from real electrochemical conditions.",
+      "tags": [
+        "interfaces",
+        "water",
+        "photoemission"
+      ],
+      "title": "Evolution of Interfacial States Induced by Hydronium–Water Ordering on Au(111)",
+      "url": "https://doi.org/10.1021/jacs.6c13974",
+      "venue": "Journal of the American Chemical Society"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Villacampa et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "Antifreeze proteins grip ice with both methyl-group dispersion and sugar hydroxyl polar contacts.",
+      "hook_turn": "with both methyl-group dispersion and sugar hydroxyl polar contacts.",
+      "id": "doi-10.1021-jacs.6c14020",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Synthesizing antifreeze glycoprotein variants with deuterium or fluorine swaps, then testing with NMR, activity assays and simulations, supports a model that merges the older polar and hydrophobic views. Methyl groups favor contact with ice, while hydroxyls and bound water make binding selective and lasting. The evidence is consistent with the model rather than a direct view of the bound state.",
+      "tags": [
+        "antifreeze proteins",
+        "ice binding",
+        "glycoproteins"
+      ],
+      "title": "Unifying Polar and Hydrophobic Models of Ice Recognition by Antifreeze Glycoproteins",
+      "url": "https://doi.org/10.1021/jacs.6c14020",
+      "venue": "Journal of the American Chemical Society"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Xu et al.",
+      "field": "chemistry",
+      "has_explainer": false,
+      "hook": "Forces on one MOF particle stuck to an AFM tip predict how its polymer composite performs.",
+      "hook_turn": "predict how its polymer composite performs.",
+      "id": "doi-10.1021-jacs.6c14560",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Pressing a single MOF particle on an AFM probe into polymer films yielded a two-variable descriptor of chemical compatibility and adhesion. It tracked polymer intercalation seen by X-ray scattering, and a linear model predicted CO2 uptake in UiO-66-NH2 composites. The prediction was shown only with the MOF held fixed.",
+      "tags": [
+        "metal-organic frameworks",
+        "polymer composites",
+        "atomic force microscopy"
+      ],
+      "title": "An Experimental MOF-Polymer Latent Space for Composite Design",
+      "url": "https://doi.org/10.1021/jacs.6c14560",
+      "venue": "Journal of the American Chemical Society"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Yao et al.",
+      "field": "chemistry",
+      "has_explainer": false,
+      "hook": "Single copper clusters held in zeolite make hydrogen from methanol and last over 600 hours.",
+      "hook_turn": "and last over 600 hours.",
+      "id": "doi-10.1021-jacs.6c15075",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Specific activity, methanol steam reforming",
+        "unit": "mol H2/mol Cu/h",
+        "value": "951"
+      },
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Using an amino 'gripper' to anchor atomically dispersed metals in Beta zeolite, the team made triatomic Cu oxide sites that, with nearby silanol groups, drive methanol steam reforming. The catalyst reached 951 mol of H2 per mol Cu per hour and stayed stable for over 600 h with regeneration. Performance is lab-scale, on one reaction.",
+      "tags": [
+        "catalysis",
+        "hydrogen production",
+        "zeolites"
+      ],
+      "title": "Zeolite-Confined Triatomic Cu Oxides at Silanol Nests as Hydrogen Transport Channels for H2 Production from Methanol Steam Reforming",
+      "url": "https://doi.org/10.1021/jacs.6c15075",
+      "venue": "Journal of the American Chemical Society"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Kim et al.",
+      "field": "chemistry",
+      "has_explainer": false,
+      "hook": "Light reads out the electron spin of a palladium(I) complex and its phosphorus nuclei at room temperature.",
+      "hook_turn": "at room temperature.",
+      "id": "doi-10.1021-jacs.6c15671",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Circularly polarized pulses created electron spin coherence in Pd(I) complexes, and time-resolved Faraday rotation detected its coupling to nearby 31P nuclear spins in solution at ambient temperature. Results were checked against pulsed EPR and computation. This is a proof of principle on a model system, not yet sensing inside a working reaction.",
+      "tags": [
+        "molecular qubits",
+        "spin coherence",
+        "palladium"
+      ],
+      "title": "Optical Access to a Molecular Nuclear-Spin Register in Catalytically Relevant Palladium(I) Complexes",
+      "url": "https://doi.org/10.1021/jacs.6c15671",
+      "venue": "Journal of the American Chemical Society"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Zhou et al.",
+      "field": "chemistry",
+      "has_explainer": false,
+      "hook": "A cobalt and light catalyst joins aldehydes, amines and alkynes into single-handed allylic amines.",
+      "hook_turn": "into single-handed allylic amines.",
+      "id": "doi-10.1021-jacs.6c16335",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Combining visible-light photoredox with a cobalt catalyst and a new chiral phosphoramidite ligand, the authors couple three simple starting materials in one step with high enantioselectivity. They show late-stage modification of bioactive molecules and a short synthesis of prasugrel. Mechanism claims rest on computation and mechanistic studies of this catalyst system.",
+      "tags": [
+        "asymmetric synthesis",
+        "photoredox catalysis",
+        "cobalt"
+      ],
+      "title": "Enantioselective Three-Component Reductive Coupling of Aldehydes, Amines, and Alkynes via Ligand-Enabled Cobalt/Photoredox Dual Catalysis for Modular Synthesis of Allylic Amines",
+      "url": "https://doi.org/10.1021/jacs.6c16335",
+      "venue": "Journal of the American Chemical Society"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Joy et al.",
+      "field": "chemistry",
+      "has_explainer": false,
+      "hook": "Simulations show surrounding solvent steers an iron-oxo radical pair toward one product.",
+      "hook_turn": "steers an iron-oxo radical pair toward one product.",
+      "id": "doi-10.1021-jacs.6c17785",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Trajectory simulations of an Fe-oxo C-H functionalization found that a continuum solvent gives a mix of products, contradicting experiment. Explicit solvent molecules reproduced the observed selectivity by acting as an unequilibrated cage that limits wandering pathways. This is computational only, for one catalyst.",
+      "tags": [
+        "reaction dynamics",
+        "solvent effects",
+        "iron catalysis"
+      ],
+      "title": "Solvent Cage Suppresses Dynamically Induced Entropic Pathways to Provide High Selectivity in Intramolecular Fe-Oxo Radical Rebound Reactions",
+      "url": "https://doi.org/10.1021/jacs.6c17785",
+      "venue": "Journal of the American Chemical Society"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Ren et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "A bacterial enzyme activates oxygen using ferric iron, unlike most oxygen-using enzymes.",
+      "hook_turn": "unlike most oxygen-using enzymes.",
+      "id": "doi-10.1021-jacs.6c18755",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "A crystal structure of OzmD, plus EPR and Mossbauer spectroscopy of a close homologue, show the iron starts as Fe(III) and is reduced by the substrate before it activates oxygen. OzmD also acts as a dioxygenase on a substrate analog, tying bacterial and fungal DUF4243 enzymes. Full mechanisms are proposed from precedent and computation, not directly observed.",
+      "tags": [
+        "enzymes",
+        "iron",
+        "biosynthesis"
+      ],
+      "title": "Decyanation, Dioxygenation, and Oxidative Ring Contraction Catalyzed by the DUF4243 Oxidase OzmD Rely on Ferric Oxygen Activation",
+      "url": "https://doi.org/10.1021/jacs.6c18755",
+      "venue": "Journal of the American Chemical Society"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Mu et al.",
+      "field": "chemistry",
+      "has_explainer": false,
+      "hook": "Water cuts the heat released when pyridine binds a zeolite acid site by about 150 kJ/mol.",
+      "hook_turn": "by about 150 kJ/mol.",
+      "id": "doi-10.1021-jacs.6c19203",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Less exothermic adsorption in water vs gas",
+        "unit": "kJ/mol",
+        "value": "~150"
+      },
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Water changes how strongly a base sticks to the acid sites of a zeolite catalyst. Calorimetry in water, combined with water-adsorption data in a thermodynamic cycle, links the liquid results to gas-phase values. The Si/Al trend seen in water comes from how much the water stabilizes the proton and pyridinium ion, not from acid strength. Only one zeolite framework and one probe base were tested.",
+      "tags": [
+        "zeolites",
+        "catalysis",
+        "calorimetry"
+      ],
+      "title": "Effect of Water on Elementary Reactions in Solid-Acid Catalyzed Reactions: Thermodynamics of Acid–Base Interactions in H-ZSM-5",
+      "url": "https://doi.org/10.1021/jacs.6c19203",
+      "venue": "Journal of the American Chemical Society"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Ahn and Kee",
+      "field": "chemistry",
+      "has_explainer": false,
+      "hook": "New chemical probes tag sulfur radicals on proteins inside living bacteria, pinpointing the exact residues.",
+      "hook_turn": "pinpointing the exact residues.",
+      "id": "doi-10.1021-jacs.6c21586",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Protein radicals are short-lived and have been hard to find across a whole cell. The authors built thioacetylene probes that bind covalently to cysteine radicals and used mass spectrometry to locate the labeled sites in live E. coli, including a known site in ribonucleotide reductase. The probes also tagged some glycyl radical sites, and the work was done only in one bacterium.",
+      "tags": [
+        "chemoproteomics",
+        "free radicals",
+        "proteins"
+      ],
+      "title": "Mechanism-Guided Development of Thioacetylene Probes for Chemoproteomic Profiling of Cellular Protein Thiyl Radicals",
+      "url": "https://doi.org/10.1021/jacs.6c21586",
+      "venue": "Journal of the American Chemical Society"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Prudencio et al.",
+      "field": "earth",
+      "has_explainer": false,
+      "hook": "A first 3D map of seismic attenuation under El Hierro traces how magma rose before the 2011-2012 eruption.",
+      "hook_turn": "how magma rose before the 2011-2012 eruption.",
+      "id": "doi-10.1029-2026gl123237",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Seismic waves lose energy differently in hot, partly molten rock. The team applied the coda normalization method to a large earthquake data set to build the first 3D attenuation model of El Hierro, then combined it with earlier velocity models. The picture supports magma climbing from depth through weak zones, though it is an interpretation of one eruption.",
+      "tags": [
+        "volcanology",
+        "seismology"
+      ],
+      "title": "Seismic Attenuation Tomography of El Hierro: Insights Into Magmatic Processes in the Canary Islands",
+      "url": "https://doi.org/10.1029/2026gl123237",
+      "venue": "Geophysical Research Letters"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Nie et al.",
+      "field": "earth",
+      "has_explainer": false,
+      "hook": "Greenland and Antarctica ice loss explains 51% of the speedup in global sea level rise since 1993.",
+      "hook_turn": "since 1993.",
+      "id": "doi-10.1029-2026gl123478",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Share of sea level acceleration from ice sheets",
+        "unit": "%",
+        "value": "51"
+      },
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Sea level rise has sped up over three decades, and the ice sheets' share was unclear. The authors extended satellite gravity records of ice mass back to 1993 and found both ice sheets are losing mass at an increasing rate. With mountain glaciers, land ice still leaves part of the acceleration unexplained.",
+      "tags": [
+        "sea level",
+        "ice sheets",
+        "climate change"
+      ],
+      "title": "Greenland and Antarctica Dominate Recent Acceleration in Global Mean Sea Level Rise: 1993–2023",
+      "url": "https://doi.org/10.1029/2026gl123478",
+      "venue": "Geophysical Research Letters"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Reiss et al.",
+      "field": "earth",
+      "has_explainer": false,
+      "hook": "Machine learning predicts Arctic ocean mixing from routine data, 75% within a factor of 2 of observed.",
+      "hook_turn": "75% within a factor of 2 of observed.",
+      "id": "doi-10.1029-2026gl123721",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Predictions within factor of 2 of observations",
+        "unit": "%",
+        "value": "75"
+      },
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Direct turbulence measurements in the Arctic are scarce, so models rely on rough rules. The authors trained decision trees on over 5,000 global turbulence profiles to predict mixing from temperature and salinity, and tested them on held-out regions. The results differ clearly from a widely used scheme, but Arctic accuracy is judged against few direct observations.",
+      "tags": [
+        "Arctic ocean",
+        "turbulence",
+        "machine learning"
+      ],
+      "title": "Data‐Driven Parameterization of Arctic Ocean Turbulent Mixing",
+      "url": "https://doi.org/10.1029/2026gl123721",
+      "venue": "Geophysical Research Letters"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Han et al.",
+      "field": "earth",
+      "has_explainer": false,
+      "hook": "Saltier mid-depth water offsets 58% of thermal sea level rise in the southwest Indian Ocean.",
+      "hook_turn": "in the southwest Indian Ocean.",
+      "id": "doi-10.1029-2026gl125148",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Mid-depth thermal expansion offset by salinity",
+        "unit": "%",
+        "value": "58"
+      },
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Water expands as it warms but contracts as it gets saltier. Using 2004-2023 Argo float data, the authors split trends into layer shifts and changes along constant density, and found the mid-depth salinity trend is almost entirely along-density change. The temperature split is weakly constrained, and the result does not prove the cause is salinification of one water mass.",
+      "tags": [
+        "sea level",
+        "Indian Ocean",
+        "Argo"
+      ],
+      "title": "Intermediate Water Salinification Counteracts Thermosteric Sea‐Level Rise in the Tropical Southwest Indian Ocean",
+      "url": "https://doi.org/10.1029/2026gl125148",
+      "venue": "Geophysical Research Letters"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Kim et al.",
+      "field": "earth",
+      "has_explainer": false,
+      "hook": "A small Antarctic ice shelf sector lost over 30 cubic kilometers of ice as its pinning ice rumple let go.",
+      "hook_turn": "as its pinning ice rumple let go.",
+      "id": "doi-10.1029-2026gl126004",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Ice volume loss, Carney-Duncan sector",
+        "unit": "km3 per year",
+        "value": "~2.1"
+      },
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Small islands and ice rumples can hold back ice shelf flow. CryoSat-2 radar altimetry from 2010 to 2026 shows thinning along troughs in the Carney-Duncan sector of the Getz Ice Shelf, and Landsat images show the rumple unanchoring since 1973. The link between thinning, lost pinning, and flow change is inferred from correlated trends in one sector.",
+      "tags": [
+        "Antarctica",
+        "ice shelves",
+        "altimetry"
+      ],
+      "title": "Sustained Ice Loss and Ice‐Shelf Flow Reorganization in the Carney‐Duncan Sector, Marie Byrd Land, West Antarctica (2010–2026)",
+      "url": "https://doi.org/10.1029/2026gl126004",
+      "venue": "Geophysical Research Letters"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Fu and Wu",
+      "field": "earth",
+      "has_explainer": false,
+      "hook": "Tropical cyclones increasingly peak right at landfall, with such events nearly doubling since 1980.",
+      "hook_turn": "with such events nearly doubling since 1980.",
+      "id": "doi-10.1029-2026gl127323",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Storms usually weaken before reaching land, but best-track data from 1980 to 2023 show more of them intensifying within a day of landfall. Both their number and share nearly doubled, alongside genesis moving closer to coasts and warmer nearshore conditions. Attribution to human warming rests on climate model consistency, and best-track records are imperfect.",
+      "tags": [
+        "tropical cyclones",
+        "coastal hazard",
+        "climate change"
+      ],
+      "title": "Tropical Cyclones Increasingly Reach Peak Intensity Near Continental Landfall",
+      "url": "https://doi.org/10.1029/2026gl127323",
+      "venue": "Geophysical Research Letters"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Woods et al.",
+      "field": "neuroscience",
+      "has_explainer": false,
+      "hook": "Enriched living conditions and one-eye deprivation rewire excitatory synapses in over 100 mouse brain regions.",
+      "hook_turn": "in over 100 mouse brain regions.",
+      "id": "doi-10.1038-s41467-026-78702-7",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "The brain holds many types of excitatory synapses, and how experience changes their mix was unknown. Comparing mice after environmental enrichment or monocular deprivation, the authors mapped synapse populations across the brain and found each experience changes distinct subsets. The findings are in mice and show patterns of change, not behavioral consequences.",
+      "tags": [
+        "synapses",
+        "brain plasticity"
+      ],
+      "title": "Experience modifies the synaptome architecture in the developing and adult mouse brain.",
+      "url": "https://doi.org/10.1038/s41467-026-78702-7",
+      "venue": "Nature Communications"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Laine et al.",
+      "field": "medicine",
+      "has_explainer": false,
+      "hook": "Betaine lowered urine glycoasparagines by 68.6% in children with a rare lysosomal storage disease.",
+      "hook_turn": "in children with a rare lysosomal storage disease.",
+      "id": "doi-10.1038-s41467-026-78752-x",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Drop in urine glycoasparagines on treatment",
+        "unit": "%",
+        "value": "68.6"
+      },
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Aspartylglucosaminuria causes progressive cognitive decline, and no treatment targets it. In an open-label trial of 21 Finnish patients over 48 months, the drug Cystadane (betaine) cut a urine disease marker and appeared safe. There was no control group and no evidence yet that it slows cognitive decline.",
+      "tags": [
+        "rare disease",
+        "clinical trial"
+      ],
+      "title": "Pharmacological chaperone treatment with Cystadane in aspartylglucosaminuria: an open-label, phase Ib/II trial.",
+      "url": "https://doi.org/10.1038/s41467-026-78752-x",
+      "venue": "Nature Communications"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Patel et al.",
+      "field": "physics",
+      "has_explainer": false,
+      "hook": "A quantum dot in a nanowire reflects single photons, with every photon interacting with the dot.",
+      "hook_turn": "with every photon interacting with the dot.",
+      "id": "doi-10.1038-s41467-026-78984-x",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Reading out the reflection port of a waveguide is hard because stray light swamps the signal. The authors used the tapered nanowire end for mode matching and an extinction technique to show coherent reflection of single photons from a strongly coupled quantum dot. It is a proof of principle, and the abstract gives no efficiency figure.",
+      "tags": [
+        "quantum optics",
+        "quantum dots",
+        "photonics"
+      ],
+      "title": "Single photon reflection from a quantum dot in a waveguide",
+      "url": "https://doi.org/10.1038/s41467-026-78984-x",
+      "venue": "Nature Communications"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Raghuram et al.",
+      "field": "physics",
+      "has_explainer": false,
+      "hook": "Ultracold molecules host a synthetic lattice with edge states lasting about 500 tunnelling periods.",
+      "hook_turn": "lasting about 500 tunnelling periods.",
+      "id": "doi-10.1038-s41467-026-79032-4",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Coherence time in synthetic lattice",
+        "unit": "tunnelling periods",
+        "value": "~500"
+      },
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Synthetic dimensions use internal states of a particle as extra lattice sites. The team used rotational states of RbCs molecules linked by microwaves to build a Su-Schrieffer-Heeger lattice and tested edge state robustness against perturbations. The lattices span only up to eight states, so this is a small-scale demonstration.",
+      "tags": [
+        "ultracold molecules",
+        "topological states",
+        "quantum simulation"
+      ],
+      "title": "Probing topological edge states in a molecular synthetic dimension",
+      "url": "https://doi.org/10.1038/s41467-026-79032-4",
+      "venue": "Nature Communications"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Li et al.",
+      "field": "engineering",
+      "has_explainer": false,
+      "hook": "A clay ink printed at room temperature makes a dielectric for 2D transistors running at 1 volt.",
+      "hook_turn": "running at 1 volt.",
+      "id": "doi-10.1038-s41467-026-79139-8",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Operating voltage of MoS2 transistors",
+        "unit": "volts",
+        "value": "1"
+      },
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Low-voltage 2D electronics usually need costly atomic layer deposition or high-temperature growth. The authors used a water-based montmorillonite clay ink, applied at room temperature, as the gate dielectric in MoS2 transistors and simple logic circuits and SRAM. Device counts and long-term stability are not given in the abstract.",
+      "tags": [
+        "2D semiconductors",
+        "transistors",
+        "dielectrics"
+      ],
+      "title": "Low-thermal-budget solution-processed montmorillonite dielectric for low-voltage 2D electronics",
+      "url": "https://doi.org/10.1038/s41467-026-79139-8",
+      "venue": "Nature Communications"
+    }
+  ],
+  "number": 4,
+  "v": 1
+}

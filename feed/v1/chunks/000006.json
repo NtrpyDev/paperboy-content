@@ -1,0 +1,854 @@
+{
+  "items": [
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Schechtman",
+      "field": "social",
+      "has_explainer": false,
+      "hook": "The spring clock change raised clicks on a fake phishing email by about 13%.",
+      "hook_turn": "by about 13%.",
+      "id": "doi-10.1073-pnas.2622467123",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Rise in phishing link clicks after DST switch",
+        "unit": "%",
+        "value": "~13"
+      },
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Employees at UC Irvine (N = 11,218) were randomly sent a simulated phishing email either the Monday after the switch to daylight saving time or a week earlier. The post-switch group clicked the suspicious link about 13% more often, with no change in opening or reporting the email. Sleep was not measured directly, and the study covers one workplace and one email.",
+      "tags": [
+        "sleep",
+        "cybersecurity",
+        "daylight saving time"
+      ],
+      "title": "Modest loss of sleep increases susceptibility to cybersecurity threats.",
+      "url": "https://doi.org/10.1073/pnas.2622467123",
+      "venue": "Proceedings of the National Academy of Sciences"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Wang et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "The parasite's odd mitochondrial entry gate shares the core channel design of human and yeast ones.",
+      "hook_turn": "shares the core channel design of human and yeast ones.",
+      "id": "doi-10.1073-pnas.2622689123",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Cryo-EM resolution of the ATOM complex",
+        "unit": "angstroms",
+        "value": "2.8"
+      },
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "A cryo-EM structure of the Trypanosoma brucei ATOM complex shows a new subunit and a dimeric channel much like the one in fungi and animals. Receptor and intermembrane-space regions differ, showing independent evolutionary solutions. The structure is a static snapshot of purified protein, so the translocation steps are inferred rather than watched.",
+      "tags": [
+        "mitochondria",
+        "cryo-EM",
+        "protein import"
+      ],
+      "title": "Structural insights into the evolution of mitochondrial protein import from the trypanosome ATOM complex.",
+      "url": "https://doi.org/10.1073/pnas.2622689123",
+      "venue": "Proceedings of the National Academy of Sciences"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Miller et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "Dormancy can calm oscillating food webs, but mostly in structured ones.",
+      "hook_turn": "but mostly in structured ones.",
+      "id": "doi-10.1073-pnas.2633661123",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Models show that dormant individuals, which sit out interactions, turn fast oscillations into a strong restoring force that steadies a minimal system. In larger food webs it helps mainly when the web is structured and prone to oscillatory instability, and rarely in unstructured or symmetric networks. This is theory only, with no field data on real food webs.",
+      "tags": [
+        "ecology",
+        "food webs",
+        "dormancy"
+      ],
+      "title": "Dormancy stabilizes structured food webs.",
+      "url": "https://doi.org/10.1073/pnas.2633661123",
+      "venue": "Proceedings of the National Academy of Sciences"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Kruawan et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "A CRISPR swab test detects Tasmanian devil facial tumour DNA in the field.",
+      "hook_turn": "in the field.",
+      "id": "doi-10.1098-rsos.260028",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Using the SHERLOCK method, which pairs isothermal DNA amplification with CRISPR-triggered reporters, the team built a portable test for both transmissible cancers, DFT1 and DFT2, sensitive to attomolar DNA. It detected DFT1 from non-invasive swabs in the field. Field confirmation covered DFT1 only, and detecting tumours before they are visible still needs wider validation.",
+      "tags": [
+        "wildlife disease",
+        "CRISPR diagnostics"
+      ],
+      "title": "Development of a point-of-care field test for Tasmanian devil facial tumour disease.",
+      "url": "https://europepmc.org/articles/PMC13750945",
+      "venue": "Royal Society open science"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Muscioni et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "Odd spikes on a duck-billed dinosaur's beak were blood vessel channels for a large keratin beak.",
+      "hook_turn": "for a large keratin beak.",
+      "id": "doi-10.1098-rsos.260392",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Micro-CT scans of Tethyshadros show that features once read as beak spikes mark a network of nerves and vessels feeding a keratin sheath larger than the bone beneath. This suggests a sensitive, heat-exchanging beak used to crop gritty plants, like those of birds. Soft tissue is inferred from bone traces and bird comparisons in a single specimen, so the beak's size is an estimate.",
+      "tags": [
+        "hadrosaurs",
+        "paleontology"
+      ],
+      "title": "The bird-like complexity of hadrosauroid beaks.",
+      "url": "https://europepmc.org/articles/PMC13750933",
+      "venue": "Royal Society open science"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Reisinger et al.",
+      "field": "earth",
+      "has_explainer": false,
+      "hook": "Slowing or rerouting ships around whale shark hotspots costs little fuel on most long voyages.",
+      "hook_turn": "costs little fuel on most long voyages.",
+      "id": "doi-10.1098-rsos.260855",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Simulating eight port-to-port trips for a tanker and a container ship, the authors compared normal routes, a 10 knot limit in whale shark habitat, and full avoidance. Fuel use changed by -0.13% to 9.65%, under 1% for most long trips. Speed limits suited short voyages and avoidance suited long ones. Results are simulations for eight routes and do not measure actual strike reduction.",
+      "tags": [
+        "whale sharks",
+        "shipping",
+        "conservation"
+      ],
+      "title": "Optimizing voyages for biodiversity: rerouting vessels around ocean giants can have minimal impact on shipping.",
+      "url": "https://europepmc.org/articles/PMC13750936",
+      "venue": "Royal Society open science"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Moopen et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "A new Triassic dinosaur skull from South Africa shows early sauropodomorphs grew fast.",
+      "hook_turn": "shows early sauropodomorphs grew fast.",
+      "id": "doi-10.1098-rsos.261002",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Estimated body mass of Nyana",
+        "unit": "kg",
+        "value": "~400"
+      },
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Nyana rooiwalensis is a new early sauropodomorph from the Late Triassic, with the first near-complete skull from its rock unit. Bone growth lines show it was young at about 400 kg, hinting at rapid growth early in the group, which later produced giant sauropods. Its exact family position is unresolved between two options, and the growth inference rests on one juvenile.",
+      "tags": [
+        "dinosaurs",
+        "paleontology"
+      ],
+      "title": "Nyana rooiwalensis: South Africa's earliest near-complete sauropodomorph dinosaur skull from the Late Triassic of the Eastern Cape Province.",
+      "url": "https://europepmc.org/articles/PMC13750947",
+      "venue": "Royal Society open science"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Noble et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "Bleached anemones made clownfish more aggressive, but the fish kept tending their host.",
+      "hook_turn": "but the fish kept tending their host.",
+      "id": "doi-10.1098-rsos.261623",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Clownfish living in bleached anemones fought more within their groups and acted more defensively, while time spent with the anemone stayed high. Researchers compared video of fish on bleached and unbleached hosts during a marine heatwave. The data come from one heatwave in one bay, so other species and events may differ.",
+      "tags": [
+        "animal behavior",
+        "coral bleaching"
+      ],
+      "title": "Anemonefish prioritize mutualistic partner over social group during a marine heatwave.",
+      "url": "https://europepmc.org/articles/PMC13750922",
+      "venue": "Royal Society open science"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Ryan-Keogh and Thomalla",
+      "field": "earth",
+      "has_explainer": false,
+      "hook": "Argo floats show ocean productivity falling in the Atlantic and Southern Oceans, rising in the Pacific.",
+      "hook_turn": "rising in the Pacific.",
+      "id": "doi-10.1126-sciadv.aeb0994",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Depth-resolving robotic floats indicate that marine plant production is declining across the Atlantic and Southern Oceans and increasing in the Pacific. The authors fed biogeochemical-Argo data into a carbon-based production algorithm and found trends that mostly match satellite estimates. The record is short, and the abstract does not show these trends are caused by climate change.",
+      "tags": [
+        "ocean productivity",
+        "phytoplankton"
+      ],
+      "title": "Basin-scale changes in net primary production from the biogeochemical-Argo array.",
+      "url": "https://doi.org/10.1126/sciadv.aeb0994",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Liu et al.",
+      "field": "medicine",
+      "has_explainer": false,
+      "hook": "A drug-carrying DNA aptamer homed in on TROP2 and slowed pancreatic tumor growth in mice.",
+      "id": "doi-10.1126-sciadv.aee3585",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "A short DNA-like aptamer that binds the tumor protein TROP2 was linked to a toxin and shrank pancreatic tumors in mouse models, including patient-derived ones. It also triggered immune signals, and combining it with PD-1 blockade worked better. All evidence is preclinical, so safety and benefit in people are unknown.",
+      "tags": [
+        "pancreatic cancer",
+        "drug delivery"
+      ],
+      "title": "A TROP2-targeting aptamer enables selective drug delivery and potent antitumor activity in pancreatic cancer.",
+      "url": "https://doi.org/10.1126/sciadv.aee3585",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Simoni et al.",
+      "field": "physics",
+      "has_explainer": false,
+      "hook": "A single trapped ion was driven into Schrödinger cat states with two to five components.",
+      "id": "doi-10.1126-sciadv.aee5380",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Physicists used one trapped ion's vibration, pushed into a strongly nonlinear regime, to create cat states with two, three, four and five components. They did it with a new form of engineered dissipation and then measured the states. This is a proof of principle on one ion, and its use for error correction or sensing is still prospective.",
+      "tags": [
+        "quantum control",
+        "trapped ions"
+      ],
+      "title": "Nonlinear cooling and control of a mechanical quantum harmonic oscillator.",
+      "url": "https://doi.org/10.1126/sciadv.aee5380",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "McCain et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "Manganese enzymes hold about 20% of the manganese in Antarctic diatoms.",
+      "id": "doi-10.1126-sciadv.aee6210",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Diatom Mn quota in superoxide dismutases",
+        "unit": "percent",
+        "value": "~20"
+      },
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "A large share of the manganese in Southern Ocean diatoms sits inside superoxide dismutase enzymes, and manganese-starved diatoms swap in a nickel version. The team combined protein profiling of wild diatoms, lab cultures and statistical modeling. The wild estimate comes from one Antarctic polynya.",
+      "tags": [
+        "marine microbes",
+        "metaproteomics"
+      ],
+      "title": "Superoxide dismutase shapes manganese stoichiometry in Southern Ocean diatoms.",
+      "url": "https://doi.org/10.1126/sciadv.aee6210",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Kooh et al.",
+      "field": "medicine",
+      "has_explainer": false,
+      "hook": "Mechanical loading lets stem-cell heart tissue reproduce a deadly desmin aggregation disease.",
+      "id": "doi-10.1126-sciadv.aee9464",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Human stem-cell heart tissue carrying the CRYAB-R120G mutation at near-natural levels develops desmin aggregates only when grown under three-dimensional mechanical load. The tissues showed weak contraction tied to poor calcium handling, and the drug itacitinib partly restored it. This is a lab tissue model, and the rescue was only partial.",
+      "tags": [
+        "cardiomyopathy",
+        "stem cells"
+      ],
+      "title": "Mechanical forces enable human stem cell modeling of protein aggregation cardiomyopathy.",
+      "url": "https://doi.org/10.1126/sciadv.aee9464",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Luo et al.",
+      "field": "medicine",
+      "has_explainer": false,
+      "hook": "Human T cells split their autophagy machinery unevenly when dividing, and this tracks flu vaccine response.",
+      "hook_turn": "and this tracks flu vaccine response.",
+      "id": "doi-10.1126-sciadv.aef1608",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Dividing human CD8+ T cells unequally pass autophagy-related organelles to daughter cells, which then take different fates. In an influenza vaccine trial, people with stronger asymmetry responded better, and brief rapamycin improved memory survival in cells. The vaccine link is a correlation in a limited cohort.",
+      "tags": [
+        "T cells",
+        "vaccines"
+      ],
+      "title": "Asymmetric cell division is predictive of human T cell vaccine responses.",
+      "url": "https://doi.org/10.1126/sciadv.aef1608",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Tian et al.",
+      "field": "medicine",
+      "has_explainer": false,
+      "hook": "A hydrogel patch makes gastric leaks visible on ultrasound in rabbits for up to 7 days.",
+      "id": "doi-10.1126-sciadv.aef2310",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "An implantable patch made entirely of hydrogel contains rings of air cells that scatter ultrasound strongly, so a gastric leak changes its image signature. It was tested in live rabbits for up to 7 days after implantation. Only a small animal model was used, so human performance is untested.",
+      "tags": [
+        "implantable sensors",
+        "ultrasound"
+      ],
+      "title": "A fully hydrogel implantable patch for in situ ultrasonic monitoring of gastric leakage.",
+      "url": "https://doi.org/10.1126/sciadv.aef2310",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Young",
+      "field": "social",
+      "has_explainer": false,
+      "hook": "Federal flood buyouts moved households out of risk zones, but wealthier, whiter neighborhoods gained most.",
+      "hook_turn": "but wealthier, whiter neighborhoods gained most.",
+      "id": "doi-10.1126-sciadv.aef4602",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Households in the US FEMA buyout program were more likely to move out of flood hazard areas and saw short-term debt reductions. Gains were larger in wealthier, predominantly white neighborhoods. The study compares similar mapped flood risk using national records, and benefit-cost ratios of 0.84 to 1.28 depend on assumed costs.",
+      "tags": [
+        "flood risk",
+        "climate adaptation"
+      ],
+      "title": "Does government-assisted relocation help households.",
+      "url": "https://doi.org/10.1126/sciadv.aef4602",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Dai et al.",
+      "field": "engineering",
+      "has_explainer": false,
+      "hook": "A shifting-lens trick expands 3D printer build area 4.8-fold without losing micrometer detail.",
+      "id": "doi-10.1126-sciadv.aef7779",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Expansion of effective build area",
+        "unit": "fold",
+        "value": "4.8"
+      },
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "A method called SPIN moves an off-axis lens in a small orbit to stitch several projected images, enlarging a resin 3D printer's area from 60.4 to 290.5 square millimeters. The printer made lines as thin as 9.8 micrometers and trusses with 30-micrometer features. Results are demonstrations on test structures, not production runs.",
+      "tags": [
+        "3D printing",
+        "microfabrication"
+      ],
+      "title": "Segmented projection image translation for large-area, high-resolution vat photopolymerization.",
+      "url": "https://doi.org/10.1126/sciadv.aef7779",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Wang et al.",
+      "field": "engineering",
+      "has_explainer": false,
+      "hook": "A photonic chip unmixes overlapping radio signals in real time, cutting error from over 50% to under 7%.",
+      "id": "doi-10.1126-sciadv.aeg1515",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Maximum interference suppression gain (SIR)",
+        "unit": "dB",
+        "value": "26"
+      },
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "An integrated photonic processor separates mixed radio signals directly in hardware, learning the unknown sources on the fly across bands up to 24 GHz. In communications and radar tests it cut error vector magnitude from over 50% to 6.18% and 5.3%. The tests are laboratory setups with a small number of signals.",
+      "tags": [
+        "photonic computing",
+        "wireless signals"
+      ],
+      "title": "Real-time complex-valued RF blind source separation via in-physics computing.",
+      "url": "https://doi.org/10.1126/sciadv.aeg1515",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Keller et al.",
+      "field": "space",
+      "has_explainer": false,
+      "hook": "Kuiper belt dust grains were altered by heavy-oxygen water, hinting at an outer solar system reservoir.",
+      "id": "doi-10.1126-sciadv.aeg1602",
+      "published": "2026-11-11",
+      "significance": 7,
+      "status": "peer_reviewed",
+      "summary": "Dust particles collected in Earth's stratosphere that likely come from Kuiper belt objects show oxygen isotopes consistent with alteration by water rich in heavy oxygen. This points to a heavy-water ice reservoir beyond the giant planets, isolated from inner solar system material. The conclusion rests on a small number of rare particles.",
+      "tags": [
+        "solar system origins",
+        "cosmic dust"
+      ],
+      "title": "A primordial heavy water reservoir in the outer solar system.",
+      "url": "https://doi.org/10.1126/sciadv.aeg1602",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Zhao et al.",
+      "field": "space",
+      "has_explainer": false,
+      "hook": "A red giant orbits an unseen object that may be a supermassive neutron star or a light black hole.",
+      "id": "doi-10.1126-sciadv.aeg3307",
+      "published": "2026-11-11",
+      "significance": 7,
+      "status": "peer_reviewed",
+      "summary": "A red giant in a wide, low-eccentricity orbit has an invisible companion whose mass falls in the gap between neutron stars and black holes. Radial velocities and Gaia astrometry gave the orbit, and no light from a second star was found in infrared spectra. The mass depends on an uncertain inclination, and the companion is not directly seen.",
+      "tags": [
+        "neutron stars",
+        "binary stars"
+      ],
+      "title": "Discovery of a likely supermassive neutron star in a remarkably wide binary.",
+      "url": "https://doi.org/10.1126/sciadv.aeg3307",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Barrantes-Cepas et al.",
+      "field": "medicine",
+      "has_explainer": false,
+      "hook": "MS brain shrinkage tracks the wiring: hub regions and their linked neighbors lose the most tissue",
+      "hook_turn": "hub regions and their linked neighbors lose the most tissue",
+      "id": "doi-10.1126-sciadv.aeg3412",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "In 2187 MRI scans, gray matter loss in multiple sclerosis followed brain connectivity. Regions that act as network hubs, and regions wired to already damaged areas, shrank most, which fits the idea that damage spreads along connections. Network measures also improved prediction of later shrinkage. The data are associations from imaging, so they cannot prove the spread mechanism.",
+      "tags": [
+        "multiple sclerosis",
+        "brain atrophy",
+        "connectome"
+      ],
+      "title": "The role of network connectivity and transcriptomic vulnerability in shaping gray matter atrophy in multiple sclerosis.",
+      "url": "https://doi.org/10.1126/sciadv.aeg3412",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Tsoupas et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "Simulations show Europe's Neanderthal ancestry gradient can arise without natural selection",
+      "hook_turn": "can arise without natural selection",
+      "id": "doi-10.1126-sciadv.aeg6161",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "A spatial simulation of Neanderthals, hunter-gatherers, and farmers reproduced the Southeast-to-Northwest decline in Neanderthal ancestry across Europe. The gradient came from the direction of the first expansion, the northern edge of Neanderthal range, and strong reproductive isolation. The second, similarly directed farmer expansion kept it in place. This is a model result, and it shows plausibility rather than proof of what happened.",
+      "tags": [
+        "neanderthals",
+        "ancient dna",
+        "population genetics"
+      ],
+      "title": "Tracing Neanderthal ancestry patterns through successive population expansions in Europe.",
+      "url": "https://doi.org/10.1126/sciadv.aeg6161",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Gao et al.",
+      "field": "neuroscience",
+      "has_explainer": false,
+      "hook": "Calming overactive astrocytes restores hearing-driven behavior in zebrafish with a spen mutation",
+      "hook_turn": "restores hearing-driven behavior in zebrafish with a spen mutation",
+      "id": "doi-10.1126-sciadv.aeg8139",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Zebrafish larvae lacking the gene spen respond poorly to sound and have constantly high calcium in hindbrain astrocytes. Blocking noradrenaline receptors lowered that calcium and brought the sound responses back. The work was done in larval fish, so whether the same fix helps children with spen-related disorders is untested.",
+      "tags": [
+        "astrocytes",
+        "zebrafish",
+        "neurodevelopment"
+      ],
+      "title": "Inhibition of aberrant astrocyte activity restores auditory sensorimotor function in zebrafish spen mutants.",
+      "url": "https://doi.org/10.1126/sciadv.aeg8139",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Stark et al.",
+      "field": "neuroscience",
+      "has_explainer": false,
+      "hook": "A synapse scaffold protein is essential at fly high-release synapses but mostly unneeded at low-release ones",
+      "hook_turn": "is essential at fly high-release synapses but mostly unneeded at low-release ones",
+      "id": "doi-10.1126-sciadv.aeh4857",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "At the fruit fly neuromuscular junction, the protein RIM was required for transmission at a high-release-probability input but largely dispensable at a neighboring low-release input. It was also needed for rapid plasticity only at the high-release input, where super-resolution imaging showed it sits closer to calcium channels. The results come from one fly synapse type, so they may not generalize to mammals.",
+      "tags": [
+        "synapses",
+        "neurotransmitter release",
+        "drosophila"
+      ],
+      "title": "Input-specific deployment of the active zone scaffold RIM tunes synaptic release probability and plasticity.",
+      "url": "https://doi.org/10.1126/sciadv.aeh4857",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Lu et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "A jasmonate signaling switch keeps maize tassels and ears in step, and breaking it delays silking",
+      "hook_turn": "and breaking it delays silking",
+      "id": "doi-10.1126-sciadv.aeh7015",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "In maize, a signaling module of ZmJAZ14 and ZmMYC2a/b controls genes for the flowering transition, ear initiation, and silk growth, so tassel and ear develop in sync. Disrupting it lengthens the gap between pollen shed and silk emergence, which hurts reproduction. The evolutionary-burden idea is a suggestion from genetics in maize, not a tested evolutionary claim.",
+      "tags": [
+        "maize",
+        "plant hormones",
+        "crop yield"
+      ],
+      "title": "The ZmJAZ14-ZmMYC2 module regulates anthesis-silking synchrony in maize.",
+      "url": "https://doi.org/10.1126/sciadv.aeh7015",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Gong et al.",
+      "field": "physics",
+      "has_explainer": false,
+      "hook": "A passive optical filter gives dim-light microscopy fivefold more information on fine detail",
+      "hook_turn": "fivefold more information on fine detail",
+      "id": "doi-10.1126-sciadv.aei1896",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Fourier domain division splits the light in the Fourier plane into regions detected separately, which lowers the photons needed to see fine detail. In a microscopy demonstration, it gave a fivefold gain in Fisher information at high spatial frequencies compared with direct imaging. The gain applies to the photon-starved regime and to specific frequency components, not to all imaging conditions.",
+      "tags": [
+        "quantum imaging",
+        "microscopy",
+        "super-resolution"
+      ],
+      "title": "Passive imaging with quantum advantage.",
+      "url": "https://doi.org/10.1126/sciadv.aei1896",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Roetzer et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "Blue light, sensed by phototropin, sets the direction of a liverwort spore's first cell division",
+      "hook_turn": "sets the direction of a liverwort spore's first cell division",
+      "id": "doi-10.1126-sciadv.aei3142",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "In Marchantia spores, the first asymmetric division, which sets the plant's first body axis, is oriented by blue light detected by the photoreceptor phototropin. The signal also needs the protein NCH1. This is one liverwort species under lab conditions, so how widely plants use this cue is unknown.",
+      "tags": [
+        "plant development",
+        "phototropin",
+        "cell polarity"
+      ],
+      "title": "Phototropin-mediated blue light signaling orients the asymmetry of Marchantia polymorpha spores.",
+      "url": "https://doi.org/10.1126/sciadv.aei3142",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Shweta et al.",
+      "field": "engineering",
+      "has_explainer": false,
+      "hook": "Conductive polymer dye turns hair into an EEG electrode that records stronger signals without gel",
+      "hook_turn": "that records stronger signals without gel",
+      "id": "doi-10.1126-sciadv.aei3615",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Researchers coated hair with conductive polythiophene polymer dyes so that strands form low-impedance contact with the scalp. EEG recordings showed higher signal amplitude and spectral power while preserving neural dynamics, and hair-based transistors amplified signals locally. The abstract gives no sample size or long-term wear data, so durability and performance across hair types are unclear.",
+      "tags": [
+        "eeg",
+        "wearable electronics",
+        "bioelectronics"
+      ],
+      "title": "Electronic hair: Transforming hair into a scalable bioelectronic interface.",
+      "url": "https://doi.org/10.1126/sciadv.aei3615",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Daly et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "Adhesion proteins BOC and CDON help Sonic Hedgehog cells grow long signaling protrusions",
+      "hook_turn": "help Sonic Hedgehog cells grow long signaling protrusions",
+      "id": "doi-10.1126-sciadv.aei4501",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "The proteins BOC and CDON recruit the actin regulators FARP1 and Cdc42 to extend cytonemes, thin cell projections that carry Sonic Hedgehog signals. Losing them shortened cytonemes in cultured cells, and losing CDON reduced cytonemes in mouse spinal cord and shifted neuron fate. How much cytonemes matter for signaling in living tissue beyond this system remains to be shown.",
+      "tags": [
+        "cytonemes",
+        "hedgehog signaling",
+        "cell biology"
+      ],
+      "title": "Cell adhesion molecule-related proteins signal to promote cytoneme elongation from Sonic Hedgehog-producing cells.",
+      "url": "https://doi.org/10.1126/sciadv.aei4501",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Fan et al.",
+      "field": "engineering",
+      "has_explainer": false,
+      "hook": "A droplet-driven soft switch can latch, tap, or switch electrically, enabling robot memory and logic",
+      "hook_turn": "enabling robot memory and logic",
+      "id": "doi-10.1126-sciadv.aei4613",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "The multimodal electromechanical switch uses a stretchable membrane that snaps through under voltage, so one structure acts as a momentary, latching, or electrically driven switch. Arrays of them were shown storing bits, encrypting information, and performing reprogrammable logic. These are bench demonstrations of small arrays, not robots operating in real environments.",
+      "tags": [
+        "soft robotics",
+        "switches",
+        "physical intelligence"
+      ],
+      "title": "Multimodal switches exploiting electromechanical snap-through for versatile robotic information processing.",
+      "url": "https://doi.org/10.1126/sciadv.aei4613",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Wang et al.",
+      "field": "engineering",
+      "has_explainer": false,
+      "hook": "Electrically driven nano-oscillators detect microRNAs, proteins, and small molecules together without labels",
+      "hook_turn": "detect microRNAs, proteins, and small molecules together without labels",
+      "id": "doi-10.1126-sciadv.aei5736",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Charged nanoparticles tethered to a gold surface are made to oscillate, and binding of a target changes their charge and so their oscillation, read by plasmonic imaging. This lets one chip detect molecules across a roughly 300-fold range of weight, and it profiled microRNAs in supernatants from patient-derived breast cancer cells in 24 clinical samples. The small sample and pretreated supernatants mean clinical performance is unproven.",
+      "tags": [
+        "biosensing",
+        "plasmonics",
+        "diagnostics"
+      ],
+      "title": "Dynamic plasmonic imaging of electromechanically driven nano-oscillators for charge-resolved multiplex biosensing.",
+      "url": "https://doi.org/10.1126/sciadv.aei5736",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Deng et al.",
+      "field": "medicine",
+      "has_explainer": false,
+      "hook": "A neuromelanin-like selenium nanomaterial restores neuron firing and protects irradiated mice",
+      "hook_turn": "restores neuron firing and protects irradiated mice",
+      "id": "doi-10.1126-sciadv.aei6265",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Metal-selenomelanin nanonetworks normalized neuronal excitability and striatal circuit activity in mice given 6 gray whole-body radiation, improving movement and anxiety-related behavior. Treated mice also all survived 30 days and showed protection of radiosensitive organs. The study is in mice with a single dose, and human benefit and safety are unknown.",
+      "tags": [
+        "radiation injury",
+        "nanomaterials",
+        "neuroprotection"
+      ],
+      "title": "Neuromelanin-inspired metal-selenomelanin nanonetworks restore neuronal excitability in radiation-induced brain injury.",
+      "url": "https://doi.org/10.1126/sciadv.aei6265",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Hu et al.",
+      "field": "engineering",
+      "has_explainer": false,
+      "hook": "Pyrolysis during 3D printing cuts lattice error in visible-light photonic crystals about 45-fold.",
+      "hook_turn": "cuts lattice error in visible-light photonic crystals about 45-fold.",
+      "id": "doi-10.1126-sciadv.aej0287",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Lattice-period standard deviation, 3D diamond PhCs",
+        "unit": "nm",
+        "value": "5.75"
+      },
+      "significance": 7,
+      "status": "peer_reviewed",
+      "summary": "Printing photonic crystals that work at visible wavelengths has been hard because precision and shape freedom trade off. The team added a suspended pyrolysis step to two-photon printing, giving diamond-lattice crystals with a 5.75 nm spread in lattice period and uniform reflection spectra. Results are shown for small printed structures and arrays, not for finished optical devices.",
+      "tags": [
+        "photonic crystals",
+        "3d printing"
+      ],
+      "title": "Controllable fabrication of visible-spectrum 3D photonic crystals.",
+      "url": "https://doi.org/10.1126/sciadv.aej0287",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Geng et al.",
+      "field": "chemistry",
+      "has_explainer": false,
+      "hook": "Choline chloride doping makes a record-conductivity n-type polymer more heat-tolerant and ion-friendly.",
+      "id": "doi-10.1126-sciadv.aej0737",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "PBFDO is an n-type conducting polymer with very high conductivity but weak thermal stability and slow ion transport. Adding choline chloride rearranges its molecular stacking and creates dense and loose domains, giving 2.8 times better high-temperature resilience, 1.6 times higher sheet conductance and 15.9 times lower ion diffusion resistance. Gains were shown in lab films and transistors, not in full devices.",
+      "tags": [
+        "conducting polymers",
+        "organic electronics"
+      ],
+      "title": "Boosting stability and charge transfer of conducting polymer poly(benzodifurandione) (PBFDO) through complementary topology.",
+      "url": "https://doi.org/10.1126/sciadv.aej0737",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Yerby et al.",
+      "field": "earth",
+      "has_explainer": false,
+      "hook": "In simulations, trace atmospheric gases slow ice growth and thin the liquid-like layer on ice.",
+      "hook_turn": "slow ice growth and thin the liquid-like layer on ice.",
+      "id": "doi-10.1126-sciadv.aej1123",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Gases in cold air are usually treated as bystanders at ice surfaces. Molecular simulations show that every gas tested slows the ice front by sticking weakly at the water-ice interface, and after freezing they gather near the quasi-liquid layer and air boundary, passivating dangling bonds and thinning that layer. The work is simulation only, with no laboratory measurement of the effect.",
+      "tags": [
+        "ice",
+        "atmospheric chemistry"
+      ],
+      "title": "Weak adsorption, strong consequences: How trace gases control ice growth and quasi-liquid-layer structure.",
+      "url": "https://doi.org/10.1126/sciadv.aej1123",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Wu et al.",
+      "field": "engineering",
+      "has_explainer": false,
+      "hook": "Sprayed MXene films as thin as about 22 nanometers make flexible colors that also hide heat signatures.",
+      "hook_turn": "also hide heat signatures.",
+      "id": "doi-10.1126-sciadv.aej2247",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "The researchers spray stacked Ti3C2Tx sheets into ultrathin films whose thickness sets the color, from yellow to gray at roughly 22 to 154 nanometers. The films also emit little infrared up to 300 degrees C, so they can camouflage in both visible and infrared, and meter-scale sheets were cut and sewn into cloaks. Tests were lab demonstrations, not field camouflage trials.",
+      "tags": [
+        "mxene",
+        "structural color"
+      ],
+      "title": "Arbitrarily cuttable and ultrathin MXene structural colors for customizable and wearable multispectral information management.",
+      "url": "https://doi.org/10.1126/sciadv.aej2247",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Matsushima et al.",
+      "field": "medicine",
+      "has_explainer": false,
+      "hook": "In chronic norovirus infection, the virus persists in gut cells and macrophages and skews T cell signaling.",
+      "id": "doi-10.1126-sciadv.aej2676",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "How norovirus causes lasting disease is poorly understood. Single-cell RNA sequencing of duodenal biopsies and lab-grown enteroids from immunodeficient patients found viral RNA mainly in enterocytes, enteroendocrine cells and macrophages, alongside higher IL15 and interferon gamma and chemokines that recruit T cells. The patients are few and immunodeficient, so findings may not extend to typical infections.",
+      "tags": [
+        "norovirus",
+        "single-cell sequencing"
+      ],
+      "title": "Single-cell profiling of the duodenum during chronic human norovirus infection.",
+      "url": "https://doi.org/10.1126/sciadv.aej2676",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Holderith and Nusser",
+      "field": "neuroscience",
+      "has_explainer": false,
+      "hook": "About a quarter of CA1 neuron output synapses onto each other are silent because vesicles are not primed.",
+      "hook_turn": "because vesicles are not primed.",
+      "id": "doi-10.1126-sciadv.aej3501",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Hippocampal CA1 pyramidal cells were thought to barely talk to each other. Two-photon glutamate imaging of single boutons, matched with electron microscopy, showed about 25% of boutons contacting CA1 cell spines release little or no glutamate. Drugs and extra calcium that boost vesicle priming revived them. Work was done in brain slices, so behavior in living animals is untested.",
+      "tags": [
+        "synapses",
+        "hippocampus"
+      ],
+      "title": "Incomplete synaptic vesicle priming functionally disconnects CA1 pyramidal cells.",
+      "url": "https://doi.org/10.1126/sciadv.aej3501",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Bai et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "An early-branching green alga packs seven carotenoids into each light-harvesting antenna subunit.",
+      "id": "doi-10.1126-sciadv.aej8837",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Cryo-EM resolution, PSII-LHCII-LHCP supercomplex",
+        "unit": "angstroms",
+        "value": "2.25"
+      },
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Mesostigma viride sits near the transition from algae to land plants. A cryo-EM structure of its photosystem II and light-harvesting supercomplex shows a core much like that of land plants, plus antenna proteins carrying many carotenoids, including marine-type ones that widen blue-green absorption. This is a static structure of one species, so photoprotection roles are inferred, not tested.",
+      "tags": [
+        "photosynthesis",
+        "cryo-EM"
+      ],
+      "title": "Structural insights into light harvesting and photosystem II evolution in the basal streptophyte Mesostigma viride.",
+      "url": "https://doi.org/10.1126/sciadv.aej8837",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Chang et al.",
+      "field": "engineering",
+      "has_explainer": false,
+      "hook": "A twisting magnet radiates low frequencies up to 49,000 times more efficiently than a loop antenna.",
+      "id": "doi-10.1126-sciadv.aek2097",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Underwater cross-medium communication range",
+        "unit": "meters",
+        "value": "115"
+      },
+      "significance": 7,
+      "status": "peer_reviewed",
+      "summary": "Small low-frequency antennas are inefficient because size limits radiation. This design twists a magnetic dipole with a piezoelectric resonator instead of driving a current, at 15.4 and 668 hertz, beating size-matched loop antennas by 49,000 and 5000 times in efficiency. It supported underwater communication over 115 meters on milliwatt power. Demonstrations were short range prototypes, not deployed networks.",
+      "tags": [
+        "antennas",
+        "wireless communication"
+      ],
+      "title": "Piezoelectrically actuated magnetic dipole twisting resonators enable miniaturized low-frequency antennas.",
+      "url": "https://doi.org/10.1126/sciadv.aek2097",
+      "venue": "Science Advances"
+    }
+  ],
+  "number": 6,
+  "v": 1
+}

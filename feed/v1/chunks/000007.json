@@ -1,0 +1,875 @@
+{
+  "items": [
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Furukawa et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "A GCC-rich sequence boosts protein translation starting at non-AUG codons in mammals.",
+      "id": "doi-10.1126-sciadv.aek4290",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Cells sometimes start making proteins at codons other than AUG, but the rules are unclear. Cell-free and reporter assays identified a GCC-rich motif, NAT1, that enhances this initiation, while eIF1 and 5MP suppress it. Genome analysis shows such sites are depleted in human 5' UTRs. Links to disease genes and repeat-associated translation are suggestive, not shown directly.",
+      "tags": [
+        "translation",
+        "gene regulation"
+      ],
+      "title": "Evolutionarily reinforced GC-rich motif enables non-AUG translation in mammals under eIF1/5MP-mediated fidelity control.",
+      "url": "https://doi.org/10.1126/sciadv.aek4290",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Park et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "STAT3 keeps IL-6 from switching on a hidden STAT1 interferon program in human macrophages.",
+      "id": "doi-10.1126-sciadv.aek8053",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "IL-6 drives both healthy and inflammatory macrophage responses through STAT3, and how it picks between them was unclear. Epigenomic profiling plus targeted STAT3 degradation showed STAT3 scales chromatin changes and blocks STAT1 from taking over regulatory regions. Severe COVID-19 monocytes show a similar imbalance, but that link is correlational and from cultured cells.",
+      "tags": [
+        "macrophages",
+        "epigenomics"
+      ],
+      "title": "STAT3 controls IL-6-induced epigenomic remodeling and restrains a latent STAT1-associated interferon program in human macrophages.",
+      "url": "https://doi.org/10.1126/sciadv.aek8053",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Liu et al.",
+      "field": "chemistry",
+      "has_explainer": false,
+      "hook": "Pilot-scale algae culture yielded 157.7 mg of a 33-stereocenter polyketide whose structure was fully assigned.",
+      "id": "doi-10.1126-sciadv.ael2086",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Amphidiketol A obtained from Amphidinium sp.",
+        "unit": "mg",
+        "value": "157.7"
+      },
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Giant marine polyketides have been hard to study because samples are scarce and floppy molecules resist structure assignment. Growing dinoflagellates at pilot scale gave over 100 mg of compounds, and a fragment-by-fragment method fixed the 33 stereocenters of amphidiketol A. Nine protein targets in lung cancer cells were identified, but biological effects were not shown beyond cell lines.",
+      "tags": [
+        "natural products",
+        "stereochemistry"
+      ],
+      "title": "Integrating biomass production platform and identification approach for stereochemical assignment of super-carbon-chain compounds.",
+      "url": "https://doi.org/10.1126/sciadv.ael2086",
+      "venue": "Science Advances"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Yang et al.",
+      "field": "engineering",
+      "has_explainer": false,
+      "hook": "An autonomous gantry crane system has moved over 2 million containers in real ports.",
+      "id": "doi-10.1126-scirobotics.ady5784",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Autane lets rubber tire gantry cranes grab, carry and place shipping containers without an operator, using sensor fusion, obstacle detection and mapping for centimeter accuracy. Deployed in several ports, it ran full days and handled more than 2 million 20-foot equivalent units. The abstract gives no comparison with human operators or failure rates.",
+      "tags": [
+        "robotics",
+        "port automation"
+      ],
+      "title": "Autane: An autonomous crane for sustained port operations.",
+      "url": "https://doi.org/10.1126/scirobotics.ady5784",
+      "venue": "Science Robotics"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Lorentz et al.",
+      "field": "cs",
+      "has_explainer": false,
+      "hook": "A 5-tonne skid-steer loader learned in simulation to balance on two wheels and drive on rough ground.",
+      "id": "doi-10.1126-scirobotics.aef0894",
+      "published": "2026-11-11",
+      "significance": 7,
+      "status": "peer_reviewed",
+      "summary": "Heavy hydraulic machines are hard to automate and dangerous to test. Reinforcement learning trained entirely in simulation transferred to a John Deere 332G, which autonomously tipped onto two wheels, drove, spun and swung its bucket before landing. It was one machine and a set of maneuvers, so general reliability across machines and sites is unknown.",
+      "tags": [
+        "reinforcement learning",
+        "robotics"
+      ],
+      "title": "Heavy metal acrobatics: Learning dynamic control for skid-steer loaders.",
+      "url": "https://doi.org/10.1126/scirobotics.aef0894",
+      "venue": "Science Robotics"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Cairns et al.",
+      "field": "medicine",
+      "has_explainer": false,
+      "hook": "Pregabalin dispensing and overdose calls in Australia fell after media coverage and prescribing limits",
+      "hook_turn": "fell after media coverage and prescribing limits",
+      "id": "doi-10.1136-bmj-2026-101021",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Combined overdose rate ratio, Australia",
+        "value": "0.532"
+      },
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "Pregabalin use and overdose calls in Australia peaked around 2018 and then declined, with trend breaks matching media coverage, 2020 restrictions and 2021 boxed warnings. The authors used changepoint and interrupted time series analysis of a 10% dispensing sample and Poisons Centre calls. Because this is observational, the timing fits the interventions but does not prove they caused the drop.",
+      "tags": [
+        "pregabalin",
+        "drug policy",
+        "overdose"
+      ],
+      "title": "Changes in pregabalin use and overdose after government interventions and media coverage: retrospective observational study.",
+      "url": "https://doi.org/10.1136/bmj-2026-101021",
+      "venue": "BMJ"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Yang et al.",
+      "field": "medicine",
+      "has_explainer": false,
+      "hook": "Skipping blood pressure pills the morning of surgery cut low blood pressure in older patients",
+      "hook_turn": "cut low blood pressure in older patients",
+      "id": "doi-10.1136-bmj-2026-101087",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Hypotension, drug withheld (45.5% if continued)",
+        "unit": "percent",
+        "value": "31.2"
+      },
+      "significance": 7,
+      "status": "peer_reviewed",
+      "summary": "In 2036 older Chinese patients on ACE inhibitors or ARBs, half took a placebo instead of their pill on surgery morning. Low blood pressure during surgery was less common without the drug, and vasopressor use dropped, with no difference in 30-day complications or deaths. The trial ran at five hospitals in one country and only followed patients for 30 days.",
+      "tags": [
+        "surgery",
+        "hypertension",
+        "anesthesia"
+      ],
+      "title": "Effect of discontinuing antihypertensives on perioperative hypotension in older patients before non-cardiac surgery: multicentre, randomised, double blind, controlled trial.",
+      "url": "https://doi.org/10.1136/bmj-2026-101087",
+      "venue": "BMJ"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Cohen et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "Cryptosporidium's single rhoptry keeps secreting after invasion, then becomes the feeder organelle",
+      "hook_turn": "then becomes the feeder organelle",
+      "id": "doi-10.1371-journal.pbio.3003933",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "peer_reviewed",
+      "summary": "The diarrhea-causing parasite Cryptosporidium releases its secretory organelles in sequence to anchor itself before entering a gut cell. Its one rhoptry keeps pushing out waves of effector proteins, and its membrane later forms the feeder organelle that divides host and parasite. This comes from high-resolution imaging with molecular markers in cultured cells, so the model still needs testing in infected animals.",
+      "tags": [
+        "parasites",
+        "cryptosporidium",
+        "cell invasion"
+      ],
+      "title": "The single Cryptosporidium rhoptry sequentially drives invasion and host-parasite interface formation.",
+      "url": "https://doi.org/10.1371/journal.pbio.3003933",
+      "venue": "PLOS Biology"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Pauli et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "Virus-like particles deliver CRISPR and Cre tools into pig and chicken cells, organoids, eggs",
+      "hook_turn": "into pig and chicken cells, organoids, eggs",
+      "id": "doi-10.1371-journal.pbio.3004105",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "Virus-like particles carried gene-editing proteins into pig cells, organoids and oocytes, and into chicken cells, tracheal cultures and eggs, with high editing rates. This sidesteps a common delivery problem for livestock genetics. The work is in cultures and early embryos, and no edited animals are reported.",
+      "tags": [
+        "gene editing",
+        "livestock",
+        "CRISPR"
+      ],
+      "title": "Virus-like particles enable highly efficient gene editing across porcine and avian in vitro, ex vivo, and in ovo models.",
+      "url": "https://doi.org/10.1371/journal.pbio.3004105",
+      "venue": "PLOS Biology"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Roy et al.",
+      "field": "space",
+      "has_explainer": false,
+      "hook": "Stacking eBOSS galaxies on Planck maps gives a 2.2 to 3.4 sigma CO emission signal at z~0.5",
+      "hook_turn": "gives a 2.2 to 3.4 sigma CO emission signal at z~0.5",
+      "id": "doi-10.3847-2041-8213-aebb26",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "The authors averaged Planck sky-map signal at the positions of eBOSS galaxies and found galaxy-linked emission at redshift about 0.5, read as CO(3-2). The detection confidence depends on modeling choices and ranges from 2.2 to 3.4 sigma, so it is tentative at the low end. It shows existing CMB and galaxy survey data can serve line intensity mapping.",
+      "tags": [
+        "line intensity mapping",
+        "galaxies",
+        "cosmology"
+      ],
+      "title": "A Measurement of CO(3–2) Line Emission from eBOSS Galaxies at z ∼ 0.5 Using Planck Data",
+      "url": "https://doi.org/10.3847/2041-8213/aebb26",
+      "venue": "The Astrophysical Journal Letters"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Zhu et al.",
+      "field": "space",
+      "has_explainer": false,
+      "hook": "Supernova shocks in dense circumstellar shells can make fast soft X-ray flashes with blackbody-like spectra",
+      "hook_turn": "with blackbody-like spectra",
+      "id": "doi-10.3847-2041-8213-aebbb8",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "peer_reviewed",
+      "summary": "A model of supernova shocks breaking out of dense gas shells predicts X-ray flashes of 10^43 to 10^45 erg/s lasting under about 10^4 seconds. It matches the light curves and temperatures of three known events, including XRF 060218. It is a theoretical fit to three events, so the shell properties it infers depend on the model's assumptions.",
+      "tags": [
+        "supernovae",
+        "X-ray transients",
+        "massive stars"
+      ],
+      "title": "Fast X-Ray Transients from Dense Circumstellar Material Shock Breakout and Cooling Emission",
+      "url": "https://doi.org/10.3847/2041-8213/aebbb8",
+      "venue": "The Astrophysical Journal Letters"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Ishizawa et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "Barnyardgrass resists a herbicide by repurposing a cyanide-detox enzyme",
+      "hook_turn": "by repurposing a cyanide-detox enzyme",
+      "id": "doi-10.64898-2026.11.06.764846",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "preprint",
+      "summary": "Resistance to cyhalofop-butyl in the weed Echinochloa crus-galli traces to a nitrilase gene, EcNIT4A2, that normally detoxifies cyanide. One amino acid change makes the enzyme break down the herbicide better, and a promoter variant raises its expression. Evidence comes from genetic mapping, transgenics and simulations in one species, and this is a preprint.",
+      "tags": [
+        "herbicide resistance",
+        "evolution",
+        "weeds"
+      ],
+      "title": "Evolution of herbicide resistance through co-option of an ethylene-associated nitrilase",
+      "url": "https://doi.org/10.64898/2026.11.06.764846",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Karabanina et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "Finnish golden eagles lost 82% of genome-wide heterozygosity in a bottleneck, despite recovering in number",
+      "hook_turn": "despite recovering in number",
+      "id": "doi-10.64898-2026.11.06.764905",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Drop in genome-wide heterozygosity, Finnish eagles",
+        "unit": "percent",
+        "value": "82"
+      },
+      "significance": 6,
+      "status": "preprint",
+      "summary": "Whole genomes from 26 Finnish golden eagles spanning 136 years show a steep loss of genetic variation after persecution drove numbers to a low in the 1950s and 1960s. Inbreeding signals rose even as the population grew back. The sample is small and from one country, and the effect on eagle health was not measured.",
+      "tags": [
+        "conservation genetics",
+        "golden eagle",
+        "inbreeding"
+      ],
+      "title": "Genome-wide diversity across 130 years reveals drastic post-bottleneck genetic erosion in a recovering population of golden eagles (Aquila chrysaetos)",
+      "url": "https://doi.org/10.64898/2026.11.06.764905",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Kim",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "Human 5S rDNA units come in two methylation states, and the low-methylated ones are more open",
+      "hook_turn": "and the low-methylated ones are more open",
+      "id": "doi-10.64898-2026.11.08.765174",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "preprint",
+      "summary": "Long-read sequencing of complete human 5S rDNA arrays shows each unit is either low or high in methylation. Low-methylation units are more accessible and carry fewer nucleosomes, and the pattern is shared among apes. The data come from a limited set of genomes and cell lines, and the link to chromatin is an association.",
+      "tags": [
+        "ribosomal DNA",
+        "epigenetics",
+        "long-read sequencing"
+      ],
+      "title": "Long-read analysis of complete human 5S rDNA arrays reveals a zoned organization with two-state unit methylation linked to chromatin architecture",
+      "url": "https://doi.org/10.64898/2026.11.08.765174",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Salike et al.",
+      "field": "chemistry",
+      "has_explainer": false,
+      "hook": "Computer-designed enzymes form amide bonds selectively, including a step in making HIV drug lenacapavir",
+      "hook_turn": "including a step in making HIV drug lenacapavir",
+      "id": "doi-10.64898-2026.11.08.765178",
+      "published": "2026-11-11",
+      "significance": 7,
+      "status": "preprint",
+      "summary": "Designed enzymes with a cysteine catalytic triad joined peptides at either the N-terminus or one lysine among 36, and crystal structures matched the designs. The team also designed stereoselective ligases for a key bond in making lenacapavir. It is a preprint, and yields and scale for industrial use are not given in the abstract.",
+      "tags": [
+        "enzyme design",
+        "amide bonds",
+        "biocatalysis"
+      ],
+      "title": "Programmable amide bond formation using de novo ligases",
+      "url": "https://doi.org/10.64898/2026.11.08.765178",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Salike et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "Enzymes designed from scratch attach ubiquitin to one chosen lysine among 45 on the protein PCNA",
+      "hook_turn": "attach ubiquitin to one chosen lysine among 45 on the protein PCNA",
+      "id": "doi-10.64898-2026.11.08.765184",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Conversion from unactivated ubiquitin, PCNA",
+        "unit": "percent",
+        "value": "90"
+      },
+      "significance": 7,
+      "status": "preprint",
+      "summary": "Using RFdiffusion3, the authors designed ligases that tag a chosen lysine with ubiquitin; 35 of 48 designs worked on a model peptide. One design hit K164 of PCNA and, with a single mutation, built chains of defined length, outperforming a natural E2. It is a test-tube result on one target protein, not shown in living cells.",
+      "tags": [
+        "protein design",
+        "ubiquitin",
+        "enzymes"
+      ],
+      "title": "De novo design of ligases for programmable site-specific protein ubiquitylation",
+      "url": "https://doi.org/10.64898/2026.11.08.765184",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Ueno et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "A stress-body RNA concentrates SRSF proteins and recruits only activated CLK1 to speed their phosphorylation",
+      "hook_turn": "and recruits only activated CLK1 to speed their phosphorylation",
+      "id": "doi-10.64898-2026.11.08.765200",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "preprint",
+      "summary": "In stressed human cells, the HSATIII RNA scaffold of nuclear stress bodies gathers SRSF proteins, which recruit the ASAP complex, which in turn captures activated CLK1 kinase. This speeds SRSF phosphorylation during recovery. The evidence is cell work plus test-tube reconstitution, so the role in whole organisms is untested.",
+      "tags": [
+        "RNA",
+        "nuclear stress bodies",
+        "splicing"
+      ],
+      "title": "An architectural RNA builds a reaction crucible through molecular concentration and activated enzyme selection",
+      "url": "https://doi.org/10.64898/2026.11.08.765200",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Eisenlohr-Moul et al.",
+      "field": "medicine",
+      "has_explainer": false,
+      "hook": "Symptoms of about half of adults with ADHD rose and fell with the menstrual cycle, often after menses",
+      "hook_turn": "often after menses",
+      "id": "doi-10.64898-2026.11.09.26367690",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Participants robustly cyclical in ADHD symptoms",
+        "unit": "percent",
+        "value": "54"
+      },
+      "significance": 7,
+      "status": "preprint",
+      "summary": "Daily ratings from 106 cycling adults with ADHD showed that about half had clear cyclical symptom swings, mostly not explained by mood or pain and usually outside the premenstrual window. Average effects across the group were small. The sample is modest and preprint results need replication for stability over time.",
+      "tags": [
+        "ADHD",
+        "menstrual cycle",
+        "psychiatry"
+      ],
+      "title": "Menstrual Cycle Exacerbation of ADHD Symptoms in Adults: Common, Person-Specific, and Not Confined to the Luteal Phase",
+      "url": "https://doi.org/10.64898/2026.11.09.26367690",
+      "venue": "medRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Farooq et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "One transcription factor, Cebp, produced four cell fates depending on motif density and partner proteins",
+      "hook_turn": "depending on motif density and partner proteins",
+      "id": "doi-10.64898-2026.11.09.758913",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "preprint",
+      "summary": "Cebp family factors gave fat, placenta-like, or immune cell outcomes depending on the starting cell. Higher Cebp levels reached more sites without changing the motif it reads, and adding partners such as Spi1 or TFAP2C rewrote the result. The work is in cultured mouse cells reprogrammed in the lab, and it is a preprint.",
+      "tags": [
+        "transcription factors",
+        "cell fate",
+        "reprogramming"
+      ],
+      "title": "Sequence context and partner availability specify divergent cell fates from a single transcription factor",
+      "url": "https://doi.org/10.64898/2026.11.09.758913",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Zhuo et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "Tumors grown in mice pick up mouse virus DNA. About 25% of models carry it.",
+      "hook_turn": "About 25% of models carry it.",
+      "id": "doi-10.64898-2026.11.09.764062",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "PDX datasets with human-MLV chimeric DNA",
+        "unit": "%",
+        "value": "~25"
+      },
+      "significance": 7,
+      "status": "preprint",
+      "summary": "Screening 1,619 sequencing runs from patient-derived xenograft models, the authors found murine leukemia virus DNA joined to human DNA in roughly a quarter of them. Most junctions showed true retroviral integration signatures, and a full ecotropic virus copy was confirmed by long-read and Sanger sequencing. It is a preprint built on public data, so contamination or sample-specific artifacts in individual datasets cannot be fully excluded.",
+      "tags": [
+        "retroviruses",
+        "xenografts"
+      ],
+      "title": "Prevalent Integration of both Xenotropic and Ecotropic Murine Leukemia Virus in the Human Genome of Xenografts",
+      "url": "https://doi.org/10.64898/2026.11.09.764062",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Smith et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "Ocean currents alone predict where coastal populations share ancestry, beating the standard distance model.",
+      "id": "doi-10.64898-2026.11.09.764070",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "preprint",
+      "summary": "A simulation of larvae drifting on ocean currents predicts broad regions of similar genetic makeup, each set by the nearest upstream source population, with sharp breaks between regions. Genomic data from a salt marsh mussel along the coast matched these predictions well. The test is on one species, so how widely the framework holds is still open.",
+      "tags": [
+        "population genomics",
+        "ocean currents"
+      ],
+      "title": "Ocean current models predict spatial structure for coastal biodiversity",
+      "url": "https://doi.org/10.64898/2026.11.09.764070",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Denagamage et al.",
+      "field": "neuroscience",
+      "has_explainer": false,
+      "hook": "Flies spot a predator wasp by its long antennae. A handful of neurons steer the defense.",
+      "hook_turn": "A handful of neurons steer the defense.",
+      "id": "doi-10.64898-2026.11.09.765114",
+      "published": "2026-11-11",
+      "significance": 7,
+      "status": "preprint",
+      "summary": "Flies kick and swat in directions set by where a parasitoid wasp appears, triggered mainly by the wasp's elongated antennae. Genetic manipulation and activity recordings traced this to a few visual neuron types that feed LC9, which combines antenna and body signals before passing the wasp's location to motor circuits. The work is in flies and a single predator, so the general mechanism is a proposal.",
+      "tags": [
+        "vision",
+        "Drosophila"
+      ],
+      "title": "Visual object recognition in the fly: the internal representation of a predator drives defensive behaviour",
+      "url": "https://doi.org/10.64898/2026.11.09.765114",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Hou et al.",
+      "field": "medicine",
+      "has_explainer": false,
+      "hook": "Deadly coronaviruses kill lung cells through necroptosis, and blocking it eased lung damage in mice.",
+      "hook_turn": "and blocking it eased lung damage in mice.",
+      "id": "doi-10.64898-2026.11.09.765133",
+      "published": "2026-11-11",
+      "significance": 7,
+      "status": "preprint",
+      "summary": "Highly pathogenic coronaviruses make Z-RNA, which switches on the ZBP1 sensor and a form of inflammatory cell death called necroptosis. Seasonal coronaviruses make little Z-RNA and do not trigger it. A small-molecule necroptosis inhibitor reduced cytokines and lung injury in infected mice without clearing the virus. Results come from cells and mice, so benefit in patients is untested.",
+      "tags": [
+        "coronavirus",
+        "necroptosis"
+      ],
+      "title": "Necroptosis is a targetable driver of severe coronavirus pathogenesis",
+      "url": "https://doi.org/10.64898/2026.11.09.765133",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Zhang et al.",
+      "field": "neuroscience",
+      "has_explainer": false,
+      "hook": "A platform records voltage from about 1,500 engineered human neurons at once.",
+      "id": "doi-10.64898-2026.11.09.765233",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Neurons recorded at 800 Hz per field",
+        "unit": "neurons",
+        "value": "~1,500"
+      },
+      "significance": 6,
+      "status": "preprint",
+      "summary": "The team built a stem cell line that turns into neurons, accepts gene knockdowns, and carries light-based voltage sensors and actuators. A wide-field microscope then records about 1,500 firing neurons at once. Knocking down five ion-channel genes gave distinct firing signatures. Only five genes were tested, so the platform's reach across the genome is still to be shown.",
+      "tags": [
+        "electrophysiology",
+        "stem cells"
+      ],
+      "title": "A high-throughput all-optical platform for mapping gene perturbations to electrophysiology",
+      "url": "https://doi.org/10.64898/2026.11.09.765233",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Shibata et al.",
+      "field": "medicine",
+      "has_explainer": false,
+      "hook": "Stem-cell neutrophils engineered to carry ACE cleared drug-resistant bacteria in neutropenic mice.",
+      "id": "doi-10.64898-2026.11.09.765250",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "preprint",
+      "summary": "Human stem cells engineered to express angiotensin-converting enzyme became neutrophils that killed MRSA and multidrug-resistant Pseudomonas better in the dish. Transferred into mice with too few neutrophils, they lowered bacterial loads in blood and tissue. It is early preclinical work in mice, and safety and durability in people are unknown.",
+      "tags": [
+        "neutrophils",
+        "stem cells"
+      ],
+      "title": "ACE-engineered human iPSC-derived neutrophils enhance host defense against multidrug-resistant bacterial infections",
+      "url": "https://doi.org/10.64898/2026.11.09.765250",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Ballen et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "Ostariophysan fish history fits a network with four hybridization events better than a simple tree.",
+      "id": "doi-10.64898-2026.11.09.765406",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "preprint",
+      "summary": "The authors built a way to measure support for branches in evolutionary networks and applied it to the large group of fishes including carp and catfish. A tree was not the best model, and a network with four reticulation events fit best, though their placement was uncertain. They also ran a first, simple biogeographic reconstruction on a network, which they describe as a starting point only.",
+      "tags": [
+        "phylogenetics",
+        "fish evolution"
+      ],
+      "title": "Beyond tree-like evolution in ostariophysan fishes",
+      "url": "https://doi.org/10.64898/2026.11.09.765406",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Piekarski et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "An ant caregiver's genes change larval body size through a neuropeptide and ecdysone hormone pathway.",
+      "id": "doi-10.64898-2026.11.09.765415",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "preprint",
+      "summary": "In clonal raider ants, the genotype of the nurse workers shifts the size and caste fate of the larvae they raise. Larval gene expression and drug treatments pointed to a neuropeptide signal acting on the prothoracic gland to control ecdysteroid hormone production, with links to lipid metabolism. The evidence is from one ant species, and how caregivers trigger the pathway is not resolved.",
+      "tags": [
+        "social insects",
+        "hormones"
+      ],
+      "title": "Caregiver genotype influences larval body size in ants by modulating ecdysteroid production",
+      "url": "https://doi.org/10.64898/2026.11.09.765415",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Akther et al.",
+      "field": "medicine",
+      "has_explainer": false,
+      "hook": "A four-strain dengue mRNA vaccine protected mice and gave broad antibodies despite prior exposure.",
+      "id": "doi-10.64898-2026.11.09.765416",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "preprint",
+      "summary": "A tetravalent mRNA vaccine encoding the membrane and envelope proteins of all four dengue serotypes produced neutralizing antibodies, T cells, and memory B cells in mice. Antibodies lasted 34 weeks, showed no enhancement in vitro, and transferred serum protected immunocompromised mice from lethal DENV2. Protection was shown only through passive serum transfer in mice, so human efficacy remains unknown.",
+      "tags": [
+        "dengue",
+        "mRNA vaccines"
+      ],
+      "title": "Tetravalent dengue mRNA vaccination orchestrates balanced four-serotype immunity with durable memory and protection in mice.",
+      "url": "https://doi.org/10.64898/2026.11.09.765416",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Erives et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "AI-designed antibodies pulled IgE off allergy receptors in the lab, and three beat omalizumab.",
+      "hook_turn": "and three beat omalizumab.",
+      "id": "doi-10.64898-2026.11.09.765431",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "preprint",
+      "summary": "An AI agent guided by researchers designed antibody pieces meant to knock IgE off mast cell receptors. Of 91 tested designs, 20 acted on receptor-bound IgE, and three removed more than omalizumab at 25-400 nM in a binding assay. These are separate components, not a finished two-armed drug, and all testing so far is in vitro.",
+      "tags": [
+        "antibody design",
+        "food allergy"
+      ],
+      "title": "Towards a best-in-class IgE disruptor for food allergy with Claude-enabled antibody design",
+      "url": "https://doi.org/10.64898/2026.11.09.765431",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Jugler et al.",
+      "field": "medicine",
+      "has_explainer": false,
+      "hook": "Some tumor helper T cells are ex-regulatory cells that keep suppressing immunity, in mice.",
+      "hook_turn": "that keep suppressing immunity, in mice.",
+      "id": "doi-10.64898-2026.11.09.765461",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "preprint",
+      "summary": "KLRG1-positive helper T cells in mouse tumors and human kidney cancer look like regulatory T cells and suppress immune responses, and fate mapping showed some descend from regulatory cells that lost FoxP3. Depleting KLRG1 cells with an antibody slowed tumor growth more than blocking KLRG1. The fate mapping and treatment data are from mice, and the human data are descriptive.",
+      "tags": [
+        "tumor immunology",
+        "T cells"
+      ],
+      "title": "Cytotoxic CD4+ exTregs expressing KLRG1 retain immunosuppressive function in cancer",
+      "url": "https://doi.org/10.64898/2026.11.09.765461",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Mutter et al.",
+      "field": "medicine",
+      "has_explainer": false,
+      "hook": "Blood proteins flagged diabetic kidney disease up to a decade before albuminuria appeared.",
+      "id": "doi-10.64898-2026.11.10.26367534",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Proteins tied to kidney outcomes",
+        "unit": "proteins",
+        "value": "130"
+      },
+      "significance": 6,
+      "status": "preprint",
+      "summary": "Measuring 5,420 blood proteins in 830 adults with type 1 diabetes, the authors found 130 linked to kidney outcomes over 10 years, 59 of which replicated in another cohort. KIM-1, GFRA1, CD14 and GDF15 predicted albuminuria years ahead. Genetic analysis suggested some proteins as drug targets. These are associations in one disease cohort, so they do not show the proteins cause damage.",
+      "tags": [
+        "diabetic kidney disease",
+        "proteomics"
+      ],
+      "title": "Comprehensive proteomics reveals stage-specific signatures in blood that precede diabetic kidney disease onset and progression",
+      "url": "https://doi.org/10.64898/2026.11.10.26367534",
+      "venue": "medRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Chen et al.",
+      "field": "neuroscience",
+      "has_explainer": false,
+      "hook": "A brief mate encounter leaves male worms in a lasting search state, held in place by a neuropeptide.",
+      "hook_turn": "held in place by a neuropeptide.",
+      "id": "doi-10.64898-2026.11.10.762718",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "preprint",
+      "summary": "After brief contact with a mate, male C. elegans keep searching locally, and optogenetic activation of ray sensory neurons reproduces this. Glutamate drives the initial network response, while the neuropeptide NLP-13 from LUA interneurons sustains activity and the behavior. This is a worm circuit, so how far it applies to other animals is unclear.",
+      "tags": [
+        "C. elegans",
+        "behavior"
+      ],
+      "title": "A Glutamate-Neuropeptide Circuit Converts Transient Mate Contact into a Persistent Local Search State in Caenorhabditis elegans Males",
+      "url": "https://doi.org/10.64898/2026.11.10.762718",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Bouvet and Partridge",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "Lifespan drugs help heavy male mice most, partly because heavy controls die young.",
+      "hook_turn": "partly because heavy controls die young.",
+      "id": "doi-10.64898-2026.11.10.765234",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Median lifespan gain, heaviest quartile",
+        "unit": "%",
+        "value": "20.2"
+      },
+      "significance": 7,
+      "status": "preprint",
+      "summary": "Across 33,780 mice in the Interventions Testing Program, lifespan benefits in males grew with body weight, from a 6.2% median gain in the lightest quartile to 20.2% in the heaviest. Controls that were heavier died sooner, so part of the gain looks like rescue from obesity-linked risk. The pattern was weak in females, and this is a reanalysis of observational weight data.",
+      "tags": [
+        "aging",
+        "lifespan"
+      ],
+      "title": "Body weight modifies the efficacy of lifespan-extending interventions in ad libitum-fed mice",
+      "url": "https://doi.org/10.64898/2026.11.10.765234",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Sanaullah et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "New algorithms find all long matches across 625 human centromere assemblies with 7.5 times less memory",
+      "hook_turn": "with 7.5 times less memory",
+      "id": "doi-10.64898-2026.11.10.765459",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Memory saved vs. state of the art, 625 haplotypes",
+        "unit": "times less memory",
+        "value": "7.5"
+      },
+      "significance": 6,
+      "status": "preprint",
+      "summary": "The authors built TeraMEM, which lists every long exact match between all pairs of genome assemblies using a compressed index of the whole panel. It is also 20 times faster counting index construction. Applied to human centromeres, it flagged large segmental duplications in every chromosome but Y and a ~200 kbp inversion beside the chromosome 2 repeat array. These are preprint results, and the biological findings are descriptive.",
+      "tags": [
+        "genomics",
+        "pangenomes",
+        "algorithms"
+      ],
+      "title": "Detection of Maximal Exact Matches in Terabases of Genome Assemblies in Compressed Space and Sublinear Time",
+      "url": "https://doi.org/10.64898/2026.11.10.765459",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Giardina et al.",
+      "field": "neuroscience",
+      "has_explainer": false,
+      "hook": "All 27,880 spiral ganglion neurons in one human cochlea were counted and mapped in 3D by deep learning",
+      "id": "doi-10.64898-2026.11.10.765480",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Spiral ganglion neurons in one adult cochlea",
+        "unit": "neurons",
+        "value": "27,880"
+      },
+      "significance": 6,
+      "status": "preprint",
+      "summary": "These nerve cells carry sound from the inner ear to the brain. Researchers trained UNet++ models on hand-labeled slides, then counted neurons across all 421 stained sections, reaching 97% accuracy against manual counts. Counting only every 10th section, the old shortcut, gave about 98% accurate totals. The map comes from a single cochlea, so person-to-person variation is untested.",
+      "tags": [
+        "hearing",
+        "cochlea",
+        "deep learning"
+      ],
+      "title": "A Complete Three-Dimensional Spiral Ganglion Neuron Map in a Human Adult using a Deep Learning Pipeline",
+      "url": "https://doi.org/10.64898/2026.11.10.765480",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Furtado Milao et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "Zebrafish lack MLKL and so have no canonical necroptosis, yet their RIPK3 still works",
+      "hook_turn": "yet their RIPK3 still works",
+      "id": "doi-10.64898-2026.11.10.765635",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "preprint",
+      "summary": "Necroptosis is a form of programmed cell death that normally needs the protein MLKL. The team confirmed zebrafish lack it, and showed that fish missing Caspase-8 live to adulthood, unlike mice, where that loss is lethal. Overexpressing Ripk3 did not kill Caspase-8-deficient embryos. The evidence is genetic and from one species, so it says little about how other fish handle cell death.",
+      "tags": [
+        "cell death",
+        "zebrafish",
+        "immunity"
+      ],
+      "title": "Zebrafish lack canonical necroptosis despite retaining functional RIPK3",
+      "url": "https://doi.org/10.64898/2026.11.10.765635",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Peng et al.",
+      "field": "medicine",
+      "has_explainer": false,
+      "hook": "A modified arrestin1 slowed retinal degeneration in three different mouse models of inherited blindness",
+      "id": "doi-10.64898-2026.11.10.765647",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "preprint",
+      "summary": "Many genes cause inherited retinal disease, so the authors tested a gene-independent fix that boosts glycolysis, the sugar-burning pathway, in photoreceptors. Treated mice kept more retinal function and structure in models of rod, cone and pigment-layer degeneration. The results are from mice and describe slowing, not stopping, the damage; the abstract gives no human data.",
+      "tags": [
+        "retinal disease",
+        "gene-agnostic therapy",
+        "metabolism"
+      ],
+      "title": "A modified Arrestin1 Slows Retinal Degeneration Across Genetically Distinct Mouse Models of Inherited Retinal Disease",
+      "url": "https://doi.org/10.64898/2026.11.10.765647",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Mifune et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "Lion NTCP cannot bind hepatitis B virus, while cat, tiger and leopard versions can",
+      "hook_turn": "while cat, tiger and leopard versions can",
+      "id": "doi-10.64898-2026.11.10.765656",
+      "published": "2026-11-11",
+      "significance": 6,
+      "status": "preprint",
+      "summary": "NTCP is the liver transporter that hepatitis B virus uses to enter cells. Comparing versions from 23 mammals, the team found two amino acid changes (positions 191 and 268) that make lion NTCP lose virus binding and much of its bile acid transport. Swapping them between cat and lion NTCP flipped the effect. Most data come from cultured cells and simulation, with infection shown in cat liver cells.",
+      "tags": [
+        "hepatitis B",
+        "virus evolution",
+        "host range"
+      ],
+      "title": "Hepadnavirus tropism determined by diversified NTCP functionality in Feline species",
+      "url": "https://doi.org/10.64898/2026.11.10.765656",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Waheed et al.",
+      "field": "biology",
+      "has_explainer": false,
+      "hook": "An HIV drug class strips envelope protein from new virus particles by triggering early protease activity",
+      "id": "doi-10.64898-2026.11.10.765689",
+      "published": "2026-11-11",
+      "significance": 5,
+      "status": "preprint",
+      "summary": "Some HIV reverse transcriptase inhibitors also switch on the viral protease too early inside producer cells. Using the compound Pyr01, the authors showed that this lowers the envelope glycoprotein and enzymes packed into virions and loosens their membranes, cutting infectivity. The effect needs an active protease. The work is in cell culture, so its clinical value for these compounds remains open.",
+      "tags": [
+        "HIV",
+        "antivirals",
+        "virology"
+      ],
+      "title": "NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS BLOCK THE INCORPORATION OF VIRAL GLYCOPROTEINS INTO HIV-1 VIRIONS",
+      "url": "https://doi.org/10.64898/2026.11.10.765689",
+      "venue": "bioRxiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Phung et al.",
+      "field": "medicine",
+      "has_explainer": false,
+      "hook": "mRNA vaccines primed rare HIV antibody-precursor B cells in monkeys after a single dose",
+      "id": "doi-10.64898-2026.11.10.765717",
+      "published": "2026-11-11",
+      "readout": {
+        "label": "Affinity gain of N332-GT6 for precursor B cells",
+        "unit": "fold",
+        "value": "9"
+      },
+      "significance": 7,
+      "status": "preprint",
+      "summary": "Making broadly neutralizing HIV antibodies starts with activating very rare B cells. The team redesigned the immunogen to bind those cells 9-fold better, and delivered it as mRNA in lipid nanoparticles to macaques. The redesign primed the cells more consistently after one shot, and two booster shots pushed maturation. The work is in monkeys and shows early maturation only, not protection.",
+      "tags": [
+        "HIV vaccine",
+        "mRNA vaccines",
+        "antibodies"
+      ],
+      "title": "HIV broadly neutralizing antibody precursor maturation induced by mRNA vaccination in nonhuman primates",
+      "url": "https://doi.org/10.64898/2026.11.10.765717",
+      "venue": "bioRxiv"
+    }
+  ],
+  "number": 7,
+  "v": 1
+}
