@@ -1,0 +1,38 @@
+{
+  "abstract": "We have prepared pairs of atoms at densities exceeding $ 10^{16}/\\rm{cm}^3$ corresponding to $n\\lambdabar^3>10$ and studied how they interact with light. In this regime, the coherent part of the electric dipole-dipole interaction is larger than the dissipative part, and a single photon emission can transfer large momenta (larger than ten times the single photon recoil) to the atoms. For off-resonant laser light, the atoms are dressed with an electric dipole moment of $\\approx$ 1 Debye and interact coherently. This light-induced dipole-dipole interaction has been previously observed only in the far-field mean-field regime. For two atoms, the resonance is shifted by the two-body Lamb shift which is dominated by the near-field part of the dipolar interaction. Dipolar resonance shifts have been observed before only for many atoms interacting with the far-field part of the dipolar interaction. Our work sheds new light on photoassociation processes and paves the way for studying driven quantum systems with strong electric dipole-dipole interactions.",
+  "arxiv_id": "2611.13665",
+  "authors": [
+    "Yu-Kun Lu",
+    "Jiahao Lyu",
+    "Wolfgang Ketterle"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.atom-ph"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13665"
+  },
+  "hook": "Two atoms at dense packing feel strong light-induced dipole-dipole forces, shifting their resonance",
+  "hook_turn": "shifting their resonance",
+  "id": "arxiv-2611.13665",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-13T16:35:19Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The experiment prepared pairs of atoms at densities above 10^16 per cubic centimeter and probed them with light. Off-resonant light dressed the atoms with a dipole moment near 1 Debye, and the two-body Lamb shift moved the resonance, dominated by near-field dipole coupling. Earlier shifts were seen only with many atoms in the far field. The abstract reports no precise shift values or error bars.",
+  "tags": [
+    "atomic physics",
+    "dipole interactions"
+  ],
+  "title": "Observation of strong electric dipole-dipole interactions between two atoms",
+  "url": "https://arxiv.org/abs/2611.13665",
+  "venue": "arXiv"
+}

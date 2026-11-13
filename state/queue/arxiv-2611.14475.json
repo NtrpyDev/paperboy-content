@@ -1,0 +1,40 @@
+{
+  "abstract": "We construct an explicit family of real $m\\times n$ restricted isometries with $m\\to\\infty$, $m/n\\to 0$, $\\delta_k\\to 0$, and $k=m^{2/3-o(1)}$. We combine Gershgorin's circle theorem with a flat RIP estimate to reduce the problem to choosing a large vertex set in a strongly regular graph with the property that every small subset spans few edges. We select this vertex set using an incidence geometric result due to Zahl. The proof only uses the entrywise absolute value of the Gram matrix despite the conventional wisdom that such proof techniques exhibit a barrier of $m^{1/2}$. We prove that this barrier is actually $m^{2/3}$, and we show that our particular construction exhibits the same barrier.",
+  "arxiv_id": "2611.14475",
+  "authors": [
+    "Christian K\\\"ummerle",
+    "Dustin G. Mixon"
+  ],
+  "categories": [
+    "math.FA",
+    "cs.IT",
+    "math.CO",
+    "math.IT",
+    "math.MG"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14475"
+  },
+  "hook": "Explicit restricted isometries now reach sparsity m^(2/3), beating the old m^(1/2) barrier.",
+  "hook_turn": "beating the old m^(1/2) barrier.",
+  "id": "arxiv-2611.14475",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-13T16:35:19Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors build explicit matrices with the restricted isometry property at sparsity k near m^(2/3), using a strongly regular graph, Gershgorin's circle theorem and an incidence result of Zahl. They also show the Gram-matrix-magnitude technique's barrier is m^(2/3), not m^(1/2). Sparsity remains below the m level that random matrices reach.",
+  "tags": [
+    "compressed sensing",
+    "restricted isometry"
+  ],
+  "title": "Explicit restricted isometries with $k=m^{2/3-o(1)}$",
+  "url": "https://arxiv.org/abs/2611.14475",
+  "venue": "arXiv"
+}

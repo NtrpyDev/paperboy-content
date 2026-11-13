@@ -1,0 +1,37 @@
+{
+  "abstract": "We investigate the mass threshold for the two-dimensional Keller-Segel system coupled with the incompressible Navier-Stokes equations. In the absence of fluid interaction, the classical Keller-Segel system admits a well-known $4\\pi$-critical-mass dichotomy: for every suitably regular initial datum of total mass $m<4\\pi$, the associated no-flux initial-boundary value problem admits a global bounded classical solution, whereas for $m>4\\pi$, there exist smooth initial configurations of mass $m$ such that the associated solution blows up in finite or infinite time. For the fluid-coupled system, Winkler ({SIAM J. Math. Anal.}, 52:2041-2080, 2020) first established global generalized solvability under the condition $m<2\\pi$ and posed an open question whether the fluid action may lower the critical blow-up mass to some value lying between $2\\pi$ and $4\\pi$. Based on numerical evidence, Bonilla and Guti\\'errez-Santacreu ({J. Numer. Math.}, 32:175-212, 2024) later conjectured that the critical value is still $4\\pi$. In the present work, we resolve this open problem and provide a rigorous mathematical proof to the conjecture, which indicates that the presence of the fluid does not alter the critical mass threshold, and the entire classical subcritical regime remains intact---every admissible initial datum with total mass $m<4\\pi$ generates a unique global classical solution that is uniformly bounded in time. Our proof relies on the construction of a new quasi-energy inequality. The key underlying observation is that combining relative isoperimetric estimates with rearrangement techniques yields a Gagliardo-Nirenberg inequality on bounded planar domains with an explicit leading constant.",
+  "arxiv_id": "2611.09160",
+  "authors": [
+    "Lili Du",
+    "Yulan Wang",
+    "Yichen Zhang"
+  ],
+  "categories": [
+    "math.AP"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.09160"
+  },
+  "hook": "Fluid flow does not lower the 4π mass threshold for Keller-Segel blow-up, settling an open conjecture",
+  "hook_turn": "settling an open conjecture",
+  "id": "arxiv-2611.09160",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-06",
+  "queued_at": "2026-11-13T16:35:19Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "In a model of cells attracted to a chemical they emit while carried by a fluid, the authors prove that every initial mass below 4π gives a unique global bounded solution in two dimensions. This answers a question left open since earlier work reached only 2π. The proof builds a new quasi-energy inequality from isoperimetric estimates and rearrangement. It covers the subcritical side and bounded planar domains only.",
+  "tags": [
+    "partial differential equations",
+    "chemotaxis"
+  ],
+  "title": "On the optimal mass threshold for the two-dimensional Keller-Segel system coupled to the Navier-Stokes equations",
+  "url": "https://arxiv.org/abs/2611.09160",
+  "venue": "arXiv"
+}

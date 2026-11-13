@@ -1,0 +1,40 @@
+{
+  "abstract": "We study both side-to-side and non-side-to-side convex monohedral tilings of the Euclidean plane in which every tile has the same number of neighbors. Reflections are allowed, point contacts count as neighbors, and no periodicity assumption is imposed. Combining boundary estimates for sums of face curvatures, angle-incidence counts and side-length matching, we prove that the common neighbor number satisfies $N\\le21$ and classify all equality cases. Equality holds precisely when the prototile is a $30^\\circ$-$30^\\circ$-$120^\\circ$ triangle and the entire tiling is similar to the central subdivision of the standard equilateral triangular tiling. This resolves the open problem on the maximum common number of neighbors recorded in Adams's The Tiling Book.",
+  "arxiv_id": "2611.13664",
+  "authors": [
+    "Yahui Yang",
+    "Erxiao Wang"
+  ],
+  "categories": [
+    "math.MG"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13664"
+  },
+  "hook": "Convex tilings by one tile shape with equal neighbor counts have at most 21 neighbors per tile",
+  "id": "arxiv-2611.13664",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-13T16:35:19Z",
+  "readout": {
+    "label": "Maximum common neighbor number per tile",
+    "unit": "neighbors",
+    "value": "21"
+  },
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove that when every tile in a convex monohedral plane tiling has the same number of neighbors, that number is at most 21. Equality holds only for a 30-30-120 degree triangle tiling similar to a central subdivision of the equilateral triangular tiling. They use boundary curvature estimates, angle counts and side-length matching, and settle an open problem from The Tiling Book.",
+  "tags": [
+    "tilings",
+    "discrete geometry"
+  ],
+  "title": "Convex monohedral tilings: a sharp neighbor bound and rigidity in the equality case",
+  "url": "https://arxiv.org/abs/2611.13664",
+  "venue": "arXiv"
+}

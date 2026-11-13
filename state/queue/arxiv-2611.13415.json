@@ -1,0 +1,36 @@
+{
+  "abstract": "A graph is vertex-transitive if, for any two vertices, there is an automorphism mapping one to the other. We prove that every connected vertex-transitive graph of order $p^n$, where $p$ is a prime and $p^n\\geq 3$, has a hamiltonian cycle. Our main tool extends Witte's theorem [JCTB (1986)] on Cayley digraphs of $p$-groups.",
+  "arxiv_id": "2611.13415",
+  "authors": [
+    "Farzad Maghsoudi",
+    "Dragan Maru\\v{s}i\\v{c}",
+    "Bobby Miraftab"
+  ],
+  "categories": [
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13415"
+  },
+  "hook": "Every connected vertex-transitive graph with a prime-power number of vertices has a Hamiltonian cycle.",
+  "id": "arxiv-2611.13415",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-13T16:35:19Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A vertex-transitive graph looks the same from every vertex, and the authors show that when its vertex count is a prime power (at least 3), a cycle visiting every vertex exactly once always exists. They extend Witte's 1986 theorem on Cayley digraphs of p-groups. It covers only prime-power orders, so the general question stays open.",
+  "tags": [
+    "graph theory",
+    "hamiltonian cycles"
+  ],
+  "title": "Hamilton cycles in vertex-transitive graphs of prime-power order",
+  "url": "https://arxiv.org/abs/2611.13415",
+  "venue": "arXiv"
+}

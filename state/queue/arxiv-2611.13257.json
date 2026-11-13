@@ -1,0 +1,42 @@
+{
+  "abstract": "Exoplanet imaging is the main method for detailed characterization of planets orbiting beyond 1 au but it requires suppressing the bright glare of the star to see the faint planet light. As well as sophisticated instrumentation, effective image processing is necessary for starlight suppression, which continues to be a substantial limitation. Standard algorithms use reference images for starlight modelling and thus they are limited by inevitable telescope instabilities that change from reference to science observation. Addressing this challenge will increase the number of planets amenable to direct imaging and will be a notable step towards imaging exo-Earths with future observatories. Here we present a new physics-based method for starlight subtraction. Our method combines a multistep optimization with a flexible physical model to produce a starlight model, allowing modelling and compensation of instrument instabilities. We use automatic differentiation (autodiff) to optimize millions of model parameters. We demonstrate our method on observations from the James Webb Space Telescope (JWST) Near-InfraRed Camera (NIRCam) coronagraph instrument. We achieve sensitivity 2-15 times superior to standard techniques, including the first detection of 51 Eridani b at 4.3 $\\mu$m. This is the first time, to our knowledge, that such an approach has demonstrated substantially improved sensitivity on real, on-sky coronagraphic imaging. Our framework can be extended to other current and future ground-based and space-based observatories, including the Nancy Grace Roman Space Telescope and the Habitable Worlds Observatory (HWO), potentially relaxing the unprecedented stability requirements needed to make these a success.",
+  "arxiv_id": "2611.13257",
+  "authors": [
+    "Rodrigo Ferrer-Chavez",
+    "Jason J. Wang",
+    "Katherine L. Bouman",
+    "William T. Freeman",
+    "Laurent Pueyo",
+    "Brandon Y. Feng",
+    "Marshall D. Perrin"
+  ],
+  "categories": [
+    "astro-ph.EP",
+    "astro-ph.IM"
+  ],
+  "doi": "10.1038/s41586-026-11213-z",
+  "explain": true,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13257"
+  },
+  "hook": "A new starlight model makes JWST planet imaging 2 to 15 times more sensitive.",
+  "id": "arxiv-2611.13257",
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-13T16:35:19Z",
+  "significance": 8,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Imaging a planet means removing the star's glare, which standard methods do with reference images that drift out of date. This method fits a physical model of the instrument with millions of parameters using automatic differentiation. On JWST NIRCam coronagraph data it beat standard techniques by 2 to 15 times and detected 51 Eridani b at 4.3 microns for the first time. It was shown on JWST observations only, not yet other telescopes.",
+  "tags": [
+    "exoplanets",
+    "direct imaging",
+    "JWST"
+  ],
+  "title": "Imaging exoplanets below the telescope stability limit",
+  "url": "https://arxiv.org/abs/2611.13257",
+  "venue": "arXiv"
+}
