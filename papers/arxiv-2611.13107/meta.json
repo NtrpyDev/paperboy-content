@@ -1,0 +1,30 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13107",
+  "authors": [
+    "Rotem Elimelech",
+    "Michael Shalyt",
+    "Ido Kaminer"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "cs",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Checking each LLM math step with algebra software as it is written cut wrong answers by up to 14.9%.",
+  "hook_turn": "cut wrong answers by up to 14.9%.",
+  "id": "arxiv-2611.13107",
+  "kit": null,
+  "license": "cc-by-sa",
+  "published": "2026-11-09",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Instead of using a second model to check reasoning, the method sends each symbolic math step to a computer algebra system and tells the model when a step fails. On the ASyMoB benchmark with three open-weights models, accuracy rose 1.4 to 5.6 points for 6-7% more tokens. It only works where steps can be checked by code, here symbolic math.",
+  "tags": [
+    "language models",
+    "verification"
+  ],
+  "title": "Catch It Where It Happens: Real Time Error Correction During LLM Reasoning",
+  "url": "https://arxiv.org/abs/2611.13107",
+  "venue": "arXiv"
+}

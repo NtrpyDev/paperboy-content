@@ -1,0 +1,27 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.09532",
+  "authors": [
+    "Kevin Dao"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Fujita's very ampleness conjecture is proved for projective bundles over curves",
+  "id": "arxiv-2611.09532",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-06",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "For a projective bundle over a smooth complex curve, the paper proves that the canonical bundle twisted by k ample line bundles is very ample once k is at least n+2. This settles a case of Fujita's very ampleness conjecture. It applies only to this class of bundles over curves, not to general varieties.",
+  "tags": [
+    "algebraic geometry",
+    "fujita conjecture"
+  ],
+  "title": "Fujita's Very Ampleness Conjecture for $\\mathbb{P}^{n-1}$-Bundles over Curves",
+  "url": "https://arxiv.org/abs/2611.09532",
+  "venue": "arXiv"
+}

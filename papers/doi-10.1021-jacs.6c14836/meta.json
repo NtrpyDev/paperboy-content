@@ -1,0 +1,35 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Zhijun Zhu",
+    "Shuling Xu",
+    "William J. Heelan",
+    "Penghsuan Huang",
+    "Hua Zhang",
+    "Gaoyuan Lu",
+    "Amy B. Banta",
+    "Jason M. Peters",
+    "Lingjun Li"
+  ],
+  "doi": "10.1021/jacs.6c14836",
+  "explained_at": null,
+  "field": "chemistry",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A new mass spectrometry method separates fatty acid double-bond position and geometry in bacteria.",
+  "id": "doi-10.1021-jacs.6c14836",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "A chemical derivatization that preserves stereochemistry, paired with ion mobility mass spectrometry, resolves both where double bonds sit and whether they are cis or trans. It revealed dose-dependent antibiotic adaptation in Pseudomonas aeruginosa and mapped lipid isomers in mixed colonies. The biological interpretations are suggestive and come from a few bacterial species in culture.",
+  "tags": [
+    "lipidomics",
+    "mass spectrometry"
+  ],
+  "title": "Anti -Dihydroxylation-Enabled Dual-Resolution Profiling and Imaging of Fatty Acid C═C Bond Isomers",
+  "url": "https://doi.org/10.1021/jacs.6c14836",
+  "venue": "Journal of the American Chemical Society"
+}

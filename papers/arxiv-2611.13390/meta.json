@@ -1,0 +1,30 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13390",
+  "authors": [
+    "Max Pitz",
+    "Lucas Real",
+    "Roman Schaut"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Every graph of uncountable edge-connectivity kappa contains a kappa-regular tree with an apex as a minor",
+  "id": "arxiv-2611.13390",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "In graph theory, a minor is a structure left after deleting and contracting parts of a graph. The authors prove that every graph that stays connected after removing fewer than kappa edges, for uncountable kappa, contains a kappa-regular tree joined to one extra vertex. This extends a countable-case result of Kurkofka. It is a pure existence theorem for infinite graphs.",
+  "tags": [
+    "graph theory",
+    "infinite graphs",
+    "graph minors"
+  ],
+  "title": "The unavoidable minor in graphs of uncountable edge-connectivity",
+  "url": "https://arxiv.org/abs/2611.13390",
+  "venue": "arXiv"
+}

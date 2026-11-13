@@ -1,0 +1,37 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Zhuo, X.",
+    "Basri, N. L.",
+    "Saintilnord, W. N.",
+    "Xing, X.",
+    "Wang, T."
+  ],
+  "doi": "10.64898/2026.11.09.764062",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Tumors grown in mice pick up mouse virus DNA. About 25% of models carry it.",
+  "hook_turn": "About 25% of models carry it.",
+  "id": "doi-10.64898-2026.11.09.764062",
+  "kit": null,
+  "license": "cc-by-nc",
+  "published": "2026-11-11",
+  "readout": {
+    "label": "PDX datasets with human-MLV chimeric DNA",
+    "unit": "%",
+    "value": "~25"
+  },
+  "significance": 7,
+  "status": "preprint",
+  "summary": "Screening 1,619 sequencing runs from patient-derived xenograft models, the authors found murine leukemia virus DNA joined to human DNA in roughly a quarter of them. Most junctions showed true retroviral integration signatures, and a full ecotropic virus copy was confirmed by long-read and Sanger sequencing. It is a preprint built on public data, so contamination or sample-specific artifacts in individual datasets cannot be fully excluded.",
+  "tags": [
+    "retroviruses",
+    "xenografts"
+  ],
+  "title": "Prevalent Integration of both Xenotropic and Ecotropic Murine Leukemia Virus in the Human Genome of Xenografts",
+  "url": "https://doi.org/10.64898/2026.11.09.764062",
+  "venue": "bioRxiv"
+}

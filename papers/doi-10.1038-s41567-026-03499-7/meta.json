@@ -1,0 +1,29 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Antonio Anna Mele",
+    "Lennart Bittel"
+  ],
+  "doi": "10.1038/s41567-026-03499-7",
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "The number of uses needed to learn an unknown quantum process is now pinned down, with a matching lower bound.",
+  "hook_turn": "with a matching lower bound.",
+  "id": "doi-10.1038-s41567-026-03499-7",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "significance": 7,
+  "status": "peer_reviewed",
+  "summary": "The authors settle how many queries to a quantum channel are needed to learn it to fixed accuracy in diamond distance, giving an algorithm and a matching lower bound. The method reduces channel learning to pure-state tomography of the Choi state. The optimality holds at constant accuracy, so scaling in the precision is not covered.",
+  "tags": [
+    "quantum information",
+    "tomography"
+  ],
+  "title": "Optimal learning of quantum channels in diamond distance",
+  "url": "https://doi.org/10.1038/s41567-026-03499-7",
+  "venue": "Nature Physics"
+}

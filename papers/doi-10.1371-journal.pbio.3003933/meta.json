@@ -1,0 +1,35 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Allison Cohen",
+    "Tim Bergner",
+    "Amandine Guérin",
+    "Maryse Lebrun",
+    "Michael Laue",
+    "Christian Klotz",
+    "Boris Striepen"
+  ],
+  "doi": "10.1371/journal.pbio.3003933",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Cryptosporidium's single rhoptry keeps secreting after invasion, then becomes the feeder organelle",
+  "hook_turn": "then becomes the feeder organelle",
+  "id": "doi-10.1371-journal.pbio.3003933",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "The diarrhea-causing parasite Cryptosporidium releases its secretory organelles in sequence to anchor itself before entering a gut cell. Its one rhoptry keeps pushing out waves of effector proteins, and its membrane later forms the feeder organelle that divides host and parasite. This comes from high-resolution imaging with molecular markers in cultured cells, so the model still needs testing in infected animals.",
+  "tags": [
+    "parasites",
+    "cryptosporidium",
+    "cell invasion"
+  ],
+  "title": "The single Cryptosporidium rhoptry sequentially drives invasion and host-parasite interface formation.",
+  "url": "https://doi.org/10.1371/journal.pbio.3003933",
+  "venue": "PLOS Biology"
+}

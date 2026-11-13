@@ -1,0 +1,37 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Jingyao Sun",
+    "Kailiang Yu",
+    "Xinrong Li",
+    "Max Rietkerk",
+    "Paolo D'Odorico",
+    "Ning Chen",
+    "Yanli Wang",
+    "Libin Zhang",
+    "Guirui Yu"
+  ],
+  "doi": "10.1073/pnas.2618656123",
+  "explained_at": null,
+  "field": "earth",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Dryland shrub and grass ecosystems behave like matter in phase transitions.",
+  "hook_turn": "behave like matter in phase transitions.",
+  "id": "doi-10.1073-pnas.2618656123",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Deserts, shrublands, and grasslands are separated by abrupt shifts, and the latter two form Turing-like patterns, with fairy circles near the shrub-grass boundary. A cellular automaton built on a trade-off between wide and local resource foraging reproduces these features, and plant traits and patch patterns support the trade-off. The model is simplified, so the match shows consistency with the theory rather than proof of the mechanism.",
+  "tags": [
+    "drylands",
+    "phase transitions",
+    "pattern formation"
+  ],
+  "title": "Phase transition in a dryland shrub-grass ecosystem: Emergence through local trade-offs.",
+  "url": "https://doi.org/10.1073/pnas.2618656123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

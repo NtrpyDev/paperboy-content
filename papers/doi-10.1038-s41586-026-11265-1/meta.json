@@ -1,0 +1,53 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Michiel D Pillet",
+    "Brian S Maitner",
+    "Mónica Arakaki",
+    "Diogo S A Araujo",
+    "Marc A Baker",
+    "Duniel Barrios",
+    "Bradley L Boyle",
+    "David D Breshears",
+    "Xiao Feng",
+    "Bárbara Goettsch",
+    "Pablo C Guerrero",
+    "Tania Hernández-Hernández",
+    "Lucas C Majure",
+    "Beatriz M Meriño",
+    "Efthymios I Nikolopoulos",
+    "Raúl Puente-Martínez",
+    "Patrick R Roehrdanz",
+    "Josep M Serra-Diaz",
+    "Mark C Urban",
+    "Cory Merow",
+    "Brian J Enquist"
+  ],
+  "doi": "10.1038/s41586-026-11265-1",
+  "explained_at": null,
+  "field": "earth",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Counting severe drought raises the share of cactus species losing habitat from about 60% to about 70%",
+  "hook_turn": "raises the share of cactus species losing habitat from about 60% to about 70%",
+  "id": "doi-10.1038-s41586-026-11265-1",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "readout": {
+    "label": "Cases where drought models fit better",
+    "unit": "%",
+    "value": "91"
+  },
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "Researchers added severe-drought data to distribution models for 993 cactus species using 648,316 occurrence records. Models with drought fit better in 91% of cases and projected more species losing suitable climate, especially with no dispersal. These are model projections of climate suitability, not observed extinctions.",
+  "tags": [
+    "extinction risk",
+    "climate extremes"
+  ],
+  "title": "Severe drought and warming increase the extinction risk of cacti.",
+  "url": "https://doi.org/10.1038/s41586-026-11265-1",
+  "venue": "Nature"
+}

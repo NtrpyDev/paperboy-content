@@ -1,0 +1,35 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Cao, Y.",
+    "Zhao, Q.",
+    "Peng, M.",
+    "Li, X.",
+    "Liu, C.",
+    "Li, G.",
+    "Yang, Y.",
+    "Wang, M.",
+    "Du, X."
+  ],
+  "doi": "10.64898/2026.11.10.765821",
+  "explained_at": null,
+  "field": "medicine",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A living nerve conduit seeded with Schwann cells restored motor function across long nerve gaps in rodents.",
+  "id": "doi-10.64898-2026.11.10.765821",
+  "kit": null,
+  "license": "other",
+  "published": "2026-11-12",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "The team built a tube mimicking nerve layers: a hydrogel bilayer, ferroelectric polymer stripes with nano-grooves, and living Schwann cells that release growth factors. In rats or mice with long nerve gaps, it boosted blood vessel growth, axon outgrowth, and myelin repair, with no neuroma. Results come from rodent models and a preprint; the claim of unprecedented recovery has not been tested in larger animals or people.",
+  "tags": [
+    "nerve repair",
+    "tissue engineering"
+  ],
+  "title": "Bioinspired living nerve conduit with coupled physiological signals enables functional recovery of peripheral nerve",
+  "url": "https://doi.org/10.64898/2026.11.10.765821",
+  "venue": "bioRxiv"
+}

@@ -1,0 +1,31 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13251",
+  "authors": [
+    "Rumi Loghmani",
+    "Bozhang Song",
+    "Victor Alvarado",
+    "Aliyah Redding",
+    "Amir Barati Farimani"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "engineering",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A robot arm ran chemistry kit experiments from a photo of the printed sheet, completing 9 of 10 runs.",
+  "id": "arxiv-2611.13251",
+  "kit": null,
+  "license": "cc-by-nc-sa",
+  "published": "2026-11-09",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Curie's Jarvis lets a Franka Panda arm work on an ordinary bench: it reads steps from a photo, finds containers without markers, and reads their labels. It finished 5 of 5 runs of one children's kit protocol and 4 of 5 of another with no human help. In 160 label locates, it identified every container. Only two simple protocols were tested, so harder chemistry is unproven.",
+  "tags": [
+    "lab automation",
+    "robotics"
+  ],
+  "title": "Curie's Jarvis: Autonomous Robotic Chemistry Experiments from Printed Protocols",
+  "url": "https://arxiv.org/abs/2611.13251",
+  "venue": "arXiv"
+}

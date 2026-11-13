@@ -1,0 +1,30 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13950",
+  "authors": [
+    "Gregory Kucherov",
+    "Yakov Nekrich"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "cs",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A text index adds each new letter in constant time and still answers searches in optimal time.",
+  "hook_turn": "still answers searches in optimal time.",
+  "id": "arxiv-2611.13950",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "The authors build the first index for pattern matching over integer alphabets that handles each appended letter in O(1) worst-case time and reports a pattern's occurrences in O(|P|+occ) time. The key is a path-decomposed suffix tree that stores paths in a dictionary instead of the full tree. The constant update time holds only with high probability, and the result is theoretical with no implementation reported.",
+  "tags": [
+    "string algorithms",
+    "suffix tree",
+    "data structures"
+  ],
+  "title": "Real-Time String Indexing in Optimal Time",
+  "url": "https://arxiv.org/abs/2611.13950",
+  "venue": "arXiv"
+}

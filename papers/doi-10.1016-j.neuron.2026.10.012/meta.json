@@ -1,0 +1,41 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Susana I Ramos",
+    "Mohammad Imran K Khan",
+    "Wan Sze Cheng",
+    "Balagopal Pai",
+    "Thenzing J Silva-Hurtado",
+    "Jorge Samanamud",
+    "Xi Chen",
+    "Kristin G Beaumont",
+    "Robert P Sebra",
+    "Raymund L Yong",
+    "Timothy E Richardson",
+    "Amanda Krausert",
+    "Lakshmi S K Mahadevan",
+    "Elena Zaslavsky",
+    "Nadejda M Tsankova"
+  ],
+  "doi": "10.1016/j.neuron.2026.10.012",
+  "explained_at": null,
+  "field": "medicine",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Glioblastoma reverts to a fetal glial progenitor-like state, and the gene POU3F3 helps sustain it.",
+  "id": "doi-10.1016-j.neuron.2026.10.012",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "A spatiotemporal multi-omic map of human glioblastoma showed enrichment of a glial intermediate progenitor-like state at tumor core, margin, and recurrence. The lncRNA NRXN1-DT and EGFR mark this state, and POU3F3 regulates them and stem-like properties. No treatment has been tested, and the dataset is limited to the patient samples studied.",
+  "tags": [
+    "glioblastoma",
+    "cancer biology"
+  ],
+  "title": "Glial progenitor-like state is preferentially co-opted in glioblastoma and sustained by POU3F3.",
+  "url": "https://doi.org/10.1016/j.neuron.2026.10.012",
+  "venue": "Neuron"
+}

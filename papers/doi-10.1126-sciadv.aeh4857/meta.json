@@ -1,0 +1,33 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Rebecca Stark",
+    "Prapti Patel",
+    "Wanying Dong",
+    "Caleb Dehn",
+    "Dion Dickman"
+  ],
+  "doi": "10.1126/sciadv.aeh4857",
+  "explained_at": null,
+  "field": "neuroscience",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A synapse scaffold protein is essential at fly high-release synapses but mostly unneeded at low-release ones",
+  "hook_turn": "is essential at fly high-release synapses but mostly unneeded at low-release ones",
+  "id": "doi-10.1126-sciadv.aeh4857",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "At the fruit fly neuromuscular junction, the protein RIM was required for transmission at a high-release-probability input but largely dispensable at a neighboring low-release input. It was also needed for rapid plasticity only at the high-release input, where super-resolution imaging showed it sits closer to calcium channels. The results come from one fly synapse type, so they may not generalize to mammals.",
+  "tags": [
+    "synapses",
+    "neurotransmitter release",
+    "drosophila"
+  ],
+  "title": "Input-specific deployment of the active zone scaffold RIM tunes synaptic release probability and plasticity.",
+  "url": "https://doi.org/10.1126/sciadv.aeh4857",
+  "venue": "Science Advances"
+}

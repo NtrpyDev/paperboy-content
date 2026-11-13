@@ -1,0 +1,47 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Lim, J.",
+    "Stachler, E.",
+    "Nielsen, S.",
+    "Talwar, R.",
+    "Baek, S.",
+    "McMahon, K.",
+    "Abay, T.",
+    "Hsu, B.",
+    "Nabatanzi, D.",
+    "Espinoza, N.",
+    "Mitchell, R.",
+    "Knoll, H.",
+    "Wilkason, C.",
+    "Ozonoff, A.",
+    "Sabeti, P."
+  ],
+  "doi": "10.64898/2026.11.10.765582",
+  "explained_at": null,
+  "field": "medicine",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Viral RNA from Ebola-family viruses is detected by PCR directly in 2 microliters of blood",
+  "id": "doi-10.64898-2026.11.10.765582",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "readout": {
+    "label": "Detection level for Ebola-family RNA in blood",
+    "unit": "copies/uL",
+    "value": "100"
+  },
+  "significance": 5,
+  "status": "preprint",
+  "summary": "By combining blood-tolerant chemistry, RNase inhibition and longer-wavelength fluorescence, the authors ran qPCR without extracting nucleic acid first. They detected hepatitis B DNA and RNA of hepatitis C, Bundibugyo, Ebola and Sudan viruses, with a portable instrument giving results in an hour. Tests used blood spiked with nucleic acid standards, not intact virus or patient samples.",
+  "tags": [
+    "diagnostics",
+    "pcr",
+    "ebola"
+  ],
+  "title": "Direct Whole-Blood PCR for Molecular Diagnostics",
+  "url": "https://doi.org/10.64898/2026.11.10.765582",
+  "venue": "bioRxiv"
+}

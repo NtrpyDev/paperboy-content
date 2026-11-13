@@ -1,0 +1,39 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Eugenio Mazzone",
+    "Laura Marconato",
+    "Antonella Fanelli",
+    "Luciano Cascione",
+    "Francesco Bertoni",
+    "Caterina Marchiò",
+    "Anna Sapino",
+    "Luca Aresu"
+  ],
+  "doi": "10.1126/science.aeg8777",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "An atlas of 667 dog tumors lists 39 cancer drivers and compares them with human cancers.",
+  "id": "doi-10.1126-science.aeg8777",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-12",
+  "readout": {
+    "label": "Canine tumor-normal pairs in the atlas",
+    "unit": "tumor-normal pairs",
+    "value": "667"
+  },
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Researchers built an open database of whole-exome data from 667 dog tumor and normal pairs across 10 cancer types, with a shared pipeline for variant calling. Selection analysis found 39 driver genes, and comparison with human cancers showed both shared and dog-specific mechanisms. It is a resource more than a single discovery, and the less-sampled tumor types support only descriptive conclusions.",
+  "tags": [
+    "cancer genomics",
+    "comparative oncology"
+  ],
+  "title": "The genetic landscape of canine tumors: Insights from the Canine Cancer Genome Atlas (CCGA).",
+  "url": "https://doi.org/10.1126/science.aeg8777",
+  "venue": "Science"
+}

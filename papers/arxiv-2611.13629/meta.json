@@ -1,0 +1,34 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13629",
+  "authors": [
+    "Pedro A. N. Machado",
+    "Jo\\~ao Paulo Pinheiro"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Inverted neutrino mass ordering is disfavored at 1.9 sigma, but T2K and NOvA pull opposite ways",
+  "hook_turn": "but T2K and NOvA pull opposite ways",
+  "id": "arxiv-2611.13629",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "readout": {
+    "label": "Preference against inverted mass ordering",
+    "unit": "sigma",
+    "value": "1.9"
+  },
+  "significance": 6,
+  "status": "preprint",
+  "summary": "Combining JUNO and Daya Bay reactor data with muon-neutrino disappearance from NOvA, T2K, MINOS and IceCube/DeepCore, the authors find the preference comes from several small, partly opposing effects. A shift of about 3.5% in one experiment's mass splitting could reverse it, and more JUNO data alone would not push rejection past about 3 sigma. This is a global fit, so it depends on each experiment's published uncertainties and interaction modeling.",
+  "tags": [
+    "neutrino mass ordering",
+    "global fit"
+  ],
+  "title": "Where does the neutrino Mass Ordering preference come from?",
+  "url": "https://arxiv.org/abs/2611.13629",
+  "venue": "arXiv"
+}

@@ -1,0 +1,39 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13348",
+  "authors": [
+    "Yikun Zhang",
+    "Minghao Guo",
+    "Guangxue Xu",
+    "Peter Yichen Chen",
+    "Wojciech Matusik",
+    "Wengong Jin",
+    "Jingjing Chai",
+    "Kaiyi Jiang"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A protein-evolution AI guided two lab campaigns to enzyme variants over 10 times more active than wild type",
+  "id": "arxiv-2611.13348",
+  "kit": null,
+  "license": "cc0",
+  "published": "2026-11-09",
+  "readout": {
+    "label": "Activity gain over wild type",
+    "unit": "fold",
+    "value": ">10"
+  },
+  "significance": 5,
+  "status": "preprint",
+  "summary": "ProTEUS is a model that predicts effects of mutations, trained on deep mutational scanning data, and uses lab feedback to steer evolution. It beat established models on mutation prediction, and its fast structure predictor runs over 10 times faster than AlphaFold3. Campaigns on aldehyde dehydrogenase and levansucrase gave variants with over 10-fold higher activity. Only two enzymes were tested.",
+  "tags": [
+    "protein engineering",
+    "machine learning"
+  ],
+  "title": "ProTEUS: A mutation-resolved world model for closed-loop protein evolution",
+  "url": "https://arxiv.org/abs/2611.13348",
+  "venue": "arXiv"
+}

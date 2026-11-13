@@ -1,0 +1,42 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Eisenlohr-Moul, T. A.",
+    "Ross, A.",
+    "Peters, J. R.",
+    "Nagpal, A.",
+    "Schmalenberger, K.",
+    "Wiggs, K. K.",
+    "Knapp, E.",
+    "Patterson, A.",
+    "Martel, M."
+  ],
+  "doi": "10.64898/2026.11.09.26367690",
+  "explained_at": null,
+  "field": "medicine",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Symptoms of about half of adults with ADHD rose and fell with the menstrual cycle, often after menses",
+  "hook_turn": "often after menses",
+  "id": "doi-10.64898-2026.11.09.26367690",
+  "kit": null,
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "readout": {
+    "label": "Participants robustly cyclical in ADHD symptoms",
+    "unit": "percent",
+    "value": "54"
+  },
+  "significance": 7,
+  "status": "preprint",
+  "summary": "Daily ratings from 106 cycling adults with ADHD showed that about half had clear cyclical symptom swings, mostly not explained by mood or pain and usually outside the premenstrual window. Average effects across the group were small. The sample is modest and preprint results need replication for stability over time.",
+  "tags": [
+    "ADHD",
+    "menstrual cycle",
+    "psychiatry"
+  ],
+  "title": "Menstrual Cycle Exacerbation of ADHD Symptoms in Adults: Common, Person-Specific, and Not Confined to the Luteal Phase",
+  "url": "https://doi.org/10.64898/2026.11.09.26367690",
+  "venue": "medRxiv"
+}

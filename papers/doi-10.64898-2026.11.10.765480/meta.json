@@ -1,0 +1,40 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Giardina, C. K.",
+    "O'Malley, J. T.",
+    "Hall, A. K.",
+    "Dharmarajan, A.",
+    "Eckhard, A. H.",
+    "Liberman, C.",
+    "Arenberg, J. G.",
+    "Quesnel, A. M."
+  ],
+  "doi": "10.64898/2026.11.10.765480",
+  "explained_at": null,
+  "field": "neuroscience",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "All 27,880 spiral ganglion neurons in one human cochlea were counted and mapped in 3D by deep learning",
+  "id": "doi-10.64898-2026.11.10.765480",
+  "kit": null,
+  "license": "cc-by-nc",
+  "published": "2026-11-11",
+  "readout": {
+    "label": "Spiral ganglion neurons in one adult cochlea",
+    "unit": "neurons",
+    "value": "27,880"
+  },
+  "significance": 6,
+  "status": "preprint",
+  "summary": "These nerve cells carry sound from the inner ear to the brain. Researchers trained UNet++ models on hand-labeled slides, then counted neurons across all 421 stained sections, reaching 97% accuracy against manual counts. Counting only every 10th section, the old shortcut, gave about 98% accurate totals. The map comes from a single cochlea, so person-to-person variation is untested.",
+  "tags": [
+    "hearing",
+    "cochlea",
+    "deep learning"
+  ],
+  "title": "A Complete Three-Dimensional Spiral Ganglion Neuron Map in a Human Adult using a Deep Learning Pipeline",
+  "url": "https://doi.org/10.64898/2026.11.10.765480",
+  "venue": "bioRxiv"
+}

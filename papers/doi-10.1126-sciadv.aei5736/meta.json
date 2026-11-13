@@ -1,0 +1,38 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Yunxiao Wang",
+    "Xiaoyin Liu",
+    "Jingyu Wu",
+    "Jinbiao Ma",
+    "Baiqi Cui",
+    "Guangzhong Ma",
+    "Jianxin Ma",
+    "Qingjun Liu",
+    "Di Wang",
+    "Fenni Zhang"
+  ],
+  "doi": "10.1126/sciadv.aei5736",
+  "explained_at": null,
+  "field": "engineering",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Electrically driven nano-oscillators detect microRNAs, proteins, and small molecules together without labels",
+  "hook_turn": "detect microRNAs, proteins, and small molecules together without labels",
+  "id": "doi-10.1126-sciadv.aei5736",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Charged nanoparticles tethered to a gold surface are made to oscillate, and binding of a target changes their charge and so their oscillation, read by plasmonic imaging. This lets one chip detect molecules across a roughly 300-fold range of weight, and it profiled microRNAs in supernatants from patient-derived breast cancer cells in 24 clinical samples. The small sample and pretreated supernatants mean clinical performance is unproven.",
+  "tags": [
+    "biosensing",
+    "plasmonics",
+    "diagnostics"
+  ],
+  "title": "Dynamic plasmonic imaging of electromechanically driven nano-oscillators for charge-resolved multiplex biosensing.",
+  "url": "https://doi.org/10.1126/sciadv.aei5736",
+  "venue": "Science Advances"
+}

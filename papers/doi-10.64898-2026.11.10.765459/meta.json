@@ -1,0 +1,37 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Sanaullah, A.",
+    "Zhi, D.",
+    "Li, H.",
+    "Zhang, S."
+  ],
+  "doi": "10.64898/2026.11.10.765459",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "New algorithms find all long matches across 625 human centromere assemblies with 7.5 times less memory",
+  "hook_turn": "with 7.5 times less memory",
+  "id": "doi-10.64898-2026.11.10.765459",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "readout": {
+    "label": "Memory saved vs. state of the art, 625 haplotypes",
+    "unit": "times less memory",
+    "value": "7.5"
+  },
+  "significance": 6,
+  "status": "preprint",
+  "summary": "The authors built TeraMEM, which lists every long exact match between all pairs of genome assemblies using a compressed index of the whole panel. It is also 20 times faster counting index construction. Applied to human centromeres, it flagged large segmental duplications in every chromosome but Y and a ~200 kbp inversion beside the chromosome 2 repeat array. These are preprint results, and the biological findings are descriptive.",
+  "tags": [
+    "genomics",
+    "pangenomes",
+    "algorithms"
+  ],
+  "title": "Detection of Maximal Exact Matches in Terabases of Genome Assemblies in Compressed Space and Sublinear Time",
+  "url": "https://doi.org/10.64898/2026.11.10.765459",
+  "venue": "bioRxiv"
+}

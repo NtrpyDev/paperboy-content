@@ -1,0 +1,41 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Yongbin Yao",
+    "Maoshuai Jiang",
+    "Fan Wang",
+    "Ligang Zhang",
+    "Rudong Liu",
+    "Shihao Wang",
+    "Kuo Liu",
+    "Tao Zhang"
+  ],
+  "doi": "10.1021/jacs.6c15075",
+  "explained_at": null,
+  "field": "chemistry",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Single copper clusters held in zeolite make hydrogen from methanol and last over 600 hours.",
+  "hook_turn": "and last over 600 hours.",
+  "id": "doi-10.1021-jacs.6c15075",
+  "kit": null,
+  "license": "other",
+  "published": "2026-11-11",
+  "readout": {
+    "label": "Specific activity, methanol steam reforming",
+    "unit": "mol H2/mol Cu/h",
+    "value": "951"
+  },
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Using an amino 'gripper' to anchor atomically dispersed metals in Beta zeolite, the team made triatomic Cu oxide sites that, with nearby silanol groups, drive methanol steam reforming. The catalyst reached 951 mol of H2 per mol Cu per hour and stayed stable for over 600 h with regeneration. Performance is lab-scale, on one reaction.",
+  "tags": [
+    "catalysis",
+    "hydrogen production",
+    "zeolites"
+  ],
+  "title": "Zeolite-Confined Triatomic Cu Oxides at Silanol Nests as Hydrogen Transport Channels for H2 Production from Methanol Steam Reforming",
+  "url": "https://doi.org/10.1021/jacs.6c15075",
+  "venue": "Journal of the American Chemical Society"
+}

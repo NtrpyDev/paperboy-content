@@ -1,0 +1,28 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13435",
+  "authors": [
+    "Sanghoon Lee",
+    "Lorenzo Sarnataro"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "The saddle-shaped Allen-Cahn solution in even dimensions 8 and up is a global minimizer.",
+  "id": "arxiv-2611.13435",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "The authors prove that the Cabre-Terra saddle solution of the Allen-Cahn equation in dimension 2m, for m at least 4, minimizes energy globally. Up to sign it is the only minimizer whose nodal set approaches the Simons cone with faster-than-Hardt-Simon decay. The result is specific to these even dimensions.",
+  "tags": [
+    "partial differential equations",
+    "minimal surfaces"
+  ],
+  "title": "A uniqueness theorem for Allen--Cahn global minimizers asymptotic to the Simons cone",
+  "url": "https://arxiv.org/abs/2611.13435",
+  "venue": "arXiv"
+}

@@ -1,0 +1,30 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Yuxia Fu",
+    "Qiaoyan Wu"
+  ],
+  "doi": "10.1029/2026gl127323",
+  "explained_at": null,
+  "field": "earth",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Tropical cyclones increasingly peak right at landfall, with such events nearly doubling since 1980.",
+  "hook_turn": "with such events nearly doubling since 1980.",
+  "id": "doi-10.1029-2026gl127323",
+  "kit": null,
+  "license": "cc-by-nc",
+  "published": "2026-11-11",
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "Storms usually weaken before reaching land, but best-track data from 1980 to 2023 show more of them intensifying within a day of landfall. Both their number and share nearly doubled, alongside genesis moving closer to coasts and warmer nearshore conditions. Attribution to human warming rests on climate model consistency, and best-track records are imperfect.",
+  "tags": [
+    "tropical cyclones",
+    "coastal hazard",
+    "climate change"
+  ],
+  "title": "Tropical Cyclones Increasingly Reach Peak Intensity Near Continental Landfall",
+  "url": "https://doi.org/10.1029/2026gl127323",
+  "venue": "Geophysical Research Letters"
+}

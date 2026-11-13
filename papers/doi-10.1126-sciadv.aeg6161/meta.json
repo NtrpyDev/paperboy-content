@@ -1,0 +1,32 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Alexandros Tsoupas",
+    "Claudio S Quilodrán",
+    "Jérémy Rio",
+    "Mathias Currat"
+  ],
+  "doi": "10.1126/sciadv.aeg6161",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Simulations show Europe's Neanderthal ancestry gradient can arise without natural selection",
+  "hook_turn": "can arise without natural selection",
+  "id": "doi-10.1126-sciadv.aeg6161",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "A spatial simulation of Neanderthals, hunter-gatherers, and farmers reproduced the Southeast-to-Northwest decline in Neanderthal ancestry across Europe. The gradient came from the direction of the first expansion, the northern edge of Neanderthal range, and strong reproductive isolation. The second, similarly directed farmer expansion kept it in place. This is a model result, and it shows plausibility rather than proof of what happened.",
+  "tags": [
+    "neanderthals",
+    "ancient dna",
+    "population genetics"
+  ],
+  "title": "Tracing Neanderthal ancestry patterns through successive population expansions in Europe.",
+  "url": "https://doi.org/10.1126/sciadv.aeg6161",
+  "venue": "Science Advances"
+}

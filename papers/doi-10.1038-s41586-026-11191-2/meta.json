@@ -1,0 +1,34 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Csaba Both",
+    "Andrew Yen-Jong Chen",
+    "Ting-Ting Gao",
+    "Niek Mooij",
+    "Mohammad Charara",
+    "Jayna Wadhwa",
+    "Carlos M Portela",
+    "Albert-László Barabási"
+  ],
+  "doi": "10.1038/s41586-026-11191-2",
+  "explained_at": null,
+  "field": "engineering",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Metamaterials with wildly varied strut lengths and thicknesses absorb more energy and steer waves.",
+  "id": "doi-10.1038-s41586-026-11191-2",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 7,
+  "status": "peer_reviewed",
+  "summary": "Borrowing ideas from network science, the authors design mechanical metamaterials whose ligament lengths, thicknesses and connectivity vary over orders of magnitude, controlled by just two parameters. Simulations and experiments show tunable stiffness direction, spread-out deformation with high energy absorption, and programmable elastic-wave control. Tests were on lab-made samples, so large-scale manufacturing is untested.",
+  "tags": [
+    "metamaterials",
+    "network science"
+  ],
+  "title": "Scale-rich network-based metamaterials.",
+  "url": "https://doi.org/10.1038/s41586-026-11191-2",
+  "venue": "Nature"
+}

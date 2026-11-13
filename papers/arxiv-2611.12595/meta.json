@@ -1,0 +1,39 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.12595",
+  "authors": [
+    "Parikshit Partha Biswas",
+    "Agata R\\'o\\.za\\'nska",
+    "Debora Lan\\v{c}ov\\'a",
+    "Dominik Gronkiewicz",
+    "Rafa{\\l} Wojaczy\\'nski",
+    "Andrzej Zdziarski",
+    "Stefano Bianchi"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "space",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "In a model, line cooling sets where an AGN's warm corona ends, at a sharp iron ionization front.",
+  "id": "arxiv-2611.12595",
+  "kit": null,
+  "license": "cc-by-sa",
+  "published": "2026-11-09",
+  "readout": {
+    "exponent": -23,
+    "label": "Internal heating at the corona transition",
+    "unit": "erg cm^3 s^-1",
+    "value": "~1.6"
+  },
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Spectral modeling of a warm corona above an accretion disk shows its outer edge is set where line cooling replaces Compton cooling, at an iron ionization front. A larger corona gives a bigger soft X-ray excess, matching recent changing-look AGN findings. The result comes from a simulated model with fixed assumptions, not from fitting a specific source.",
+  "tags": [
+    "active galactic nuclei",
+    "accretion disks"
+  ],
+  "title": "The Edge of the Warm Corona in Active Galactic Nuclei",
+  "url": "https://arxiv.org/abs/2611.12595",
+  "venue": "arXiv"
+}

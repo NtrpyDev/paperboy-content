@@ -1,0 +1,28 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13394",
+  "authors": [
+    "Runze Wang"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A conjectured edge-coloring formula for odd-fold graph covers fails, and the Petersen graph breaks it.",
+  "hook_turn": "and the Petersen graph breaks it.",
+  "id": "arxiv-2611.13394",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "The authors prove a sharp upper bound on the fewest colors needed to edge-color an odd-fold cover of a graph. They build counterexamples from cubic graphs, including the Petersen graph, to a published conjecture, and give polynomial-time algorithms. The results cover odd fold numbers only.",
+  "tags": [
+    "graph coloring",
+    "graph covers"
+  ],
+  "title": "Edge-coloring spectra of odd-fold graph covers and counterexamples to a conjecture",
+  "url": "https://arxiv.org/abs/2611.13394",
+  "venue": "arXiv"
+}

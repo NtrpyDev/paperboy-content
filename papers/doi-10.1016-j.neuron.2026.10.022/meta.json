@@ -1,0 +1,40 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Praneel S Sunkavalli",
+    "Joseph C Madara",
+    "Jonnathan Singh Alvarado",
+    "Bettina F Ventura",
+    "Jessica G Baker",
+    "Paula K Zhu",
+    "Lauren F Christenson",
+    "Adriana Diaz",
+    "Janelle Chen",
+    "Evelyn Lazen",
+    "Luca Ravotto",
+    "Tommaso Patriarchi",
+    "Mark L Andermann",
+    "Stephen X Zhang"
+  ],
+  "doi": "10.1016/j.neuron.2026.10.022",
+  "explained_at": null,
+  "field": "neuroscience",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "After mating, male mice's dopamine release drops and takes about a week to recover, tracking their drive.",
+  "id": "doi-10.1016-j.neuron.2026.10.022",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "Deep-brain imaging in the medial preoptic area showed tonic dopamine falling after mating and returning over several days. Reduced firing of dopamine neurons explains the first day or two, while a slower loss and recovery of the neurons' ability to make dopamine explains the rest of the week. This is in male mice only.",
+  "tags": [
+    "dopamine",
+    "motivation"
+  ],
+  "title": "Slow-timescale regulation of dopamine release governs recovery of a motivational drive over days.",
+  "url": "https://doi.org/10.1016/j.neuron.2026.10.022",
+  "venue": "Neuron"
+}

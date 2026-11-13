@@ -1,0 +1,45 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13264",
+  "authors": [
+    "Youngki Yeo",
+    "Idan Kizel",
+    "Dror Hershkovitz",
+    "Omri Meron",
+    "Iva Plutnarova",
+    "Zdenek Sofer",
+    "Watanabe Kenji",
+    "Takashi Taniguchi",
+    "Elad Katash",
+    "Dan Oron",
+    "Haim Suchowski",
+    "Jing-Yang You",
+    "Moshe Ben Shalom"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A bright high-energy interlayer exciton near 2.23 eV appears in few-layer WSe2",
+  "id": "arxiv-2611.13264",
+  "kit": null,
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-09",
+  "readout": {
+    "label": "High-energy interlayer exciton energy",
+    "unit": "eV",
+    "value": "~2.23"
+  },
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Researchers found a narrow, bright high-energy interlayer exciton in few-layer WSe2 whose emission grows with thickness. Calculations point to mixing of intralayer and interlayer states as the cause. In a sliding-ferroelectric stack, its energy shifts with polarization, so moving domain walls can be tracked optically. The explanation of the brightening rests on calculations, and the device study covers one stack type.",
+  "tags": [
+    "excitons",
+    "2D materials",
+    "ferroelectrics"
+  ],
+  "title": "Hybridization-brightened interlayer excitons in multilayer WSe2 controlled by sliding ferroelectricity",
+  "url": "https://arxiv.org/abs/2611.13264",
+  "venue": "arXiv"
+}

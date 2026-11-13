@@ -1,0 +1,32 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.14358",
+  "authors": [
+    "M. V. Bastrakova",
+    "D. S. Pashin",
+    "V. A. Vozhakov",
+    "N. V. Klenov",
+    "I. I. Soloviev"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "engineering",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "SFQ pulses can steer a fluxonium qubit at over 99.99% fidelity, in simulation.",
+  "hook_turn": "in simulation.",
+  "id": "arxiv-2611.14358",
+  "kit": null,
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-10",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Pulses from superconducting digital circuits, designed for transmons, work poorly on low-frequency fluxonium qubits. The authors propose two pulse protocols, one using flux-channel pulse packets and one mixing flux and charge pulses, and test them in multilevel simulations. Results are simulation only, with no hardware demonstration.",
+  "tags": [
+    "superconducting qubits",
+    "fluxonium"
+  ],
+  "title": "High-Speed Control of a Fluxonium Qubit via Picosecond Pulses from Josephson Digital Circuits",
+  "url": "https://arxiv.org/abs/2611.14358",
+  "venue": "arXiv"
+}

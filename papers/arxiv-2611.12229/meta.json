@@ -1,0 +1,28 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.12229",
+  "authors": [
+    "Tianfeng Feng",
+    "Vlatko Vedral"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "In theory, gravitational phase evolution is distinguishable from classical mediators despite dephasing.",
+  "id": "arxiv-2611.12229",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-09",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "In a dephased version of the Bose-Marletto-Vedral setup, the authors prove an exact finite-time difference between gravitational conditional-phase dynamics and any passive classical-mediator model, even when no entanglement forms. The difference survives some classical measurement and feedback. It is a theoretical result that depends on the chosen classical mediator models and on well-characterized local dephasing.",
+  "tags": [
+    "quantum gravity",
+    "entanglement"
+  ],
+  "title": "Testing non-classical gravitational phase dynamics under strong dephasing",
+  "url": "https://arxiv.org/abs/2611.12229",
+  "venue": "arXiv"
+}

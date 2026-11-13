@@ -1,0 +1,42 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13835",
+  "authors": [
+    "L. Ciesla",
+    "C. Carvajal-Bohorquez",
+    "D. Elbaz",
+    "G. Aufort",
+    "O. Ilbert",
+    "S. Finkelstein",
+    "A. M. Koekemoer",
+    "P. Oesch",
+    "M. Boquien",
+    "C. Gruppioni",
+    "N. Laporte"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "space",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Galaxies seen by JWST at z 9 to 15 suggest star formation fell slowly to z~17, then faster to z~20",
+  "hook_turn": "then faster to z~20",
+  "id": "arxiv-2611.13835",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "readout": {
+    "label": "Median redshift when 20% of mass formed",
+    "value": "16.9"
+  },
+  "significance": 6,
+  "status": "preprint",
+  "summary": "The authors build a model of bursty star formation histories, test it on simulated galaxies, and apply it to 400 JWST galaxies. They infer the galaxies' ages, finding only 28 of 218 formed 20% of their mass by z=15, with a median formation redshift of 16.9. Conclusions at z>15 are extrapolations from model fits, and the z=20 constraint rests on a single galaxy.",
+  "tags": [
+    "early galaxies",
+    "JWST"
+  ],
+  "title": "Tracing early galaxies back in time: implications for the dearth of galaxies beyond z~15",
+  "url": "https://arxiv.org/abs/2611.13835",
+  "venue": "arXiv"
+}

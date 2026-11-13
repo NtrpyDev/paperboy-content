@@ -1,0 +1,36 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Yan Gao",
+    "Anna Shipman",
+    "Peng Sun",
+    "Na Zhang",
+    "Eliot T Smith",
+    "Itallia Pacentine",
+    "Alex Nechiporuk",
+    "Teresa Nicolson"
+  ],
+  "doi": "10.1126/sciadv.aeg8139",
+  "explained_at": null,
+  "field": "neuroscience",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Calming overactive astrocytes restores hearing-driven behavior in zebrafish with a spen mutation",
+  "hook_turn": "restores hearing-driven behavior in zebrafish with a spen mutation",
+  "id": "doi-10.1126-sciadv.aeg8139",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Zebrafish larvae lacking the gene spen respond poorly to sound and have constantly high calcium in hindbrain astrocytes. Blocking noradrenaline receptors lowered that calcium and brought the sound responses back. The work was done in larval fish, so whether the same fix helps children with spen-related disorders is untested.",
+  "tags": [
+    "astrocytes",
+    "zebrafish",
+    "neurodevelopment"
+  ],
+  "title": "Inhibition of aberrant astrocyte activity restores auditory sensorimotor function in zebrafish spen mutants.",
+  "url": "https://doi.org/10.1126/sciadv.aeg8139",
+  "venue": "Science Advances"
+}

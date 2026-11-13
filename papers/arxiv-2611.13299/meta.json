@@ -1,0 +1,29 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13299",
+  "authors": [
+    "A. R. Kubas",
+    "H. G. Sizemore",
+    "B. E. Schmidt"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "space",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Simulations show freezing impact melt could push enough water up to build Ceres's pingo-like mounds",
+  "id": "arxiv-2611.13299",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Occator Crater on Ceres has mounds that resemble Earth's pingos. Heat transfer and groundwater flow simulations of a freezing impact melt deposit show pressure gradients strong enough to drive fluid to the surface through hydraulic fracturing. Delivered water volumes meet or exceed what pingo formation needs across most tested parameters. This is modeling only, and the regolith properties are assumed.",
+  "tags": [
+    "Ceres",
+    "cryohydrology"
+  ],
+  "title": "Cryohydrologic Flow and Pingo Formation Within Freezing Impact Melts in Occator Crater, Ceres",
+  "url": "https://arxiv.org/abs/2611.13299",
+  "venue": "arXiv"
+}

@@ -1,0 +1,29 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13833",
+  "authors": [
+    "G.I. Rubtsov",
+    "S.V. Troitsky"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Energetic atmospheric muons exceed model predictions in four experiments, echoing the air-shower puzzle",
+  "hook_turn": "echoing the air-shower puzzle",
+  "id": "arxiv-2611.13833",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Comparing published muon measurements from four experiments with predictions from one hadronic model and cosmic-ray flux, the authors find measurements mostly exceed predictions. The excess is steadier than any trend with energy or angle, pointing to more energetic muon parents rather than more soft particles. It relies on a single model choice and published data, so model uncertainties could shift the result.",
+  "tags": [
+    "cosmic rays",
+    "muons"
+  ],
+  "title": "Cross-experiment tests of the atmospheric-muon excess",
+  "url": "https://arxiv.org/abs/2611.13833",
+  "venue": "arXiv"
+}

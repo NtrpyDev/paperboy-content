@@ -1,0 +1,48 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Zhang, J.",
+    "Gong, D.",
+    "Barrios, A. M.",
+    "Itkis, D. G.",
+    "Sahni, K.",
+    "Fandl, H.",
+    "Uenaka, T.",
+    "Walton, R. T.",
+    "Plutkis, S. E.",
+    "Lavis, L.",
+    "Blainey, P. C.",
+    "Wernig, M.",
+    "Nehme, R.",
+    "Lee, R. T.",
+    "Fraenkel, E.",
+    "Farhi, S. L.",
+    "Cohen, A. E."
+  ],
+  "doi": "10.64898/2026.11.09.765233",
+  "explained_at": null,
+  "field": "neuroscience",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A platform records voltage from about 1,500 engineered human neurons at once.",
+  "id": "doi-10.64898-2026.11.09.765233",
+  "kit": null,
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "readout": {
+    "label": "Neurons recorded at 800 Hz per field",
+    "unit": "neurons",
+    "value": "~1,500"
+  },
+  "significance": 6,
+  "status": "preprint",
+  "summary": "The team built a stem cell line that turns into neurons, accepts gene knockdowns, and carries light-based voltage sensors and actuators. A wide-field microscope then records about 1,500 firing neurons at once. Knocking down five ion-channel genes gave distinct firing signatures. Only five genes were tested, so the platform's reach across the genome is still to be shown.",
+  "tags": [
+    "electrophysiology",
+    "stem cells"
+  ],
+  "title": "A high-throughput all-optical platform for mapping gene perturbations to electrophysiology",
+  "url": "https://doi.org/10.64898/2026.11.09.765233",
+  "venue": "bioRxiv"
+}

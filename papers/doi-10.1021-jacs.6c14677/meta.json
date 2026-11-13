@@ -1,0 +1,38 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Gladwin Suryatin Alim",
+    "Roman P. Jakob",
+    "Seseg B. Bolotova",
+    "Jing Yang",
+    "Martin L. Kirk",
+    "Timm Maier",
+    "Florian P. Seebeck"
+  ],
+  "doi": "10.1021/jacs.6c14677",
+  "explained_at": null,
+  "field": "chemistry",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A molybdenum enzyme passes sulfur over 50 angstroms along a persulfide relay to make ergothioneine.",
+  "id": "doi-10.1021-jacs.6c14677",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "readout": {
+    "label": "Sulfur transfer distance between active sites",
+    "unit": "angstroms",
+    "value": ">50"
+  },
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "Using cryo-EM, crystallography and spectroscopy, the team showed how a bacterial enzyme pulls sulfur from cysteine and relays it to a molybdenum center to attach it to a histidine derivative. The reaction is reversible, hinting ergothioneine stores oxidizing power. Findings come from one enzyme in one bacterium, and the metabolic role is inferred.",
+  "tags": [
+    "enzymes",
+    "sulfur biochemistry"
+  ],
+  "title": "A Molybdoenzyme Mediates Carbon–Sulfur Bond Making and Breaking in Ergothioneine Biosynthesis",
+  "url": "https://doi.org/10.1021/jacs.6c14677",
+  "venue": "Journal of the American Chemical Society"
+}

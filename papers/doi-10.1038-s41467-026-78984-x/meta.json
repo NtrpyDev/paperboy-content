@@ -1,0 +1,35 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Tarun Patel",
+    "Matteo Pennacchietti",
+    "Sayan Gangopadhyay",
+    "Dan Dalacu",
+    "Philip J. Poole",
+    "Stephen Hughes",
+    "Michael E. Reimer"
+  ],
+  "doi": "10.1038/s41467-026-78984-x",
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A quantum dot in a nanowire reflects single photons, with every photon interacting with the dot.",
+  "hook_turn": "with every photon interacting with the dot.",
+  "id": "doi-10.1038-s41467-026-78984-x",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Reading out the reflection port of a waveguide is hard because stray light swamps the signal. The authors used the tapered nanowire end for mode matching and an extinction technique to show coherent reflection of single photons from a strongly coupled quantum dot. It is a proof of principle, and the abstract gives no efficiency figure.",
+  "tags": [
+    "quantum optics",
+    "quantum dots",
+    "photonics"
+  ],
+  "title": "Single photon reflection from a quantum dot in a waveguide",
+  "url": "https://doi.org/10.1038/s41467-026-78984-x",
+  "venue": "Nature Communications"
+}

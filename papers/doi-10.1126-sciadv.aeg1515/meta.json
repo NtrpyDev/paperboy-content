@@ -1,0 +1,49 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Jiajia Wang",
+    "Shuran Zhang",
+    "Haoran Zhang",
+    "Yifu Xu",
+    "Shifan Chen",
+    "Peiming Yan",
+    "Zhihui Liu",
+    "Xiaotian Zhu",
+    "Shuying Li",
+    "Yuyang Liu",
+    "Sha Zhu",
+    "Chao Wang",
+    "Yunping Bai",
+    "Chaoran Huang",
+    "Sai T Chu",
+    "David J Moss",
+    "Xingyuan Xu",
+    "Kun Xu"
+  ],
+  "doi": "10.1126/sciadv.aeg1515",
+  "explained_at": null,
+  "field": "engineering",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A photonic chip unmixes overlapping radio signals in real time, cutting error from over 50% to under 7%.",
+  "id": "doi-10.1126-sciadv.aeg1515",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "readout": {
+    "label": "Maximum interference suppression gain (SIR)",
+    "unit": "dB",
+    "value": "26"
+  },
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "An integrated photonic processor separates mixed radio signals directly in hardware, learning the unknown sources on the fly across bands up to 24 GHz. In communications and radar tests it cut error vector magnitude from over 50% to 6.18% and 5.3%. The tests are laboratory setups with a small number of signals.",
+  "tags": [
+    "photonic computing",
+    "wireless signals"
+  ],
+  "title": "Real-time complex-valued RF blind source separation via in-physics computing.",
+  "url": "https://doi.org/10.1126/sciadv.aeg1515",
+  "venue": "Science Advances"
+}

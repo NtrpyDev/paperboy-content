@@ -1,0 +1,34 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13165",
+  "authors": [
+    "Rahul Chajwa",
+    "Manu Prakash"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "earth",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Microbes meet sinking marine snow most at 14.4 m/day, and far less once it sinks faster than 78.1 m/day.",
+  "id": "arxiv-2611.13165",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "readout": {
+    "label": "Sinking speed at peak microbial encounter rate",
+    "unit": "m/day",
+    "value": "14.4"
+  },
+  "significance": 7,
+  "status": "preprint",
+  "summary": "Microbes at sea swim toward sinking marine snow only within a limited zone, and fast sinking shrinks that zone. The team tracked single cells around freshly collected aggregates on a ship under imposed flows, then fed the measured encounter rates into a transport model. Encounter rates peak at 14.4 m/day. The measurements come from limited shipboard samples, so the model's reach to the whole ocean is untested.",
+  "tags": [
+    "marine snow",
+    "carbon pump",
+    "microbes"
+  ],
+  "title": "Chemotactic Horizons Regulate Threshold Dynamics in the Biological Carbon Pump",
+  "url": "https://arxiv.org/abs/2611.13165",
+  "venue": "arXiv"
+}

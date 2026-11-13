@@ -1,0 +1,43 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Ye Tian",
+    "Na Li",
+    "Zhangqi Pan",
+    "Jiaxin Wang",
+    "Qiyun Hu",
+    "Zheng Dai",
+    "Xudong Xu",
+    "Yueying Yang",
+    "Sendong Zhang",
+    "Xinguo Lan",
+    "Qianyue Liu",
+    "Lejie Qin",
+    "Wei Wang",
+    "Xurui Liu",
+    "Zheng Wang",
+    "Hanchuan Tang",
+    "Jianfeng Zang"
+  ],
+  "doi": "10.1126/sciadv.aef2310",
+  "explained_at": null,
+  "field": "medicine",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A hydrogel patch makes gastric leaks visible on ultrasound in rabbits for up to 7 days.",
+  "id": "doi-10.1126-sciadv.aef2310",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "An implantable patch made entirely of hydrogel contains rings of air cells that scatter ultrasound strongly, so a gastric leak changes its image signature. It was tested in live rabbits for up to 7 days after implantation. Only a small animal model was used, so human performance is untested.",
+  "tags": [
+    "implantable sensors",
+    "ultrasound"
+  ],
+  "title": "A fully hydrogel implantable patch for in situ ultrasonic monitoring of gastric leakage.",
+  "url": "https://doi.org/10.1126/sciadv.aef2310",
+  "venue": "Science Advances"
+}

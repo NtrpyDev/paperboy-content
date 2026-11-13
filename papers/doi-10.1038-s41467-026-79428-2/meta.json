@@ -1,0 +1,37 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Nenghan Wan",
+    "Haidong Zhao",
+    "Jerry L. Hatfield",
+    "Roger A. Pielke",
+    "M. B. Kirkham",
+    "Stephen M. Welch",
+    "Lina Zhang",
+    "Zhijuan Liu",
+    "Haishun Yang",
+    "Xiaomao Lin"
+  ],
+  "doi": "10.1038/s41467-026-79428-2",
+  "explained_at": null,
+  "field": "earth",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Climate gains for Corn Belt maize shift from southern declines to northern gains near 42°N.",
+  "hook_turn": "from southern declines to northern gains near 42°N.",
+  "id": "doi-10.1038-s41467-026-79428-2",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Crop-model runs over 1991 to 2024 in five U.S. states show climate-driven yield contributions turning from negative in the south to positive in the north, tied to the summer warming hole of cooler highs and more rain. In the south, the heat that hybrids need matched the available heat less well over time. The results come from a model, not field trials, so management effects are inferred.",
+  "tags": [
+    "crop yield",
+    "climate change"
+  ],
+  "title": "Latitude modulates climate-driven maize yield gains across the central U.S. “warming hole”",
+  "url": "https://doi.org/10.1038/s41467-026-79428-2",
+  "venue": "Nature Communications"
+}

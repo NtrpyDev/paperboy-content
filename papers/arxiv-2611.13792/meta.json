@@ -1,0 +1,27 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13792",
+  "authors": [
+    "L\\\"u Gong"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A group built from SL2 over Z/p^9 is a counterexample to Kourovka Problem 21.7.",
+  "id": "arxiv-2611.13792",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "The paper proves that the kernel of SL2(Z/p^9) to SL2(F_p) is not IYB, while its product with a cyclic group is, which yields a supersoluble group with IYB Sylow subgroups that is not IYB. The proof rules out a pre-Lie multiplication using three trace identities. It holds for primes above 24, and the smallest odd-order example it names is of order 3 times 31^32.",
+  "tags": [
+    "group theory",
+    "Yang-Baxter equation"
+  ],
+  "title": "A congruence-group counterexample to Kourovka Problem 21.7",
+  "url": "https://arxiv.org/abs/2611.13792",
+  "venue": "arXiv"
+}

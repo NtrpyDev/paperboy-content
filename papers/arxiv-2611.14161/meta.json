@@ -1,0 +1,28 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.14161",
+  "authors": [
+    "Shilun Wang"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Every large enough integer is represented by Sun's ternary quadratic polynomial, with a computable bound.",
+  "hook_turn": "with a computable bound.",
+  "id": "arxiv-2611.14161",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "The paper proves an asymptotic version of a conjecture by Zhi-Wei Sun: all sufficiently large integers take the form x(5x+1)+y(5y+1)/2+z(5z+1)/2. The proof links the problem to a ternary quadratic form, modular forms and class number bounds, showing the genus average dominates the cusp contribution. It covers only large integers, so the full conjecture for small values still needs separate checking.",
+  "tags": [
+    "number theory",
+    "quadratic forms"
+  ],
+  "title": "Sun's conjecture on a certain ternary quadratic form",
+  "url": "https://arxiv.org/abs/2611.14161",
+  "venue": "arXiv"
+}

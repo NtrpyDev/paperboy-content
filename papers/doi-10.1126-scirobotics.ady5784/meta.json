@@ -1,0 +1,33 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Jun Yang",
+    "Zheng Tian",
+    "Junming Hong",
+    "Qin Rao",
+    "Jinya Su",
+    "Huan Chen",
+    "Shihua Li"
+  ],
+  "doi": "10.1126/scirobotics.ady5784",
+  "explained_at": null,
+  "field": "engineering",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "An autonomous gantry crane system has moved over 2 million containers in real ports.",
+  "id": "doi-10.1126-scirobotics.ady5784",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Autane lets rubber tire gantry cranes grab, carry and place shipping containers without an operator, using sensor fusion, obstacle detection and mapping for centimeter accuracy. Deployed in several ports, it ran full days and handled more than 2 million 20-foot equivalent units. The abstract gives no comparison with human operators or failure rates.",
+  "tags": [
+    "robotics",
+    "port automation"
+  ],
+  "title": "Autane: An autonomous crane for sustained port operations.",
+  "url": "https://doi.org/10.1126/scirobotics.ady5784",
+  "venue": "Science Robotics"
+}

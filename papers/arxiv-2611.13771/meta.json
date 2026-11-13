@@ -1,0 +1,30 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13771",
+  "authors": [
+    "Tian Yi",
+    "Qiran Huang",
+    "Shuo Huang",
+    "Chris W. Ormel"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "space",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A lost fifth planet that merged with another may explain Barnard's Star's broken resonant chain.",
+  "id": "arxiv-2611.13771",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Simulations test whether a vanished extra planet merged with a neighbor to leave the four known sub-Earth planets around Barnard's Star. Two pathways work, tidal expansion driven by the star or early disk-driven expansion, and the second fits 14 similar compact systems, ten of which break the chain at the third planet. This is a dynamical model, and the lost planet is not observed.",
+  "tags": [
+    "exoplanets",
+    "planet formation"
+  ],
+  "title": "Breaking the Chain: The Dynamical History of the Barnard's Star Planetary System",
+  "url": "https://arxiv.org/abs/2611.13771",
+  "venue": "arXiv"
+}

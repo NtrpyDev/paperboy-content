@@ -1,0 +1,34 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Soumyadip Bhunia",
+    "Yueze Gao",
+    "Jack Woolley",
+    "Ross Milverton",
+    "Harry L. Anderson",
+    "Raj Pandya"
+  ],
+  "doi": "10.1021/jacs.6c05190",
+  "explained_at": null,
+  "field": "chemistry",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Polyynes 48 carbons long show less bond alternation, and linear and ring forms relax differently.",
+  "hook_turn": "and linear and ring forms relax differently.",
+  "id": "doi-10.1021-jacs.6c05190",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Spectroscopy on 48-carbon linear and cyclic polyynes in liquid found the ground states are highly delocalized, with a softened Peierls distortion. After light absorption, the linear chains twist toward a cumulene-like shape more weakly and briefly than short chains do. The data show vibronic coupling grows more slowly with length than extrapolation predicts. Only two chain topologies at one length were tested, in solution.",
+  "tags": [
+    "carbon chains",
+    "polyynes",
+    "ultrafast spectroscopy"
+  ],
+  "title": "Electronic Dynamics in Long Linear and Cyclic Polyynes",
+  "url": "https://doi.org/10.1021/jacs.6c05190",
+  "venue": "Journal of the American Chemical Society"
+}

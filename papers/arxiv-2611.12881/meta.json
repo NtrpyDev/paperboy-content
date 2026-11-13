@@ -1,0 +1,53 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.12881",
+  "authors": [
+    "William Thompson",
+    "Alexandre Bouchard-C\\^ot\\'e",
+    "Dori Blakely",
+    "Trevor Campbell",
+    "Jessica Speedie",
+    "Judah Van Zandt",
+    "Kyle Franson",
+    "Jerry Xuan",
+    "Doug Johnstone",
+    "Emma Turtelboom",
+    "Jingwen Zhang",
+    "Clarissa Do \\'O",
+    "Brendan Bowler",
+    "Jean-Baptiste Ruffio",
+    "Eric Nielsen",
+    "Ryan Cloutier",
+    "Andre Fogal",
+    "Kaitlyn Hessel",
+    "Christian Marois",
+    "Alexandra Rochon",
+    "William Roberson",
+    "Simon Blouin"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "space",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "The brown dwarf desert is set by mass ratio, not mass: companions drop sharply near q of 2%.",
+  "id": "arxiv-2611.12881",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "readout": {
+    "label": "Stars in the astrometric sample",
+    "unit": "stars",
+    "value": "63,254"
+  },
+  "significance": 8,
+  "status": "preprint",
+  "summary": "Joint modeling of Hipparcos and Gaia astrometry for 63,254 stars shows companions are depleted at a mass ratio near 2% from M to B stars, which rules out a desert at fixed companion mass. Occurrence also trends differently with metallicity below and above the desert, hinting at two formation channels. The data cover only 3 to 94 year orbits, about 2 to 20 au.",
+  "tags": [
+    "brown dwarfs",
+    "exoplanets"
+  ],
+  "title": "The Brown Dwarf Desert is a Mass-Ratio Desert: Astrometric Demographics of 63,254 Stars",
+  "url": "https://arxiv.org/abs/2611.12881",
+  "venue": "arXiv"
+}

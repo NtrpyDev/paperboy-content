@@ -1,0 +1,40 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13579",
+  "authors": [
+    "Tetsuma Mandokoro",
+    "Hisakazu Matsuki",
+    "Shutaro Karube",
+    "Rodrigo de las Heras",
+    "Andrei Mazanik",
+    "Akihiro Yamada",
+    "Fugo Tokoro",
+    "Susumu Hirata",
+    "Ryusuke Hisatomi",
+    "Yoichi Shiota",
+    "Vitaly N. Golovach",
+    "F. Sebastian Bergeret",
+    "Teruo Ono"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A superconducting spin switch reveals a weak ferromagnetic RuOx layer hidden at the Nb/RuO2 interface",
+  "hook_turn": "reveals a weak ferromagnetic RuOx layer hidden at the Nb/RuO2 interface",
+  "id": "arxiv-2611.13579",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "In a GdN/Nb/RuO2 trilayer, the superconducting transition of Nb shifts with interface exchange-field alignment, exposing magnetism that magnetometry cannot see. The authors attribute it to a thin RuOx layer formed when Nb pulls oxygen from RuO2, acting as a weak, magnetically hard ferromagnet. The layer's origin is an interpretation, and the probe works only at low temperature.",
+  "tags": [
+    "altermagnets",
+    "superconductivity"
+  ],
+  "title": "Hidden interfacial magnetism in RuO$_2$ heterostructures revealed by a superconducting spin switch",
+  "url": "https://arxiv.org/abs/2611.13579",
+  "venue": "arXiv"
+}

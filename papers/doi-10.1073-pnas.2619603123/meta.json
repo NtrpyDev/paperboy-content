@@ -1,0 +1,39 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Edward W Pietryk",
+    "Rahul Jangid",
+    "Ashley G Boice",
+    "Bin Yu",
+    "Chen Wang",
+    "Panagiotis Katsonis",
+    "Ruhee Dere",
+    "Durga Nand Tripathi",
+    "Olivier Lichtarge",
+    "Rachel N Arey",
+    "Cheryl L Walker"
+  ],
+  "doi": "10.1073/pnas.2619603123",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Enzymes known for editing chromatin co-evolved with cytoskeleton proteins, and NSD3 binds tubulin.",
+  "hook_turn": "and NSD3 binds tubulin.",
+  "id": "doi-10.1073-pnas.2619603123",
+  "kit": null,
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Comparing which genes are conserved together across species, the authors found that human methyltransferases track with many cytoskeletal components. This pointed to an unexpected link, and they confirmed experimentally that the methyltransferase NSD3 associates with alpha-tubulin. Only one prediction was tested in the lab, and whether the link has a functional role remains open.",
+  "tags": [
+    "methyltransferases",
+    "cytoskeleton",
+    "evolution"
+  ],
+  "title": "Phylogenetic profiling reveals evolutionary coupling between methyltransferases and the cytoskeleton.",
+  "url": "https://doi.org/10.1073/pnas.2619603123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

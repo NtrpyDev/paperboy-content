@@ -1,0 +1,34 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Bianca Bonato",
+    "Valentina Simonetti",
+    "Sara Avesani",
+    "Silvia Guerra",
+    "Gabriela Gjinaj",
+    "Laura Ravazzolo",
+    "Marco Dadda",
+    "Umberto Castiello"
+  ],
+  "doi": "10.1016/j.cub.2026.10.050",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Climbing pea plants emit volatiles just before neighbor-driven bursts of circling movement.",
+  "id": "doi-10.1016-j.cub.2026.10.050",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Tracking pea shoot tips in 3D while profiling emitted volatiles, the authors saw seven volatile features rise before peak circling speed when a neighbor was present, and not in isolated plants. Neighbors also moved more and grew faster. The link is a timing association, and the authors say causation is not shown.",
+  "tags": [
+    "plant behavior",
+    "plant communication"
+  ],
+  "title": "Volatile emission dynamics are temporally associated with neighbor-modulated movement in climbing plants.",
+  "url": "https://doi.org/10.1016/j.cub.2026.10.050",
+  "venue": "Current Biology"
+}

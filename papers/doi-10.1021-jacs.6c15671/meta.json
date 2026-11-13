@@ -1,0 +1,31 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Sojung F. Kim",
+    "Erica Sutcliffe",
+    "Ryan G. Hadt"
+  ],
+  "doi": "10.1021/jacs.6c15671",
+  "explained_at": null,
+  "field": "chemistry",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Light reads out the electron spin of a palladium(I) complex and its phosphorus nuclei at room temperature.",
+  "hook_turn": "at room temperature.",
+  "id": "doi-10.1021-jacs.6c15671",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "Circularly polarized pulses created electron spin coherence in Pd(I) complexes, and time-resolved Faraday rotation detected its coupling to nearby 31P nuclear spins in solution at ambient temperature. Results were checked against pulsed EPR and computation. This is a proof of principle on a model system, not yet sensing inside a working reaction.",
+  "tags": [
+    "molecular qubits",
+    "spin coherence",
+    "palladium"
+  ],
+  "title": "Optical Access to a Molecular Nuclear-Spin Register in Catalytically Relevant Palladium(I) Complexes",
+  "url": "https://doi.org/10.1021/jacs.6c15671",
+  "venue": "Journal of the American Chemical Society"
+}

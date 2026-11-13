@@ -1,0 +1,28 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Roland Séférian",
+    "Laurent Bopp"
+  ],
+  "doi": "10.1126/science.aem7174",
+  "explained_at": null,
+  "field": "earth",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "New observations suggest the ocean absorbs more carbon and land absorbs less.",
+  "id": "doi-10.1126-science.aem7174",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-12",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "This perspective covers new observations, tied to atmospheric oxygen by its title, which suggest the ocean takes up more carbon than assumed and land takes up less. The abstract does not describe the method or give numbers. It is commentary on another study, so the result is only as strong as that study.",
+  "tags": [
+    "carbon cycle",
+    "carbon sinks"
+  ],
+  "title": "Oxygen tells the tale of Earth's carbon sinks.",
+  "url": "https://doi.org/10.1126/science.aem7174",
+  "venue": "Science"
+}

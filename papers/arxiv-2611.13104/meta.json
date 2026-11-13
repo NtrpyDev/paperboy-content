@@ -1,0 +1,41 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13104",
+  "authors": [
+    "A. Mucciarelli",
+    "M. Palla",
+    "C. T. Nguyen",
+    "L. Monaco",
+    "E. Pancino",
+    "D. A. Alvarez Garay",
+    "S. Anoardo",
+    "C. Lardo",
+    "F. Matteucci",
+    "D. Romano"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "space",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Lithium was measured in 209 giant stars of the Small Magellanic Cloud, including 4 lithium-rich ones.",
+  "id": "arxiv-2611.13104",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-09",
+  "readout": {
+    "label": "Red giant stars with lithium measured in the SMC",
+    "unit": "stars",
+    "value": "209"
+  },
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Lithium in other galaxies is hard to measure because only bright giants near the tip of the red giant branch can be observed. VLT spectra of 209 such stars show large star-to-star scatter, which models attribute to mixing in the stars and to nova enrichment at lower metallicity. Only about a third have firm lithium detections, and the rest give upper limits.",
+  "tags": [
+    "stellar abundances",
+    "Magellanic Clouds"
+  ],
+  "title": "The chemical DNA of the Magellanic Clouds -- VII. The lithium abundance in the Small Magellanic Cloud and the discovery of 4 lithium-rich stars",
+  "url": "https://arxiv.org/abs/2611.13104",
+  "venue": "arXiv"
+}

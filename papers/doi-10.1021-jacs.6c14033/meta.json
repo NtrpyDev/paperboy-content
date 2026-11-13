@@ -1,0 +1,42 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Huimin Liu",
+    "Yinhong Lai",
+    "Huangong Li",
+    "Xuesi Chen",
+    "Lintao Pan",
+    "Tiantian Liu",
+    "Zekun He",
+    "Jingyu Zhang",
+    "Lixin Zhang",
+    "Yonggui Robin Chi",
+    "Yongtao Xie"
+  ],
+  "doi": "10.1021/jacs.6c14033",
+  "explained_at": null,
+  "field": "chemistry",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "An engineered thiamine enzyme joins two molecules into rings, a first for its enzyme class.",
+  "id": "doi-10.1021-jacs.6c14033",
+  "kit": null,
+  "license": "other",
+  "published": "2026-11-12",
+  "readout": {
+    "label": "Top enantiomeric excess of ring products",
+    "unit": "% ee",
+    "value": "99"
+  },
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "Researchers mined a new thiamine diphosphate-dependent enzyme and engineered a variant (F484S) that performs an intermolecular [3 + 2] annulation, building chiral spirooxindole lactones. It handled 30 substrate pairs with up to 99% ee and scaled to 2 mmol. The reaction covers one product family, and larger scale is untested.",
+  "tags": [
+    "biocatalysis",
+    "enzyme engineering"
+  ],
+  "title": "Reprogramming ThDP-Dependent Enzyme for Intermolecular [3 + 2] Annulation via a Homoenolate Intermediate",
+  "url": "https://doi.org/10.1021/jacs.6c14033",
+  "venue": "Journal of the American Chemical Society"
+}

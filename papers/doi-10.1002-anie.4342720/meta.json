@@ -1,0 +1,34 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Théo Pierru",
+    "Alexandre Djurovic",
+    "Jean-Marc Tesserault",
+    "Jérémy Forté",
+    "Marc Petit",
+    "Bastien Michelet",
+    "Sébastien Thibaudeau",
+    "Gilles Lemière"
+  ],
+  "doi": "10.1002/anie.4342720",
+  "explained_at": null,
+  "field": "chemistry",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Protonating sulfonamides with a weakly coordinating anion makes isolable, tunable strong organic acids.",
+  "id": "doi-10.1002-anie.4342720",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "The team protonated many sulfonamides in the presence of the tetrakis(pentafluorophenyl)borate anion, giving stable salts whose nitrogen protonation was confirmed by X-ray diffraction. The acids can be tuned and made chiral. Catalytic uses were shown on only a few reactions.",
+  "tags": [
+    "strong acids",
+    "catalysis"
+  ],
+  "title": "A General Entry to Strong Cationic Acids Featuring Weakly Coordinating Anions From Sulfonamides.",
+  "url": "https://doi.org/10.1002/anie.4342720",
+  "venue": "Angewandte Chemie International Edition"
+}

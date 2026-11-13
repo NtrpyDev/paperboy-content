@@ -1,0 +1,28 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.14226",
+  "authors": [
+    "Xiaodong Zhao"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Rational points on Cayley's cubic surface grow like B(log B)^6, matching Peyre's prediction.",
+  "hook_turn": "matching Peyre's prediction.",
+  "id": "arxiv-2611.14226",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "Counting rational points of bounded height on the four-nodal Cayley cubic surface, with its nine lines removed, gives N(B) asymptotic to a Peyre constant times B(log B)^6. The proof parametrizes by universal torsors and combines lattice counting with Poisson summation. The result holds for the open subset only and for the maximum-coordinate height.",
+  "tags": [
+    "number theory",
+    "rational points"
+  ],
+  "title": "Counting Rational Points on Cayley's Cubic Surface",
+  "url": "https://arxiv.org/abs/2611.14226",
+  "venue": "arXiv"
+}

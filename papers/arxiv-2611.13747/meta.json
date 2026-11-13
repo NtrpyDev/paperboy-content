@@ -1,0 +1,27 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13747",
+  "authors": [
+    "Sanghoon Baek"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "The essential p-dimension of PGL(p^n) is p^(2n-2)+1, settling a long-open count.",
+  "id": "arxiv-2611.13747",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "The paper determines the essential p-dimension of central simple algebras of degree p^n, giving p^(2n-2)+1 for PGL(p^n), which extends Merkurjev's case n=2. The lower bounds apply a theorem of Ofek to block centralizers. As a consequence, it constructs exponent-p division algebras that stay noncrossed products, but only for degrees p^n with n at least 3 (4 when p=2).",
+  "tags": [
+    "algebraic groups",
+    "division algebras"
+  ],
+  "title": "Essential $p$-dimension of simple algebras and noncrossed products of prime exponent",
+  "url": "https://arxiv.org/abs/2611.13747",
+  "venue": "arXiv"
+}

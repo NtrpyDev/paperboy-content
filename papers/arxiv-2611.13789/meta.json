@@ -1,0 +1,31 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13789",
+  "authors": [
+    "Kotaro Inami",
+    "Jianbin Li",
+    "Yudong Liang",
+    "Bochen Liu",
+    "Francisco Romero Acosta"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Researchers rewrite an AI-generated proof of the Falconer distance conjecture for graduate readers.",
+  "id": "arxiv-2611.13789",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "This note presents a simplified version of a proof of the Falconer distance conjecture, whose main idea the authors took from a recent OpenAI release. It rewrites the arguments for graduate-level readers. The abstract gives no technical detail, and correctness depends on the underlying AI-produced proof and on community checking, so the claim is unverified here.",
+  "tags": [
+    "harmonic analysis",
+    "Falconer conjecture"
+  ],
+  "title": "On the proof of Falconer distance conjecture",
+  "url": "https://arxiv.org/abs/2611.13789",
+  "venue": "arXiv"
+}

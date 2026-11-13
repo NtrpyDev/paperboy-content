@@ -1,0 +1,32 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Anastasia E Madsen",
+    "T V Pushpakumara",
+    "U Sameera Weerathunga",
+    "Devaka K Weerakoon",
+    "Shermin de Silva"
+  ],
+  "doi": "10.1126/science.aef6714",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Wild elephant social networks split into smaller, isolated groups after years of gradual member turnover.",
+  "hook_turn": "after years of gradual member turnover.",
+  "id": "doi-10.1126-science.aef6714",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-12",
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "Tracking 443 wild female Asian elephants for 12 years, researchers watched networks fracture once turnover accumulated. Ties changed both from lost members and from shifting bonds among those who stayed. The data come from one population in one region, so how general the tipping behavior is remains open.",
+  "tags": [
+    "animal social networks",
+    "elephants"
+  ],
+  "title": "Increased demographic turnover and isolation precede social fragmentation in Asian elephants.",
+  "url": "https://doi.org/10.1126/science.aef6714",
+  "venue": "Science"
+}

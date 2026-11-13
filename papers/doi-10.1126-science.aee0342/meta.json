@@ -1,0 +1,34 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "J A Smiley-Rhodes",
+    "M C Bitter",
+    "S Berardi",
+    "J Beltz",
+    "D A Petrov",
+    "P Schmidt"
+  ],
+  "doi": "10.1126/science.aee0342",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Genes can predict which way fly color evolves, but not which genes will do the changing.",
+  "hook_turn": "but not which genes will do the changing.",
+  "id": "doi-10.1126-science.aee0342",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-12",
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "Fruit fly populations evolved in outdoor mesocosms and in the lab while the team tracked allele frequencies and pigmentation. A genotype-phenotype map stayed stable across populations and correctly gave the direction of change, yet the specific responding loci were largely unpredictable. The finding concerns one trait in one species.",
+  "tags": [
+    "evolution",
+    "genomic prediction",
+    "Drosophila"
+  ],
+  "title": "Limited genomic predictability of complex trait evolution despite genotype-phenotype stability.",
+  "url": "https://doi.org/10.1126/science.aee0342",
+  "venue": "Science"
+}

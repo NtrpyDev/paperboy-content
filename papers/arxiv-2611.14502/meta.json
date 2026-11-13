@@ -1,0 +1,28 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.14502",
+  "authors": [
+    "Abdellah Sebbar",
+    "Khalil Besrour"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Zeros of the p-adic Eisenstein series E2 have j-invariants in finite unramified extensions of Q_p.",
+  "id": "arxiv-2611.14502",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "For each prime p of at least 5, the zeros of Katz's E2 series give a handful of j-invariants, and all of them live in finite unramified extensions of the p-adic numbers. The authors use the supersingular polynomial and hypergeometric congruences, and also bound isogenies between zeros. Whether a non-CM zero can have an algebraic j-invariant stays open.",
+  "tags": [
+    "number theory",
+    "modular forms"
+  ],
+  "title": "Zeros of Katz's p-adic Eisenstein series E2",
+  "url": "https://arxiv.org/abs/2611.14502",
+  "venue": "arXiv"
+}

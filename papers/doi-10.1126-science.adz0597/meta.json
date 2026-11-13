@@ -1,0 +1,36 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Xuetao Ma",
+    "Zhaoyu Liu",
+    "Jiaqi Cai",
+    "Kenji Watanabe",
+    "Takashi Taniguchi",
+    "Xiaodong Xu",
+    "Jiun-Haw Chu",
+    "Matthew Yankowitz"
+  ],
+  "doi": "10.1126/science.adz0597",
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Squeezing twisted graphene changes its electrical resistance over 100 times more than ordinary metals.",
+  "hook_turn": "changes its electrical resistance over 100 times more than ordinary metals.",
+  "id": "doi-10.1126-science.adz0597",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-12",
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "Magic-angle twisted bilayer graphene under continuous uniaxial strain showed a very large resistance response, with a gauge factor over two orders of magnitude above conventional metals. In some doping ranges the response grew in a Curie-Weiss-like way as temperature fell, hinting at nematic or fluctuating-moment physics. The origin is discussed, not established.",
+  "tags": [
+    "moire materials",
+    "graphene",
+    "strain"
+  ],
+  "title": "Giant elastoresistance in magic-angle twisted bilayer graphene.",
+  "url": "https://doi.org/10.1126/science.adz0597",
+  "venue": "Science"
+}

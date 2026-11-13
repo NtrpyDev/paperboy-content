@@ -1,0 +1,30 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Sofia Radrizzani",
+    "Laurence D Hurst"
+  ],
+  "doi": "10.1371/journal.pbio.3004089",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Important genes are not shielded from mutation in E. coli or yeast; the claimed effects are tiny.",
+  "hook_turn": "the claimed effects are tiny.",
+  "id": "doi-10.1371-journal.pbio.3004089",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "A reanalysis of mutation accumulation data in wild-type E. coli and yeast found that genes with more abundant or essential proteins do not mutate less, and E. coli genes on the leading and lagging DNA strands mutate at similar rates. The authors controlled for covariates and used trinucleotide-matched simulations, and flagged an artefact in a standard statistical approach. Only a slight lower rate for highly transcribed E. coli genes remained, and it was not seen in yeast.",
+  "tags": [
+    "mutation rate",
+    "evolution",
+    "genomics"
+  ],
+  "title": "The importance of genes does not predict their mutation rate.",
+  "url": "https://doi.org/10.1371/journal.pbio.3004089",
+  "venue": "PLOS Biology"
+}

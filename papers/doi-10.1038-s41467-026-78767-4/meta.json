@@ -1,0 +1,41 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Qianchu Liu",
+    "Sheng Zhang",
+    "Guanghui Qin",
+    "Yu Gu",
+    "Ying Jin",
+    "Sam Preston",
+    "Yanbo Xu",
+    "Sid Kiblawi",
+    "Wen-wai Yim",
+    "Timothy Ossowski",
+    "Tristan Naumann",
+    "Mu Wei",
+    "Hoifung Poon"
+  ],
+  "doi": "10.1038/s41467-026-78767-4",
+  "explained_at": null,
+  "field": "cs",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A reinforcement-learned chest X-ray report model beats prior systems on the ReXrank benchmark",
+  "hook_turn": "beats prior systems on the ReXrank benchmark",
+  "id": "doi-10.1038-s41467-026-78767-4",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Models fine-tuned to write radiology reports often generalize poorly across hospitals. This 8-billion-parameter model adds reinforcement learning against rewards for wording, meaning and clinical errors, and scored best on ReXrank with fewer significant errors. Scores are automated metrics plus expert review, not a trial of use in patient care.",
+  "tags": [
+    "medical imaging",
+    "reinforcement learning",
+    "radiology"
+  ],
+  "title": "Scaling medical imaging report generation with multimodal reinforcement learning",
+  "url": "https://doi.org/10.1038/s41467-026-78767-4",
+  "venue": "Nature Communications"
+}

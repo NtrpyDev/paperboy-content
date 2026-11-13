@@ -1,0 +1,38 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "David M. Vahey",
+    "Dongseok Kim",
+    "Marco Bernabei",
+    "Carl J. Mallia",
+    "Erwin Reisner"
+  ],
+  "doi": "10.1021/jacs.6c18030",
+  "explained_at": null,
+  "field": "chemistry",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Carbon dots carrying a chiral catalyst drive asymmetric reactions to 93% e.e. and can be reused",
+  "hook_turn": "and can be reused",
+  "id": "doi-10.1021-jacs.6c18030",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "readout": {
+    "label": "Best enantiomeric excess, aldehyde alkylation",
+    "unit": "% e.e.",
+    "value": "93"
+  },
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "Carbon dots with a chiral organocatalyst attached act as both light absorber and handedness controller for making one mirror-image product. They gave up to 84% yield and 93% e.e., were recovered by precipitation and reused five times, and ran in a flow reactor tuned by Bayesian optimization. Only one reaction type (aldehyde alkylation) was tested.",
+  "tags": [
+    "photocatalysis",
+    "carbon dots",
+    "asymmetric synthesis"
+  ],
+  "title": "Conjugate Chiral Carbon Dots for Scalable Asymmetric Photocatalysis in Flow",
+  "url": "https://doi.org/10.1021/jacs.6c18030",
+  "venue": "Journal of the American Chemical Society"
+}

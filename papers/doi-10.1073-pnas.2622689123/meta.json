@@ -1,0 +1,38 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Shanshan Wang",
+    "Congxi Zhang",
+    "Hongjun Cai",
+    "De-Hua Lai",
+    "Long Li"
+  ],
+  "doi": "10.1073/pnas.2622689123",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "The parasite's odd mitochondrial entry gate shares the core channel design of human and yeast ones.",
+  "hook_turn": "shares the core channel design of human and yeast ones.",
+  "id": "doi-10.1073-pnas.2622689123",
+  "kit": null,
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "readout": {
+    "label": "Cryo-EM resolution of the ATOM complex",
+    "unit": "angstroms",
+    "value": "2.8"
+  },
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "A cryo-EM structure of the Trypanosoma brucei ATOM complex shows a new subunit and a dimeric channel much like the one in fungi and animals. Receptor and intermembrane-space regions differ, showing independent evolutionary solutions. The structure is a static snapshot of purified protein, so the translocation steps are inferred rather than watched.",
+  "tags": [
+    "mitochondria",
+    "cryo-EM",
+    "protein import"
+  ],
+  "title": "Structural insights into the evolution of mitochondrial protein import from the trypanosome ATOM complex.",
+  "url": "https://doi.org/10.1073/pnas.2622689123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

@@ -1,0 +1,43 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Adarsh P. Raghuram",
+    "Francesca M. Blondell",
+    "Jonathan M. Mortlock",
+    "Benjamin P. Maddox",
+    "Sohail Dasgupta",
+    "Holly A. J. Middleton-Spencer",
+    "Kaden R. A. Hazzard",
+    "Hannah M. Price",
+    "Philip D. Gregory",
+    "Simon L. Cornish"
+  ],
+  "doi": "10.1038/s41467-026-79032-4",
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Ultracold molecules host a synthetic lattice with edge states lasting about 500 tunnelling periods.",
+  "hook_turn": "lasting about 500 tunnelling periods.",
+  "id": "doi-10.1038-s41467-026-79032-4",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "readout": {
+    "label": "Coherence time in synthetic lattice",
+    "unit": "tunnelling periods",
+    "value": "~500"
+  },
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Synthetic dimensions use internal states of a particle as extra lattice sites. The team used rotational states of RbCs molecules linked by microwaves to build a Su-Schrieffer-Heeger lattice and tested edge state robustness against perturbations. The lattices span only up to eight states, so this is a small-scale demonstration.",
+  "tags": [
+    "ultracold molecules",
+    "topological states",
+    "quantum simulation"
+  ],
+  "title": "Probing topological edge states in a molecular synthetic dimension",
+  "url": "https://doi.org/10.1038/s41467-026-79032-4",
+  "venue": "Nature Communications"
+}

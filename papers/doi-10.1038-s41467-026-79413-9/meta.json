@@ -1,0 +1,38 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Lei Huang",
+    "Zhehan Yi",
+    "Tao Xiao",
+    "Jin-Lin Yang",
+    "Zefang Yang",
+    "Yiren Cheng",
+    "Shixing Yuan",
+    "Wulong Li",
+    "Long Chen",
+    "Xuhui Zhou",
+    "Hong Jin Fan",
+    "Lei Wei"
+  ],
+  "doi": "10.1038/s41467-026-79413-9",
+  "explained_at": null,
+  "field": "engineering",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A polarity-switching phthalimide lets four-electron Li-I2 pouch cells run past 1000 cycles.",
+  "id": "doi-10.1038-s41467-026-79413-9",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "A phthalimide molecule changes from electron-poor to electron-rich as the battery charges, first trapping iodine species to stop them shuttling, then stabilizing the reactive I+ state. Flexible Li-I2 pouch cells reached about 400 mAh per gram of iodine and over 1200 Wh per kg of iodine. Cathode-level energy is lower, at about 883 Wh per kg, and results are for lab-scale cells.",
+  "tags": [
+    "batteries",
+    "iodine"
+  ],
+  "title": "Switchable nucleophile-electrophile chemistry enables functional four-electron Li-I2 batteries",
+  "url": "https://doi.org/10.1038/s41467-026-79413-9",
+  "venue": "Nature Communications"
+}

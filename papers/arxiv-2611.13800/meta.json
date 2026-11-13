@@ -1,0 +1,37 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13800",
+  "authors": [
+    "Marc Christ",
+    "Sascha Neinert",
+    "Conrad Zimmermann",
+    "Klaus D\\\"oringshoff",
+    "Markus Krutzik"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "engineering",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A 3D-printed ceramic optical bench holds a rubidium frequency reference in just 6 mL",
+  "hook_turn": "in just 6 mL",
+  "id": "arxiv-2611.13800",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "readout": {
+    "exponent": -12,
+    "label": "Laser fractional frequency instability at 1 s",
+    "value": "3"
+  },
+  "significance": 6,
+  "status": "preprint",
+  "summary": "Researchers 3D-print monolithic ceramic optical benches, then align and glue optics onto them to build compact atomic sensors. A rubidium reference in a 6 mL alumina module stabilizes a laser to 3e-12 fractional instability at 1 s. The magnetometer and optical trap are designs or early demonstrators, with performance not yet shown in the field or space.",
+  "tags": [
+    "atomic sensors",
+    "additive manufacturing"
+  ],
+  "title": "Additively manufactured ceramic platforms for miniaturized optical frequency references and robust atomic sensor systems",
+  "url": "https://arxiv.org/abs/2611.13800",
+  "venue": "arXiv"
+}

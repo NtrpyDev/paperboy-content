@@ -1,0 +1,34 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13783",
+  "authors": [
+    "Qi Wang",
+    "Youjin Deng",
+    "Ming Li"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Triconnected percolation clusters have fractal dimension 1.2308 in 2D, falling to zero by 6D.",
+  "id": "arxiv-2611.13783",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "readout": {
+    "label": "Triconnected cluster fractal dimension, 2D",
+    "unit": "",
+    "value": "1.2308"
+  },
+  "significance": 5,
+  "status": "preprint",
+  "summary": "A new algorithm based on SPQR decomposition finds clusters that stay connected after removing any two sites, and Monte Carlo runs estimate their fractal dimension in 2, 3 and 4 dimensions. The dimension drops with dimension and vanishes at 6 and above, so the susceptibility stays finite for d of 3 or more. The values come from finite-size simulations, and the d=6 conclusion rests on logarithmic growth.",
+  "tags": [
+    "percolation",
+    "statistical mechanics"
+  ],
+  "title": "Critical geometry of triconnected clusters in percolation",
+  "url": "https://arxiv.org/abs/2611.13783",
+  "venue": "arXiv"
+}

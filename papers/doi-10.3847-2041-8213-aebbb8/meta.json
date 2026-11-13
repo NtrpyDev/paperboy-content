@@ -1,0 +1,33 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Jin-Ping Zhu",
+    "Yi-Han Iris Yin",
+    "Yun-Wei Yu",
+    "Zhuo Li",
+    "Bing Zhang"
+  ],
+  "doi": "10.3847/2041-8213/aebbb8",
+  "explained_at": null,
+  "field": "space",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Supernova shocks in dense circumstellar shells can make fast soft X-ray flashes with blackbody-like spectra",
+  "hook_turn": "with blackbody-like spectra",
+  "id": "doi-10.3847-2041-8213-aebbb8",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "A model of supernova shocks breaking out of dense gas shells predicts X-ray flashes of 10^43 to 10^45 erg/s lasting under about 10^4 seconds. It matches the light curves and temperatures of three known events, including XRF 060218. It is a theoretical fit to three events, so the shell properties it infers depend on the model's assumptions.",
+  "tags": [
+    "supernovae",
+    "X-ray transients",
+    "massive stars"
+  ],
+  "title": "Fast X-Ray Transients from Dense Circumstellar Material Shock Breakout and Cooling Emission",
+  "url": "https://doi.org/10.3847/2041-8213/aebbb8",
+  "venue": "The Astrophysical Journal Letters"
+}

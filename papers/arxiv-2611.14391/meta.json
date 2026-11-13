@@ -1,0 +1,44 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.14391",
+  "authors": [
+    "Feiyu Li",
+    "Yang Liu",
+    "Zhen Yang",
+    "Zhenxing Liu",
+    "Jiayu Ding",
+    "Yang Gao",
+    "Xuehui Liang",
+    "Weijie Sun",
+    "Yanjun Ma",
+    "Chuhong Yang",
+    "Guangming Xue",
+    "He Wang",
+    "Fei Yan"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "engineering",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "On-chip resistive loads reset transmon qubits in about 48 ns without exposing them to warm wiring.",
+  "id": "arxiv-2611.14391",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "readout": {
+    "label": "Median qubit reset time constant",
+    "unit": "ns",
+    "value": "~48"
+  },
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Dissipation units, resonators coupled to resistors on the chip, reset several transmons and clear leakage out of the third level. A 400 ns pulse leaves 0.29% and 0.67% residual excited population from the two starting states. Results come from a small multi-qubit device and are not yet tested inside full error-correction cycles.",
+  "tags": [
+    "superconducting qubits",
+    "qubit reset"
+  ],
+  "title": "Implementing rapid reset of superconducting qubits with on-chip dissipation",
+  "url": "https://arxiv.org/abs/2611.14391",
+  "venue": "arXiv"
+}

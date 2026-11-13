@@ -1,0 +1,41 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Hirohisa Yanagikawa",
+    "Toranosuke Tomikawa",
+    "Yuichi Kitagawa",
+    "Yasuchika Hasegawa",
+    "Kaplan Kirakci",
+    "Kamil Lang",
+    "Kazuyuki Ishii"
+  ],
+  "doi": "10.1021/jacs.6c12735",
+  "explained_at": null,
+  "field": "chemistry",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Molybdenum clusters glow with circularly polarized light, and a spin-forbidden transition is seen by MCD.",
+  "hook_turn": "and a spin-forbidden transition is seen by MCD.",
+  "id": "doi-10.1021-jacs.6c12735",
+  "kit": null,
+  "license": "other",
+  "published": "2026-11-11",
+  "readout": {
+    "exponent": -2,
+    "label": "Phosphorescence MCPL signal at 1.6 T",
+    "unit": "dissymmetry factor g",
+    "value": "~1.0"
+  },
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Three Mo6I8 cluster compounds were measured with magnetic circular dichroism and magnetic circularly polarized luminescence. The authors report the first direct MCD observation of a spin-forbidden singlet-to-triplet transition in a metal cluster, and strong phosphorescent polarization. Calculations were done on a chlorine model cluster, and the triplet signal needed highly concentrated solutions.",
+  "tags": [
+    "metal clusters",
+    "circularly polarized light",
+    "spectroscopy"
+  ],
+  "title": "Magneto-Optical Studies on the Orbital Angular Momenta and Spin–Orbit Coupling in the Excited Triplet States of Octahedral Mo6 Clusters: Magnetic Circular Dichroism and Magnetic Circularly Polarized Luminescence",
+  "url": "https://doi.org/10.1021/jacs.6c12735",
+  "venue": "Journal of the American Chemical Society"
+}

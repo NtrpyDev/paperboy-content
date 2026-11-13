@@ -1,0 +1,43 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Xinhong Hu",
+    "Qinhao Shi",
+    "Jinyu Wan",
+    "Meiyi Zhang",
+    "Yongfeng Zhao",
+    "Zi-Feng Ma",
+    "Yang Si",
+    "Pengyan Wang",
+    "Yang Liu",
+    "Feng Huo",
+    "Yufeng Zhao"
+  ],
+  "doi": "10.1021/jacs.6c17549",
+  "explained_at": null,
+  "field": "engineering",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "An electrolyte additive lets a sodium-ion pouch cell reach 200 Wh/kg and keep 162 Wh/kg at -20 C.",
+  "hook_turn": "keep 162 Wh/kg at -20 C.",
+  "id": "doi-10.1021-jacs.6c17549",
+  "kit": null,
+  "license": "other",
+  "published": "2026-11-12",
+  "readout": {
+    "label": "Pouch cell energy density at 25 C",
+    "unit": "Wh kg-1",
+    "value": "200"
+  },
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "A bulky borate additive ties up the PF6 anion, which doubles ionic conductivity from 2.41 to 5.34 mS per cm and lowers the barrier for sodium ions to leave their solvent shell. A 6.8 Ah pouch cell reached 200 Wh per kg at 25 C. The record claim is relative to other sodium-ion cells, and long-term cycling of the pouch cell is not described.",
+  "tags": [
+    "sodium-ion batteries",
+    "electrolytes"
+  ],
+  "title": "Solvent/Anion Codepleted Solvation Engineering Enables Low-Coordination Electrolytes for High-Energy and Low-Temperature Sodium-Ion Pouch Cells",
+  "url": "https://doi.org/10.1021/jacs.6c17549",
+  "venue": "Journal of the American Chemical Society"
+}

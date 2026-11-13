@@ -1,0 +1,37 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Hayden J Good",
+    "Mohammad Tabatabaei",
+    "Eiko Alzamora",
+    "Neel Eswaran",
+    "Sk Rajab Ali",
+    "Ambar C Velazquez-Albino",
+    "Zachary D Simon",
+    "Marcelo Febo",
+    "Lakiesha N Williams",
+    "Carlos M Rinaldi-Ramos"
+  ],
+  "doi": "10.1039/d6nr02497a",
+  "explained_at": null,
+  "field": "medicine",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Magnetic particle imaging spots early brain bleeding in injured mice that MRI misses at 24 hours.",
+  "hook_turn": "that MRI misses at 24 hours.",
+  "id": "doi-10.1039-d6nr02497a",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Mice with a moderate closed-head injury received iron oxide nanoparticles, and magnetic particle imaging showed strong local signal at the impact site that faded by 7 days. Sham animals showed none, and only this method clearly marked the injury at 24 hours versus MRI. It is a mouse study of one injury model, so human diagnostic value is unproven.",
+  "tags": [
+    "brain injury",
+    "medical imaging"
+  ],
+  "title": "Sensitive detection of in vivo traumatic brain injury foci using magnetic particle imaging.",
+  "url": "https://europepmc.org/articles/PMC13721992",
+  "venue": "Nanoscale"
+}

@@ -1,0 +1,29 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13458",
+  "authors": [
+    "Jean-Fran\\c{c}ois Lafont",
+    "Zhenghao Rao",
+    "Hongbin Sun"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Every finite quotient of a finite-volume Kleinian group is realized by a surface subgroup.",
+  "id": "arxiv-2611.13458",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "Given any surjection from a finite-covolume Kleinian group onto a finite group, the authors build a surface subgroup that still maps onto it. So surface subgroups are dense in the profinite topology. They use this to get new atoroidal surface bundles with signature zero. The result is a pure existence proof, with no explicit construction of the subgroups.",
+  "tags": [
+    "hyperbolic geometry",
+    "kleinian groups"
+  ],
+  "title": "Surface subgroups with prescribed finite quotients",
+  "url": "https://arxiv.org/abs/2611.13458",
+  "venue": "arXiv"
+}

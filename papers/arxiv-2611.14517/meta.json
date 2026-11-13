@@ -1,0 +1,27 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.14517",
+  "authors": [
+    "Bernat Espigule"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Nonreal polynomial roots form a connected set only when the height is h = q(q-1).",
+  "id": "arxiv-2611.14517",
+  "kit": null,
+  "license": "cc-by-sa",
+  "published": "2026-11-10",
+  "significance": 7,
+  "status": "preprint",
+  "summary": "Collecting the nonreal roots of integer polynomials with coefficients up to height h, the closure is connected exactly at pronic heights 2, 6, 12, 20 and so on, and has at least five components otherwise. The proofs compare values and derivatives of power series near a real double zero. This settles a twenty-year-old numerical observation at height two. Whether non-pronic heights always give infinitely many components is shown only for many cases.",
+  "tags": [
+    "polynomial roots",
+    "complex analysis"
+  ],
+  "title": "The closure of the nonreal roots of bounded-height polynomials is connected exactly at pronic heights",
+  "url": "https://arxiv.org/abs/2611.14517",
+  "venue": "arXiv"
+}

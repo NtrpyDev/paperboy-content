@@ -1,0 +1,28 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13604",
+  "authors": [
+    "Diego Marques"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A 1939 Erdős and Mahler conjecture is false. Numbers exist with infinitely many 2^a/3^b convergents.",
+  "hook_turn": "Numbers exist with infinitely many 2^a/3^b convergents.",
+  "id": "arxiv-2611.13604",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "significance": 7,
+  "status": "preprint",
+  "summary": "The author builds, for every real tau at least 4, a Cantor set of numbers with irrationality exponent tau, each having infinitely many continued-fraction convergents of the form 2^a/3^b. This gives a counterexample to the conjecture. The construction works only for tau of 4 or more, so smaller exponents are not covered by this result.",
+  "tags": [
+    "number theory",
+    "continued fractions"
+  ],
+  "title": "A counterexample to the Erd\\H{o}s--Mahler conjecture",
+  "url": "https://arxiv.org/abs/2611.13604",
+  "venue": "arXiv"
+}

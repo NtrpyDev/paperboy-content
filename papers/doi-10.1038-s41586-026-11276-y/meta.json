@@ -1,0 +1,33 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Jinho Park",
+    "Luke D Lynch",
+    "Elena Blanco-Romero",
+    "Roberto Masdemont-Maestro",
+    "Juan Méndez",
+    "Gheorghe Chistol"
+  ],
+  "doi": "10.1038/s41586-026-11276-y",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Single-molecule movies show PRIMPOL restarts stalled DNA copying by hitching onto the replicative helicase",
+  "hook_turn": "restarts stalled DNA copying by hitching onto the replicative helicase",
+  "id": "doi-10.1038-s41586-026-11276-y",
+  "kit": null,
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "significance": 7,
+  "status": "peer_reviewed",
+  "summary": "PRIMPOL lets cells skip DNA damage by starting a new primer ahead of the lesion. Imaging in nuclear extracts showed it is recruited by the CMG helicase, then hands the primer to the accurate polymerase ε. This was observed in cell extracts rather than intact cells.",
+  "tags": [
+    "dna replication",
+    "genome stability"
+  ],
+  "title": "The molecular basis of replication fork restart via repriming by PRIMPOL.",
+  "url": "https://doi.org/10.1038/s41586-026-11276-y",
+  "venue": "Nature"
+}

@@ -1,0 +1,41 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Fen Liu",
+    "Ge Xu",
+    "Hong-Yu Chen",
+    "Ding-Ming Li",
+    "Xin-Yu Xiao",
+    "Attila Mándi",
+    "Jun Wu",
+    "Ke-Wu Zeng",
+    "Tibor Kurtán",
+    "Li Shen"
+  ],
+  "doi": "10.1126/sciadv.ael2086",
+  "explained_at": null,
+  "field": "chemistry",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Pilot-scale algae culture yielded 157.7 mg of a 33-stereocenter polyketide whose structure was fully assigned.",
+  "id": "doi-10.1126-sciadv.ael2086",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "readout": {
+    "label": "Amphidiketol A obtained from Amphidinium sp.",
+    "unit": "mg",
+    "value": "157.7"
+  },
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "Giant marine polyketides have been hard to study because samples are scarce and floppy molecules resist structure assignment. Growing dinoflagellates at pilot scale gave over 100 mg of compounds, and a fragment-by-fragment method fixed the 33 stereocenters of amphidiketol A. Nine protein targets in lung cancer cells were identified, but biological effects were not shown beyond cell lines.",
+  "tags": [
+    "natural products",
+    "stereochemistry"
+  ],
+  "title": "Integrating biomass production platform and identification approach for stereochemical assignment of super-carbon-chain compounds.",
+  "url": "https://doi.org/10.1126/sciadv.ael2086",
+  "venue": "Science Advances"
+}

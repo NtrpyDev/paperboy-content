@@ -1,0 +1,28 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.10731",
+  "authors": [
+    "Lion Hirth"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "social",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "German price volatility fell as wind and solar grew, but price variability across the day rose",
+  "hook_turn": "but price variability across the day rose",
+  "id": "arxiv-2611.10731",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-07",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "The paper separates price differences across delivery times (variability) from price changes over trading time (volatility). Using 25 years of German data and 24 European bidding zones, variability fell then rose since the 2010s and grows with solar share, while volatility declined. The evidence is descriptive, so it does not prove that wind and solar cause the shifts.",
+  "tags": [
+    "electricity markets",
+    "renewable energy"
+  ],
+  "title": "Have wind and solar energy increased electricity price volatility? And what is electricity price volatility, anyway?",
+  "url": "https://arxiv.org/abs/2611.10731",
+  "venue": "arXiv"
+}

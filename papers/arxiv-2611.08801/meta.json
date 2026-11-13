@@ -1,0 +1,28 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.08801",
+  "authors": [
+    "Rodrigo Alberto Castro Mar\\'in"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "No method with fixed function and Jacobian budgets can exceed order 2^(N_F+N_J-1), a conjecture proved",
+  "hook_turn": "a conjecture proved",
+  "id": "arxiv-2611.08801",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-05",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "The paper proves the Cordero-Torregrosa conjecture: for solvers that make a fixed number of function and Jacobian queries per cycle, convergence order cannot exceed 2 to the power of the total queries minus one. The proof builds one entire function and one sequence of start points that defeats every higher exponent. These are upper bounds only, and the paper does not show any budget reaches them.",
+  "tags": [
+    "numerical analysis",
+    "root finding"
+  ],
+  "title": "Proof of the Cordero-Torregrosa Conjecture for Methods with Arbitrary Rules and Its Refinement under Paired Function and Jacobian Evaluations",
+  "url": "https://arxiv.org/abs/2611.08801",
+  "venue": "arXiv"
+}

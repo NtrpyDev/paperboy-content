@@ -1,0 +1,35 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Ruotong Deng",
+    "Ke Li",
+    "Rui Duan",
+    "Xinyue Zhang",
+    "Botian Gu",
+    "Lanqun Mao",
+    "Wei Cao"
+  ],
+  "doi": "10.1126/sciadv.aei6265",
+  "explained_at": null,
+  "field": "medicine",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A neuromelanin-like selenium nanomaterial restores neuron firing and protects irradiated mice",
+  "hook_turn": "restores neuron firing and protects irradiated mice",
+  "id": "doi-10.1126-sciadv.aei6265",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Metal-selenomelanin nanonetworks normalized neuronal excitability and striatal circuit activity in mice given 6 gray whole-body radiation, improving movement and anxiety-related behavior. Treated mice also all survived 30 days and showed protection of radiosensitive organs. The study is in mice with a single dose, and human benefit and safety are unknown.",
+  "tags": [
+    "radiation injury",
+    "nanomaterials",
+    "neuroprotection"
+  ],
+  "title": "Neuromelanin-inspired metal-selenomelanin nanonetworks restore neuronal excitability in radiation-induced brain injury.",
+  "url": "https://doi.org/10.1126/sciadv.aei6265",
+  "venue": "Science Advances"
+}

@@ -1,0 +1,49 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13941",
+  "authors": [
+    "Guy Shalev",
+    "Stephan Rasp",
+    "Boris Babenko",
+    "Andrew El-Kadi",
+    "Mohammed Alewi Hassen",
+    "Samier Merchant",
+    "Fred Zyda",
+    "Dominic Masters",
+    "Ferran Alet",
+    "Salva R\\\"uhling Cachay",
+    "Ilan Price",
+    "Akib Uddin",
+    "Nofar Peled Levi",
+    "Ben Gaiarin",
+    "Aaron Bell",
+    "Peter Battaglia",
+    "Alvaro Sanchez-Gonzalez"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "earth",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "An AI model estimates global rain every 15 minutes at 0.1 degrees and beats IMERG, ERA5 and HRES",
+  "hook_turn": "beats IMERG, ERA5 and HRES",
+  "id": "arxiv-2611.13941",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "readout": {
+    "label": "Stations used for independent evaluation",
+    "unit": "surface stations",
+    "value": "36,000"
+  },
+  "significance": 6,
+  "status": "preprint",
+  "summary": "PARDIG is a graph transformer trained on atmospheric analyses and geostationary imagery to predict spaceborne radar rainfall, then applied everywhere. Checks against radar networks in the US, Europe and Japan and over 36,000 stations show gains over IMERG V07, MSWEP V3, ERA5 and HRES, most at extreme rain. Its training targets cover limited radar swaths, so skill in unsampled regimes is less certain.",
+  "tags": [
+    "precipitation",
+    "machine learning"
+  ],
+  "title": "PARDIG: Global Precipitation Estimates Learned from Sparse Satellite Observations",
+  "url": "https://arxiv.org/abs/2611.13941",
+  "venue": "arXiv"
+}

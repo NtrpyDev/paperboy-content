@@ -1,0 +1,31 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Furtado Milao, J.",
+    "Ramakrishnan, L.",
+    "Yamaguchi, N."
+  ],
+  "doi": "10.64898/2026.11.10.765635",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Zebrafish lack MLKL and so have no canonical necroptosis, yet their RIPK3 still works",
+  "hook_turn": "yet their RIPK3 still works",
+  "id": "doi-10.64898-2026.11.10.765635",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Necroptosis is a form of programmed cell death that normally needs the protein MLKL. The team confirmed zebrafish lack it, and showed that fish missing Caspase-8 live to adulthood, unlike mice, where that loss is lethal. Overexpressing Ripk3 did not kill Caspase-8-deficient embryos. The evidence is genetic and from one species, so it says little about how other fish handle cell death.",
+  "tags": [
+    "cell death",
+    "zebrafish",
+    "immunity"
+  ],
+  "title": "Zebrafish lack canonical necroptosis despite retaining functional RIPK3",
+  "url": "https://doi.org/10.64898/2026.11.10.765635",
+  "venue": "bioRxiv"
+}

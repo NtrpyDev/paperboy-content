@@ -1,0 +1,29 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13816",
+  "authors": [
+    "Mohd Tahseen",
+    "Vivekanand Dabade"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Closed, stress-free martensite nuclei can form inside austenite, built from simple-shear deformations",
+  "hook_turn": "built from simple-shear deformations",
+  "id": "arxiv-2611.13816",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Earlier geometric conditions allow stress-free interfaces between austenite and martensite but do not guarantee they close into a nucleus. The authors identify families of deformations, including simple shear, that give self-accommodating closed martensite islands called elastic Landau states. Predictions match deformations reconstructed from observed microstructures, but that match is suggestive rather than proof of the mechanism.",
+  "tags": [
+    "martensite",
+    "shape memory alloys"
+  ],
+  "title": "Elastic Landau states as martensite nuclei in austenite",
+  "url": "https://arxiv.org/abs/2611.13816",
+  "venue": "arXiv"
+}

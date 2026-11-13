@@ -1,0 +1,35 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.12945",
+  "authors": [
+    "Annarita Ierardi",
+    "Alessio Mei",
+    "Gor Oganesyan",
+    "Stefano Ascenzi",
+    "Samuele Ronchini",
+    "Marica Branchesi",
+    "Biswajit Banerjee",
+    "Maria Edvige Ravasio"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "space",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Early X-ray decay spectra separate collapsar gamma-ray bursts from merger-driven ones",
+  "hook_turn": "separate collapsar gamma-ray bursts from merger-driven ones",
+  "id": "arxiv-2611.12945",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-06",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "Fitting the steep X-ray decay of 23 Swift bursts from collapsing stars, the authors find that spectral peak energy and cooling frequency track luminosity along a line distinct from merger candidates. They also offer a photon index and luminosity cut for Einstein Probe transients. The collapsar sample is small, and the merger comparison relies on candidates rather than confirmed events.",
+  "tags": [
+    "gamma-ray bursts",
+    "X-ray transients"
+  ],
+  "title": "Early X-ray emission as an observational diagnostic of gamma-ray burst progenitors",
+  "url": "https://arxiv.org/abs/2611.12945",
+  "venue": "arXiv"
+}

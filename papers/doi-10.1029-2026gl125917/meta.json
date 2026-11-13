@@ -1,0 +1,35 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Peng Yu Lin",
+    "Hua Yu Lu",
+    "Ye Si Zhao",
+    "Jiang Feng Shi",
+    "Hong Yan Zhang",
+    "Yao Gu",
+    "Ming Shui Zhao"
+  ],
+  "doi": "10.1029/2026gl125917",
+  "explained_at": null,
+  "field": "earth",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Tree rings in eastern China carry a strong El Niño signal in carbon-14 but only a weak solar one",
+  "hook_turn": "but only a weak solar one",
+  "id": "doi-10.1029-2026gl125917",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Carbon-14 in tree rings is mostly used to track the Sun, but data from subtropical Asia are scarce. An annual 1850 to 1933 record from eastern China matches the global calibration curve and shows El Niño years leave a clear imprint, probably through weaker upwelling of carbon-14-poor ocean CO2. It is one site and one tree record.",
+  "tags": [
+    "radiocarbon",
+    "ENSO",
+    "tree rings"
+  ],
+  "title": "Annual Atmospheric Δ 14 C Variations in the Subtropics During 1850–1933 CE Linked to ENSO",
+  "url": "https://doi.org/10.1029/2026gl125917",
+  "venue": "Geophysical Research Letters"
+}

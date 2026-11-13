@@ -1,0 +1,40 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Farooq, H.",
+    "Joves, K.",
+    "Petenkaya, A.",
+    "Solomon, I.",
+    "Leung, E. H. W.",
+    "Zhang, S.",
+    "Menhart, M.",
+    "Farhat, A.",
+    "Du, L.",
+    "Hay, N.",
+    "Pinho, S.",
+    "Chronis, C."
+  ],
+  "doi": "10.64898/2026.11.09.758913",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "One transcription factor, Cebp, produced four cell fates depending on motif density and partner proteins",
+  "hook_turn": "depending on motif density and partner proteins",
+  "id": "doi-10.64898-2026.11.09.758913",
+  "kit": null,
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "Cebp family factors gave fat, placenta-like, or immune cell outcomes depending on the starting cell. Higher Cebp levels reached more sites without changing the motif it reads, and adding partners such as Spi1 or TFAP2C rewrote the result. The work is in cultured mouse cells reprogrammed in the lab, and it is a preprint.",
+  "tags": [
+    "transcription factors",
+    "cell fate",
+    "reprogramming"
+  ],
+  "title": "Sequence context and partner availability specify divergent cell fates from a single transcription factor",
+  "url": "https://doi.org/10.64898/2026.11.09.758913",
+  "venue": "bioRxiv"
+}

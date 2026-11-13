@@ -1,0 +1,31 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Bozkurt, M. N.",
+    "Otsuki, L.",
+    "Tanaka, E. M."
+  ],
+  "doi": "10.64898/2026.11.10.765670",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Axolotl cells that switch off Sox9 rebuild limb skeleton better than cells that keep it on",
+  "hook_turn": "better than cells that keep it on",
+  "id": "doi-10.64898-2026.11.10.765670",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "Fate mapping in axolotl limbs showed that Sox9-expressing cells either kept the gene on and became cartilage, or turned it off and became other tissues such as dermal fibroblasts. During regeneration, cells that had turned Sox9 off contributed far more to new skeleton and could switch it back on. Findings come from one salamander species and genetic labeling.",
+  "tags": [
+    "regeneration",
+    "axolotl",
+    "cell fate"
+  ],
+  "title": "Reversible expression of a cartilage 'master regulator' during axolotl limb development and regeneration",
+  "url": "https://doi.org/10.64898/2026.11.10.765670",
+  "venue": "bioRxiv"
+}

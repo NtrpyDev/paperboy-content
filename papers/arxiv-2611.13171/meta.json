@@ -1,0 +1,28 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13171",
+  "authors": [
+    "Franco G\\'omez",
+    "Crist\\'obal Rivas"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Baumslag-Solitar groups act C^1 on an interval only when |m| equals |n|.",
+  "id": "arxiv-2611.13171",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "The authors settle exactly when the group BS(m,n) can be realized by once-differentiable orientation-preserving maps of the interval: only when |n| = |m|. For slightly smoother maps (C^(1+alpha)) the list shrinks to a few trivial cases. This is a pure proof, and it covers integers m and n other than -1, 0 and 1.",
+  "tags": [
+    "group theory",
+    "dynamical systems"
+  ],
+  "title": "Smooth actions of Baumslag-Solitar groups on the interval",
+  "url": "https://arxiv.org/abs/2611.13171",
+  "venue": "arXiv"
+}

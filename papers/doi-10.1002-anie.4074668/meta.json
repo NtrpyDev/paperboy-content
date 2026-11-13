@@ -1,0 +1,32 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Michaela Šusterová",
+    "Guilhem Claude",
+    "Susanne M Rupf",
+    "Evgeny A Kataev",
+    "Ulrich Abram",
+    "Vladimír Šindelář"
+  ],
+  "doi": "10.1002/anie.4074668",
+  "explained_at": null,
+  "field": "chemistry",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A bambusuril-coated silica captures pertechnetate from seawater at femtomolar levels.",
+  "id": "doi-10.1002-anie.4074668",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "Bambusuril macrocycles bind pertechnetate, a radioactive technetium ion, in water, and anchoring them on silica gave a solid extractant that works in seawater and in nuclear medicine generator solutions. It also released the captured ion into kit formulations. The tests used lab solutions, not real waste streams.",
+  "tags": [
+    "nuclear waste",
+    "supramolecular chemistry"
+  ],
+  "title": "Quantitative Pertechnetate Capture by a Bambusuril-based Material: From Seawater Decontamination to Radiopharmaceutical Solutions.",
+  "url": "https://doi.org/10.1002/anie.4074668",
+  "venue": "Angewandte Chemie International Edition"
+}

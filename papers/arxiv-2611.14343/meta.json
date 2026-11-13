@@ -1,0 +1,31 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.14343",
+  "authors": [
+    "Sourabh Magare",
+    "Anindya",
+    "Anupreeta More",
+    "Shasvath J. Kapadia"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "space",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Lensed gravitational waves could warn of neutron-star mergers hours to days ahead, in simulation.",
+  "hook_turn": "in simulation.",
+  "id": "arxiv-2611.14343",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Gravitational lensing can delay and repeat a merger signal so telescopes get early warning. The authors simulate lensed binary neutron star and neutron star-black hole mergers detectable in the O5 run and compute LSST light curves, finding about 60% of BNS kilonovae and 10% of NSBH kilonovae visible in one exposure. This is a population simulation built on model assumptions, not an observation.",
+  "tags": [
+    "gravitational waves",
+    "kilonovae"
+  ],
+  "title": "Leveraging Lensing-driven Early Warnings: Joint Detectability of lensed Gravitational Waves and their LSST Optical Counterparts",
+  "url": "https://arxiv.org/abs/2611.14343",
+  "venue": "arXiv"
+}

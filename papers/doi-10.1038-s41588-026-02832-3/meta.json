@@ -1,0 +1,44 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Phoebe Dace",
+    "Nicole M Forrester",
+    "Maria Zanti",
+    "Laura Cubitt",
+    "Chloé Terwagne",
+    "Megan Buckley",
+    "Elke M van Veen",
+    "Thomas Stuart Wilson",
+    "Paola Scaffidi",
+    "Kyriaki Michailidou",
+    "Gregory M Findlay"
+  ],
+  "doi": "10.1038/s41588-026-02832-3",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Nearly half of BRCA1 variants that look broken in one cell line score neutral in breast cells.",
+  "hook_turn": "score neutral in breast cells.",
+  "id": "doi-10.1038-s41588-026-02832-3",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "readout": {
+    "label": "Previously unassayed BRCA1 variants scored",
+    "unit": "variants",
+    "value": "4,113"
+  },
+  "significance": 7,
+  "status": "peer_reviewed",
+  "summary": "The team edited BRCA1 across the gene in HAP1 cells, scoring 4,113 previously unassayed variants, and built a matching assay in mammary epithelial cells. Variants that disagreed between the two cell types behaved as hypomorphs, partly reduced in function, and tracked with intermediate cancer risk. The scores are lab measurements in cultured cells, not outcomes in patients.",
+  "tags": [
+    "BRCA1",
+    "genome editing",
+    "variant interpretation"
+  ],
+  "title": "Saturation genome editing of BRCA1 across cell types improves interpretation of variant pathogenicity.",
+  "url": "https://doi.org/10.1038/s41588-026-02832-3",
+  "venue": "Nature Genetics"
+}

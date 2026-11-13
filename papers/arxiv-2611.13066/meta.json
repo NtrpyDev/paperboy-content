@@ -1,0 +1,28 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13066",
+  "authors": [
+    "Till Rauch-M\\\"uller",
+    "Arsenii Sagdeev"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Every 2-coloring of the plane has a monochromatic copy of any triangle with side ratio sqrt(7/3).",
+  "id": "arxiv-2611.13066",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-09",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "The paper confirms the Erdos et al. conjecture for triangles with a ratio of sqrt(7/3) between two sides, and shows that any coloring of the plane has monochromatic or rainbow copies of 36 specific triangles. Both results come from analyzing finite configurations on the triangular lattice. The general conjecture for all non-equilateral triangles remains open.",
+  "tags": [
+    "combinatorial geometry",
+    "ramsey theory"
+  ],
+  "title": "Monochromatic or rainbow triangles in the triangular lattice",
+  "url": "https://arxiv.org/abs/2611.13066",
+  "venue": "arXiv"
+}

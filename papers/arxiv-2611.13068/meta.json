@@ -1,0 +1,29 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13068",
+  "authors": [
+    "Lingrui Ge",
+    "Svetlana Jitomirskaya",
+    "Jiangong You"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "The ten martini problem is solved for the positive-Lyapunov spectrum of analytic Schrodinger operators.",
+  "id": "arxiv-2611.13068",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-09",
+  "significance": 8,
+  "status": "preprint",
+  "summary": "The authors settle the ten martini problem, a question about the Cantor structure of the spectrum, for the positive-Lyapunov part of any nonconstant real analytic one-frequency Schrodinger operator. They extend an almost-reducibility strategy from two-dimensional to arbitrary finite-dimensional centers using a symplectic structure. The result covers the positive-Lyapunov part of the spectrum only.",
+  "tags": [
+    "spectral theory",
+    "mathematical physics"
+  ],
+  "title": "The Supercritical Ten Martini Problem",
+  "url": "https://arxiv.org/abs/2611.13068",
+  "venue": "arXiv"
+}

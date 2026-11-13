@@ -1,0 +1,35 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Liang, C.",
+    "Zhou, M.",
+    "Pan, Y."
+  ],
+  "doi": "10.64898/2026.11.09.765449",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "The first full-length structure of human hephaestin shows a membrane-anchored homodimer at 2.3 angstroms.",
+  "id": "doi-10.64898-2026.11.09.765449",
+  "kit": null,
+  "license": "other",
+  "published": "2026-11-12",
+  "readout": {
+    "label": "Cryo-EM resolution, full-length hephaestin",
+    "unit": "angstroms",
+    "value": "2.3"
+  },
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Hephaestin helps move iron out of gut cells. The authors purified the full-length human protein and solved its cryo-EM structure, a stable homodimer with a negatively charged funnel leading to the substrate site that may capture Fe2+. The membrane helices are less well resolved, and how it works with ferroportin was not tested.",
+  "tags": [
+    "cryo-EM",
+    "iron metabolism",
+    "protein structure"
+  ],
+  "title": "Structure of human hephaestin reveals a homodimer anchored to the cell membrane",
+  "url": "https://doi.org/10.64898/2026.11.09.765449",
+  "venue": "bioRxiv"
+}

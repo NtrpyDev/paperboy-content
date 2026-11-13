@@ -1,0 +1,27 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13174",
+  "authors": [
+    "Konstantinos Karagiannis"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A partial view of a quantum code leaks exactly 1 minus 2 times the failure rate of decoding on that view.",
+  "id": "arxiv-2611.13174",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-09",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "For any region of a toric code and any Pauli noise, an eavesdropper's best advantage in learning a logical bit equals 1 - 2 P_fail, where P_fail is the failure rate of decoding using only that region. A region missing one column of the code learns nothing, and a strip's threshold matches the Nishimori point of the random-bond Ising model. Tests on two IBM Heron processors (d = 3, 5) use an emulated adversary, not a real attack.",
+  "tags": [
+    "quantum error correction",
+    "toric code"
+  ],
+  "title": "How wide must an eavesdropper be? Leakage of a toric-code logical bit to a strip and the Nishimori point",
+  "url": "https://arxiv.org/abs/2611.13174",
+  "venue": "arXiv"
+}

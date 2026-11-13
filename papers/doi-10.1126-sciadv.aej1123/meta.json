@@ -1,0 +1,33 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Cooper J Yerby",
+    "Xiangyu Chen",
+    "Gabriel Gonsalves Bertho",
+    "Chongqing Zhu",
+    "Joseph S Francisco",
+    "Dai-Bei Yang"
+  ],
+  "doi": "10.1126/sciadv.aej1123",
+  "explained_at": null,
+  "field": "earth",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "In simulations, trace atmospheric gases slow ice growth and thin the liquid-like layer on ice.",
+  "hook_turn": "slow ice growth and thin the liquid-like layer on ice.",
+  "id": "doi-10.1126-sciadv.aej1123",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Gases in cold air are usually treated as bystanders at ice surfaces. Molecular simulations show that every gas tested slows the ice front by sticking weakly at the water-ice interface, and after freezing they gather near the quasi-liquid layer and air boundary, passivating dangling bonds and thinning that layer. The work is simulation only, with no laboratory measurement of the effect.",
+  "tags": [
+    "ice",
+    "atmospheric chemistry"
+  ],
+  "title": "Weak adsorption, strong consequences: How trace gases control ice growth and quasi-liquid-layer structure.",
+  "url": "https://doi.org/10.1126/sciadv.aej1123",
+  "venue": "Science Advances"
+}

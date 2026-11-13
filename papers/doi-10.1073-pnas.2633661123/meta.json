@@ -1,0 +1,31 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Zachary R Miller",
+    "David A Vasseur",
+    "Pincelli M Hull"
+  ],
+  "doi": "10.1073/pnas.2633661123",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Dormancy can calm oscillating food webs, but mostly in structured ones.",
+  "hook_turn": "but mostly in structured ones.",
+  "id": "doi-10.1073-pnas.2633661123",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Models show that dormant individuals, which sit out interactions, turn fast oscillations into a strong restoring force that steadies a minimal system. In larger food webs it helps mainly when the web is structured and prone to oscillatory instability, and rarely in unstructured or symmetric networks. This is theory only, with no field data on real food webs.",
+  "tags": [
+    "ecology",
+    "food webs",
+    "dormancy"
+  ],
+  "title": "Dormancy stabilizes structured food webs.",
+  "url": "https://doi.org/10.1073/pnas.2633661123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

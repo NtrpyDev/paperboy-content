@@ -1,0 +1,30 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Ballen, G. A.",
+    "Solis-Lemus, C. A.",
+    "Tiley, G. P.",
+    "Oliveira, C."
+  ],
+  "doi": "10.64898/2026.11.09.765406",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Ostariophysan fish history fits a network with four hybridization events better than a simple tree.",
+  "id": "doi-10.64898-2026.11.09.765406",
+  "kit": null,
+  "license": "cc-by-nc",
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "The authors built a way to measure support for branches in evolutionary networks and applied it to the large group of fishes including carp and catfish. A tree was not the best model, and a network with four reticulation events fit best, though their placement was uncertain. They also ran a first, simple biogeographic reconstruction on a network, which they describe as a starting point only.",
+  "tags": [
+    "phylogenetics",
+    "fish evolution"
+  ],
+  "title": "Beyond tree-like evolution in ostariophysan fishes",
+  "url": "https://doi.org/10.64898/2026.11.09.765406",
+  "venue": "bioRxiv"
+}

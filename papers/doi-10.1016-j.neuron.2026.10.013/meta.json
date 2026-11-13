@@ -1,0 +1,36 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Chih-Ming Chen",
+    "Yu-Min Huang",
+    "Chih-Ching Chung",
+    "Richard C Johnson",
+    "Cheng-Ya Tsai",
+    "Yu-Han Chen",
+    "Han L Tan",
+    "Fu-Yun Hsiao",
+    "Richard L Huganir",
+    "Shu-Ling Chiu"
+  ],
+  "doi": "10.1016/j.neuron.2026.10.013",
+  "explained_at": null,
+  "field": "neuroscience",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "One neonatal antisense dose rescued autism-like behavior and hippocampal damage in mice with a GRIA1 variant.",
+  "id": "doi-10.1016-j.neuron.2026.10.013",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "Mice carrying the autism-linked GRIA1 A636T variant showed autism-like behavior and progressive hippocampal neuron loss from excitotoxicity, because their AMPA receptors never switched to the calcium-impermeable form. A single allele-specific antisense oligonucleotide given at birth prevented the damage. It is a mouse model, and treatment so early may be hard to match in people.",
+  "tags": [
+    "autism",
+    "antisense therapy"
+  ],
+  "title": "Antisense oligonucleotide silencing rescues neurodevelopmental deficits in AMPA receptor gain-of-function mice.",
+  "url": "https://doi.org/10.1016/j.neuron.2026.10.013",
+  "venue": "Neuron"
+}

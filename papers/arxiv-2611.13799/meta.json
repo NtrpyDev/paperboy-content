@@ -1,0 +1,37 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13799",
+  "authors": [
+    "Minho Jang",
+    "Jaeyong Hwang",
+    "Minhyeok Kim",
+    "Sanghyo Park",
+    "Donggyu Kim"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Photodiode homodyne readout could detect atom-qubit states above 99% fidelity in 100 microseconds",
+  "hook_turn": "in 100 microseconds",
+  "id": "arxiv-2611.13799",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "readout": {
+    "label": "Predicted state-detection fidelity, simulation",
+    "unit": "%",
+    "value": ">99"
+  },
+  "significance": 5,
+  "status": "preprint",
+  "summary": "The authors propose reading out neutral-atom qubits by mixing the atoms' fluorescence with a reference beam on photodiodes, avoiding slow cameras. An analytic model of atomic motion, checked with 3D Monte Carlo simulation, finds an optimal detection time and predicts fidelity above 99% within 100 microseconds. This is simulation only, with no experiment yet.",
+  "tags": [
+    "neutral atoms",
+    "qubit readout"
+  ],
+  "title": "Coherent Optical Readout of Neutral-Atom Qubits via Homodyne Detection of Resonant Fluorescence",
+  "url": "https://arxiv.org/abs/2611.13799",
+  "venue": "arXiv"
+}

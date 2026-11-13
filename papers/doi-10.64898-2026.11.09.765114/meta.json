@@ -1,0 +1,34 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Denagamage, S.",
+    "Foltz, M.",
+    "Dalstein, V. M.",
+    "Behnia, R.",
+    "Card, G. M.",
+    "Axel, R.",
+    "Cury, K. M."
+  ],
+  "doi": "10.64898/2026.11.09.765114",
+  "explained_at": null,
+  "field": "neuroscience",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Flies spot a predator wasp by its long antennae. A handful of neurons steer the defense.",
+  "hook_turn": "A handful of neurons steer the defense.",
+  "id": "doi-10.64898-2026.11.09.765114",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 7,
+  "status": "preprint",
+  "summary": "Flies kick and swat in directions set by where a parasitoid wasp appears, triggered mainly by the wasp's elongated antennae. Genetic manipulation and activity recordings traced this to a few visual neuron types that feed LC9, which combines antenna and body signals before passing the wasp's location to motor circuits. The work is in flies and a single predator, so the general mechanism is a proposal.",
+  "tags": [
+    "vision",
+    "Drosophila"
+  ],
+  "title": "Visual object recognition in the fly: the internal representation of a predator drives defensive behaviour",
+  "url": "https://doi.org/10.64898/2026.11.09.765114",
+  "venue": "bioRxiv"
+}

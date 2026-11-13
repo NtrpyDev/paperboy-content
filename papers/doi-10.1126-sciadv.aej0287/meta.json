@@ -1,0 +1,40 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Huace Hu",
+    "Daqian Li",
+    "Hui Gao",
+    "Fayu Chen",
+    "Mingduo Zhang",
+    "Zongjing Li",
+    "Aofei Mao",
+    "Wei Xiong"
+  ],
+  "doi": "10.1126/sciadv.aej0287",
+  "explained_at": null,
+  "field": "engineering",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Pyrolysis during 3D printing cuts lattice error in visible-light photonic crystals about 45-fold.",
+  "hook_turn": "cuts lattice error in visible-light photonic crystals about 45-fold.",
+  "id": "doi-10.1126-sciadv.aej0287",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "readout": {
+    "label": "Lattice-period standard deviation, 3D diamond PhCs",
+    "unit": "nm",
+    "value": "5.75"
+  },
+  "significance": 7,
+  "status": "peer_reviewed",
+  "summary": "Printing photonic crystals that work at visible wavelengths has been hard because precision and shape freedom trade off. The team added a suspended pyrolysis step to two-photon printing, giving diamond-lattice crystals with a 5.75 nm spread in lattice period and uniform reflection spectra. Results are shown for small printed structures and arrays, not for finished optical devices.",
+  "tags": [
+    "photonic crystals",
+    "3d printing"
+  ],
+  "title": "Controllable fabrication of visible-spectrum 3D photonic crystals.",
+  "url": "https://doi.org/10.1126/sciadv.aej0287",
+  "venue": "Science Advances"
+}

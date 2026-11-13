@@ -1,0 +1,34 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Danni Wang",
+    "Jiabin Luan",
+    "Ajeeth Kanagarajan",
+    "Rachel L Hendrikse",
+    "Mark R Wilson",
+    "Shaohua Zhang",
+    "Wei Li",
+    "Daniela A Wilson"
+  ],
+  "doi": "10.1038/s41557-026-02298-0",
+  "explained_at": null,
+  "field": "chemistry",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Synthetic vesicles swim away from a chemical signal with no catalyst or outside energy.",
+  "id": "doi-10.1038-s41557-026-02298-0",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "A minimal polymer vesicle shows negative chemotaxis, moving away from a chemical cue because its hydrophobic membrane domains rearrange and shift interfacial tension. This offers a molecular mechanism for artificial motility that mimics cytoskeletal remodeling. The abstract gives no quantitative performance, and the system is a simplified lab model, far from a living protocell.",
+  "tags": [
+    "chemotaxis",
+    "protocells"
+  ],
+  "title": "Conformationally driven negative chemotaxis in synthetic vesicles.",
+  "url": "https://doi.org/10.1038/s41557-026-02298-0",
+  "venue": "Nature Chemistry"
+}

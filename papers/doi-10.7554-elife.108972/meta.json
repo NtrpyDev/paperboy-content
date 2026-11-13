@@ -1,0 +1,34 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Tamara Gedankien",
+    "Jennifer Kriegel",
+    "Erfan Zabeh",
+    "David McDonagh",
+    "Bradley C Lega",
+    "Joshua Jacobs"
+  ],
+  "doi": "10.7554/elife.108972",
+  "explained_at": null,
+  "field": "neuroscience",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Blocking acetylcholine disrupted human hippocampal theta at retrieval without hurting memory",
+  "hook_turn": "without hurting memory",
+  "id": "doi-10.7554-elife.108972",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 7,
+  "status": "peer_reviewed",
+  "summary": "Patients with implanted brain electrodes received scopolamine, which blocks acetylcholine receptors, during a memory task. Dosing at encoding disrupted slow theta waves and impaired recollection, but dosing only at retrieval disrupted theta with no memory loss. That suggests slow theta reflects encoding, not retrieval. The participants are neurosurgical patients, so results may not generalize.",
+  "tags": [
+    "memory",
+    "hippocampus",
+    "acetylcholine"
+  ],
+  "title": "Cholinergic blockade reveals a role for human hippocampal theta in memory encoding but not retrieval.",
+  "url": "https://doi.org/10.7554/elife.108972",
+  "venue": "eLife"
+}

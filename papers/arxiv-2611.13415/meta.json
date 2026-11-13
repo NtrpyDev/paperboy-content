@@ -1,0 +1,29 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13415",
+  "authors": [
+    "Farzad Maghsoudi",
+    "Dragan Maru\\v{s}i\\v{c}",
+    "Bobby Miraftab"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Every connected vertex-transitive graph with a prime-power number of vertices has a Hamiltonian cycle.",
+  "id": "arxiv-2611.13415",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "significance": 7,
+  "status": "preprint",
+  "summary": "A vertex-transitive graph looks the same from every vertex, and the authors show that when its vertex count is a prime power (at least 3), a cycle visiting every vertex exactly once always exists. They extend Witte's 1986 theorem on Cayley digraphs of p-groups. It covers only prime-power orders, so the general question stays open.",
+  "tags": [
+    "graph theory",
+    "hamiltonian cycles"
+  ],
+  "title": "Hamilton cycles in vertex-transitive graphs of prime-power order",
+  "url": "https://arxiv.org/abs/2611.13415",
+  "venue": "arXiv"
+}

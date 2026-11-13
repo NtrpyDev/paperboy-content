@@ -1,0 +1,40 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Seongryong Kim",
+    "Sungmin Cheong",
+    "Suho Lee",
+    "Yeju Kim",
+    "Ronald Xie",
+    "In Gyeong Koh",
+    "Jeongwoo La",
+    "Chanwoong Hwa",
+    "Hyunsu An",
+    "Jihwan Park",
+    "Joon-Yong An",
+    "Bo Wang",
+    "Jong-Eun Park"
+  ],
+  "doi": "10.1038/s41592-026-03295-4",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A 46.5-million-cell atlas across 160 diseases reveals shared cell-response patterns across organs.",
+  "hook_turn": "reveals shared cell-response patterns across organs.",
+  "id": "doi-10.1038-s41592-026-03295-4",
+  "kit": null,
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-12",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "PANGEA remaps public single-cell data with an automated pipeline and a 32-type, 165-subtype cell classification, then compares disease responses across 48 organs. It finds recurring disease archetypes and works as a reference for spatial transcriptomics. It rests on public datasets of uneven quality, so batch and sampling biases may remain.",
+  "tags": [
+    "cell atlas",
+    "single-cell"
+  ],
+  "title": "PANGEA: an integrated cell atlas across diverse biological contexts enables systematic profiling of multicellular responses in human diseases.",
+  "url": "https://doi.org/10.1038/s41592-026-03295-4",
+  "venue": "Nature Methods"
+}

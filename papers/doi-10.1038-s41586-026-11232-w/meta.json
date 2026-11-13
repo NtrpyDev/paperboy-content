@@ -1,0 +1,30 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Lingsheng Meng",
+    "Hanmo Yang",
+    "Grant Miller",
+    "Hongbin Li"
+  ],
+  "doi": "10.1038/s41586-026-11232-w",
+  "explained_at": null,
+  "field": "social",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "China's one vote veto policy explains nearly half of the 1990s fertility decline.",
+  "id": "doi-10.1038-s41586-026-11232-w",
+  "kit": null,
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "The one-child policy had little early effect on fertility, but the authors find it bit once officials faced career penalties for failing to comply. Using differences in when provinces adopted the veto, they attribute nearly half of the 1990s drop to it, mostly through official-recommended IUD use. This is a statistical inference from policy timing, so other regional changes could still contribute.",
+  "tags": [
+    "fertility",
+    "china"
+  ],
+  "title": "Bureaucratic incentives shaped effectiveness of the one-child policy in China.",
+  "url": "https://doi.org/10.1038/s41586-026-11232-w",
+  "venue": "Nature"
+}

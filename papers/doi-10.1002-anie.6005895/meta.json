@@ -1,0 +1,40 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Wei Wang",
+    "Haipei Shao",
+    "Guotao Xiao",
+    "Xingyao Ye",
+    "Mingchao Zhang",
+    "Ming Lin",
+    "Delin Qi",
+    "Donglin Jiang"
+  ],
+  "doi": "10.1002/anie.6005895",
+  "explained_at": null,
+  "field": "chemistry",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Cationic-pocket COFs cut PFOA from 1000 to 3.85 ng per liter in 10 minutes.",
+  "hook_turn": "in 10 minutes.",
+  "id": "doi-10.1002-anie.6005895",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "readout": {
+    "label": "PFOA left after 10 min, batch test",
+    "unit": "ng/L",
+    "value": "3.85"
+  },
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "Covalent organic frameworks with closely spaced pairs of quaternary ammonium sites bind PFAS strongly, working on ten different PFAS. Flow operation reached 0.82 ng per liter. Tests used lab water, so real contaminated water with competing ions may perform differently.",
+  "tags": [
+    "PFAS",
+    "water treatment"
+  ],
+  "title": "Covalent Organic Frameworks for Exceptional Removal of PFAS From Water.",
+  "url": "https://doi.org/10.1002/anie.6005895",
+  "venue": "Angewandte Chemie International Edition"
+}

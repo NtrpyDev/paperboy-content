@@ -1,0 +1,36 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Matteo Simoni",
+    "Ivan Rojkov",
+    "Matteo Mazzanti",
+    "Wojciech Adamczyk",
+    "Alexander Ferk",
+    "Pavel Hrmo",
+    "Shreyans Jain",
+    "Tobias Sägesser",
+    "Daniel Kienzler",
+    "Jonathan Home"
+  ],
+  "doi": "10.1126/sciadv.aee5380",
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A single trapped ion was driven into Schrödinger cat states with two to five components.",
+  "id": "doi-10.1126-sciadv.aee5380",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "Physicists used one trapped ion's vibration, pushed into a strongly nonlinear regime, to create cat states with two, three, four and five components. They did it with a new form of engineered dissipation and then measured the states. This is a proof of principle on one ion, and its use for error correction or sensing is still prospective.",
+  "tags": [
+    "quantum control",
+    "trapped ions"
+  ],
+  "title": "Nonlinear cooling and control of a mechanical quantum harmonic oscillator.",
+  "url": "https://doi.org/10.1126/sciadv.aee5380",
+  "venue": "Science Advances"
+}

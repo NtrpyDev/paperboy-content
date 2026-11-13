@@ -1,0 +1,35 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Anuk Kruawan",
+    "Rajendra Kc",
+    "David A Gell",
+    "Jocelyn M Darby",
+    "Weizhen Zhu",
+    "Chrissie E B Ong",
+    "Kirsten A Fairfax",
+    "Andy Flies"
+  ],
+  "doi": "10.1098/rsos.260028",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A CRISPR swab test detects Tasmanian devil facial tumour DNA in the field.",
+  "hook_turn": "in the field.",
+  "id": "doi-10.1098-rsos.260028",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Using the SHERLOCK method, which pairs isothermal DNA amplification with CRISPR-triggered reporters, the team built a portable test for both transmissible cancers, DFT1 and DFT2, sensitive to attomolar DNA. It detected DFT1 from non-invasive swabs in the field. Field confirmation covered DFT1 only, and detecting tumours before they are visible still needs wider validation.",
+  "tags": [
+    "wildlife disease",
+    "CRISPR diagnostics"
+  ],
+  "title": "Development of a point-of-care field test for Tasmanian devil facial tumour disease.",
+  "url": "https://europepmc.org/articles/PMC13750945",
+  "venue": "Royal Society open science"
+}

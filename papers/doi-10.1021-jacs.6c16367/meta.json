@@ -1,0 +1,43 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Lu Liu",
+    "Yanyan Yu",
+    "Borui Yang",
+    "Jialong Li",
+    "Haotian Zhou",
+    "Lanhao Yang",
+    "Niling Lou",
+    "Qianqian Lu",
+    "Ruohan Yu",
+    "Qiulong Wei",
+    "Dongyuan Zhao",
+    "Kun Lan"
+  ],
+  "doi": "10.1021/jacs.6c16367",
+  "explained_at": null,
+  "field": "chemistry",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Cold-temperature assembly makes carbon nanospheres with straight radial pores for sodium storage.",
+  "id": "doi-10.1021-jacs.6c16367",
+  "kit": null,
+  "license": "other",
+  "published": "2026-11-12",
+  "readout": {
+    "label": "Capacity retention after 1000 cycles at 2 A g-1",
+    "unit": "%",
+    "value": "90.5"
+  },
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Using sheet-like polymer micelles grown at 5 C instead of spherical ones, the team made wrinkled carbon nanospheres about 910 nm wide with 36 nm pores that connect 96% of the way through. As a sodium-ion anode they kept 90.5% capacity after 1000 cycles and beat commercial hard carbon. Tests were on small lab cells.",
+  "tags": [
+    "porous carbon",
+    "sodium-ion batteries"
+  ],
+  "title": "Low-Temperature-Mediated Lamellar–Micelle Assembly of Wrinkled Mesoporous Carbon Nanospheres with Aligned Pores and High Interconnectivity",
+  "url": "https://doi.org/10.1021/jacs.6c16367",
+  "venue": "Journal of the American Chemical Society"
+}

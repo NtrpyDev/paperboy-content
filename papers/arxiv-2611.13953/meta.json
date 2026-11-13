@@ -1,0 +1,32 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13953",
+  "authors": [
+    "Bakhodir Kayumov"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Models predict making element 120 with titanium-50 beams yields only about 18 femtobarns.",
+  "id": "arxiv-2611.13953",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "readout": {
+    "label": "Peak 3n cross section, Ti-50 + Cf-249",
+    "unit": "fb",
+    "value": "18"
+  },
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Using a dinuclear system model, the study estimates how often titanium-50 beams on berkelium-249 or californium-249 would produce elements 119 and 120, and predicts their alpha-decay chains. The peak cross sections sit well below the upper limits set by earlier GSI experiments. It is a calculation tuned to one measured reaction, and other nuclear mass tables give values up to 25 times smaller.",
+  "tags": [
+    "superheavy elements",
+    "nuclear reactions"
+  ],
+  "title": "Formation of superheavy elements 119 and 120 in the $^{50}$Ti+$^{249}$Bk and $^{50}$Ti+$^{249}$Cf reactions: dinuclear system dynamics, survival probability, and decay chains of the evaporation residues",
+  "url": "https://arxiv.org/abs/2611.13953",
+  "venue": "arXiv"
+}

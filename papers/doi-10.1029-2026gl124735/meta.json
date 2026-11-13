@@ -1,0 +1,39 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Zhili Tang",
+    "Xiaohui Ma",
+    "Lixin Wu",
+    "Shenghui Zhou",
+    "Hong Wang",
+    "Baiping Wang"
+  ],
+  "doi": "10.1029/2026gl124735",
+  "explained_at": null,
+  "field": "earth",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A high-resolution climate model fixes the bomb cyclone undercount, projecting fewer but wetter, windier storms",
+  "hook_turn": "projecting fewer but wetter, windier storms",
+  "id": "doi-10.1029-2026gl124735",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "readout": {
+    "label": "Projected bomb cyclone rain rise per kelvin",
+    "unit": "% per K",
+    "value": "~14.8"
+  },
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Coarse climate models miss about 30% of bomb cyclones, storms that deepen explosively. A 0.25 degree model reduces that bias and projects fewer such storms under strong warming but stronger winds and heavier rain, driven by stronger uplift rather than extra moisture alone. Results come from one model under a high-emissions scenario.",
+  "tags": [
+    "bomb cyclones",
+    "climate projection",
+    "extreme weather"
+  ],
+  "title": "Improved Simulation and Projection of Northern Hemisphere Bomb Cyclones in a High‐Resolution Coupled Climate Model",
+  "url": "https://doi.org/10.1029/2026gl124735",
+  "venue": "Geophysical Research Letters"
+}

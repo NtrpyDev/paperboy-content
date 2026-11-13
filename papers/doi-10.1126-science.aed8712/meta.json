@@ -1,0 +1,49 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Fangchao Xue",
+    "Shanlan Zhao",
+    "Hao Tian",
+    "Lang Li",
+    "Xinrong Xu",
+    "Yixiang Lu",
+    "Kaige Xu",
+    "Lang He",
+    "Yueying Wang",
+    "Zhaojing Ba",
+    "Yumei Que",
+    "Di Liu",
+    "Yuxin Xing",
+    "Yang Su",
+    "Malcolm Xing",
+    "Wen Zeng"
+  ],
+  "doi": "10.1126/science.aed8712",
+  "explained_at": null,
+  "field": "medicine",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A root-inspired microneedle adhesive joined tiny blood vessels in rats 78% faster than suturing.",
+  "hook_turn": "joined tiny blood vessels in rats 78% faster than suturing.",
+  "id": "doi-10.1126-science.aed8712",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-12",
+  "readout": {
+    "label": "Shorter procedure time in rat models",
+    "unit": "%",
+    "value": "78"
+  },
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "The adhesive pairs a water-repelling polymer with tetrahedral microneedles that interlock with vessel walls, and carries a wireless sensor with AI to track blood flow and graft health. In rats it cut procedure time and reduced thickening of the vessel lining. Results are from rat models only.",
+  "tags": [
+    "microsurgery",
+    "bioadhesives",
+    "transplantation"
+  ],
+  "title": "AI-monitored bioadhesive for sutureless microvascular anastomosis.",
+  "url": "https://doi.org/10.1126/science.aed8712",
+  "venue": "Science"
+}

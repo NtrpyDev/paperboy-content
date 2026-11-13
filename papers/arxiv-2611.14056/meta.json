@@ -1,0 +1,28 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.14056",
+  "authors": [
+    "Chi Hoi Yip"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "For any unbounded set, a nearly full-measure closed set exists that contains no affine copy of it.",
+  "hook_turn": "contains no affine copy of it.",
+  "id": "arxiv-2611.14056",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "significance": 7,
+  "status": "preprint",
+  "summary": "The paper constructs, for every unbounded set of real numbers and every small epsilon, a closed set that fills at least 1 minus epsilon of every unit interval yet has no nontrivial scaled and shifted copy of that set. This settles the Erdos similarity problem in the large. The full similarity question for bounded sets, such as sequences, stays open.",
+  "tags": [
+    "real analysis",
+    "Erdos problems"
+  ],
+  "title": "A resolution of the Erd\\H{o}s similarity problem in the large",
+  "url": "https://arxiv.org/abs/2611.14056",
+  "venue": "arXiv"
+}

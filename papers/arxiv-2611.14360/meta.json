@@ -1,0 +1,43 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.14360",
+  "authors": [
+    "Rudra Dhara",
+    "Pritesh Srivastava",
+    "Jack Tregidga",
+    "Rahul Sharma",
+    "Shivani",
+    "Shankhadip Bhattacharjee",
+    "Danilo Ratkovski",
+    "Shikhar Gupta",
+    "Kartick Biswas",
+    "Shivesh Yadav",
+    "Nilesh Kulkarni",
+    "Sarthak S. Gandhi",
+    "Pavan Nukala",
+    "Surajit Saha",
+    "John W. Harter",
+    "Bahadur Singh",
+    "Shouvik Chatterjee"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A thin film of YbSb2 shows quantum oscillations along one crystal axis and none along the other.",
+  "id": "arxiv-2611.14360",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Epitaxial YbSb2 films show oscillations from a Dirac-like surface state only when current runs along the a-axis. Transport, Raman and coherent phonon measurements plus first-principles calculations link this to a density-wave instability. The surface-state assignment rests on calculations, and the density-wave link is inferred rather than directly imaged.",
+  "tags": [
+    "topological materials",
+    "quantum oscillations"
+  ],
+  "title": "Direction-Selective Anomalous Quantum Transport from Saddle-like Topological Surface States Coupled to an Electronic Instability in YbSb$_{2}$",
+  "url": "https://arxiv.org/abs/2611.14360",
+  "venue": "arXiv"
+}

@@ -1,0 +1,28 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.14363",
+  "authors": [
+    "Nissim Fraija"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "space",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Line-photon scattering falls 4 to 9 times short of explaining the MeV feature in GRB 221009A.",
+  "hook_turn": "falls 4 to 9 times short of explaining the MeV feature in GRB 221009A.",
+  "id": "arxiv-2611.14363",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "The paper tests whether electrons upscattering line photons, such as H2 emission seen by JWST, could produce the MeV spectral feature in this record burst. Spectral calibration shows the best case roughly fits, but seed photon density is too low by factors of about 4 to 9 even under ideal assumptions. The models rely on assumed geometry and UV budget.",
+  "tags": [
+    "gamma-ray bursts",
+    "inverse Compton"
+  ],
+  "title": "Spectral Constraints on Line-Seed Inverse-Compton Models for the MeV Feature in GRB 221009A",
+  "url": "https://arxiv.org/abs/2611.14363",
+  "venue": "arXiv"
+}

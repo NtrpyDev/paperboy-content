@@ -1,0 +1,28 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.12948",
+  "authors": [
+    "Yueer Yang"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A logic theory with four countable models gives F(4) equals 8, closing a gap between 7 and 8",
+  "hook_turn": "closing a gap between 7 and 8",
+  "id": "arxiv-2611.12948",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-06",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Earlier work showed the number of Scott complexities for theories with exactly four countable models was 7 or 8. This paper builds a sentence whose four models have four different complexities, which settles the value at 8. The construction starts from an Ehrenfeucht theory and applies Morleyization. It resolves one case only and says nothing about other model counts.",
+  "tags": [
+    "model theory",
+    "Scott complexity"
+  ],
+  "title": "The Four-Model Scott Complexity Spectrum: $F(4)=8$",
+  "url": "https://arxiv.org/abs/2611.12948",
+  "venue": "arXiv"
+}

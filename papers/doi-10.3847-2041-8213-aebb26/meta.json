@@ -1,0 +1,31 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Anirban Roy",
+    "Nicholas Battaglia",
+    "Anthony R. Pullen"
+  ],
+  "doi": "10.3847/2041-8213/aebb26",
+  "explained_at": null,
+  "field": "space",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Stacking eBOSS galaxies on Planck maps gives a 2.2 to 3.4 sigma CO emission signal at z~0.5",
+  "hook_turn": "gives a 2.2 to 3.4 sigma CO emission signal at z~0.5",
+  "id": "doi-10.3847-2041-8213-aebb26",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "The authors averaged Planck sky-map signal at the positions of eBOSS galaxies and found galaxy-linked emission at redshift about 0.5, read as CO(3-2). The detection confidence depends on modeling choices and ranges from 2.2 to 3.4 sigma, so it is tentative at the low end. It shows existing CMB and galaxy survey data can serve line intensity mapping.",
+  "tags": [
+    "line intensity mapping",
+    "galaxies",
+    "cosmology"
+  ],
+  "title": "A Measurement of CO(3–2) Line Emission from eBOSS Galaxies at z ∼ 0.5 Using Planck Data",
+  "url": "https://doi.org/10.3847/2041-8213/aebb26",
+  "venue": "The Astrophysical Journal Letters"
+}

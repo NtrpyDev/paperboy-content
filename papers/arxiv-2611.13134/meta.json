@@ -1,0 +1,28 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13134",
+  "authors": [
+    "Shlomo A. Perles",
+    "Omri Weinstein"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "cs",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Summing over all subspaces of a vector space takes N log N time, like the classic subset transform.",
+  "id": "arxiv-2611.13134",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "Summing values over all subspaces of a finite-field vector space was thought to need slower lattice methods. The authors give a time algorithm proportional to N log N for N subspaces, with uses in Grassmann graph computations and graph coloring. Tests show speedups of up to 18 times on some tasks, with Lean 4 proofs of the identities. The gains are for these structured problems only.",
+  "tags": [
+    "algorithms",
+    "linear algebra"
+  ],
+  "title": "A Fast Algorithm for Subspace Convolution",
+  "url": "https://arxiv.org/abs/2611.13134",
+  "venue": "arXiv"
+}

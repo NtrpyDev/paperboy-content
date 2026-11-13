@@ -1,0 +1,46 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Song, L.",
+    "Wang, Z.",
+    "Zhu, B.",
+    "DeKuyper, F. A.",
+    "Wang, C.",
+    "Liao, Z.",
+    "Girdhar, K.",
+    "Lee, D.",
+    "Tsankova, N. M.",
+    "Kaji, D. A.",
+    "Fullard, J. F.",
+    "Dong, P.",
+    "Roussos, P.",
+    "Ma, S."
+  ],
+  "doi": "10.64898/2026.11.10.765750",
+  "explained_at": null,
+  "field": "neuroscience",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "In the developing human brain, DNA methylation keeps changing after gene activity has settled",
+  "id": "doi-10.64898-2026.11.10.765750",
+  "kit": null,
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "readout": {
+    "label": "Single nuclei profiled from 40 brain specimens",
+    "unit": "nuclei",
+    "value": ">340,000"
+  },
+  "significance": 6,
+  "status": "preprint",
+  "summary": "The authors measured gene expression, chromatin accessibility and DNA methylation together in each cell nucleus, from fetal stages to adolescence. Methylation kept remodeling after the main shifts in expression and accessibility, and it added information on where psychiatric risk variants act. The data come from 40 specimens, so ages and brain regions are sparsely covered.",
+  "tags": [
+    "brain development",
+    "epigenetics",
+    "single-cell"
+  ],
+  "title": "Tri-Modal Single-Cell Atlas of Developing Human Brain",
+  "url": "https://doi.org/10.64898/2026.11.10.765750",
+  "venue": "bioRxiv"
+}

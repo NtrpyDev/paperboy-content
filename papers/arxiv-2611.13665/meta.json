@@ -1,0 +1,30 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13665",
+  "authors": [
+    "Yu-Kun Lu",
+    "Jiahao Lyu",
+    "Wolfgang Ketterle"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Two atoms at dense packing feel strong light-induced dipole-dipole forces, shifting their resonance",
+  "hook_turn": "shifting their resonance",
+  "id": "arxiv-2611.13665",
+  "kit": null,
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-10",
+  "significance": 7,
+  "status": "preprint",
+  "summary": "The experiment prepared pairs of atoms at densities above 10^16 per cubic centimeter and probed them with light. Off-resonant light dressed the atoms with a dipole moment near 1 Debye, and the two-body Lamb shift moved the resonance, dominated by near-field dipole coupling. Earlier shifts were seen only with many atoms in the far field. The abstract reports no precise shift values or error bars.",
+  "tags": [
+    "atomic physics",
+    "dipole interactions"
+  ],
+  "title": "Observation of strong electric dipole-dipole interactions between two atoms",
+  "url": "https://arxiv.org/abs/2611.13665",
+  "venue": "arXiv"
+}

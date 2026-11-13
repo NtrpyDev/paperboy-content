@@ -1,0 +1,40 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Jianglei Chang",
+    "Bohan Li",
+    "Xiangyu Gao",
+    "Kexin Song",
+    "Yaojin Wang",
+    "Jie Jiao",
+    "Davresh Hasanyan",
+    "Shujun Zhang",
+    "Fei Li"
+  ],
+  "doi": "10.1126/sciadv.aek2097",
+  "explained_at": null,
+  "field": "engineering",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A twisting magnet radiates low frequencies up to 49,000 times more efficiently than a loop antenna.",
+  "id": "doi-10.1126-sciadv.aek2097",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "readout": {
+    "label": "Underwater cross-medium communication range",
+    "unit": "meters",
+    "value": "115"
+  },
+  "significance": 7,
+  "status": "peer_reviewed",
+  "summary": "Small low-frequency antennas are inefficient because size limits radiation. This design twists a magnetic dipole with a piezoelectric resonator instead of driving a current, at 15.4 and 668 hertz, beating size-matched loop antennas by 49,000 and 5000 times in efficiency. It supported underwater communication over 115 meters on milliwatt power. Demonstrations were short range prototypes, not deployed networks.",
+  "tags": [
+    "antennas",
+    "wireless communication"
+  ],
+  "title": "Piezoelectrically actuated magnetic dipole twisting resonators enable miniaturized low-frequency antennas.",
+  "url": "https://doi.org/10.1126/sciadv.aek2097",
+  "venue": "Science Advances"
+}

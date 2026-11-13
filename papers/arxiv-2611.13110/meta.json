@@ -1,0 +1,27 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13110",
+  "authors": [
+    "Hieu Nguyen"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A quantum photon counter can see finite irreversibility while the true entropy production is infinite.",
+  "id": "arxiv-2611.13110",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "The author builds a model of a parametric oscillator coupled to a vacuum bath, where forward and reverse processes cannot overlap, so microscopic entropy production diverges. A realistic photon counter with imperfect efficiency and dark counts still reports a finite, positive arrow of time. This is a proof on a constructed model, not an experiment.",
+  "tags": [
+    "entropy production",
+    "quantum thermodynamics"
+  ],
+  "title": "Finite Measured Entropy Production Does Not Imply Finite Microscopic Irreversibility",
+  "url": "https://arxiv.org/abs/2611.13110",
+  "venue": "arXiv"
+}

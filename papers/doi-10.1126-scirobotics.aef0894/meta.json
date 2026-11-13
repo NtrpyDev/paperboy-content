@@ -1,0 +1,38 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Pierre-Jean Lorentz",
+    "Pascal Egli",
+    "Edo Jelavic",
+    "Cliff Li",
+    "Ramitha Sundar",
+    "Harikrishnan Suresh",
+    "Paul Montgomery",
+    "Lee Redden",
+    "Matthias Müller",
+    "Ozan Sener",
+    "Vladlen Koltun",
+    "Marco Hutter"
+  ],
+  "doi": "10.1126/scirobotics.aef0894",
+  "explained_at": null,
+  "field": "cs",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A 5-tonne skid-steer loader learned in simulation to balance on two wheels and drive on rough ground.",
+  "id": "doi-10.1126-scirobotics.aef0894",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 7,
+  "status": "peer_reviewed",
+  "summary": "Heavy hydraulic machines are hard to automate and dangerous to test. Reinforcement learning trained entirely in simulation transferred to a John Deere 332G, which autonomously tipped onto two wheels, drove, spun and swung its bucket before landing. It was one machine and a set of maneuvers, so general reliability across machines and sites is unknown.",
+  "tags": [
+    "reinforcement learning",
+    "robotics"
+  ],
+  "title": "Heavy metal acrobatics: Learning dynamic control for skid-steer loaders.",
+  "url": "https://doi.org/10.1126/scirobotics.aef0894",
+  "venue": "Science Robotics"
+}

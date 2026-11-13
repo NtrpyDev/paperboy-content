@@ -1,0 +1,48 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.14474",
+  "authors": [
+    "Nicholas Achuthan",
+    "Let\\'icia Magalh\\~aes",
+    "Xudong Li",
+    "Hugo Voncken",
+    "Hana Warner",
+    "Sophie Ding",
+    "Andrea Cordaro",
+    "Xinrui Zhu",
+    "Keith Powell",
+    "Anna Shelton",
+    "Dylan Renaud",
+    "Daniel Assumpcao",
+    "Xiangying Zuo",
+    "Michael Pushkarsky",
+    "Amirhassan Shams-Ansari",
+    "Marko Lon\\v{c}ar"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "engineering",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Lithium niobate chips modulate 493 nm light beyond 50 GHz, with 2.9 dB/cm loss.",
+  "hook_turn": "with 2.9 dB/cm loss.",
+  "id": "arxiv-2611.14474",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "readout": {
+    "label": "Half-wave voltage-length product at 493 nm",
+    "unit": "mV cm",
+    "value": "450"
+  },
+  "significance": 5,
+  "status": "preprint",
+  "summary": "The team built a thin-film lithium niobate chip for blue light with couplers, splitters, rings and modulators, aimed at trapped-ion control. Modulators reach over 20 dB extinction and ring resonators show 2.9 dB/cm loss. Photorefraction and substrate uniformity remain unsolved obstacles to scaling.",
+  "tags": [
+    "integrated photonics",
+    "lithium niobate"
+  ],
+  "title": "Thin-film lithium niobate integrated photonics at 493 nm",
+  "url": "https://arxiv.org/abs/2611.14474",
+  "venue": "arXiv"
+}

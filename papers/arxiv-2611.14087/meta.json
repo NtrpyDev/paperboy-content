@@ -1,0 +1,29 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.14087",
+  "authors": [
+    "Henry D. Pfister",
+    "Oscar Sprumont",
+    "Gilles Z\\'emor"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "cs",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Quantum Tanner codes reach erasure-channel capacity with linear distance and a linear-time decoder.",
+  "id": "arxiv-2611.14087",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "The authors prove that tensor products of capacity-achieving classical codes also achieve capacity on the erasure channel, and use such local codes to build binary quantum Tanner codes. These have bounded check weights, distance growing linearly with blocklength, and decoding error that falls exponentially. The results hold for erasure noise only, not for more general noise.",
+  "tags": [
+    "quantum codes",
+    "information theory"
+  ],
+  "title": "Classical Tensor Codes and Quantum Tanner Codes Achieve Capacity on Erasure Channels",
+  "url": "https://arxiv.org/abs/2611.14087",
+  "venue": "arXiv"
+}

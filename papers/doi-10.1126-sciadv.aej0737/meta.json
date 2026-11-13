@@ -1,0 +1,36 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Yuhao Geng",
+    "Bowen Yao",
+    "Yuyao Lu",
+    "Jingcheng Liu",
+    "Zimo Chen",
+    "Shangcheng Zou",
+    "Zhaoyang Yin",
+    "Xuesong Huang",
+    "Jianlong Xu",
+    "Jiajun Fu"
+  ],
+  "doi": "10.1126/sciadv.aej0737",
+  "explained_at": null,
+  "field": "chemistry",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Choline chloride doping makes a record-conductivity n-type polymer more heat-tolerant and ion-friendly.",
+  "id": "doi-10.1126-sciadv.aej0737",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "PBFDO is an n-type conducting polymer with very high conductivity but weak thermal stability and slow ion transport. Adding choline chloride rearranges its molecular stacking and creates dense and loose domains, giving 2.8 times better high-temperature resilience, 1.6 times higher sheet conductance and 15.9 times lower ion diffusion resistance. Gains were shown in lab films and transistors, not in full devices.",
+  "tags": [
+    "conducting polymers",
+    "organic electronics"
+  ],
+  "title": "Boosting stability and charge transfer of conducting polymer poly(benzodifurandione) (PBFDO) through complementary topology.",
+  "url": "https://doi.org/10.1126/sciadv.aej0737",
+  "venue": "Science Advances"
+}

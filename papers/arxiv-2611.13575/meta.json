@@ -1,0 +1,34 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13575",
+  "authors": [
+    "Kundan Baliga",
+    "Aiden Xie",
+    "Aditya Byju"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "cs",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "The textbook Greedy+Singleton knapsack heuristic has worst-case ratio exactly 0.42944",
+  "hook_turn": "has worst-case ratio exactly 0.42944",
+  "id": "arxiv-2611.13575",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "readout": {
+    "label": "Exact worst-case approximation ratio",
+    "value": "~0.42944"
+  },
+  "significance": 6,
+  "status": "preprint",
+  "summary": "The paper pins down the worst-case ratio of the standard heuristic for monotone submodular maximization under a knapsack constraint, closing a gap between 0.427 and 0.42945. The proof combines analytic bounds, interval-arithmetic checks and branch-and-bound, with hand-checkable bad instances. It also shows Wolsey's bound is tight for the stop-early variant. Parts of the proof rely on computer verification.",
+  "tags": [
+    "approximation algorithms",
+    "submodular optimization"
+  ],
+  "title": "Greedy+Singleton for knapsack-constrained monotone submodular maximization has approximation ratio exactly $\\beta^\\star \\approx 0.42944$",
+  "url": "https://arxiv.org/abs/2611.13575",
+  "venue": "arXiv"
+}

@@ -1,0 +1,39 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Xiangyu Lu",
+    "Di Lv",
+    "Shuai Ma",
+    "Yu Yan",
+    "Chunhui Li",
+    "Jiameng Zhu",
+    "Liqing Miao",
+    "Suzhen Li",
+    "Wenzhu Yang",
+    "Xiaojin Zhou",
+    "Rumei Chen"
+  ],
+  "doi": "10.1126/sciadv.aeh7015",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A jasmonate signaling switch keeps maize tassels and ears in step, and breaking it delays silking",
+  "hook_turn": "and breaking it delays silking",
+  "id": "doi-10.1126-sciadv.aeh7015",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "In maize, a signaling module of ZmJAZ14 and ZmMYC2a/b controls genes for the flowering transition, ear initiation, and silk growth, so tassel and ear develop in sync. Disrupting it lengthens the gap between pollen shed and silk emergence, which hurts reproduction. The evolutionary-burden idea is a suggestion from genetics in maize, not a tested evolutionary claim.",
+  "tags": [
+    "maize",
+    "plant hormones",
+    "crop yield"
+  ],
+  "title": "The ZmJAZ14-ZmMYC2 module regulates anthesis-silking synchrony in maize.",
+  "url": "https://doi.org/10.1126/sciadv.aeh7015",
+  "venue": "Science Advances"
+}

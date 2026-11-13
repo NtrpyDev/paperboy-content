@@ -1,0 +1,34 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Shengjun Fan",
+    "Jianglong Guo",
+    "Fei Jia",
+    "Jian Sun",
+    "Yanju Liu",
+    "Metin Sitti"
+  ],
+  "doi": "10.1126/sciadv.aei4613",
+  "explained_at": null,
+  "field": "engineering",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A droplet-driven soft switch can latch, tap, or switch electrically, enabling robot memory and logic",
+  "hook_turn": "enabling robot memory and logic",
+  "id": "doi-10.1126-sciadv.aei4613",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "The multimodal electromechanical switch uses a stretchable membrane that snaps through under voltage, so one structure acts as a momentary, latching, or electrically driven switch. Arrays of them were shown storing bits, encrypting information, and performing reprogrammable logic. These are bench demonstrations of small arrays, not robots operating in real environments.",
+  "tags": [
+    "soft robotics",
+    "switches",
+    "physical intelligence"
+  ],
+  "title": "Multimodal switches exploiting electromechanical snap-through for versatile robotic information processing.",
+  "url": "https://doi.org/10.1126/sciadv.aei4613",
+  "venue": "Science Advances"
+}

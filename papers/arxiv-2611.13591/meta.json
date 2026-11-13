@@ -1,0 +1,29 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13591",
+  "authors": [
+    "Urei Miura",
+    "Hisao Hayakawa"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A nonlinear periodic orbit maps to a topological chain whose winding number flips at the separatrix",
+  "hook_turn": "whose winding number flips at the separatrix",
+  "id": "arxiv-2611.13591",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Writing a classical orbit's Lax operator in a frequency basis gives a flat-band Su-Schrieffer-Heeger-type chain whose winding number is topological. In a symmetric double well it changes when orbits merge at the separatrix, and the edge mode's localization length diverges logarithmically. Quantized, the winding numbers sum to the Witten index. The results are analytic and cover one-degree-of-freedom systems.",
+  "tags": [
+    "topological physics",
+    "nonlinear dynamics"
+  ],
+  "title": "Topological flat bands from nonlinear periodic motion",
+  "url": "https://arxiv.org/abs/2611.13591",
+  "venue": "arXiv"
+}

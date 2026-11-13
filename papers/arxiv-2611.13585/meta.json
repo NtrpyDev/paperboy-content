@@ -1,0 +1,34 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13585",
+  "authors": [
+    "Swati Gupta",
+    "Mehrdad Sohrabi",
+    "Levent Tun\\c{c}el"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "cs",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Graphic TSP tours can be found within 89/64 of the lower bound, beating the long-standing 7/5",
+  "hook_turn": "beating the long-standing 7/5",
+  "id": "arxiv-2611.13585",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "readout": {
+    "label": "Integrality gap bound, graphic TSP subtour LP",
+    "value": "1.3906"
+  },
+  "significance": 8,
+  "status": "preprint",
+  "summary": "The authors give a polynomial-time algorithm for graphic TSP that returns a tour at most 89/64 times the subtour relaxation value, improving the 7/5 of Sebo and Vygen. They optimize a non-linear objective over an odd-join polytope using a new removable edge system. The gain is small, and the ratio is for graphic instances only, not general TSP.",
+  "tags": [
+    "traveling salesman",
+    "approximation algorithms"
+  ],
+  "title": "Approximating graphic TSP by b-matchings",
+  "url": "https://arxiv.org/abs/2611.13585",
+  "venue": "arXiv"
+}

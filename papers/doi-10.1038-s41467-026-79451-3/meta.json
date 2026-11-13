@@ -1,0 +1,35 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Albert K. Liu",
+    "Benjamin Kaeser",
+    "Jose H. Pereira",
+    "Leah J. Taylor-Kearney",
+    "Michal Hammel",
+    "Eva Nogales",
+    "Paul D. Adams",
+    "Patrick M. Shih"
+  ],
+  "doi": "10.1038/s41467-026-79451-3",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Binding a small ligand can push rubisco into new multi-part assemblies, without evolving new protein contacts.",
+  "hook_turn": "without evolving new protein contacts.",
+  "id": "doi-10.1038-s41467-026-79451-3",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "By sampling more members of one rubisco clade, the authors found a range of oligomeric responses to ligand binding and pinpointed structural features behind the shifts. This suggests ligand binding can open a route to new quaternary structures. The evidence covers one rubisco clade, so how general the route is remains open.",
+  "tags": [
+    "rubisco",
+    "protein evolution"
+  ],
+  "title": "Structural basis of ligand-mediated transition to higher-order rubisco assemblies",
+  "url": "https://doi.org/10.1038/s41467-026-79451-3",
+  "venue": "Nature Communications"
+}

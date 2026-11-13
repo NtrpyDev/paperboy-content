@@ -1,0 +1,31 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Zhenzhen Ma",
+    "Alexander L Starr",
+    "David Gokhman",
+    "Hunter B Fraser"
+  ],
+  "doi": "10.7554/elife.110575",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Most human-chimpanzee differences in DNA methylation arise in cis, and selection shaped some pathways.",
+  "id": "doi-10.7554-elife.110575",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-12",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Comparing methylation in six cell types and human-chimp hybrid cells, the authors found that methylation differences between the species are driven mostly by nearby DNA changes rather than by diffusible factors. Pathways tied to speech, cognition, and hepatitis C susceptibility showed signs of lineage-specific selection on promoter methylation. Methylation and expression link only weakly overall, and the selection findings are statistical inferences, not direct tests.",
+  "tags": [
+    "epigenetics",
+    "human evolution",
+    "DNA methylation"
+  ],
+  "title": "Cis-regulation and natural selection in the evolution of human DNA methylation.",
+  "url": "https://doi.org/10.7554/elife.110575",
+  "venue": "eLife"
+}

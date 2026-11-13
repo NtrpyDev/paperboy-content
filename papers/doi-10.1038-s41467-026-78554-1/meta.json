@@ -1,0 +1,40 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Rebecca A. Dagg",
+    "Teressa Paulsen",
+    "Birbal Prasad",
+    "Giuliana De Gregoriis",
+    "Yuri Seung",
+    "Florian J. Groelly",
+    "Simeon D. Draganov",
+    "Flaminia Pedretti",
+    "Andrea Herencia-Ropero",
+    "Violeta Serra",
+    "Adán Pinto-Fernández",
+    "Madalena Tarsounas"
+  ],
+  "doi": "10.1038/s41467-026-78554-1",
+  "explained_at": null,
+  "field": "medicine",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Cancer cells resistant to PARP inhibitors lean on ISG15, and blocking it restores drug sensitivity",
+  "hook_turn": "and blocking it restores drug sensitivity",
+  "id": "doi-10.1038-s41467-026-78554-1",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "Drugs called PARP inhibitors work on BRCA1-mutant tumors until resistance appears. In resistant cell lines and patient-derived xenografts, the immune gene ISG15 was turned up and helped cells copy and repair DNA; inhibiting it re-sensitized cells, and TP53BP1 loss also arose. The evidence is from cell and mouse models, not patients.",
+  "tags": [
+    "PARP inhibitors",
+    "drug resistance",
+    "BRCA1"
+  ],
+  "title": "ISG15 promotes PARP inhibitor resistance in BRCA1-deficient cells by facilitating DNA replication and repair",
+  "url": "https://doi.org/10.1038/s41467-026-78554-1",
+  "venue": "Nature Communications"
+}

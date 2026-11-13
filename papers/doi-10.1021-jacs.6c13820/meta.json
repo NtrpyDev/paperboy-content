@@ -1,0 +1,42 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Jinzheng Chen",
+    "Yuhong Zhou",
+    "Yiling Miao",
+    "Guanbo Wang",
+    "Haiyan Zheng",
+    "Yi Zhang",
+    "Zhenguo Chi",
+    "Yongming Chen",
+    "Zhiyong Yang",
+    "Huahua Huang"
+  ],
+  "doi": "10.1021/jacs.6c13820",
+  "explained_at": null,
+  "field": "chemistry",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A doped polymer glows over 2000-fold brighter under stress, so afterglow maps hidden strain.",
+  "hook_turn": "so afterglow maps hidden strain.",
+  "id": "doi-10.1021-jacs.6c13820",
+  "kit": null,
+  "license": "other",
+  "published": "2026-11-12",
+  "readout": {
+    "label": "Phosphorescence increase at 160 MPa",
+    "unit": "fold",
+    "value": ">2000"
+  },
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "Chemists found that a phosphorescent probe lights up under pressure when its singlet energy sits within 0.4 eV of the polymer's lowest triplet state. Doped polymers brightened over 2000-fold at 160 MPa, responded from about 2 MPa, and survived 500 pressure cycles. The rule is empirical, drawn from a set of probes, and tested in the lab only.",
+  "tags": [
+    "mechanophores",
+    "phosphorescence"
+  ],
+  "title": "Molecular Mechanophores Based on Stress-Enhanced Exciton Transition between Phosphorescent Probes and Polymer Matrix",
+  "url": "https://doi.org/10.1021/jacs.6c13820",
+  "venue": "Journal of the American Chemical Society"
+}

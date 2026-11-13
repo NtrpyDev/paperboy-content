@@ -1,0 +1,28 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.14283",
+  "authors": [
+    "Tianshu Jiang",
+    "Jiayu Li"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Fundamental groups of special quasi-projective varieties are virtually nilpotent of class at most two.",
+  "id": "arxiv-2611.14283",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "significance": 7,
+  "status": "preprint",
+  "summary": "The paper proves a conjecture of Cao, Deng, Hacon and Paun: the fundamental group of a special quasi-projective complex variety, in Campana's sense, has a nilpotent subgroup of finite index and class at most two. Known examples show two cannot be lowered. The proof builds a second Albanese map and shows its kernel on fundamental groups is finite, using minimal models. It is a highly specialized result that applies only to special varieties.",
+  "tags": [
+    "algebraic geometry",
+    "fundamental groups"
+  ],
+  "title": "Virtual Two-Step Nilpotency of the Fundamental Groups of Special Quasi-Projective Varieties",
+  "url": "https://arxiv.org/abs/2611.14283",
+  "venue": "arXiv"
+}

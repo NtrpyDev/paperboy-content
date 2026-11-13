@@ -1,0 +1,34 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Bailee R. Smith",
+    "Rosemary J. Goodwin",
+    "Nicholas G. White"
+  ],
+  "doi": "10.1021/jacs.6c15081",
+  "explained_at": null,
+  "field": "chemistry",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A cage molecule binds iodide in water as strongly as biological binders, excluding other halides.",
+  "id": "doi-10.1021-jacs.6c15081",
+  "kit": null,
+  "license": "other",
+  "published": "2026-11-12",
+  "readout": {
+    "label": "Iodide binding constant in water",
+    "unit": "M^-1",
+    "value": "43,000"
+  },
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Chemists built an organic cage with halogen- and hydrogen-bond donors. Its halogen-bonding pocket picks out iodide in water with a binding constant of 43,000 per molar, and in DMSO/water it holds iodide plus chloride at once. Results are from NMR titrations of one cage design, not tests in real water samples.",
+  "tags": [
+    "supramolecular chemistry",
+    "anion binding"
+  ],
+  "title": "Simultaneous Selective Recognition of Two Different Anions within a Hydrogen/Halogen-Bonding Cage",
+  "url": "https://doi.org/10.1021/jacs.6c15081",
+  "venue": "Journal of the American Chemical Society"
+}

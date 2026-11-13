@@ -1,0 +1,30 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "María García Díaz",
+    "Adam Brandenburger",
+    "Giannicola Scarpa"
+  ],
+  "doi": "10.1073/pnas.2613021123",
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Two quantum observers can be certain they disagree, but only when their measurements do not commute.",
+  "hook_turn": "but only when their measurements do not commute.",
+  "id": "doi-10.1073-pnas.2613021123",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-12",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "The paper proves a quantum version of Aumann's Agreement Theorem: if the observers' measurements commute with each other and the property, common certainty forces equal probabilities. A qutrit-qubit-qubit model breaks this with common certainty of disagreement, and storing outcomes in a classical register restores agreement. The results are for finite-dimensional, projective-measurement setups.",
+  "tags": [
+    "quantum foundations",
+    "probability"
+  ],
+  "title": "The quantum agreement theorem.",
+  "url": "https://doi.org/10.1073/pnas.2613021123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

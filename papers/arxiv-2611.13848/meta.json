@@ -1,0 +1,28 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13848",
+  "authors": [
+    "Yi Li"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Only four such maps permute trace-1 elements of a binary field, proving the Hollmann-Xiang conjecture",
+  "hook_turn": "proving the Hollmann-Xiang conjecture",
+  "id": "arxiv-2611.13848",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "Hollmann and Xiang conjectured which polynomials of the form t plus a linearized map of 1/t permute the trace-1 elements of a binary field. The author proves only four cases work, using moment identities, and also proves a second conjecture about Kloosterman polynomials. This is a classification proof, so it matters mostly to specialists in coding theory and finite fields.",
+  "tags": [
+    "finite fields",
+    "number theory"
+  ],
+  "title": "A Moment Proof of the Hollman-Xiang Conjectures on Kloosterman Polynomials",
+  "url": "https://arxiv.org/abs/2611.13848",
+  "venue": "arXiv"
+}

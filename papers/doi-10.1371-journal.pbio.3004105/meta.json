@@ -1,0 +1,42 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Theresa M Pauli",
+    "Theresa von Heyl",
+    "Beate Rieblinger",
+    "Sabrina Teresa Schleibinger",
+    "Wei Liang",
+    "Antonia Schmauser",
+    "Mithuoshni Arullmoli",
+    "Paul Derrer",
+    "Anika Eckstein",
+    "Sirradu Jagana",
+    "Camila Gatti Corrêa",
+    "Krzysztof Flisikowski",
+    "Tatiana Flisikowska",
+    "Benjamin Schusser"
+  ],
+  "doi": "10.1371/journal.pbio.3004105",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Virus-like particles deliver CRISPR and Cre tools into pig and chicken cells, organoids, eggs",
+  "hook_turn": "into pig and chicken cells, organoids, eggs",
+  "id": "doi-10.1371-journal.pbio.3004105",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Virus-like particles carried gene-editing proteins into pig cells, organoids and oocytes, and into chicken cells, tracheal cultures and eggs, with high editing rates. This sidesteps a common delivery problem for livestock genetics. The work is in cultures and early embryos, and no edited animals are reported.",
+  "tags": [
+    "gene editing",
+    "livestock",
+    "CRISPR"
+  ],
+  "title": "Virus-like particles enable highly efficient gene editing across porcine and avian in vitro, ex vivo, and in ovo models.",
+  "url": "https://doi.org/10.1371/journal.pbio.3004105",
+  "venue": "PLOS Biology"
+}

@@ -1,0 +1,27 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13533",
+  "authors": [
+    "Zhekai Pang"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Cube projections have maximal entropy along equal-coordinate directions in every dimension from 150 up",
+  "id": "arxiv-2611.13533",
+  "kit": null,
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-10",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "The paper proves that among one-dimensional projections of a uniform cube distribution, differential entropy is largest in directions whose coordinates have equal magnitude. This confirms a conjecture of Eskenazis, Nayar and Tkocz, but only for dimensions n of at least 150. Smaller dimensions remain open.",
+  "tags": [
+    "probability",
+    "convex geometry"
+  ],
+  "title": "Entropy maximization for cube projections",
+  "url": "https://arxiv.org/abs/2611.13533",
+  "venue": "arXiv"
+}

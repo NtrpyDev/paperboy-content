@@ -1,0 +1,38 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13364",
+  "authors": [
+    "Jingbo Sun",
+    "Hengxiao Guo",
+    "Sjoert van Velzen",
+    "Yuhan Yao",
+    "Mar Mezcua",
+    "Stefan Geier",
+    "Alok C. Gupta",
+    "Karan Dogra",
+    "Philip G. Edwards",
+    "Wenwen Zuo",
+    "Yu Pan",
+    "Minfeng Gu"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "space",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A tidal disruption flare shows a carbon emission doublet for the first time, hinting at a dense envelope",
+  "id": "arxiv-2611.13364",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Spectra from the Very Large Telescope reveal a C IV doublet near 5800 angstroms in the off-nuclear tidal disruption event 2025abcr, a first for such events. The authors attribute it to fluorescence and photon trapping like that in Wolf-Rayet winds, which favors a compact, dense envelope. This rests on one event and a proposed mechanism not yet checked with radiative-transfer models.",
+  "tags": [
+    "tidal disruption events",
+    "spectroscopy"
+  ],
+  "title": "Identification of the C IV $\\lambda\\lambda$5801, 5812 Emission in the Off-Nuclear TDE 2025abcr",
+  "url": "https://arxiv.org/abs/2611.13364",
+  "venue": "arXiv"
+}

@@ -1,0 +1,43 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Lei, W.",
+    "Tian, X.",
+    "Dong, C.",
+    "Lou, J.",
+    "Zhao, X.",
+    "Dong, X.",
+    "Du, L.",
+    "Yang, R.",
+    "Hong, Y.",
+    "Yu, Y.",
+    "Yang, C.",
+    "Qian, L.",
+    "Liu, S.",
+    "Li, A.",
+    "Wang, M.",
+    "Liu, B."
+  ],
+  "doi": "10.64898/2026.11.10.765231",
+  "explained_at": null,
+  "field": "neuroscience",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A new method maps 24 cell types continuously across the human cortex from gene expression data",
+  "id": "doi-10.64898-2026.11.10.765231",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "RIDGE combines regional reference data with cortex-wide gene expression maps to estimate where 24 cortical cell types sit. The maps held up across pipelines and reference datasets and reproduced a known sensory-to-allocortical gradient. The cell-type distributions are statistical estimates inferred from transcriptomics, not direct cell counts.",
+  "tags": [
+    "cortex",
+    "cell types",
+    "brain atlas"
+  ],
+  "title": "A spatially continuous cell-type atlas reveals multiscale organization of the human cortex",
+  "url": "https://doi.org/10.64898/2026.11.10.765231",
+  "venue": "bioRxiv"
+}

@@ -1,0 +1,43 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Akther, F.",
+    "Dalben, Y. R.",
+    "Villalpando, J.",
+    "Levine, K.",
+    "Buck, E.",
+    "Polster, J.",
+    "Yin, Z.",
+    "Muramatsu, H.",
+    "Tiwari, S.",
+    "Sriram, S.",
+    "Wilen, C. B.",
+    "Joshi, N. S.",
+    "McNamara, R. P.",
+    "Weiskopf, D.",
+    "Tse, L. V.",
+    "Pardi, N.",
+    "Martinez, D. R."
+  ],
+  "doi": "10.64898/2026.11.09.765416",
+  "explained_at": null,
+  "field": "medicine",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A four-strain dengue mRNA vaccine protected mice and gave broad antibodies despite prior exposure.",
+  "id": "doi-10.64898-2026.11.09.765416",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "A tetravalent mRNA vaccine encoding the membrane and envelope proteins of all four dengue serotypes produced neutralizing antibodies, T cells, and memory B cells in mice. Antibodies lasted 34 weeks, showed no enhancement in vitro, and transferred serum protected immunocompromised mice from lethal DENV2. Protection was shown only through passive serum transfer in mice, so human efficacy remains unknown.",
+  "tags": [
+    "dengue",
+    "mRNA vaccines"
+  ],
+  "title": "Tetravalent dengue mRNA vaccination orchestrates balanced four-serotype immunity with durable memory and protection in mice.",
+  "url": "https://doi.org/10.64898/2026.11.09.765416",
+  "venue": "bioRxiv"
+}

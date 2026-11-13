@@ -1,0 +1,45 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Tianyu Bai",
+    "Zhiyuan Mao",
+    "Dapeng Sun",
+    "Fei Ma",
+    "Bingxin Ma",
+    "Yingjie Gao",
+    "Yuelin Li",
+    "Yi Yang",
+    "Wenqiang Tang",
+    "Andrew Hitchcock",
+    "Matthew P Johnson",
+    "Pu Qian",
+    "Yumei Wang",
+    "Lirong Tian"
+  ],
+  "doi": "10.1126/sciadv.aej8837",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "An early-branching green alga packs seven carotenoids into each light-harvesting antenna subunit.",
+  "id": "doi-10.1126-sciadv.aej8837",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "readout": {
+    "label": "Cryo-EM resolution, PSII-LHCII-LHCP supercomplex",
+    "unit": "angstroms",
+    "value": "2.25"
+  },
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "Mesostigma viride sits near the transition from algae to land plants. A cryo-EM structure of its photosystem II and light-harvesting supercomplex shows a core much like that of land plants, plus antenna proteins carrying many carotenoids, including marine-type ones that widen blue-green absorption. This is a static structure of one species, so photoprotection roles are inferred, not tested.",
+  "tags": [
+    "photosynthesis",
+    "cryo-EM"
+  ],
+  "title": "Structural insights into light harvesting and photosystem II evolution in the basal streptophyte Mesostigma viride.",
+  "url": "https://doi.org/10.1126/sciadv.aej8837",
+  "venue": "Science Advances"
+}

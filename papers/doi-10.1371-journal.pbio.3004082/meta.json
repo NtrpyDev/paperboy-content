@@ -1,0 +1,31 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Artoghrul Alishbayli",
+    "Karol Przewrocki",
+    "Paul van Heumen",
+    "Bernhard Englitz"
+  ],
+  "doi": "10.1371/journal.pbio.3004082",
+  "explained_at": null,
+  "field": "neuroscience",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Mice detect calls in noise better when the noise has more structure, and PV neurons shape the effect.",
+  "id": "doi-10.1371-journal.pbio.3004082",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Mice trained to detect vocalizations hidden in sound textures did better when trials gave longer samples of the noise statistics and when frequencies were more strongly correlated. Auditory cortex recordings tracked this, and activating PV interneurons helped or hurt depending on the correlation level. The work is in mice with one task design, so links to human hearing are inferred.",
+  "tags": [
+    "auditory cortex",
+    "hearing",
+    "interneurons"
+  ],
+  "title": "Neural integration of acoustic statistics enables mice to detect acoustic targets in noise.",
+  "url": "https://doi.org/10.1371/journal.pbio.3004082",
+  "venue": "PLOS Biology"
+}

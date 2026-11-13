@@ -1,0 +1,29 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.14237",
+  "authors": [
+    "Beomjun Choi",
+    "Geuntaek Seo"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "On a disk, clumping cells generically blow up once mass reaches 4 pi, and never below it.",
+  "hook_turn": "and never below it.",
+  "id": "arxiv-2611.14237",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "The Keller-Segel model describes cells that attract each other through a chemical signal. The authors prove that on a disk, mass of at least 4 pi sends an open dense set of starting densities to blow-up or unbounded growth over infinite time, while lower mass always settles to a smooth equilibrium. They extend sharp thresholds to other planar domains, the sphere and the square torus. It is a mathematical result for one idealized model.",
+  "tags": [
+    "partial differential equations",
+    "chemotaxis"
+  ],
+  "title": "Generic singularity formation in two-dimensional Keller-Segel systems",
+  "url": "https://arxiv.org/abs/2611.14237",
+  "venue": "arXiv"
+}

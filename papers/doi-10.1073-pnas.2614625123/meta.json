@@ -1,0 +1,30 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Matteo Stromieri",
+    "Emanuele Natale",
+    "Amos Korman"
+  ],
+  "doi": "10.1073/pnas.2614625123",
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A Cauchy walk finds 3D targets of nearly any shape close to optimally.",
+  "hook_turn": "of nearly any shape close to optimally.",
+  "id": "doi-10.1073-pnas.2614625123",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "Random searchers that mix short steps with rare long jumps (Levy walks) find 3D targets at speeds that depend on target volume, surface area, and elongation. The authors prove that the Cauchy walk, a particular Levy walk, matches the best possible detection time up to polylogarithmic factors for convex targets, while other walks fall short in some regimes. This is a mathematical result for idealized convex targets, not a test on real animals or cells.",
+  "tags": [
+    "random walks",
+    "search theory"
+  ],
+  "title": "Intermittent Cauchy walks enable optimal 3D search across target shapes and sizes.",
+  "url": "https://doi.org/10.1073/pnas.2614625123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

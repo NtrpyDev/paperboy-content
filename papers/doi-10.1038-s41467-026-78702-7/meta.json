@@ -1,0 +1,39 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Hanan Woods",
+    "Ülkü Günar",
+    "Sarah Catherine Gillard",
+    "Beverley Notman",
+    "Kunhao Yuan",
+    "Digin Dominic",
+    "Emily Robson",
+    "Gabor Varga",
+    "Noboru H Komiyama",
+    "Zhen Qiu",
+    "Frank Sengpiel",
+    "Seth G N Grant"
+  ],
+  "doi": "10.1038/s41467-026-78702-7",
+  "explained_at": null,
+  "field": "neuroscience",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Enriched living conditions and one-eye deprivation rewire excitatory synapses in over 100 mouse brain regions.",
+  "hook_turn": "in over 100 mouse brain regions.",
+  "id": "doi-10.1038-s41467-026-78702-7",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "The brain holds many types of excitatory synapses, and how experience changes their mix was unknown. Comparing mice after environmental enrichment or monocular deprivation, the authors mapped synapse populations across the brain and found each experience changes distinct subsets. The findings are in mice and show patterns of change, not behavioral consequences.",
+  "tags": [
+    "synapses",
+    "brain plasticity"
+  ],
+  "title": "Experience modifies the synaptome architecture in the developing and adult mouse brain.",
+  "url": "https://doi.org/10.1038/s41467-026-78702-7",
+  "venue": "Nature Communications"
+}

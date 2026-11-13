@@ -1,0 +1,33 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Bo Peng",
+    "Jing-Chang Li",
+    "Lingling Hu",
+    "Sheng Xu",
+    "Feng Zhu",
+    "Shaohua Guo",
+    "Haoshen Zhou"
+  ],
+  "doi": "10.1002/anie.3309393",
+  "explained_at": null,
+  "field": "chemistry",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Oxygen layer stacking decides whether a sodium battery cathode keeps its high-voltage oxygen plateau.",
+  "id": "doi-10.1002-anie.3309393",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "In a Na-Li-Mn-Ti oxide, the P3 stacking pattern supported reversible high-voltage oxygen redox, while the P2 pattern lost it as metals migrated and molecular oxygen formed. The team combined experiments with calculations. The finding concerns one composition, so it may not carry over to other cathodes.",
+  "tags": [
+    "battery cathodes",
+    "oxygen redox"
+  ],
+  "title": "Layer Stacking Structure Governed Transition-Metal Interlayer Migration for Reversible High-Voltage Oxygen Redox Plateau.",
+  "url": "https://doi.org/10.1002/anie.3309393",
+  "venue": "Angewandte Chemie International Edition"
+}

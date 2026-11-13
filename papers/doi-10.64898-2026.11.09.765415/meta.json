@@ -1,0 +1,32 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Piekarski, P. K.",
+    "Chiba, Y.",
+    "Lee, J.",
+    "Valdes-Rodriguez, S.",
+    "Carroll, T. S.",
+    "Kronauer, D. J. C."
+  ],
+  "doi": "10.64898/2026.11.09.765415",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "An ant caregiver's genes change larval body size through a neuropeptide and ecdysone hormone pathway.",
+  "id": "doi-10.64898-2026.11.09.765415",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 6,
+  "status": "preprint",
+  "summary": "In clonal raider ants, the genotype of the nurse workers shifts the size and caste fate of the larvae they raise. Larval gene expression and drug treatments pointed to a neuropeptide signal acting on the prothoracic gland to control ecdysteroid hormone production, with links to lipid metabolism. The evidence is from one ant species, and how caregivers trigger the pathway is not resolved.",
+  "tags": [
+    "social insects",
+    "hormones"
+  ],
+  "title": "Caregiver genotype influences larval body size in ants by modulating ecdysteroid production",
+  "url": "https://doi.org/10.64898/2026.11.09.765415",
+  "venue": "bioRxiv"
+}

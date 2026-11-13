@@ -1,0 +1,33 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Sofie Ferwerda",
+    "Valerie Briois",
+    "Anthony Beauvois",
+    "Sebastian Weber",
+    "Nils Bottke",
+    "Matteo Monai",
+    "Bert M Weckhuysen"
+  ],
+  "doi": "10.1002/anie.5531620",
+  "explained_at": null,
+  "field": "chemistry",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "X-ray imaging shows nickel catalyst beds change oxidation state in moving fronts, not uniformly.",
+  "id": "doi-10.1002-anie.5531620",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Operando X-ray micro-imaging with fast absorption spectroscopy tracked nickel on three supports during dry methane reforming, at about 15 micrometers and 10 seconds. Temperature gradients left uneven oxidation, and reaction fronts moved in or out depending on the support. Results cover three catalysts in one reactor setup.",
+  "tags": [
+    "operando imaging",
+    "catalysis"
+  ],
+  "title": "Operando X-Ray Micro-Imaging Reveals Spatiotemporal Evolution of the Oxidation State of Nickel During Dry Methane Reforming.",
+  "url": "https://doi.org/10.1002/anie.5531620",
+  "venue": "Angewandte Chemie International Edition"
+}

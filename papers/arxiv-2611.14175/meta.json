@@ -1,0 +1,30 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.14175",
+  "authors": [
+    "Xuwen Chen",
+    "Justin Holmer",
+    "Shunlin Shen"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Weak solutions of the defocusing energy-critical Schrodinger equation are unique, with no extra assumptions.",
+  "hook_turn": "with no extra assumptions.",
+  "id": "arxiv-2611.14175",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "The paper proves that global weak solutions of the defocusing energy-critical nonlinear Schrodinger equation are unique. It derives an energy defect threshold condition that energy conservation carries along the strong solution flow, then applies this to get unconditional uniqueness for the quintic Gross-Pitaevskii hierarchy. The result is for the defocusing case with specific nonlinearity, not general equations.",
+  "tags": [
+    "nonlinear Schrodinger",
+    "PDE"
+  ],
+  "title": "Uniqueness of global weak solutions for the defocusing energy-critical NLS",
+  "url": "https://arxiv.org/abs/2611.14175",
+  "venue": "arXiv"
+}

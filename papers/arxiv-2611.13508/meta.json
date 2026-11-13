@@ -1,0 +1,32 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13508",
+  "authors": [
+    "Yanmiao Han",
+    "Yu-Hao Wan",
+    "Peng-Yi Liu",
+    "Rundong Zhao",
+    "Qing-Feng Sun"
+  ],
+  "doi": "10.1103/5378-2fcs",
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "In theory, altermagnetism gives a topological insulator film a Hall edge channel without net magnetization",
+  "hook_turn": "gives a topological insulator film a Hall edge channel without net magnetization",
+  "id": "arxiv-2611.13508",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "The authors propose getting the quantum anomalous Hall effect from altermagnetic exchange on a weak topological insulator thin film, instead of ferromagnetism or magnetic doping. Altermagnetism gaps one Dirac cone while surface hybridization gaps the other, giving Chern number 1 and one chiral edge channel. This is shown only in a minimal model and slab calculations, with no experiment.",
+  "tags": [
+    "altermagnets",
+    "topological insulators"
+  ],
+  "title": "Magnetization-free quantum anomalous Hall effect in altermagnetic weak topological insulators",
+  "url": "https://arxiv.org/abs/2611.13508",
+  "venue": "arXiv"
+}

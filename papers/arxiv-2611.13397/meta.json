@@ -1,0 +1,27 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13397",
+  "authors": [
+    "Cheuk Ting Li"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "cs",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "One-shot channel simulation costs I + log I + a constant bits, and that constant is proved optimal.",
+  "id": "arxiv-2611.13397",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "The paper proves a tight bound on the entropy left over when one party simulates a channel using shared randomness, with the third-order constant shown unimprovable. It also shows the Poisson functional representation is within a constant gap of optimal. The result is theoretical and concerns the one-shot setting, with no implementation.",
+  "tags": [
+    "information theory",
+    "channel simulation"
+  ],
+  "title": "The Optimal Constant for One-Shot Channel Simulation and Strong Functional Representation Lemma",
+  "url": "https://arxiv.org/abs/2611.13397",
+  "venue": "arXiv"
+}

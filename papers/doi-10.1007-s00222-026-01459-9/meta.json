@@ -1,0 +1,31 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Emanuela L. Giacomelli",
+    "Christian Hainzl",
+    "Phan Thành Nam",
+    "Robert Seiringer"
+  ],
+  "doi": "10.1007/s00222-026-01459-9",
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A 1957 formula for the energy of a dilute gas of fermions is proved correct.",
+  "hook_turn": "is proved correct.",
+  "id": "doi-10.1007-s00222-026-01459-9",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "significance": 8,
+  "status": "peer_reviewed",
+  "summary": "The authors prove the Huang-Yang formula, a three-term expansion for the ground state energy of a low-density gas of spin 1/2 fermions with repulsive short-range forces. The result depends on the interaction only through its scattering length. This lower bound completes the program begun with the matching upper bound, and applies to the dilute regime only.",
+  "tags": [
+    "mathematical physics",
+    "Fermi gas"
+  ],
+  "title": "The Huang–Yang conjecture for the low-density Fermi gas",
+  "url": "https://doi.org/10.1007/s00222-026-01459-9",
+  "venue": "Inventiones mathematicae"
+}

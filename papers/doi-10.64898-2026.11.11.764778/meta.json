@@ -1,0 +1,42 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Chowdhury, R.",
+    "Piscitiello, E.",
+    "Vitacchio, T.",
+    "Sokol, O.",
+    "Benje, M.",
+    "Oppermann, J.",
+    "Helm, A.",
+    "Saccone, N. E.",
+    "Volpi, G.",
+    "Shete, N.",
+    "Teh, J. X.",
+    "Puspitasari Kokko, A.",
+    "Durante, M.",
+    "Cerri, M.",
+    "Tinganelli, W."
+  ],
+  "doi": "10.64898/2026.11.11.764778",
+  "explained_at": null,
+  "field": "medicine",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Repeated drug-induced torpor slowed bone tumor growth in mice and shielded healthy tissue from radiation.",
+  "id": "doi-10.64898-2026.11.11.764778",
+  "kit": null,
+  "license": "other",
+  "published": "2026-11-12",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Five drug-induced torpor bouts, given every other day, strongly slowed osteosarcoma growth in female mice, and the effect lasted after the last bout. Irradiating mice during torpor controlled the tumors as well as irradiating normal-temperature mice, while ovarian follicle loss was lower. This was one tumor line in one mouse strain, all female, so it is far from showing benefit in people.",
+  "tags": [
+    "cancer",
+    "torpor",
+    "radiotherapy"
+  ],
+  "title": "Synthetic Hibernation Suppresses Osteosarcoma Growth and Protects Normal Tissue from Radiation",
+  "url": "https://doi.org/10.64898/2026.11.11.764778",
+  "venue": "bioRxiv"
+}

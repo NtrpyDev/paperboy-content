@@ -1,0 +1,43 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Masahito Tanaka",
+    "Rin Sakanoue",
+    "Yasuki Miyagawa",
+    "Kai Otsuka",
+    "Yoshiaki Kobayashi",
+    "Atsushi Takasu",
+    "Ryunosuke Mori",
+    "Naoko Watanabe",
+    "Akihiro Inoue",
+    "Koyo Ikeda",
+    "Yu-Chia Chen",
+    "Aussie Suzuki",
+    "Yasuyuki Ohkawa",
+    "So Maezawa",
+    "Hiroshi Ochiai",
+    "Kei Miyamoto",
+    "Yuta Shimamoto"
+  ],
+  "doi": "10.1038/s41586-026-11240-w",
+  "explained_at": null,
+  "field": "biology",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Mouse two-cell embryo nuclei turn soft as LC3 clears lamin B1, helping switch on zygotic genes.",
+  "id": "doi-10.1038-s41586-026-11240-w",
+  "kit": null,
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "significance": 7,
+  "status": "peer_reviewed",
+  "summary": "Direct nuclear capture and biophysical tests show that nuclei in two-cell mouse embryos become very soft because the autophagy factor LC3 removes lamin B1 from the nuclear envelope. Stiffening the nucleus, by keeping lamin B1 or adding an engineered tether, leaves zygotic genes incompletely activated and impairs development. The work is in mouse embryos, and human relevance is untested.",
+  "tags": [
+    "embryo development",
+    "nucleus"
+  ],
+  "title": "Transient nuclear softening for zygotic gene activation in mice.",
+  "url": "https://doi.org/10.1038/s41586-026-11240-w",
+  "venue": "Nature"
+}

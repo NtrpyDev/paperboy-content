@@ -1,0 +1,28 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.14339",
+  "authors": [
+    "S. Hughes"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "physics",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Modulating a magnetic field makes polaritons emit photon pairs, not undergo a superradiant transition.",
+  "hook_turn": "not undergo a superradiant transition.",
+  "id": "arxiv-2611.14339",
+  "kit": null,
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-10",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Earlier predictions said modulating the magnetic field could drive a superradiant transition in Landau polaritons. An exact theory including the Faraday-induced electric field shows the system stays stable above a Krein frequency and below it emits pairs through the dynamical Casimir effect, with up to 5 to 10 dB of squeezing. The conclusion comes from theory and does not report an experiment.",
+  "tags": [
+    "polaritons",
+    "dynamical Casimir effect"
+  ],
+  "title": "Dynamical Casimir emission from Floquet-driven Landau polaritons: Gauge invariance forbids a superradiant phase transition",
+  "url": "https://arxiv.org/abs/2611.14339",
+  "venue": "arXiv"
+}

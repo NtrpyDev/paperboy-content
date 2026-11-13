@@ -1,0 +1,37 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Fei Li",
+    "Minghui Chen",
+    "Xiang Li",
+    "Zunyue Zhang",
+    "Huayou Luo",
+    "Mei Zhu",
+    "Huawei Wang",
+    "Yu Xu",
+    "Fengrong Chen",
+    "Kunhua Wang"
+  ],
+  "doi": "10.1073/pnas.2611266123",
+  "explained_at": null,
+  "field": "neuroscience",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Two prefrontal circuits in mice separately curb drinking, anxiety and low mood, with PPP1R1B as a key switch.",
+  "hook_turn": "with PPP1R1B as a key switch.",
+  "id": "doi-10.1073-pnas.2611266123",
+  "kit": null,
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "In mice drinking alcohol intermittently, activating a prelimbic-to-accumbens pathway reduced drinking, anxiety and depression-like behavior, while an infralimbic-to-amygdala pathway affected drinking and anxiety only. Protein profiling pointed to PPP1R1B, and knocking it out or overexpressing it in those neurons reproduced or reversed the behaviors. Results are in mice over four weeks, so human relevance is untested.",
+  "tags": [
+    "alcohol use disorder",
+    "prefrontal cortex"
+  ],
+  "title": "PPP1R1B differentially modulates alcohol intake and emotional comorbidity through distinct prefrontal circuits.",
+  "url": "https://doi.org/10.1073/pnas.2611266123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

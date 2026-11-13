@@ -1,0 +1,30 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13593",
+  "authors": [
+    "Gergely Kiss",
+    "Caleb Marshall",
+    "M\\'at\\'e Matolcsi",
+    "G\\'abor Somlai"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Nonnegative weak tilings can satisfy condition (T1) but fail (T2), with an explicit case in Z_180",
+  "id": "arxiv-2611.13593",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Researchers build a general method for finding nonnegative functions on finite cyclic groups that meet the Coven-Meyerowitz condition (T1) but not (T2) while acting as a weak complement to a tile. They also show that a tile with an unsupported divisor has a dilation with such a complement, and give an explicit example in the group of order 180. The examples are not positive definite, so they leave open the positive-definite extension of the conditions.",
+  "tags": [
+    "tilings",
+    "combinatorics"
+  ],
+  "title": "Nonnegative weak tilings and the Coven-Meyerowitz condition (T2)",
+  "url": "https://arxiv.org/abs/2611.13593",
+  "venue": "arXiv"
+}

@@ -1,0 +1,28 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13431",
+  "authors": [
+    "Joseph Turnbull",
+    "Jamie Simon"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "cs",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "In-context learning that looks like generalizing is really underfit memorization, and kernels show it.",
+  "id": "arxiv-2611.13431",
+  "kit": null,
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "Studying kernel machines on an in-context linear regression task, the authors find that more data makes them learn higher-degree parts of the memorizing solution, so they generalize first and then drift into memorization. This implies feature learning is not needed for this behavior. Transformer experiments agree, but the theory is shown only for one task.",
+  "tags": [
+    "in-context learning",
+    "kernel methods"
+  ],
+  "title": "You Don't Need Feature Learning to Do In-Context Learning",
+  "url": "https://arxiv.org/abs/2611.13431",
+  "venue": "arXiv"
+}

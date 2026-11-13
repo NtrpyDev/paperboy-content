@@ -1,0 +1,27 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.09078",
+  "authors": [
+    "Panagiotis Tselekidis"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Hyperbolic groups are either virtually free or have polygon slimness growing like log n",
+  "id": "arxiv-2611.09078",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-06",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "The paper defines a slimness function that tracks how thin geodesic polygons are as their number of sides grows, and shows it is a quasi-isometry invariant for hyperbolic spaces. For finitely generated hyperbolic groups it is either bounded, exactly when the group is virtually free, or grows like log n. The sharp dichotomy covers hyperbolic groups only.",
+  "tags": [
+    "geometric group theory",
+    "hyperbolic geometry"
+  ],
+  "title": "Slim Polygons, Hyperbolicity, and a new Quasi-Isometric Invariant",
+  "url": "https://arxiv.org/abs/2611.09078",
+  "venue": "arXiv"
+}

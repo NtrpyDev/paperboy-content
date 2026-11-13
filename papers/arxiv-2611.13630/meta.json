@@ -1,0 +1,46 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13630",
+  "authors": [
+    "Daniel Barter",
+    "Jacob C. Bridgeman",
+    "Chris Dawson",
+    "Terry Farrelly",
+    "Shane Fleming",
+    "Mercedes Gimeno-Segovia",
+    "Paul Hartke",
+    "Timothy Hein",
+    "Sean Howell",
+    "Gregory Hyegang Jun",
+    "Siddhartha Kamalakara",
+    "Yehua Liu",
+    "Jose M. Monsalve Diaz",
+    "Eddie Richter",
+    "Sam Roberts"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "cs",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A transformer decoder matches slower integer-programming decoders and runs in 6.59 microseconds on an FPGA",
+  "id": "arxiv-2611.13630",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "readout": {
+    "label": "Decoding latency, distance-8 block on FPGA",
+    "unit": "microseconds",
+    "value": "6.59"
+  },
+  "significance": 6,
+  "status": "preprint",
+  "summary": "PRISM is a transformer decoder that uses the known locations of erasures in photonic fusion-based quantum computing. On surface, color and quantum LDPC codes up to distance 24 it matches the logical error rates of integer-programming decoders while running faster. An FPGA implementation decodes a distance-8 block in 6.59 microseconds. Benchmarks are on simulated noise, not on real photonic hardware.",
+  "tags": [
+    "quantum error correction",
+    "decoders"
+  ],
+  "title": "Machine-learning decoders for fusion-based quantum computing in real time",
+  "url": "https://arxiv.org/abs/2611.13630",
+  "venue": "arXiv"
+}

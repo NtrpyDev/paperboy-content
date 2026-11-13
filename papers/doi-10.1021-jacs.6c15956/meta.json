@@ -1,0 +1,44 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Yun Wan",
+    "Xiaoyan Shi",
+    "Yuerong Li",
+    "Zhiming Zhou",
+    "Xu Xu",
+    "Xinhui Zeng",
+    "Xiaosa Zhang",
+    "Xunzhu Zhou",
+    "Huanhuan Dong",
+    "Xingqiao Wu",
+    "Shu-Lei Chou",
+    "Lin Li"
+  ],
+  "doi": "10.1021/jacs.6c15956",
+  "explained_at": null,
+  "field": "engineering",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A two-solvent electrolyte lets sodium-ion cells run from -50 to 100 C.",
+  "hook_turn": "lets sodium-ion cells run from -50 to 100 C.",
+  "id": "doi-10.1021-jacs.6c15956",
+  "kit": null,
+  "license": "other",
+  "published": "2026-11-12",
+  "readout": {
+    "label": "Pouch cell capacity retention, 300 cycles at 25 C",
+    "unit": "%",
+    "value": "86.3"
+  },
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "Mixing ethyl propionate with a nonflammable phosphazene solvent weakens how tightly sodium ions are held, so they move faster and form a stable electrode film. Prussian blue and hard carbon cells ran across the wide temperature range, and ampere-hour pouch cells kept 86.3% capacity after 300 cycles. Low-temperature and hot pouch runs lasted only about 100 cycles.",
+  "tags": [
+    "sodium-ion batteries",
+    "electrolytes"
+  ],
+  "title": "Hybrid Weakly Coordinated Solvents for Fast-Charging and Wide-Temperature Sodium-Ion Full Batteries",
+  "url": "https://doi.org/10.1021/jacs.6c15956",
+  "venue": "Journal of the American Chemical Society"
+}

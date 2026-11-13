@@ -1,0 +1,37 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Lin Luo",
+    "Ursula K Dueren",
+    "Ana Victoria Lechuga-Vieco",
+    "Dimitra Stamkopoulou",
+    "Liliana Tchernev",
+    "Yavuz F Yazicioglu",
+    "Amir Hossein Kayvanjoo",
+    "Teresa Lambe",
+    "Anna Katharina Simon",
+    "Mariana Borsa"
+  ],
+  "doi": "10.1126/sciadv.aef1608",
+  "explained_at": null,
+  "field": "medicine",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Human T cells split their autophagy machinery unevenly when dividing, and this tracks flu vaccine response.",
+  "hook_turn": "and this tracks flu vaccine response.",
+  "id": "doi-10.1126-sciadv.aef1608",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 6,
+  "status": "peer_reviewed",
+  "summary": "Dividing human CD8+ T cells unequally pass autophagy-related organelles to daughter cells, which then take different fates. In an influenza vaccine trial, people with stronger asymmetry responded better, and brief rapamycin improved memory survival in cells. The vaccine link is a correlation in a limited cohort.",
+  "tags": [
+    "T cells",
+    "vaccines"
+  ],
+  "title": "Asymmetric cell division is predictive of human T cell vaccine responses.",
+  "url": "https://doi.org/10.1126/sciadv.aef1608",
+  "venue": "Science Advances"
+}

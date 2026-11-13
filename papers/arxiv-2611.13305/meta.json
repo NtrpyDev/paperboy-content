@@ -1,0 +1,27 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": "2611.13305",
+  "authors": [
+    "Haibin Hang"
+  ],
+  "doi": null,
+  "explained_at": null,
+  "field": "math",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "Every hyperbolic knot has a braid diagram where each crossing is faithfully tracked, settling a conjecture",
+  "id": "arxiv-2611.13305",
+  "kit": null,
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-09",
+  "significance": 5,
+  "status": "preprint",
+  "summary": "The paper proves that any hyperbolic knot has a closed braid diagram with distinct parabolic fixed points at every crossing, answering a conjecture of McPhail-Snyder. The proof rewrites a troublesome crossing as five ordinary ones, using at most 2n-1 letters per replaced crossing on n strands. It is a pure existence result and does not address how to find the shortest such diagram.",
+  "tags": [
+    "knot theory",
+    "hyperbolic geometry"
+  ],
+  "title": "Every hyperbolic knot has an arc-faithful closed braid diagram",
+  "url": "https://arxiv.org/abs/2611.13305",
+  "venue": "arXiv"
+}

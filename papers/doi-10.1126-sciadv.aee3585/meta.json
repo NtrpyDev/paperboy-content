@@ -1,0 +1,39 @@
+{
+  "added_at": "2026-11-13T16:35:19Z",
+  "arxiv_id": null,
+  "authors": [
+    "Yuanding Liu",
+    "Zhaofeng Luo",
+    "Yuan Gao",
+    "Tao Pan",
+    "Changjie Yang",
+    "Zheng Zhang",
+    "Die Yu",
+    "Yifan He",
+    "Daiquan Chen",
+    "Sainan Guo",
+    "Yingbin Liu",
+    "Yang Sun",
+    "Weihong Tan"
+  ],
+  "doi": "10.1126/sciadv.aee3585",
+  "explained_at": null,
+  "field": "medicine",
+  "fulltext_source": null,
+  "has_explainer": false,
+  "hook": "A drug-carrying DNA aptamer homed in on TROP2 and slowed pancreatic tumor growth in mice.",
+  "id": "doi-10.1126-sciadv.aee3585",
+  "kit": null,
+  "license": null,
+  "published": "2026-11-11",
+  "significance": 5,
+  "status": "peer_reviewed",
+  "summary": "A short DNA-like aptamer that binds the tumor protein TROP2 was linked to a toxin and shrank pancreatic tumors in mouse models, including patient-derived ones. It also triggered immune signals, and combining it with PD-1 blockade worked better. All evidence is preclinical, so safety and benefit in people are unknown.",
+  "tags": [
+    "pancreatic cancer",
+    "drug delivery"
+  ],
+  "title": "A TROP2-targeting aptamer enables selective drug delivery and potent antitumor activity in pancreatic cancer.",
+  "url": "https://doi.org/10.1126/sciadv.aee3585",
+  "venue": "Science Advances"
+}
