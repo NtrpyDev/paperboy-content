@@ -1,0 +1,578 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark light">
+<title>Companions thin out at about 2% of their star's mass. The brown dwarf desert is a ratio.</title>
+<link rel="stylesheet" href="/kit/v2/vendor/katex/katex.min.css">
+<link rel="stylesheet" href="/kit/v2/paperboy.css">
+<script src="/kit/v2/vendor/d3.min.js"></script>
+<script src="/kit/v2/vendor/plot.umd.min.js"></script>
+<script src="/kit/v2/vendor/katex/katex.min.js"></script>
+<script src="/kit/v2/vendor/katex/auto-render.min.js"></script>
+<script src="/kit/v2/paperboy.js"></script>
+</head>
+<body>
+<article class="pb">
+
+<header class="pb-hero">
+  <div class="pb-kicker">
+    <span class="pb-tag">Space</span>
+    <span class="pb-badge" data-status="preprint">Preprint</span>
+    <a class="pb-journal" href="https://arxiv.org/abs/2611.12881">arXiv</a>
+  </div>
+  <h1 class="pb-title">Companions thin out at about 2% of their star's mass. <em>The brown dwarf desert is a ratio.</em></h1>
+  <div class="pb-stage" id="hero" data-kind="data"></div>
+  <div class="pb-readout-row">
+    <div>
+      <div class="pb-readout">1.76<span class="pb-unit">%</span></div>
+      <span class="pb-label">Mass ratio at the desert floor, K to B stars</span>
+    </div>
+    <div class="pb-plate-slug">Plate 1<br>Data, from<br>the paper</div>
+  </div>
+  <p class="pb-dek">Across 63,254 stars, companions on 3 to 94 year orbits are rarest when they weigh about 2% of their star. On the plate, each row is a size of star and each faint diagonal is one mass ratio. The bright line is the fitted floor: one mass ratio, which lands on heavier companions for heavier stars, while the textbook brown dwarf limits stand still. One ratio fits the floors of all five star groups well.</p>
+  <div id="hero-table"></div>
+</header>
+
+<div class="pb-callout" data-kind="key">
+  <span class="pb-callout-label">Key idea</span>
+  <p>Whether a companion belongs with the planets or with the stars seems to depend on its weight relative to its star, not on one fixed mass.</p>
+</div>
+
+<section class="pb-section" data-section="question">
+  <p class="pb-eyebrow">The question</p>
+  <h2>A gap between planets and stars. <em>Where does it sit?</em></h2>
+  <p>Many stars have a companion: a giant planet, a <span class="pb-term" data-def="An object heavier than a giant planet but too light to fuse ordinary hydrogen like a star. By convention, about 13 to 80 Jupiter masses.">brown dwarf</span>, or another star. Close in, brown dwarfs are scarce. Surveys find them around fewer than 1% of Sun-like stars within about 5 au. Astronomers call this the brown dwarf desert.</p>
+  <p>Textbooks draw the brown dwarf line at a fixed mass, about 13 Jupiter masses, where a body can briefly burn deuterium. That is a rule about the body's insides, not about how it formed. The other candidate is the <span class="pb-term" data-def="Companion mass divided by the mass of the star it orbits. A mass ratio of 2% means the companion weighs 2% of its star.">mass ratio</span>: the companion's weight as a share of its star's. The two ideas only part ways when you compare stars of different sizes.</p>
+  <figure class="pb-fig" data-kind="illustration" data-slug="Fig. 1">
+    <p class="pb-fig-title">Two ways the gap could sit</p>
+    <div id="predict-toggle"></div>
+    <div id="predict"></div>
+    <figcaption>Each row is the count of companions around one size of star, from light to heavy companions. Switch the rule and watch where the gap goes.</figcaption>
+  </figure>
+  <p>Earlier hints from other methods put a desert at mass ratios of about 2% to 5%. But each method saw only a narrow slice of stars and orbits. No single survey had covered planets and stellar companions together across many sizes of star.</p>
+</section>
+
+<section class="pb-section" data-section="method">
+  <p class="pb-eyebrow">What they did</p>
+  <h2>A wobble on the sky, <em>measured 25 years apart.</em></h2>
+  <p>A companion and its star circle a shared balance point, so the star itself sways on the sky. <span class="pb-term" data-def="Precise measurement of where stars are on the sky and how they move.">Astrometry</span> measures that sway. The Hipparcos satellite charted star motions, and Gaia charted them again about 25 years later. If a star's motion in each snapshot disagrees with its average motion in between, something unseen is pulling on it.</p>
+  <figure class="pb-fig pb-wide" data-kind="illustration" data-slug="Try it">
+    <p class="pb-fig-title">Make the companion heavier</p>
+    <div id="wobble"></div>
+    <div id="wobble-slider"></div>
+    <div id="wobble-legend"></div>
+    <figcaption>One star's drift across the sky, with the sway greatly exaggerated. Above each snapshot, its measured motion (arrow) sits beside the average motion between the two (thin line). A heavier companion pulls them apart.</figcaption>
+  </figure>
+  <p>The team began with 96,915 bright stars within 1 kpc and kept the 63,254 (65%) that have not evolved beyond the red-giant branch. Their masses run from 0.16 to 8.1 times the Sun's. Most stars' signals are faint and ambiguous on their own, so the team did not try to list detections.</p>
+  <div class="pb-steps" id="steps">
+    <div class="pb-steps-visual">
+      <figure class="pb-fig" data-kind="illustration" data-slug="Fig. 2">
+        <div id="grid"></div>
+      </figure>
+    </div>
+    <div class="pb-step"><span class="pb-step-n">Step 1 of 4</span><p>The answer is a map: 10 columns of orbital period, from 1 day to 100,000 years, by 20 rows of mass ratio. That is 200 cells.</p></div>
+    <div class="pb-step"><span class="pb-step-n">Step 2 of 4</span><p>Alone, one star's data allow many answers: from 0 to 3 companions, spread across many cells. Its answer is a blur.</p></div>
+    <div class="pb-step"><span class="pb-step-n">Step 3 of 4</span><p>Every star is blurry in a different place. A <span class="pb-term" data-def="A statistical model that fits each star and the shared population at the same time, so weak signals from many stars add up.">hierarchical model</span> keeps every blur and asks which single shared map explains them all.</p></div>
+    <div class="pb-step"><span class="pb-step-n">Step 4 of 4</span><p>Fit together, the stars give one map. Inside the 3 to 94 year window, the emptiest row is mass ratios of 1.8% to 3.2%.</p></div>
+  </div>
+</section>
+
+<section class="pb-section" data-section="findings">
+  <p class="pb-eyebrow">What they found</p>
+  <h2>The gap keeps one ratio. <em>Its mass slides with the star.</em></h2>
+  <p>The team sorted stars by mass into six groups, from small M stars to massive B stars, and fit each group on its own. In every group from K to B, the floor landed near the same mass ratio, about 2%, and one constant ratio fits all five groups well.†</p>
+  <figure class="pb-fig" data-kind="data" data-slug="Fig. 3">
+    <div class="pb-stat">
+      <div class="pb-stat-value">1.76%</div>
+      <div class="pb-stat-label"><b>Mass ratio at the floor</b>one ratio fit across K to B stars</div>
+    </div>
+    <div id="floor"></div>
+    <div id="floor-legend"></div>
+    <div id="floor-table"></div>
+    <figcaption>Section III of the paper. A second fit, to all 63,254 stars at once, agrees within 1.2σ.</figcaption>
+  </figure>
+  <div class="pb-callout" data-kind="caveat">
+    <span class="pb-callout-label">Caveat</span>
+    <p>† The M group had only 119 stars and was left out of this fit. The paper sees hints that the trend continues there.</p>
+  </div>
+  <p>The desert is deep, not a wiggle. At the floor, companions are about 33 times rarer than at the planet-side peak and about 19 times rarer than at the star-side peak.</p>
+  <figure class="pb-fig" data-kind="data" data-slug="Fig. 4">
+    <p class="pb-fig-title">How empty the floor is</p>
+    <div id="depth"></div>
+    <div id="depth-legend"></div>
+    <div id="depth-table"></div>
+    <figcaption>Companion rates relative to the desert floor, full-sample fit, Section III. Whiskers show each range.</figcaption>
+  </figure>
+  <p>Because the floor follows the ratio, one mass can land on either side. For a Sun-like star, a 1% ratio is about 10 Jupiter masses, and in the paper's G-star group the floor sits near 17 Jupiter masses. Around K stars, the lightest star-like companions weigh about 13. Around B stars, the heaviest planet-like companions weigh about 27, well past the deuterium line.</p>
+  <figure class="pb-fig" data-kind="data" data-slug="Fig. 5">
+    <p class="pb-fig-title">The star-like one is lighter</p>
+    <div id="overlap"></div>
+    <div id="overlap-table"></div>
+    <figcaption>Both plotted masses are approximate and appear only in the paper's abstract. No fixed mass line could split these two populations.</figcaption>
+  </figure>
+  <p>Metal content tells the two sides apart too. Planets that grow from a rocky core should be more common around stars rich in heavy elements, a property called <span class="pb-term" data-def="The share of elements heavier than helium in a star, compared with the Sun, on a log scale in dex. Zero means Sun-like.">metallicity</span>. In 18,672 F, G and K stars, roughly Sun-like in size, companions below the desert grow more common as metallicity rises, and companions above it grow less common.</p>
+  <figure class="pb-fig" data-kind="data" data-slug="Fig. 6">
+    <p class="pb-fig-title">Opposite pulls from metals</p>
+    <div id="metal"></div>
+    <div id="metal-legend"></div>
+    <div id="metal-table"></div>
+    <figcaption>Each slope says how fast the companion rate changes with metallicity: above zero, more companions around metal-rich stars. A flat trend is rejected at 4.4σ below the desert and disfavored at 2.6σ above. Section III.</figcaption>
+  </figure>
+  <p>That split fits two recipes: planets built up from dust and rock, and stellar companions made when gas breaks into pieces. The paper calls this plausible. It sees the gap and the opposite trends, not formation itself.</p>
+</section>
+
+<section class="pb-section" data-section="confidence">
+  <h2>How sure <em>is this?</em></h2>
+  <ul class="pb-confidence">
+    <li class="pb-confidence-head">Strengths</li>
+    <li><b>Sample</b><span class="v">63,254<span class="pb-unit">stars</span></span><span class="note">One method, all sky, covering planet-like and star-like companions at once.</span></li>
+    <li><b>Floor</b><span class="v">1.76<span class="pb-unit">%</span></span><span class="note">With a range of −0.19 to +0.26 points. One ratio fits the five group minima well (χ² of 1.6 for 4 degrees of freedom).</span><span id="ledger-floor"></span></li>
+    <li><b>Depth</b><span class="v">33<span class="pb-sign">×</span></span><span class="note">Below the planet peak, even though the model's starting assumption leaned toward no desert at all.</span></li>
+    <li><b>Checks</b><span class="note">It recovers known binaries, cold Jupiters and brown dwarfs, agrees with radial-velocity and imaging surveys on the same stars, and shows no color or sky-position bias.</span></li>
+    <li class="pb-confidence-head">Limits</li>
+    <li><b>Review</b><span class="v"><span class="pb-badge" data-status="preprint">Preprint</span></span><span class="note">Not peer reviewed. It relies on a companion catalog paper that is also unpublished. The per-star results can be browsed online, but the formal data release, code and population results are promised only on acceptance.</span></li>
+    <li><b>Orbits</b><span class="v">3–94<span class="pb-unit">years</span></span><span class="note">About 2 to 20 au only. Beyond about 100 years the method cannot separate a companion's mass from its distance.</span></li>
+    <li><b>M stars</b><span class="v">119<span class="pb-unit">stars</span></span><span class="note">Too few to include in the ratio fit, though the abstract says the result spans M to B stars.</span></li>
+    <li><b>Inferred</b><span class="note">Masses come from models, and most single stars' signals are weak. The rates describe the fitted population, not a list of found objects.</span></li>
+    <li><b>Metals</b><span class="v">2.6σ</span><span class="note">The falling trend above the desert is weaker evidence than the rising one below it (4.4σ), and covers F, G and K stars only.</span></li>
+    <li><b>Disagreement</b><span class="note">Another survey (Cui et al.) finds companion rates several times higher: 23.1% against 3.0% here, for 5 to 120 Jupiter-mass companions of similar stars. The authors suggest that survey's completeness correction may explain it; this is not settled.</span></li>
+    <li class="pb-confidence-head">Open questions</li>
+    <li><b>Wider orbits</b><span class="note">Does the ratio desert hold beyond about 100 years, and for M stars?</span></li>
+    <li><b>Upper edge</b><span class="note">Does the desert's upper edge move with orbital period? Do orbit shapes differ across it?</span></li>
+    <li><b>Gaia DR4</b><span class="note">The next Gaia release, with individual measurements over time, should sharpen the desert and measure periods and orbit shapes, though wide planet-like companions will still need Hipparcos too.</span></li>
+    <li data-kind="standing"><b>This explainer</b>Machine written, and it can be wrong. Check it against the paper.</li>
+  </ul>
+</section>
+
+<section class="pb-section" data-section="matters">
+  <p class="pb-eyebrow">Why it matters</p>
+  <h2>Planet or not? <em>Ask about the star first.</em></h2>
+  <p>If the result holds, a fixed mass line such as 13 Jupiter masses is the wrong way to split planets from star-like companions on these orbits. A body of 27 Jupiter masses around a B star can belong with the planets, while a lighter one around a K star belongs with the stars.</p>
+  <p>It also shows a new way to take a census: thousands of faint wobbles, none convincing alone, pooled into one population. The per-star results can already be browsed online; the formal data release and the code are promised once the paper is accepted.</p>
+</section>
+
+<footer class="pb-source">
+  <p class="pb-eyebrow">Source</p>
+  <cite>The Brown Dwarf Desert is a Mass-Ratio Desert: Astrometric Demographics of 63,254 Stars</cite>
+  <p class="pb-authors">William Thompson, Alexandre Bouchard-Côté, Dori Blakely, Trevor Campbell, Jessica Speedie, Judah Van Zandt and others</p>
+  <small>arXiv:2611.12881</small>
+  <small>November 9, 2026. Preprint, not peer reviewed. CC BY</small>
+  <a class="pb-btn" href="https://arxiv.org/abs/2611.12881">Read the paper</a>
+  <p class="pb-note">This page was written by a machine and can be wrong. The paper is the source.</p>
+</footer>
+
+</article>
+<script>
+PB.ready(function () {
+  /* Numbers from the brief's evidence table. MJ converts solar masses to Jupiter masses; it is used
+     only to place marks, never printed. */
+  var MJ = 1047.6;
+  var Q0 = 0.0176, QLO = 0.0176 - 0.0019, QHI = 0.0176 + 0.0026;   // row 21
+  var KMEAN = 0.69, BMEAN = 2.54;                                     // row 23
+  var ROWS = [
+    { n: "K", lo: 0.45, hi: 0.80 }, { n: "G", lo: 0.80, hi: 1.04 }, { n: "F", lo: 1.04, hi: 1.40 },
+    { n: "A", lo: 1.40, hi: 2.10 }, { n: "B", lo: 2.10, hi: 3.2 }
+  ];                                                                  // row 11; B is open above
+
+  /* a label on a ground knockout, so it never sits on a field */
+  function label(g, x, y, text, o) {
+    o = o || {};
+    var lg = g.append("g");
+    var r = lg.append("rect").attr("class", "pb-ground");
+    var t = lg.append("text").attr("class", "pb-mark-label").attr("x", x).attr("y", y).attr("text-anchor", o.anchor || "start").text(text);
+    if (o.strong) t.attr("data-strong", "");
+    if (o.finding) t.attr("data-finding", "");
+    if (o.muted) t.attr("data-muted", "");
+    var b = t.node().getBBox(), pad = o.pad == null ? 3 : o.pad;
+    r.attr("x", b.x - pad).attr("y", b.y - 1).attr("width", b.width + 2 * pad).attr("height", b.height + 2);
+    return t;
+  }
+  function arrowHead(g, x, y, dx, dy, size) {
+    var l = Math.hypot(dx, dy); dx /= l; dy /= l;
+    var s = size || 6, bx = x - dx * s, by = y - dy * s;
+    g.append("path").attr("class", "pb-beam")
+      .attr("d", "M" + (bx - dy * s * 0.6) + " " + (by + dx * s * 0.6) + "L" + x + " " + y + "L" + (bx + dy * s * 0.6) + " " + (by - dx * s * 0.6));
+  }
+  var minus = function (v) { return PB.fmt.minus(v); };
+
+  /* ---- Plate 1: companion mass across, host star mass up. Every faint diagonal is one mass ratio.
+     The live line is the desert floor at q = 1.76%, drawn over the K to B groups' mean host masses
+     (0.69 to 2.54 solar masses). The two upright lines are the textbook brown dwarf limits, 13 and
+     80 Jupiter masses. */
+  PB.plate("#hero", {
+    band: function () { var v = window.innerWidth; return v >= 1160 ? 420 : v >= 930 ? 380 : v >= 700 ? 340 : 292; },
+    label: "Data from the paper. Companion mass in Jupiter masses runs across, star mass runs up through five groups, K, G, F, A and B. Faint diagonals are lines of equal mass ratio. The fitted desert floor, a mass ratio of 1.76 percent with a shaded range, is one of them, so it lands on heavier companions for heavier stars. The textbook brown dwarf limits at 13 and 80 Jupiter masses are upright lines that do not move.",
+    draw: function (p) {
+      var x = d3.scaleLog().domain([3, 300]).range([p.left, p.right]);
+      var y = d3.scaleLog().domain([0.45, 3.2]).range([p.band - 4, 34]);
+      var Mtop = y.invert(0), Mbot = y.invert(p.band);
+      // print: the field of constant mass ratio, one hairline every 0.035 dex, left open in the floor's range
+      var hair = [], heavy = [];
+      for (var i = -140; i <= 20; i++) {
+        var lq = i * 0.035, q = Math.pow(10, lq);
+        if (q > QLO * 0.985 && q < QHI * 1.015) continue;
+        var x1 = x(q * Mbot * MJ), x2 = x(q * Mtop * MJ);
+        if (Math.max(x1, x2) < -10 || Math.min(x1, x2) > p.width + 10) continue;
+        hair.push("M" + x1.toFixed(1) + " " + p.band + "L" + x2.toFixed(1) + " 0");
+      }
+      [0.001, 0.01, 0.1].forEach(function (q) {
+        heavy.push("M" + x(q * Mbot * MJ).toFixed(1) + " " + p.band + "L" + x(q * Mtop * MJ).toFixed(1) + " 0");
+      });
+      p.print.append("path").attr("class", "pb-field-hair").attr("d", hair.join(""));
+      p.print.append("path").attr("class", "pb-field-hair").attr("d", heavy.join("")).style("stroke-width", "1.3px").style("stroke-opacity", 1);
+
+      // key: the floor's range as a screened band, the star groups, the fixed brown dwarf limits
+      var band = [[x(QLO * KMEAN * MJ), y(KMEAN)], [x(QLO * BMEAN * MJ), y(BMEAN)], [x(QHI * BMEAN * MJ), y(BMEAN)], [x(QHI * KMEAN * MJ), y(KMEAN)]];
+      PB.fillShape(p.key, "band", 2, function (g) { return g.append("path").attr("d", "M" + band.map(function (pt) { return pt[0].toFixed(1) + " " + pt[1].toFixed(1); }).join("L") + "Z"); });
+      ROWS.slice(1).forEach(function (r) {
+        p.key.append("line").attr("class", "pb-ground").style("stroke-width", "3px").attr("x1", 0).attr("x2", p.width).attr("y1", y(r.lo)).attr("y2", y(r.lo));
+        p.key.append("line").attr("class", "pb-grid-line").attr("x1", 0).attr("x2", p.width).attr("y1", y(r.lo)).attr("y2", y(r.lo));
+      });
+      [13, 80].forEach(function (m) {
+        p.key.append("line").attr("class", "pb-ground").style("stroke-width", "4px").attr("x1", x(m)).attr("x2", x(m)).attr("y1", 22).attr("y2", p.band);
+        p.key.append("line").attr("class", "pb-contour-line").style("stroke-width", "1.1px").attr("x1", x(m)).attr("x2", x(m)).attr("y1", 22).attr("y2", p.band);
+      });
+
+      // live layer: labels at their marks, the ruler, the line
+      ROWS.forEach(function (r) { label(p.live, p.left, (y(r.lo) + y(Math.min(r.hi, 3.2))) / 2 + 4, r.n + " STARS", { strong: true }); });
+      label(p.live, x(13), 14, "13", { anchor: "middle" });
+      label(p.live, x(80), 14, "80", { anchor: "middle" });
+      label(p.live, (x(13) + x(80)) / 2, 14, "BROWN DWARFS", { anchor: "middle", muted: true });
+      var x0 = x(Q0 * KMEAN * MJ), y0 = y(KMEAN), x1e = x(Q0 * BMEAN * MJ), y1e = y(BMEAN);
+      var lx = x1e + 12, anchor = "start";
+      if (lx + 120 > p.width - 6) { lx = x1e - 12; anchor = "end"; }
+      label(p.live, lx, y1e - 4, "DESERT FLOOR", { anchor: anchor, finding: true });
+      label(p.live, lx, y1e + 10, "1.76% OF THE STAR", { anchor: anchor });
+      // the star-mass scale: each group edge, at the right
+      ROWS.slice(1).forEach(function (r, i) {
+        label(p.live, p.width - 6, y(r.lo) + 15, r.lo.toFixed(2) + (i === 0 ? " SOLAR MASSES" : ""), { anchor: "end", muted: true });
+      });
+      // name one heavy diagonal: a line of equal mass ratio, set along it
+      // start just right of the 13 line, so the label never crosses it at any width
+      var M0 = x.invert(x(13) + 14) / (0.01 * MJ), sx = x(0.01 * M0 * MJ), sy = y(M0);
+      var ex = x(0.01 * M0 * 2 * MJ), ey = y(M0 * 2), dl = Math.hypot(ex - sx, ey - sy), ux = (ex - sx) / dl, uy = (ey - sy) / dl;
+      var ang = Math.atan2(uy, ux) * 180 / Math.PI;
+      var qg = p.live.append("g");
+      var qt = label(qg, 0, 4, "EQUAL MASS RATIO, 1%", { anchor: "middle" });
+      // center it between the 13 line and the column heads; shorten it if the run is too short
+      var M1 = y.invert(46), tx = x(0.01 * M1 * MJ), room = Math.hypot(tx - sx, 46 - sy);
+      if (qt.node().getBBox().width + 8 > room) { qt.text("EQUAL RATIO, 1%"); qg.select("rect").remove(); qg.selectAll("*").remove(); qt = label(qg, 0, 4, "EQUAL RATIO, 1%", { anchor: "middle" }); }
+      qg.attr("transform", "translate(" + ((sx + tx) / 2).toFixed(1) + " " + ((sy + 46) / 2).toFixed(1) + ") rotate(" + ang.toFixed(1) + ")");
+      // the floor's range
+      var Mr = 0.95;
+      label(p.live, x(QHI * Mr * MJ) + 4, y(Mr) + 4, "RANGE OF THE FIT", { muted: true });
+      PB.ruler(p.live, {
+        x: x, y: p.rulerY, x1: 0, x2: p.width,
+        major: [3, 10, 30, 100, 300], minor: [4, 5, 6, 7, 8, 9, 20, 40, 50, 60, 70, 80, 90, 200],
+        labels: [3, 10, 30], unit: "JUPITER MASSES", unitAt: "end", unitX: p.right
+      });
+      PB.live(p.live, "M" + x0.toFixed(1) + " " + y0.toFixed(1) + "L" + x1e.toFixed(1) + " " + y1e.toFixed(1), { pulse: true });
+    }
+  });
+
+  PB.table("#hero-table", {
+    caption: "Plate 1 numbers, from the paper (Section III; the 13 and 80 lines follow its Fig. 4).",
+    columns: [{ key: "what", label: "On the plate" }, { key: "v", label: "Value" }],
+    rows: [
+      { what: "Desert floor, mass ratio", v: "1.76% (+0.26 / \u22120.19)" },
+      { what: "Mean star mass, K to B groups", v: "0.69 to 2.54 Suns" },
+      { what: "Brown dwarf limits, upright lines", v: "13 and 80 Jupiter masses" }
+    ]
+  });
+
+  /* ---- Fig. 1: two predictions. Illustration: the hill, valley, hill shape is a sketch, not data.
+     Rows run from K stars (bottom) to B stars (top). Under the mass rule the valleys stack upright;
+     under the ratio rule each valley moves right by the star's mass. The live line joins the valleys. */
+  var rule = "mass";
+  var predict = PB.svg("#predict", { height: 292, label: "Illustration. Five rows, one per size of star. If the desert were set by mass, the gap in each row would sit at the same companion mass, in a vertical line. If it were set by mass ratio, the gap would move to heavier companions for heavier stars, in a slanted line." }, function (svg, s) {
+    var x0 = 70, x1 = s.width - 6, W = x1 - x0, top = 44, rowH = 40;
+    var perDex = W / 2.6;
+    var centers = [Math.sqrt(0.45 * 0.8), Math.sqrt(0.8 * 1.04), Math.sqrt(1.04 * 1.4), Math.sqrt(1.4 * 2.1), Math.sqrt(2.1 * 3.2)];
+    var names = ["K", "G", "F", "A", "B"];
+    var valleys = [];
+    for (var i = 4; i >= 0; i--) {
+      var row = 4 - i, base = top + row * rowH + 26;
+      var xv = x0 + W * 0.36 + (rule === "ratio" ? perDex * Math.log10(centers[i] / 0.6) : 0);
+      var pts = [];
+      for (var xx = x0; xx <= x1 + 0.1; xx += 3) {
+        var u = (xx - xv) / 17, f = (u * u) / (1 + u * u);
+        var e = Math.min(1, (xx - x0) / 34, (x1 - xx) / 34);
+        pts.push([xx, base - 22 * f * (0.35 + 0.65 * Math.max(0, e))]);
+      }
+      var d = PB.curve(pts);
+      svg.append("path").attr("class", "pb-line-trap").attr("d", d);
+      svg.append("path").attr("class", "pb-line").attr("d", d);
+      svg.append("line").attr("class", "pb-grid-line").attr("x1", x0).attr("x2", x1).attr("y1", base + 4).attr("y2", base + 4);
+      svg.append("text").attr("class", "pb-mark-label").attr("data-strong", "").attr("x", 0).attr("y", base - 4).text(names[i] + " STARS");
+      valleys.push([xv, base]);
+    }
+    svg.append("text").attr("class", "pb-mark-label").attr("x", x0 + 4).attr("y", 26).text("PLANET-LIKE");
+    svg.append("text").attr("class", "pb-mark-label").attr("x", x1).attr("y", 26).attr("text-anchor", "end").text("STAR-LIKE");
+    var ax = top + 5 * rowH + 18;
+    svg.append("line").attr("class", "pb-axis-line").attr("x1", x0).attr("x2", x1).attr("y1", ax).attr("y2", ax);
+    arrowHead(svg, x1, ax, 1, 0, 6);
+    svg.append("text").attr("class", "pb-mark-label").attr("x", x0).attr("y", ax + 20).attr("data-muted", "").text("LIGHTER");
+    svg.append("text").attr("class", "pb-mark-label").attr("x", x1).attr("y", ax + 20).attr("text-anchor", "end").attr("data-muted", "").text("HEAVIER COMPANION");
+    var v = valleys.slice().reverse();   // from the top row down to K
+    var dl = "M" + v[v.length - 1][0].toFixed(1) + " " + (v[v.length - 1][1] + 4) + "L" + v[0][0].toFixed(1) + " " + (v[0][1] - 4);
+    PB.live(svg, dl, { ms: 900 });
+    label(svg, v[0][0], 12, rule === "ratio" ? "GAP AT ONE RATIO" : "GAP AT ONE MASS", { anchor: "middle", finding: true });
+  });
+  PB.toggle("#predict-toggle", {
+    label: "If the desert were set by", value: "mass",
+    options: [{ value: "mass", label: "Mass" }, { value: "ratio", label: "Mass ratio" }],
+    onChange: function (v) { rule = v; predict.redraw(); }
+  });
+
+  /* ---- Try it: the star's drift on the sky over about 25 years, with the sway of an unseen companion.
+     Illustration, not to scale: the sway's size grows with the mass ratio. The arrows are the motion each
+     mission measures; the thin line is the average motion between them. */
+  var lq = -1;   // log10 of the mass ratio
+  var wob = null;
+  PB.svg("#wobble", { height: 270, label: "Illustration, not to scale: a star's wavy path across the sky over about 25 years. Above it, at Hipparcos and at Gaia, the motion measured in that snapshot is drawn beside the average motion between the two. With a heavy companion, they point different ways." }, function (svg, s) {
+    var W = s.width, ry = s.height - 34, oy = 58;
+    var t = d3.scaleLinear().domain([0, 25]).range([30, W - 96]);
+    var g = svg.append("g"), liveG = svg.append("g");
+    label(svg, t(0), 14, "HIPPARCOS", { anchor: "start", strong: true });
+    label(svg, t(25), 14, "GAIA", { anchor: "start", strong: true });
+    PB.ruler(svg, { x: t, y: ry, x1: 0, x2: W, major: [0, 25], minor: [5, 10, 15, 20], labels: [0, 25], unit: "YEARS" });
+    wob = function (animate) {
+      g.selectAll("*").remove(); liveG.selectAll("*").remove();
+      var q = Math.pow(10, lq), A = 50 * (q / (1 + q)) / (0.32 / 1.32), P = 32, y0 = 152;
+      var k = t(1) - t(0);
+      var Y = function (tt) { return y0 - A * Math.sin(2 * Math.PI * tt / P); };
+      var dY = function (tt) { return -A * (2 * Math.PI / P) * Math.cos(2 * Math.PI * tt / P); };
+      var pts = d3.range(-2.5, 29.01, 0.5).map(function (tt) { return [t(tt), Y(tt)]; });
+      var avg = (Y(25) - Y(0)) / (t(25) - t(0));
+      function arrow(px, slope, cls, len) {
+        var L = len / Math.hypot(1, slope), ex = px + L, ey = oy + slope * L;
+        g.append("line").attr("class", "pb-ground").style("stroke-width", "5px").attr("x1", px).attr("y1", oy).attr("x2", ex).attr("y2", ey);
+        var ln = g.append("line").attr("x1", px).attr("y1", oy).attr("x2", ex).attr("y2", ey);
+        if (cls === "avg") ln.attr("class", "pb-line").attr("data-kind", "estimate");
+        else { ln.attr("class", "pb-beam"); arrowHead(g, ex, ey, 1, slope, 7); }
+      }
+      [0, 25].forEach(function (tt) {
+        var px = t(tt);
+        g.append("line").attr("class", "pb-grid-line").attr("x1", px).attr("x2", px).attr("y1", 22).attr("y2", ry);
+        arrow(px, avg, "avg", 62);
+        arrow(px, dY(tt) / k, "snap", 50);
+        g.append("circle").attr("cx", px).attr("cy", oy).attr("r", 2.6).style("fill", "var(--pb-ink)");
+      });
+      PB.live(liveG, PB.curve(pts), { animate: animate, ms: 1400, carriage: ry });
+    };
+    wob(true);
+  });
+  PB.slider("#wobble-slider", {
+    label: "Companion's weight, as a share of its star", caption: "Companion's weight", min: -3, max: -0.5, step: 0.01, value: lq,
+    format: function (v) { return Math.pow(10, v) < 0.02 ? "under 2%: planet-like" : "over 2%: star-like"; },
+    valueText: function (v) { return "Companion weighs " + (Math.pow(10, v) < 0.02 ? "less" : "more") + " than 2% of its star"; },
+    onInput: function (v) { lq = v; if (wob) wob(false); }
+  });
+  PB.legend("#wobble-legend", [{ kind: "live", label: "The star's path" }, { kind: "line", label: "Motion in one snapshot" }, { kind: "thin", label: "Average motion between them" }]);
+
+  /* ---- Fig. 2: the population grid in scroll steps. Grid edges are exact: periods from 1 day to
+     100,000 years in 10 columns (0.756 dex each, so columns 5 and 6 are 2.90 to 94.4 years), mass
+     ratios from 0.00001 to 1 in 20 rows of 0.25 dex (the floor row is 1.78% to 3.16%). The blurs
+     are illustrations. */
+  var step = 0;
+  var LP0 = Math.log10(1 / 365.25), LP1 = 5, COL = (LP1 - LP0) / 10;
+  var grid = PB.svg("#grid", { height: 300, label: "Illustration on the paper's grid: 10 columns of orbital period from 1 day to 100,000 years, by 20 rows of mass ratio from 0.00001 to 1." }, function (svg, s) {
+    var gx0 = 46, gx1 = s.width - 4, gy0 = 30, gy1 = 30 + 20 * 11;
+    var x = d3.scaleLinear().domain([LP0, LP1]).range([gx0, gx1]);
+    var y = d3.scaleLinear().domain([-5, 0]).range([gy1, gy0]);
+    var lines = svg.append("g").attr("class", "pb-grid-line");
+    for (var c = 0; c <= 10; c++) lines.append("line").attr("x1", x(LP0 + c * COL)).attr("x2", x(LP0 + c * COL)).attr("y1", gy0).attr("y2", gy1);
+    for (var r = 0; r <= 20; r++) lines.append("line").attr("x1", gx0).attr("x2", gx1).attr("y1", y(-5 + r * 0.25)).attr("y2", y(-5 + r * 0.25));
+    var tl = svg.append("g").attr("class", "pb-tick-label");
+    tl.append("text").attr("x", gx0 - 6).attr("y", gy0 + 4).attr("text-anchor", "end").text("q = 1");
+    tl.append("text").attr("x", gx0 - 6).attr("y", gy1 + 4).attr("text-anchor", "end").text("10⁻⁵");
+    tl.append("text").attr("x", 0).attr("y", (gy0 + gy1) / 2).text("MASS");
+    tl.append("text").attr("x", 0).attr("y", (gy0 + gy1) / 2 + 14).text("RATIO");
+    var w0 = LP0 + 4 * COL, w1 = LP0 + 6 * COL;
+    PB.ruler(svg, {
+      x: x, y: gy1 + 8, major: [LP0, w0, w1, LP1], minor: d3.range(0, 11).map(function (k) { return LP0 + k * COL; }),
+      labels: [LP0, w0, w1], format: function (v) { return v === LP0 ? "1 DAY" : v === w0 ? "3" : "94 YR"; },
+      unit: "10⁵ YR", unitAt: "end", unitX: gx1 + 4
+    });
+    function blob(cx, cy, rx, ry, angle, rot) {
+      PB.fillShape(svg, "band", angle, function (g) {
+        return g.append("ellipse").attr("cx", x(cx)).attr("cy", y(cy)).attr("rx", rx).attr("ry", ry).attr("transform", "rotate(" + rot + " " + x(cx) + " " + y(cy) + ")");
+      });
+    }
+    if (step === 1 || step === 2) {
+      blob(LP0 + 4.4 * COL, -2.4, 0.26 * (gx1 - gx0), 44, 1, -18);
+      if (step === 1) label(svg, x(LP0 + 4.4 * COL), y(-2.4) - 52, "ONE STAR", { anchor: "middle", strong: true });
+    }
+    if (step === 2) {
+      blob(LP0 + 6.6 * COL, -1.0, 0.2 * (gx1 - gx0), 30, 2, 10);
+      blob(LP0 + 3.2 * COL, -3.6, 0.22 * (gx1 - gx0), 34, 2, -30);
+      label(svg, x(LP0 + 6.6 * COL), y(-1.0) - 38, "THREE STARS", { anchor: "middle", strong: true });
+    }
+    if (step === 3) {
+      svg.append("rect").attr("class", "pb-outline").style("stroke-width", "1.6px")
+        .attr("x", x(w0)).attr("y", gy0).attr("width", x(w1) - x(w0)).attr("height", gy1 - gy0);
+      label(svg, (x(w0) + x(w1)) / 2, gy0 - 10, "3 TO 94 YEARS", { anchor: "middle", strong: true });
+      var cell = svg.append("g").attr("class", "pb-flood");
+      PB.fillShape(cell, "live", 1, function (g) { return g.append("rect").attr("x", x(w0)).attr("y", y(-1.5)).attr("width", x(w1) - x(w0)).attr("height", y(-1.75) - y(-1.5)); });
+      label(svg, x(w1) + 8, y(-1.625) - 3, "DESERT FLOOR", { finding: true });
+      label(svg, x(w1) + 8, y(-1.625) + 11, "1.8% TO 3.2%");
+      label(svg, x(w1) + 8, y(-0.6), "STAR-LIKE", { muted: true });
+      label(svg, x(w1) + 8, y(-2.9), "PLANET-LIKE", { muted: true });
+    }
+  });
+  PB.steps("#steps", function (i) { if (i === step) return; step = i; grid.redraw(); });
+
+  /* ---- Fig. 3: the floor, two fits on one ruler */
+  PB.svg("#floor", { height: 140, label: "Data from the paper: the desert floor at a mass ratio of 1.76 percent, with a range from minus 0.19 to plus 0.26 points, from one ratio fit across K to B stars. A single fit to all 63,254 stars gives 2.31 percent, plus 0.13 or minus 0.39." }, function (svg, s) {
+    var x = d3.scaleLinear().domain([0, 4]).range([0.5, s.width - 28]);
+    var a = 42, b = 92, ry = 112;
+    svg.append("text").attr("class", "pb-mark-label").attr("data-strong", "").attr("x", 0).attr("y", 20).text("Ratio fit, K to B stars");
+    PB.fillShape(svg, "screen", 1, function (g) { return g.append("rect").attr("x", x(QLO * 100)).attr("y", a - 8).attr("width", x(QHI * 100) - x(QLO * 100)).attr("height", 16); });
+    PB.marker(svg, { x: x(1.76), y1: a - 12, y2: a + 12 });
+    svg.append("text").attr("class", "pb-mark-label").attr("x", x(QHI * 100) + 8).attr("y", a + 4).text("1.76");
+    svg.append("text").attr("class", "pb-mark-label").attr("data-strong", "").attr("x", 0).attr("y", b - 18).text("One fit, all 63,254 stars");
+    svg.append("line").attr("class", "pb-whisker-trap").attr("x1", x(2.31 - 0.39)).attr("x2", x(2.31 + 0.13)).attr("y1", b).attr("y2", b);
+    var w = svg.append("g").attr("class", "pb-whisker");
+    w.append("line").attr("x1", x(2.31 - 0.39)).attr("x2", x(2.31 + 0.13)).attr("y1", b).attr("y2", b);
+    [2.31 - 0.39, 2.31 + 0.13].forEach(function (v) { w.append("line").attr("x1", x(v)).attr("x2", x(v)).attr("y1", b - 4).attr("y2", b + 4); });
+    svg.append("circle").attr("class", "pb-dot").attr("data-named", "").attr("cx", x(2.31)).attr("cy", b);
+    svg.append("text").attr("class", "pb-mark-label").attr("x", x(2.31 + 0.13) + 8).attr("y", b + 4).text("2.31");
+    PB.ruler(svg, { x: x, y: ry, major: [0, 1, 2, 3, 4], minor: 0.25, unit: "%" });
+  });
+  PB.legend("#floor-legend", [{ kind: "live", label: "Main result" }, { kind: "screen", label: "Its range" }, { kind: "errorbar", label: "Second fit, with its range" }]);
+  PB.table("#floor-table", {
+    caption: "Mass ratio at the desert floor, in percent.",
+    columns: [{ key: "fit", label: "Fit" }, { key: "v", label: "Floor, %", numeric: true }, { key: "r", label: "Range", numeric: true }],
+    rows: [
+      { fit: "One ratio across K to B groups (mean star masses 0.69 to 2.54 Suns)", v: "1.76", r: "+0.26 / −0.19" },
+      { fit: "One fit to all 63,254 stars", v: "2.31", r: "+0.13 / −0.39" }
+    ]
+  });
+  PB.rangeBar("#ledger-floor", { mini: true, domain: [0, 4], low: QLO * 100, high: QHI * 100, value: 1.76, label: "The floor drawn: a band around 1.76 percent, on a line from 0 to 4 percent" });
+
+  /* ---- Fig. 4: how far the rate drops. Bars on a ruler from zero, in multiples of the floor. */
+  PB.svg("#depth", { height: 310, label: "Data from the paper: the companion rate at the planet-side peak is 33 times the rate at the desert floor (plus 26, minus 12). At the star-side peak it is 19 times (plus 15, minus 7). The floor is 1." }, function (svg, s) {
+    var x = d3.scaleLinear().domain([0, 60]).range([0.5, Math.min(s.width - 150, 420)]);
+    var rows = [
+      { label: "Planet-side peak", note: "below the desert", v: 33, lo: 33 - 12, hi: 33 + 26, fig: "33", kind: "live" },
+      { label: "Star-side peak", note: "above the desert", v: 19, lo: 19 - 7, hi: 19 + 15, fig: "19", kind: "screen" },
+      { label: "Desert floor", note: "the reference", v: 1, fig: "1", kind: "solid" }
+    ];
+    var axis = 58 + 85 * 2 + 20 + 26;
+    var drops = svg.append("g").attr("class", "pb-grid-line");
+    rows.forEach(function (r, i) {
+      var top = 58 + 85 * i;
+      var head = svg.append("text").attr("x", 0).attr("y", top - 37).attr("class", "pb-mark-label");
+      head.append("tspan").attr("data-strong", "").style("font-weight", 600).text(r.label);
+      head.append("tspan").attr("dx", 8).style("fill", "var(--pb-ink-2)").text(r.note);
+      var shape = PB.fillShape(svg, r.kind, 1, function (g) { return g.append("rect").attr("x", x(0)).attr("y", top).attr("width", x(r.v) - x(0)).attr("height", 20); });
+      if (r.kind === "live") shape.fills.forEach(function (f) { f.attr("class", "pb-flood"); });
+      svg.append("text").attr("class", "pb-mark-figure").attr("x", x(r.v)).attr("y", top - 7).attr("text-anchor", r.v < 3 ? "start" : "middle").text(r.fig + "×");
+      if (r.lo != null) {
+        var cy = top + 10;
+        svg.append("line").attr("class", "pb-whisker-trap").attr("x1", x(r.lo)).attr("x2", x(r.hi)).attr("y1", cy).attr("y2", cy);
+        var w = svg.append("g").attr("class", "pb-whisker");
+        w.append("line").attr("x1", x(r.lo)).attr("x2", x(r.hi)).attr("y1", cy).attr("y2", cy);
+        [r.lo, r.hi].forEach(function (v) { w.append("line").attr("x1", x(v)).attr("x2", x(v)).attr("y1", cy - 5).attr("y2", cy + 5); });
+      }
+    });
+    PB.ruler(svg, { x: x, y: axis, major: [0, 10, 20, 30, 40, 50, 60], minor: 5, labels: [0, 20, 40, 60], unit: "× THE FLOOR", unitAt: "end", unitX: Math.min(s.width, x(60) + 112) });
+  });
+  PB.legend("#depth-legend", [{ kind: "live", label: "Planet-side peak" }, { kind: "screen", label: "Star-side peak" }]);
+  PB.table("#depth-table", {
+    caption: "How many times higher the companion rate is than at the desert floor.",
+    columns: [{ key: "what", label: "Where" }, { key: "v", label: "Times the floor", numeric: true }, { key: "r", label: "Range", numeric: true }],
+    rows: [{ what: "Planet-side peak", v: "33", r: "+26 / −12" }, { what: "Star-side peak", v: "19", r: "+15 / −7" }]
+  });
+
+  /* ---- Fig. 5: the overlap. Two approximate masses from the abstract on one ruler, with the
+     textbook brown dwarf range (13 to 80 Jupiter masses) screened behind them. The B star's
+     planet-like companion is the live mark: heavier than the K star's star-like one. */
+  PB.svg("#overlap", { height: 214, label: "Data from the paper, approximate: around K stars the lightest star-like companions weigh about 13 Jupiter masses; around B stars the heaviest planet-like companions weigh about 27 Jupiter masses. The textbook brown dwarf range, 13 to 80 Jupiter masses, is shaded." }, function (svg, s) {
+    var x = d3.scaleLinear().domain([0, 90]).range([0.5, s.width - 8]);
+    var ry = s.height - 34, top = 24;
+    svg.append("rect").attr("x", x(13)).attr("y", top).attr("width", x(80) - x(13)).attr("height", ry - top).style("fill", PB.screen(svg, { tone: 0.1, color: "plate" }));
+    [13, 80].forEach(function (m) { svg.append("line").attr("class", "pb-grid-line").attr("x1", x(m)).attr("x2", x(m)).attr("y1", top).attr("y2", ry); });
+    svg.append("text").attr("class", "pb-mark-label").attr("x", x(13)).attr("y", 14).attr("text-anchor", "middle").text("13");
+    svg.append("text").attr("class", "pb-mark-label").attr("x", x(80)).attr("y", 14).attr("text-anchor", "middle").text("80");
+    svg.append("text").attr("class", "pb-mark-label").attr("data-muted", "").attr("x", (x(13) + x(80)) / 2).attr("y", 14).attr("text-anchor", "middle").text("BROWN DWARFS BY MASS");
+    var yk = 70, yb = 138;
+    // K row
+    svg.append("circle").attr("class", "pb-ring").attr("cx", x(13)).attr("cy", yk).style("r", "6px").style("stroke-width", "0").style("fill", "var(--pb-page)");
+    svg.append("circle").attr("cx", x(13)).attr("cy", yk).attr("r", 4).style("fill", "var(--pb-ink)");
+    label(svg, x(13) + 12, yk - 4, "K STARS: STAR-LIKE", { strong: true });
+    label(svg, x(13) + 12, yk + 10, "THE LIGHTEST, ABOUT 13");
+    // B row
+    var m = svg.append("g").attr("class", "pb-flood");
+    m.append("circle").attr("class", "pb-pen-trap").attr("cx", x(27)).attr("cy", yb);
+    m.append("circle").attr("class", "pb-pen").attr("cx", x(27)).attr("cy", yb);
+    label(svg, x(27) + 12, yb - 4, "B STARS: PLANET-LIKE", { finding: true });
+    label(svg, x(27) + 12, yb + 10, "THE HEAVIEST, ABOUT 27");
+    PB.ruler(svg, { x: x, y: ry, major: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90], minor: 5, labels: [0, 20, 40, 60], unit: "JUPITER MASSES", unitAt: "end", unitX: s.width });
+  });
+  PB.table("#overlap-table", {
+    caption: "Rows 1 and 2 are approximate and stated in the abstract only. Row 3: Section IV. Row 4: Section III. Row 5: Appendix A.3.",
+    columns: [{ key: "what", label: "Companion" }, { key: "v", label: "Jupiter masses", numeric: true }],
+    rows: [
+      { what: "Lightest star-like companions of K stars", v: "about 13" },
+      { what: "Heaviest planet-like companions of B stars", v: "about 27" },
+      { what: "Deuterium-burning limit", v: "about 12.7" },
+      { what: "A 1% mass ratio for a Sun-like star", v: "about 10" },
+      { what: "Desert floor in the G-star group", v: "17.1 (+6.2 / −3.8)" }
+    ]
+  });
+
+  /* ---- Fig. 6: metallicity slopes. Each is beta in occurrence proportional to 10^(beta [M/H]). */
+  PB.svg("#metal", { height: 236, label: "Data from the paper: companions below the desert have a metallicity slope of plus 0.32, plus or minus 0.07; companions above the desert have minus 0.48, plus or minus 0.18. Radial-velocity surveys of closer giant planets found 2.0 and 1.2." }, function (svg, s) {
+    var x = d3.scaleLinear().domain([-1, 2.5]).range([0.5, s.width - 10]);
+    var ry = s.height - 34, rows = [62, 118, 172];
+    svg.append("line").attr("class", "pb-grid-line").attr("x1", x(0)).attr("x2", x(0)).attr("y1", 22).attr("y2", ry);
+    svg.append("text").attr("class", "pb-mark-label").attr("data-muted", "").attr("x", x(0) - 8).attr("y", 14).attr("text-anchor", "end").text("← FEWER");
+    svg.append("text").attr("class", "pb-mark-label").attr("data-muted", "").attr("x", x(0) + 8).attr("y", 14).text("MORE WITH METALS →");
+    function head(yy, t1, t2) {
+      var hg = svg.append("g"), bg = hg.append("rect").attr("class", "pb-ground");
+      var h = hg.append("text").attr("class", "pb-mark-label").attr("x", 0).attr("y", yy - 16);
+      h.append("tspan").attr("data-strong", "").style("font-weight", 600).text(t1);
+      h.append("tspan").attr("dx", 8).style("fill", "var(--pb-ink-2)").text(t2);
+      var bb = h.node().getBBox();
+      bg.attr("x", bb.x - 2).attr("y", bb.y - 1).attr("width", bb.width + 6).attr("height", bb.height + 2);
+    }
+    function whisk(yy, lo, hi) {
+      svg.append("line").attr("class", "pb-whisker-trap").attr("x1", x(lo)).attr("x2", x(hi)).attr("y1", yy).attr("y2", yy);
+      var w = svg.append("g").attr("class", "pb-whisker");
+      w.append("line").attr("x1", x(lo)).attr("x2", x(hi)).attr("y1", yy).attr("y2", yy);
+      [lo, hi].forEach(function (v) { w.append("line").attr("x1", x(v)).attr("x2", x(v)).attr("y1", yy - 5).attr("y2", yy + 5); });
+    }
+    head(rows[0], "Below the desert", "0.1% to 1%");
+    whisk(rows[0], 0.32 - 0.07, 0.32 + 0.07);
+    var f = svg.append("g").attr("class", "pb-drop");
+    f.append("circle").attr("class", "pb-pen-trap").attr("cx", x(0.32)).attr("cy", rows[0]);
+    f.append("circle").attr("class", "pb-pen").attr("cx", x(0.32)).attr("cy", rows[0]);
+    label(svg, x(0.39) + 10, rows[0] + 4, "+0.32", { finding: true });
+    head(rows[1], "Above the desert", "1.8% to 10%");
+    whisk(rows[1], -0.48 - 0.18, -0.48 + 0.18);
+    svg.append("circle").attr("class", "pb-dot").attr("data-named", "").attr("cx", x(-0.48)).attr("cy", rows[1]);
+    label(svg, x(-0.30) + 10, rows[1] + 4, "−0.48");
+    head(rows[2], "Closer giant planets", "other surveys");
+    [1.2, 2.0].forEach(function (v) {
+      svg.append("circle").attr("class", "pb-dot").attr("data-named", "").attr("cx", x(v)).attr("cy", rows[2]);
+      svg.append("text").attr("class", "pb-mark-label").attr("x", x(v)).attr("y", rows[2] + 18).attr("text-anchor", "middle").text(v.toFixed(1));
+    });
+    PB.ruler(svg, { x: x, y: ry, major: [-1, 0, 1, 2], minor: 0.25, labels: [-1, 0, 1], format: function (v) { return v > 0 ? "+" + v : minus(v); }, unit: "SLOPE β", unitAt: "end", unitX: s.width });
+  });
+  PB.legend("#metal-legend", [{ kind: "live", label: "Strongest result" }, { kind: "errorbar", label: "Measured, with its range" }, { kind: "named", label: "Other surveys" }]);
+  PB.table("#metal-table", {
+    caption: "F, G and K stars, 3 to 94 year orbits. The other surveys looked at giant planets on orbits under about 4 years.",
+    columns: [{ key: "what", label: "Companions" }, { key: "b", label: "Slope β", numeric: true }, { key: "sig", label: "Against no trend", numeric: true }],
+    rows: [
+      { what: "Below the desert, q 0.1% to 1%", b: "+0.32 ± 0.07", sig: "4.4σ" },
+      { what: "Above the desert, q 1.8% to 10%", b: "−0.48 ± 0.18", sig: "2.6σ" },
+      { what: "Closer giant planets, radial-velocity surveys", b: "2.0 and 1.2", sig: "" }
+    ]
+  });
+});
+</script>
+</body>
+</html>

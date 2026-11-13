@@ -6,20 +6,134 @@
     "Mehrdad Sohrabi",
     "Levent Tun\\c{c}el"
   ],
+  "check": {
+    "render": {
+      "checked_at": "2026-11-13T16:59:27Z",
+      "hero": {
+        "height": 590,
+        "kind": "data",
+        "night": {
+          "height": 590,
+          "path": "explainer/hero-night.webp",
+          "width": 780
+        },
+        "path": "explainer/hero.webp",
+        "width": 780
+      },
+      "page": {
+        "data_figures": 3,
+        "figures": 6,
+        "height_px": 9796,
+        "kit": 2
+      },
+      "pass": true,
+      "problems": [],
+      "shots": [
+        "shots/light-01.png",
+        "shots/light-02.png",
+        "shots/light-03.png",
+        "shots/light-04.png",
+        "shots/light-05.png",
+        "shots/light-06.png",
+        "shots/light-07.png",
+        "shots/light-08.png",
+        "shots/light-09.png",
+        "shots/dark-01.png",
+        "shots/dark-02.png",
+        "shots/dark-03.png",
+        "shots/dark-04.png",
+        "shots/dark-05.png",
+        "shots/dark-06.png",
+        "shots/dark-07.png",
+        "shots/dark-08.png",
+        "shots/dark-09.png",
+        "shots/still-01.png",
+        "shots/still-02.png",
+        "shots/still-03.png",
+        "shots/still-04.png",
+        "shots/still-05.png",
+        "shots/still-06.png",
+        "shots/still-07.png",
+        "shots/still-08.png",
+        "shots/still-09.png",
+        "shots/still-dark-01.png",
+        "shots/still-dark-02.png",
+        "shots/still-dark-03.png",
+        "shots/still-dark-04.png",
+        "shots/still-dark-05.png",
+        "shots/still-dark-06.png",
+        "shots/still-dark-07.png",
+        "shots/still-dark-08.png",
+        "shots/still-dark-09.png"
+      ]
+    },
+    "review": {
+      "numbers_checked": 46,
+      "pass": true,
+      "problems": [
+        {
+          "detail": "The hatched blue region to the right of the stair is never explained on the plate or in the page text. The code comment says it marks 'ratios already guaranteed', but a reader sees a large decorative fill with no label. The rest of the plate now reads alone: axis title, 'lower is better', straight segments, named records, the 4/3 line.",
+          "fix": "Add a small in-plate label inside the hatch, such as 'already guaranteed', or drop the fill.",
+          "kind": "clarity",
+          "severity": "should-fix",
+          "where": "Hero plate (hero.webp, hero-night.webp) and Plate 1 on the page"
+        },
+        {
+          "detail": "'One hand-picked example shows the method can win, not by how much it usually does.' does not parse.",
+          "fix": "'One hand-picked example shows the method can win; it does not show by how much it usually wins.'",
+          "kind": "clarity",
+          "severity": "should-fix",
+          "where": "Prose after Fig. 4"
+        },
+        {
+          "detail": "'The number on the tree edge' but the value is printed to the side under 'Tree edge uses', not on the edge.",
+          "fix": "'The number beside the tree edge'.",
+          "kind": "clarity",
+          "severity": "should-fix",
+          "where": "Fig. 2 caption"
+        },
+        {
+          "detail": "The figure cites 'Table 1' only. In the extracted paper Table 1 is empty, and the k >= 4, max degree <= k+1 row (7/5 to 4/3) and the 4-regular row are in Table 2 and Section 1. The values are correct.",
+          "fix": "Cite 'Tables 1 and 2' (or 'Table 2 and Section 1').",
+          "kind": "contract",
+          "severity": "should-fix",
+          "where": "Fig. 5 caption and table caption"
+        },
+        {
+          "detail": "About 200 px of empty space still follows 'Step 4 of 4'. The captures show Fig. 1 only in its Step 1 state, so the Step 2 to 4 drawings could be checked only from code. The code is correct: three stars as stated, a spanning tree remains after Step 3, and the graph splits in Step 4 and is rejoined by the doubled b-c edge.",
+          "fix": "Trim the trailing spacer.",
+          "kind": "clarity",
+          "severity": "should-fix",
+          "where": "Method steps, after Step 4 (light-04 / dark-04)"
+        }
+      ],
+      "scores": {
+        "accuracy": 9,
+        "clarity": 8,
+        "teaches_the_concept": 8,
+        "visual_quality": 8
+      }
+    }
+  },
   "doi": null,
-  "explained_at": null,
+  "explained_at": "2026-11-13T17:54:17Z",
   "field": "cs",
-  "fulltext_source": null,
-  "has_explainer": false,
+  "fulltext_source": "https://arxiv.org/html/2611.13585",
+  "has_explainer": true,
   "hook": "Graphic TSP tours can be found within 89/64 of the lower bound, beating the long-standing 7/5",
   "hook_turn": "beating the long-standing 7/5",
   "id": "arxiv-2611.13585",
-  "kit": null,
+  "kit": 2,
   "license": "arxiv-nonexclusive",
+  "made_by": {
+    "checker": "claude-opus-5-5",
+    "expert": "claude-opus-5-5",
+    "visualizer": "claude-opus-5-5"
+  },
   "published": "2026-11-10",
   "readout": {
-    "label": "Integrality gap bound, graphic TSP subtour LP",
-    "value": "1.3906"
+    "label": "Approximation ratio for graphic TSP",
+    "value": "1.390625"
   },
   "significance": 8,
   "status": "preprint",

@@ -25,20 +25,131 @@
     "William Roberson",
     "Simon Blouin"
   ],
+  "check": {
+    "render": {
+      "checked_at": "2026-11-13T17:27:31Z",
+      "hero": {
+        "height": 654,
+        "kind": "data",
+        "night": {
+          "height": 654,
+          "path": "explainer/hero-night.webp",
+          "width": 780
+        },
+        "path": "explainer/hero.webp",
+        "width": 780
+      },
+      "page": {
+        "data_figures": 4,
+        "figures": 7,
+        "height_px": 10833,
+        "kit": 2
+      },
+      "pass": true,
+      "problems": [],
+      "shots": [
+        "shots/light-01.png",
+        "shots/light-02.png",
+        "shots/light-03.png",
+        "shots/light-04.png",
+        "shots/light-05.png",
+        "shots/light-06.png",
+        "shots/light-07.png",
+        "shots/light-08.png",
+        "shots/light-09.png",
+        "shots/light-10.png",
+        "shots/dark-01.png",
+        "shots/dark-02.png",
+        "shots/dark-03.png",
+        "shots/dark-04.png",
+        "shots/dark-05.png",
+        "shots/dark-06.png",
+        "shots/dark-07.png",
+        "shots/dark-08.png",
+        "shots/dark-09.png",
+        "shots/dark-10.png",
+        "shots/still-01.png",
+        "shots/still-02.png",
+        "shots/still-03.png",
+        "shots/still-04.png",
+        "shots/still-05.png",
+        "shots/still-06.png",
+        "shots/still-07.png",
+        "shots/still-08.png",
+        "shots/still-09.png",
+        "shots/still-10.png",
+        "shots/still-dark-01.png",
+        "shots/still-dark-02.png",
+        "shots/still-dark-03.png",
+        "shots/still-dark-04.png",
+        "shots/still-dark-05.png",
+        "shots/still-dark-06.png",
+        "shots/still-dark-07.png",
+        "shots/still-dark-08.png",
+        "shots/still-dark-09.png",
+        "shots/still-dark-10.png"
+      ]
+    },
+    "review": {
+      "numbers_checked": 70,
+      "pass": true,
+      "problems": [
+        {
+          "detail": "A small solid black square sits on the YEARS ruler just right of the 25 mark, under the end dot of the star's path (the line's carriage mark). It looks like the slider thumb right below it and like a data marker, but nothing explains it. It also shows in the still frame.",
+          "fix": "Hide the carriage mark in this figure, or pass no carriage so the ruler shows only 0 and 25.",
+          "kind": "clarity",
+          "severity": "should-fix",
+          "where": "Try it (wobble), live and still captures"
+        },
+        {
+          "detail": "The 'THREE STARS' label sits on the top edge of the grid above only the upper ellipse, so it reads as naming that one blur rather than all three.",
+          "fix": "Label each blur ('STAR 1', 'STAR 2', 'STAR 3') or put 'THREE STARS, THREE BLURS' outside the grid as a title for the step.",
+          "kind": "clarity",
+          "severity": "should-fix",
+          "where": "Fig. 2, step 2 state"
+        },
+        {
+          "detail": "The central evidence, five group minima that line up on one ratio, is never shown. The plate draws only the fitted 1.76% line and its range, and Fig. 3 shows only the two fitted values. A reader has to take 'one ratio fits all five groups well' on trust. The paper gives the per-group minima only in its Fig. 4 (it prints a value only for G, 17.1 M_jup), so they cannot be plotted as numbers. The page should say so.",
+          "fix": "Add one clause to the dek or the Fig. 3 caption: 'Each group's own minimum appears in the paper's Fig. 4; the fit through them has chi-squared 1.6 for 4 degrees of freedom.'",
+          "kind": "clarity",
+          "severity": "should-fix",
+          "where": "Hero plate and Fig. 3"
+        },
+        {
+          "detail": "The plate's star-mass axis stops at 3.2 solar masses, so the B row reads as 2.10 to 3.2. In the paper the B group is everything above 2.10 (the sample reaches 8.1).",
+          "fix": "Label the top row edge '2.10 AND UP', or add 'B group continues above the plate' to the hero table.",
+          "kind": "clarity",
+          "severity": "should-fix",
+          "where": "Hero plate, B STARS row"
+        }
+      ],
+      "scores": {
+        "accuracy": 9,
+        "clarity": 8,
+        "teaches_the_concept": 8,
+        "visual_quality": 8
+      }
+    }
+  },
   "doi": null,
-  "explained_at": null,
+  "explained_at": "2026-11-13T17:54:17Z",
   "field": "space",
-  "fulltext_source": null,
-  "has_explainer": false,
+  "fulltext_source": "https://arxiv.org/html/2611.12881",
+  "has_explainer": true,
   "hook": "The brown dwarf desert is set by mass ratio, not mass: companions drop sharply near q of 2%.",
   "id": "arxiv-2611.12881",
-  "kit": null,
+  "kit": 2,
   "license": "cc-by",
+  "made_by": {
+    "checker": "claude-opus-5-5",
+    "expert": "claude-opus-5-5",
+    "visualizer": "claude-opus-5-5"
+  },
   "published": "2026-11-09",
   "readout": {
-    "label": "Stars in the astrometric sample",
-    "unit": "stars",
-    "value": "63,254"
+    "label": "Mass ratio at the brown dwarf desert floor",
+    "unit": "%",
+    "value": "1.76"
   },
   "significance": 8,
   "status": "preprint",

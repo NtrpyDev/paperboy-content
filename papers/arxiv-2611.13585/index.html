@@ -1,0 +1,592 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark light">
+<title>Graphic TSP tours now come within 89/64 of the lower bound, beating the long-standing 7/5</title>
+<link rel="stylesheet" href="/kit/v2/vendor/katex/katex.min.css">
+<link rel="stylesheet" href="/kit/v2/paperboy.css">
+<script src="/kit/v2/vendor/d3.min.js"></script>
+<script src="/kit/v2/vendor/plot.umd.min.js"></script>
+<script src="/kit/v2/vendor/katex/katex.min.js"></script>
+<script src="/kit/v2/vendor/katex/auto-render.min.js"></script>
+<script src="/kit/v2/paperboy.js"></script>
+</head>
+<body>
+<article class="pb">
+
+<header class="pb-hero">
+  <div class="pb-kicker">
+    <span class="pb-tag">Computer science</span>
+    <span class="pb-badge" data-status="preprint">Preprint</span>
+    <a class="pb-journal" href="https://arxiv.org/abs/2611.13585">arXiv</a>
+  </div>
+  <h1 class="pb-title">Graphic TSP tours now come within 89/64 of the lower bound, <em>beating the long-standing 7/5.</em></h1>
+  <div class="pb-stage" id="hero" data-kind="data"></div>
+  <div class="pb-readout-row">
+    <div>
+      <div class="pb-readout">1.390625</div>
+      <span class="pb-label">Approximation ratio, graphic TSP. 89/64</span>
+    </div>
+    <div class="pb-plate-slug">Plate 1<br>Data,<br>from the paper</div>
+  </div>
+  <p class="pb-dek">Picture a mail carrier who must pass every house and return, in a town where every street counts as one block. Finding the shortest route is hard, so researchers prove guarantees instead. A new algorithm’s route is never longer than 89/64, about 1.3906, times a lower bound on the best route. The previous guarantee, 7/5, had stood for 14 years.</p>
+</header>
+
+<div class="pb-callout" data-kind="key">
+  <span class="pb-callout-label">Key idea</span>
+  <p>Let the algorithm delete a whole bundle of roads at a junction, and charge it a fixed 2 when it deletes too much. That small freedom moves the guarantee from 7/5 to 89/64.</p>
+</div>
+
+<section class="pb-section" data-section="question">
+  <p class="pb-eyebrow">The question</p>
+  <h2>Visit every vertex and come home, <em>on as few edges as possible.</em></h2>
+  <p>A graph is a set of points (vertices) joined by lines (edges), like towns and roads. In <span class="pb-term" data-def="The traveling salesperson problem on a graph where every edge counts as one step. A tour may reuse edges.">graphic TSP</span> every road counts as one step. A tour must visit every town and return to the start, and it may walk a road twice. Its length is the number of roads walked.</p>
+  <p>The paper sees a tour another way: copies of roads that keep everything connected and give every town an even number of road ends. Then one closed walk uses each copy exactly once.</p>
+
+  <figure class="pb-fig" data-kind="illustration" data-slug="Try it">
+    <p class="pb-fig-title">Three ways to cover one small town</p>
+    <div id="tour-toggle"></div>
+    <div class="pb-chart" id="tour"></div>
+    <figcaption id="tour-cap">Taking every road once leaves the ringed towns with an odd number of road ends, so no closed walk uses each road once.</figcaption>
+  </figure>
+
+  <p>Deleting roads is cheaper than doubling them, but delete the wrong ones and the town falls apart. Choosing what to delete is the hard part. The problem is NP-hard: no fast method is known that always finds the shortest tour.</p>
+  <p>So researchers prove an <span class="pb-term" data-def="A worst-case promise: the algorithm’s tour is never longer than this factor times the yardstick. It is proved, not measured.">approximation ratio</span> for a fast method. The yardstick is a lower bound that every tour must meet, the <span class="pb-term" data-def="A relaxed version of the problem that allows fractions of edges. Its best value is a lower bound on the shortest tour and can be computed efficiently.">subtour LP</span>. Christofides reached 3/2 in 1976. Later work brought graphic TSP down to 7/5, and there it stuck. Goemans conjectured that the true limit of this yardstick is 4/3.</p>
+</section>
+
+<section class="pb-section" data-section="method">
+  <p class="pb-eyebrow">What they did</p>
+  <h2>Cut whole bundles of edges. <em>Pay 2 when that goes too far.</em></h2>
+  <p>The algorithm, StarMatch, starts from the lower bound’s solution and explores the graph depth first. Then it picks which edges to delete and which to double, in one optimization a computer can solve exactly in polynomial time through <span class="pb-term" data-def="A version of matching where each vertex may be covered up to b times. It can be solved in polynomial time.">b-matching</span>.</p>
+
+  <div class="pb-steps" id="steps">
+    <div class="pb-steps-visual">
+      <figure class="pb-fig" data-kind="illustration" data-slug="Fig. 1">
+        <div class="pb-chart" id="stars"></div>
+      </figure>
+    </div>
+    <div class="pb-step"><span class="pb-step-n">Step 1 of 4</span><p>Explore the graph depth first from a root. The straight tree edges reach every vertex. Each curve is a back edge, climbing back up to an ancestor.</p></div>
+    <div class="pb-step"><span class="pb-step-n">Step 2 of 4</span><p>Group each tree edge with every back edge that climbs from below it to its top vertex. Each group is a <span class="pb-term" data-def="A bundle of edges at one vertex from which you may delete all but one, for every star at once, and the graph stays connected.">removable star</span>. This graph has three. The faint edges belong to no star and always stay.</p></div>
+    <div class="pb-step"><span class="pb-step-n">Step 3 of 4</span><p>Delete all but one edge from every star at once. What is left still reaches every vertex, as a spanning tree. The earlier method of Mömke and Svensson could delete only one edge of each prescribed pair.</p></div>
+    <div class="pb-step" style="margin-bottom: 14vh"><span class="pb-step-n">Step 4 of 4</span><p>The new optimization may even delete a whole star. Then the graph splits, so the algorithm adds back two copies of one star edge, for a fixed cost of 2.</p></div>
+  </div>
+
+  <p>That fixed price is the trick. It turns a cost that is not linear into one the optimization can plan around.</p>
+  <p>To prove the guarantee, nobody runs the algorithm on every graph. The authors build one fractional solution the optimization could have chosen and add up its cost. The true optimum can only be cheaper.</p>
+
+  <figure class="pb-fig" data-kind="illustration" data-slug="Try it">
+    <p class="pb-fig-title">One star, two fractional solutions</p>
+    <div class="pb-chart" id="cert"></div>
+    <div id="cert-slider"></div>
+    <figcaption>The number on the tree edge is how much of that edge the fractional solution uses. The earlier method uses 1/3 of every edge. This paper raises the star’s tree edge (the straight line, drawn thicker as it rises) by d<sub>S</sub>, chosen star by star, anywhere from 0 up to the star’s excess e<sub>S</sub>, a cap the paper computes from the lower bound’s solution. The bar shrinks with the star’s leftover cost term; it is drawn to show direction, not size.</figcaption>
+  </figure>
+
+  <p>Raising the tree edge of each star lowers this fractional solution’s cost, and that cost caps what the optimization finds. There is a catch: raising one star can add cost at the star below it, so the paper picks each d<sub>S</sub> with care. The proof then blends two such solutions, \( Y = \tfrac34\, Q^{(1)} + \tfrac14\, Q^{(2)} \), and counts the cost star by star.</p>
+</section>
+
+<section class="pb-section" data-section="findings">
+  <p class="pb-eyebrow">What they found</p>
+  <h2>Below 7/5, <em>by 3/320.</em></h2>
+
+  <figure class="pb-fig" data-kind="data" data-slug="Fig. 3">
+    <div class="pb-stat">
+      <div class="pb-stat-value">89/64</div>
+      <div class="pb-stat-label"><b>Approximation ratio</b>1.390625 times the lower bound, on any connected graph</div>
+    </div>
+    <div class="pb-chart" id="zoom"></div>
+    <div id="zoom-legend"></div>
+    <div id="zoom-table"></div>
+    <figcaption>Ratios from Table 1 and Section 1 of the paper. The table also lists the earlier results; Plate 1 draws selected milestones.</figcaption>
+  </figure>
+
+  <p>The gain is 3/320, or 0.009375: a relative gain of about 0.67 percent, by our arithmetic from 7/5 and 89/64. It is the first improvement on 7/5 in 14 years, by the authors’ count. It also proves the <span class="pb-term" data-def="How far the lower bound can sit below the true shortest tour, at worst, as a ratio.">integrality gap</span> of the lower bound is at most 89/64 on graphic instances.</p>
+  <p>The paper runs no experiments. It does work one example by hand: a graph with 23 vertices and 30 edges.</p>
+
+  <figure class="pb-fig" data-kind="data" data-slug="Fig. 4">
+    <p class="pb-fig-title">One graph, five answers</p>
+    <div class="pb-chart" id="example"></div>
+    <div id="example-table"></div>
+    <figcaption>Tour lengths and bounds on the paper’s example, Table 3. Shorter is better; no tour can beat 26.</figcaption>
+  </figure>
+
+  <p>StarMatch lands one edge above the lower bound: 27 against 26 (27/26, about 1.038, by our arithmetic). One hand-picked example shows the method can win, not by how much it usually does.</p>
+  <p>On graphs where every vertex has many independent connections, the guarantee drops further.†</p>
+
+  <figure class="pb-fig" data-kind="data" data-slug="Fig. 5">
+    <p class="pb-fig-title">More connections, better guarantees</p>
+    <div class="pb-chart" id="classes"></div>
+    <div id="classes-legend"></div>
+    <div id="classes-table"></div>
+    <figcaption>Previous best and new ratios by graph class, Table 1. All values are exact.</figcaption>
+  </figure>
+  <div class="pb-callout" data-kind="caveat">
+    <span class="pb-callout-label">Caveat</span>
+    <p>† The method also gives 4/3 on 3-connected graphs with maximum degree at most 4. The paper notes that a variant of Newman’s earlier argument already gives that, so it is not shown as new.</p>
+  </div>
+</section>
+
+<section class="pb-section" data-section="confidence">
+  <h2>How sure <em>is this?</em></h2>
+  <ul class="pb-confidence">
+    <li class="pb-confidence-head">Strengths</li>
+    <li><b>Proof</b><span class="note">A full proof, with a clear structure: the algorithm is exact over an integral polytope, and the bound follows from one feasible point.</span></li>
+    <li><b>Old method</b><span class="note">On the same depth-first tree, it provably does at least as well as the Mömke and Svensson method (Theorem 2.4).</span></li>
+    <li><b>Example</b><span class="v">26 &lt; 27 &lt; 28 &lt; 29<span class="pb-unit">edges</span></span><span class="note">The worked example shows each step strictly helps.</span></li>
+    <li class="pb-confidence-head">Limits</li>
+    <li><b>Review</b><span class="v"><span class="pb-badge" data-status="preprint">Preprint</span></span><span class="note">Posted November 10, 2026. Not peer reviewed, and its long case analyses have not been checked independently.</span></li>
+    <li><b>AI help</b><span class="note">The authors say AI models helped derive the bounds in Appendix I, where the 89/64 proof lives, and drafted much of the text. The 89/64 proof is not machine-verified.</span></li>
+    <li><b>Size</b><span class="v">3/320<span class="pb-unit">lower</span></span><span class="note">The improvement over 7/5 is small: under 1 percent of the old ratio.</span></li>
+    <li><b>Scope</b><span class="note">Only graphs where every edge costs 1. It says nothing new about TSP with real distances. No code, timings, or benchmarks.</span></li>
+    <li class="pb-confidence-head">Open questions</li>
+    <li><b>Review</b><span class="note">Does the 89/64 proof survive independent checking?</span></li>
+    <li><b>Reach</b><span class="note">Can this framework get to 4/3? The authors claim 14524/10481 with proofs checked in Lean, sketched only here.</span></li>
+    <li><b>Tightness</b><span class="note">The bound comes from one certificate. The algorithm may do better than 89/64.</span></li>
+    <li><b>Distances</b><span class="note">Can removable stars help when roads have different lengths?</span></li>
+    <li data-kind="standing"><b>This explainer</b>Machine written, and it can be wrong. Check it against the paper.</li>
+  </ul>
+</section>
+
+<section class="pb-section" data-section="matters">
+  <p class="pb-eyebrow">Why it matters</p>
+  <h2>A stuck number <em>moves again.</em></h2>
+  <p>Graphic TSP is a proving ground: methods that work here get tried on the general problem, where roads have different lengths. This result adds a simple tool, removable stars with a fixed price to reconnect, and shows that 7/5 was not a wall.</p>
+  <p>The conjectured 4/3 still sits below the new 89/64, so the gap between proof and conjecture is not closed. The authors report further work, checked in the Lean proof assistant, that reaches 14524/10481, about 1.38575, but this paper only sketches those proofs.</p>
+</section>
+
+<footer class="pb-source">
+  <p class="pb-eyebrow">Source</p>
+  <cite>Approximating graphic TSP by b-matchings</cite>
+  <p class="pb-authors">Swati Gupta, Mehrdad Sohrabi, Levent Tunçel</p>
+  <small>arXiv 2611.13585</small>
+  <small>November 10, 2026. Preprint, not peer reviewed. arXiv non-exclusive license</small>
+  <a class="pb-btn" href="https://arxiv.org/abs/2611.13585">Read the paper</a>
+  <p class="pb-note">This page was written by a machine and can be wrong. The paper is the source.</p>
+</footer>
+
+</article>
+<script>
+PB.ready(function () {
+  /* ================================================================ Plate 1: the staircase of guarantees.
+     One ruler: the approximation ratio. Rows are results in order of improvement (no time axis:
+     the paper dates only Christofides). The ink stair runs through the earlier records; the live
+     line is the paper's own step, from 7/5 down to 89/64. The plate screen marks ratios already
+     guaranteed; the plate-ink line is the conjectured 4/3. */
+  var RECORDS = [
+    { v: 1.5, name: "Christofides", val: "3/2, 1976" },
+    { v: 1.461, name: "Mömke–Svensson", val: "1.461" },
+    { v: 13 / 9, name: "Mucha", val: "13/9" },
+    { v: 1.4, name: "Sebő–Vygen", val: "7/5" },
+    { v: 89 / 64, name: "This paper", val: "89/64" }
+  ];
+  function stairSeg(a, b) { return "L" + b[0] + " " + b[1]; }
+  PB.plate("#hero", {
+    band: function () { var v = window.innerWidth; return v >= 1160 ? 330 : v >= 930 ? 300 : v >= 700 ? 270 : 232; },
+    below: 62,
+    label: "Data from the paper: selected milestones in the best proven approximation ratio for graphic TSP, the tour length divided by the lower bound, where lower is better. Christofides 3/2 in 1976, Mömke and Svensson 1.461, Mucha 13/9, Sebő and Vygen 7/5, and this paper 89/64, or 1.390625. A line marks the conjectured 4/3.",
+    draw: function (p) {
+      var k = p.band / 232;
+      var x = d3.scaleLinear().domain([1.32, 1.51]).range([p.left, p.right]);
+      var pts = RECORDS.map(function (r, i) { return [x(r.v), (34 + 44 * i) * k]; });
+      var last = pts[pts.length - 1];
+      // print: the ground already covered, right of the stair
+      var area = "M" + p.width + " 0H" + pts[0][0] + "V" + pts[0][1];
+      for (var i = 1; i < pts.length; i++) area += stairSeg(pts[i - 1], pts[i]);
+      area += "V" + p.band + "H" + p.width + "Z";
+      p.print.append("path").attr("d", area).style("fill", PB.screen(p.print, { tone: "context", color: "plate", angle: 2 }));
+      // key: the conjecture line and the ink stair through the earlier records
+      var x43 = x(4 / 3);
+      p.key.append("line").attr("class", "pb-line").attr("data-series", "3").attr("x1", x43).attr("x2", x43).attr("y1", 22 * k).attr("y2", p.band);
+      var stair = "M" + pts[0][0] + " " + pts[0][1];
+      for (var j = 1; j < pts.length - 1; j++) stair += stairSeg(pts[j - 1], pts[j]);
+      p.key.append("path").attr("class", "pb-line-trap").attr("d", stair);
+      p.key.append("path").attr("class", "pb-line").attr("d", stair);
+      pts.slice(0, -1).forEach(function (q) {
+        p.key.append("circle").attr("class", "pb-ground").attr("cx", q[0]).attr("cy", q[1]).attr("r", 5.5);
+        p.key.append("circle").attr("class", "pb-dot").attr("data-named", "").attr("cx", q[0]).attr("cy", q[1]);
+      });
+      // live layer: labels, the ruler, the paper's step
+      var labels = p.live.append("g");
+      labels.append("text").attr("class", "pb-mark-label").attr("x", x43 + 7).attr("y", 18 * k + 4).text("4/3, conjectured limit");
+      RECORDS.forEach(function (r, i) {
+        var t = labels.append("text").attr("class", "pb-mark-label").attr("text-anchor", "end");
+        if (i === RECORDS.length - 1) t.attr("data-finding", ""); else t.attr("data-strong", "");
+        t.attr("x", pts[i][0] - 11).attr("y", pts[i][1] - 12).text(r.name);
+        labels.append("text").attr("class", "pb-mark-label").attr("text-anchor", "end").attr("data-muted", i === RECORDS.length - 1 ? null : "")
+          .attr("x", pts[i][0] - 11).attr("y", pts[i][1] + 1).text(r.val);
+      });
+      PB.ruler(p.live, { x: x, y: p.rulerY, x2: p.width, major: [1.35, 1.4, 1.45, 1.5], minor: d3.range(1.33, 1.511, 0.01).map(function (v) { return +v.toFixed(2); }),
+        labels: [1.35, 1.4, 1.45, 1.5], format: function (v) { return v.toFixed(2); } });
+      p.live.append("text").attr("class", "pb-mark-label").attr("data-strong", "").attr("x", p.left).attr("y", p.rulerY + 52)
+        .text("Guarantee: tour ÷ lower bound. Lower is better");
+      PB.live(p.live, "M" + pts[3][0] + " " + pts[3][1] + stairSeg(pts[3], last), { carriage: p.rulerY, pulse: true, ms: 1500 });
+      p.live.append("circle").attr("class", "pb-dot").attr("data-named", "").attr("cx", pts[3][0]).attr("cy", pts[3][1]);
+    }
+  });
+
+  /* ================================================================ the small graph (Figs. 1 and Try it).
+     A 7-vertex graph drawn as a depth-first tree from root r. Tree edges are straight; back edges
+     are curves (quadratic, with a control point). Coordinates in a 340 by 280 box. */
+  var V = { r: [170, 22], a: [170, 92], b: [105, 150], c: [140, 205], d: [100, 262], e: [240, 150], f: [225, 235] };
+  var E = {
+    ra: { u: "r", v: "a" }, ab: { u: "a", v: "b" }, bc: { u: "b", v: "c" }, cd: { u: "c", v: "d" }, ae: { u: "a", v: "e" }, ef: { u: "e", v: "f" },
+    db: { u: "d", v: "b", c: [60, 206] }, dr: { u: "d", v: "r", c: [-30, 120] }, fa: { u: "f", v: "a", c: [170, 190] }, fr: { u: "f", v: "r", c: [370, 90] }
+  };
+  function edgeKey(u, v) { return E[u + v] ? u + v : v + u; }
+  function geom(width) {
+    var s = Math.min(1.2, (width - 8) / 340), ox = (width - 340 * s) / 2 + 6 * s, oy = 6;
+    return { s: s, P: function (q) { return [ox + q[0] * s, oy + q[1] * s]; } };
+  }
+  function samples(g, from, to) {
+    var key = edgeKey(from, to), e = E[key];
+    var A = g.P(V[from]), B = g.P(V[to]), out = [], n = 24;
+    var C = e.c ? g.P(e.c) : null;
+    for (var i = 0; i <= n; i++) {
+      var t = i / n;
+      out.push(C ? [(1 - t) * (1 - t) * A[0] + 2 * t * (1 - t) * C[0] + t * t * B[0], (1 - t) * (1 - t) * A[1] + 2 * t * (1 - t) * C[1] + t * t * B[1]]
+                 : [A[0] + (B[0] - A[0]) * t, A[1] + (B[1] - A[1]) * t]);
+    }
+    return out;
+  }
+  function edgePath(g, key) {
+    var e = E[key], A = g.P(V[e.u]), B = g.P(V[e.v]);
+    if (!e.c) return "M" + A[0] + " " + A[1] + "L" + B[0] + " " + B[1];
+    var C = g.P(e.c);
+    return "M" + A[0] + " " + A[1] + "Q" + C[0] + " " + C[1] + " " + B[0] + " " + B[1];
+  }
+  function offsetPts(pts, off) {
+    if (!off) return pts;
+    return pts.map(function (q, i) {
+      var a = pts[Math.max(0, i - 1)], b = pts[Math.min(pts.length - 1, i + 1)];
+      var dx = b[0] - a[0], dy = b[1] - a[1], L = Math.hypot(dx, dy) || 1;
+      return [q[0] + off * dy / L, q[1] - off * dx / L];
+    });
+  }
+  /* a walk through the vertices as one smooth path; edges walked twice ride 3 px apart */
+  function walkPath(g, seq, closed) {
+    var count = {};
+    for (var i = 0; i + 1 < seq.length; i++) { var kk = edgeKey(seq[i], seq[i + 1]); count[kk] = (count[kk] || 0) + 1; }
+    var all = [];
+    for (var j = 0; j + 1 < seq.length; j++) {
+      var pts = offsetPts(samples(g, seq[j], seq[j + 1]), count[edgeKey(seq[j], seq[j + 1])] > 1 ? 3.2 : 0);
+      all = all.concat(j === 0 ? pts : pts.slice(1));
+    }
+    if (closed) all.pop();
+    return PB.curve(all, closed);
+  }
+  function drawEdges(svg, g, keys, style) {
+    keys.forEach(function (key) {
+      var d = edgePath(g, key);
+      if (style === "muted") svg.append("path").attr("class", "pb-line").attr("data-kind", "estimate").attr("d", d);
+      else {
+        svg.append("path").attr("class", "pb-line-trap").attr("d", d);
+        var l = svg.append("path").attr("class", "pb-line").attr("d", d);
+        if (style === "plate") l.attr("data-series", "3");
+      }
+    });
+  }
+  function drawVertices(svg, g, r) {
+    Object.keys(V).forEach(function (n) {
+      var q = g.P(V[n]);
+      svg.append("circle").attr("class", "pb-shape").attr("cx", q[0]).attr("cy", q[1]).attr("r", r || 4.2);
+    });
+  }
+  var ALL = Object.keys(E);
+  function graphHeight(width) { return Math.round(geom(width).s * 280 + 14); }
+
+  /* ================================================================ Try it: three ways to cover the town */
+  var TOURS = {
+    once: { del: [], seq: null, edges: ALL.length, cap: "Taking every road once leaves the ringed towns with an odd number of road ends, so no closed walk uses each road once." },
+    double: { del: [], seq: ["r", "a", "b", "c", "d", "b", "d", "r", "f", "a", "e", "f", "r"], edges: 12,
+      cap: "Doubling two roads makes every count even. The walk is a real tour, but it walks two roads twice." },
+    del: { del: ["ra", "db", "fa"], seq: ["r", "d", "c", "b", "a", "e", "f", "r"], edges: 7,
+      cap: "Deleting three roads also makes every count even, and what is left still connects. This tour is the shortest of the three." }
+  };
+  var tourNow = "once";
+  var ODD = ["r", "b", "d", "f"];
+  var tourSvg = PB.svg("#tour", { height: function (w) { return graphHeight(w) + 46; },
+    label: "Illustration: a small graph of seven towns and ten roads, covered three ways. Every road once leaves four towns with an odd count. Doubling two roads gives a tour that walks two roads twice. Deleting three roads gives the shortest tour, which visits each town once." },
+    function (svg, s) {
+      var g = geom(s.width), t = TOURS[tourNow];
+      var keep = ALL.filter(function (k) { return t.del.indexOf(k) < 0; });
+      if (tourNow === "once") drawEdges(svg, g, ALL, "ink");
+      else { drawEdges(svg, g, t.del, "muted"); drawEdges(svg, g, keep, "plate"); }
+      if (tourNow === "once") {
+        ODD.forEach(function (n) {
+          var q = g.P(V[n]);
+          svg.append("circle").attr("class", "pb-outline").attr("cx", q[0]).attr("cy", q[1]).attr("r", 9);
+        });
+        var rq = g.P(V.b);
+        svg.append("text").attr("class", "pb-mark-label").attr("x", rq[0] + 14).attr("y", rq[1] - 8).text("Odd");
+      } else {
+        PB.live(svg, walkPath(g, t.seq, true), { ms: 2200, pen: false, label: "The tour, drawn as one closed walk" });
+      }
+      drawVertices(svg, g);
+      // the length, as a tally: one stroke per road walked
+      var ty = graphHeight(s.width) + 10;
+      svg.append("text").attr("class", "pb-mark-label").attr("data-strong", "").attr("x", 0).attr("y", ty + 14).text("Length");
+      var tg = svg.append("g").attr("class", "pb-beam"), tx = 62;
+      for (var i = 0; i < t.edges; i++) {
+        if (i % 5 === 4) { tg.append("line").attr("x1", tx - 25).attr("x2", tx + 1).attr("y1", ty + 13).attr("y2", ty + 2); tx += 12; }
+        else { tg.append("line").attr("x1", tx).attr("x2", tx).attr("y1", ty).attr("y2", ty + 16); tx += 6; }
+      }
+      svg.append("text").attr("class", "pb-mark-label").attr("data-muted", "").attr("x", tx + 10).attr("y", ty + 14)
+        .text(tourNow === "once" ? "not a tour yet" : tourNow === "double" ? "a tour, with repeats" : "the shortest tour");
+    });
+  PB.toggle("#tour-toggle", {
+    label: "Cover the town by", value: "once",
+    options: [{ value: "once", label: "Once" }, { value: "double", label: "Double" }, { value: "del", label: "Delete" }],
+    onChange: function (v) { tourNow = v; document.getElementById("tour-cap").textContent = TOURS[v].cap; tourSvg.redraw(); }
+  });
+
+  /* ================================================================ Fig. 1: removable stars, in four steps */
+  var TREE = ["ra", "ab", "bc", "cd", "ae", "ef"], BACK = ["db", "dr", "fa", "fr"];
+  var STARS = [
+    { center: "r", edges: ["ra", "dr", "fr"], name: "Star 1", at: [192, 18] },
+    { center: "a", edges: ["ae", "fa"], name: "Star 2", at: [190, 88] },
+    { center: "b", edges: ["bc", "db"], name: "Star 3", at: [124, 168] }
+  ];
+  var KEEP3 = ["dr", "fa", "bc"]; // one edge kept per star
+  var NONREM = ["ab", "cd", "ef"];
+  function starArc(svg, g, st) {
+    var C = g.P(V[st.center]);
+    var angs = st.edges.map(function (key) {
+      var e = E[key], other = e.u === st.center ? e.v : e.u;
+      var aim = e.c ? g.P(e.c) : g.P(V[other]);
+      var a = Math.atan2(aim[1] - C[1], aim[0] - C[0]) * 180 / Math.PI;
+      return a < 0 ? a + 360 : a;
+    });
+    var a0 = Math.min.apply(null, angs) * Math.PI / 180, a1 = Math.max.apply(null, angs) * Math.PI / 180, r = 15;
+    svg.append("path").attr("class", "pb-outline").style("stroke-width", "1.2px")
+      .attr("d", "M" + (C[0] + r * Math.cos(a0)) + " " + (C[1] + r * Math.sin(a0)) + "A" + r + " " + r + " 0 0 1 " + (C[0] + r * Math.cos(a1)) + " " + (C[1] + r * Math.sin(a1)));
+  }
+  var stepNow = 0;
+  var starsSvg = PB.svg("#stars", { height: function (w) { return graphHeight(w) + 8; },
+    label: "Illustration: a seven-vertex graph explored depth first from a root. Its edges form three removable stars. Deleting all but one edge of each star leaves a spanning tree. Deleting a whole star splits the graph, and two copies of one star edge reconnect it at a cost of 2." },
+    drawStars);
+  function drawStars(svg, s) {
+      var g = geom(s.width);
+      var rq = g.P(V.r);
+      if (stepNow === 0) {
+        drawEdges(svg, g, BACK, "plate");
+        drawEdges(svg, g, TREE, "ink");
+        var aq = g.P(V.a), mid = g.P([66, 104]);
+        var tq = g.P([178, 74]);
+        svg.append("text").attr("class", "pb-mark-label").attr("x", tq[0]).attr("y", tq[1]).text("Tree edge");
+        svg.append("text").attr("class", "pb-mark-label").attr("x", mid[0] + 9).attr("y", mid[1] + 4).text("Back edge");
+      } else if (stepNow === 1) {
+        drawEdges(svg, g, NONREM, "muted");
+        drawEdges(svg, g, TREE.concat(BACK).filter(function (k) { return NONREM.indexOf(k) < 0; }), "ink");
+        STARS.forEach(function (st) {
+          starArc(svg, g, st);
+          var q = g.P(st.at);
+          svg.append("text").attr("class", "pb-mark-label").attr("data-strong", "").attr("text-anchor", st.end ? "end" : null).attr("x", q[0]).attr("y", q[1]).text(st.name);
+        });
+      } else {
+        var del = TREE.concat(BACK).filter(function (k) { return NONREM.indexOf(k) < 0 && KEEP3.indexOf(k) < 0; });
+        if (stepNow === 3) del = del.concat(["bc"]);
+        drawEdges(svg, g, del, "muted");
+        if (stepNow === 2) {
+          PB.live(svg, walkPath(g, ["r", "d", "c", "b", "a", "f", "e"], false), { ms: 1600, label: "What is left: a spanning tree" });
+          var fq = g.P(V.f);
+          svg.append("text").attr("class", "pb-mark-label").attr("data-finding", "").attr("text-anchor", "middle").attr("x", fq[0]).attr("y", fq[1] + 26).text("Still connected");
+        } else {
+          drawEdges(svg, g, ["dr", "cd", "ab", "fa", "ef"], "ink");
+          var B = g.P(V.b), C = g.P(V.c), dx = C[0] - B[0], dy = C[1] - B[1], L = Math.hypot(dx, dy), nx = -dy / L * 3.4, ny = dx / L * 3.4;
+          var ux = dx / L * 5, uy = dy / L * 5;
+          var loop = "M" + (B[0] + ux + nx) + " " + (B[1] + uy + ny) + "L" + (C[0] - ux + nx) + " " + (C[1] - uy + ny) +
+            "C" + (C[0] + nx * 1.6) + " " + (C[1] + ny * 1.6) + " " + (C[0] - nx * 1.6) + " " + (C[1] - ny * 1.6) + " " + (C[0] - ux - nx) + " " + (C[1] - uy - ny) +
+            "L" + (B[0] + ux - nx) + " " + (B[1] + uy - ny);
+          PB.live(svg, loop, { ms: 900, label: "Two copies of one star edge, cost 2" });
+          var mx = (B[0] + C[0]) / 2, my = (B[1] + C[1]) / 2;
+          svg.append("text").attr("class", "pb-mark-figure").attr("x", mx + 10).attr("y", my + 2).text("+2");
+        }
+      }
+      drawVertices(svg, g);
+      svg.append("text").attr("class", "pb-mark-label").attr("data-strong", "").attr("text-anchor", "end").attr("x", rq[0] - 10).attr("y", rq[1] + 4).text("Root");
+  }
+  var stepsHandle = PB.steps("#steps", function (i) {
+    if (i === stepNow) return;
+    stepNow = i;
+    starsSvg.redraw();
+  });
+  /* keep the pinned drawing in step with the text when the page opens or jumps above or below the steps */
+  var stepEls = document.querySelectorAll("#steps .pb-step");
+  function syncSteps() {
+    var h = window.innerHeight;
+    if (stepEls[0].getBoundingClientRect().top > 0.65 * h) stepsHandle.go(0);
+    else if (stepEls[stepEls.length - 1].getBoundingClientRect().bottom < 0.55 * h) stepsHandle.go(stepEls.length - 1);
+  }
+  window.addEventListener("scroll", syncSteps, { passive: true });
+  syncSteps();
+
+  /* ================================================================ Fig. 2: one star of the certificate, with d_S on a slider.
+     t = d_S / e_S, from 0 (the earlier uniform 1/3) to 1 (the most allowed). The tree edge thickens with its value;
+     the bar under the star is the star's leftover cost term, which shrinks to nothing at t = 1. Not to scale. */
+  var certT = 0.6, certParts = null;
+  function certUpdate() {
+    if (!certParts) return;
+    var c = certParts, t = certT, w = 3 + 9 * t;
+    c.edge.attr("x", c.cx - w / 2).attr("width", w);
+    c.val.selectAll("*").remove();
+    c.val.text(null);
+    if (t === 0) c.val.text("1/3");
+    else { c.val.append("tspan").text("1/3 + (2/3)d"); c.val.append("tspan").attr("baseline-shift", "sub").style("font-size", "16px").text("S"); }
+    c.bar.attr("width", Math.max(0, c.bw * (1 - t)));
+    c.gone.style("display", t === 1 ? null : "none");
+  }
+  PB.svg("#cert", { height: 262,
+    label: "Illustration: one removable star, a straight tree edge from its center down into a subtree and two back edges curving up from that subtree. In the earlier solution every edge carries 1/3. Here the tree edge carries 1/3 plus two thirds of d sub S, and as d sub S rises the star's leftover cost term shrinks, reaching nothing when d sub S equals the star's excess e sub S." },
+    function (svg, s) {
+      var cx = 74, U = [cx, 18], Vv = [cx, 108];
+      PB.fillShape(svg, "context", 1, function (q) { return q.append("path").attr("d", "M" + cx + " 108L" + (cx - 52) + " 178L" + (cx + 52) + " 178Z"); });
+      [[cx - 26, 164, cx - 96, 92, "1/3"], [cx + 24, 158, cx + 92, 84, "1/3"]].forEach(function (b) {
+        var d = "M" + b[0] + " " + b[1] + "Q" + b[2] + " " + b[3] + " " + U[0] + " " + U[1];
+        svg.append("path").attr("class", "pb-line-trap").attr("d", d);
+        svg.append("path").attr("class", "pb-line").attr("data-series", "3").attr("d", d);
+        svg.append("circle").attr("class", "pb-dot").attr("data-named", "").attr("cx", b[0]).attr("cy", b[1]);
+      });
+      svg.append("text").attr("class", "pb-mark-label").attr("data-muted", "").attr("x", cx + 80).attr("y", 132).text("Back edges, from");
+      svg.append("text").attr("class", "pb-mark-label").attr("data-muted", "").attr("x", cx + 80).attr("y", 148).text("the subtree below");
+      svg.append("text").attr("class", "pb-mark-label").attr("x", cx).attr("y", 196).attr("text-anchor", "middle").attr("data-muted", "").text("Subtree");
+      svg.append("rect").attr("class", "pb-ground").attr("x", cx - 9).attr("y", U[1]).attr("width", 18).attr("height", Vv[1] - U[1]);
+      var edge = svg.append("rect").attr("class", "pb-live-fill pb-flood").attr("y", U[1]).attr("height", Vv[1] - U[1]);
+      [U, Vv].forEach(function (q) { svg.append("circle").attr("class", "pb-shape").attr("cx", q[0]).attr("cy", q[1]).attr("r", 4.6); });
+      svg.append("text").attr("class", "pb-mark-label").attr("data-strong", "").attr("x", cx + 80).attr("y", 50).text("Tree edge uses");
+      var val = svg.append("text").attr("class", "pb-mark-figure").attr("x", cx + 80).attr("y", 80);
+      // the star's leftover cost term
+      var bx = 0, bw = Math.min(s.width, 360) - 74, by = 226;
+      svg.append("text").attr("class", "pb-mark-label").attr("data-strong", "").attr("x", 0).attr("y", by - 8).text("This star’s leftover cost");
+      svg.append("rect").attr("class", "pb-outline").attr("x", bx).attr("y", by).attr("width", bw).attr("height", 18);
+      var bar = PB.fillShape(svg, "plate", 1, function (q) { return q.append("rect").attr("x", bx).attr("y", by).attr("height", 18); });
+      var barEl = d3.selectAll(bar.fills.concat([bar.outline]).map(function (f) { return f.node(); }));
+      var gone = svg.append("text").attr("class", "pb-mark-label").attr("data-finding", "").attr("x", bx + 8).attr("y", by + 13).text("Gone");
+      svg.append("text").attr("class", "pb-mark-label").attr("data-muted", "").attr("x", bx + bw + 6).attr("y", by + 13).text("Before");
+      certParts = { cx: cx, edge: edge, val: val, bar: barEl, bw: bw, gone: gone };
+      certUpdate();
+    });
+  PB.slider("#cert-slider", { label: "Raise the tree edge", caption: "Raise the tree edge", min: 0, max: 100, step: 1, value: Math.round(certT * 100),
+    format: function (v) { return v === 0 ? "not raised, the earlier 1/3" : v === 100 ? "raised to its cap" : "raised part way"; },
+    valueText: function (v) { return v === 0 ? "d sub S is 0, the earlier one third" : v === 100 ? "d sub S equals e sub S, the most allowed" : "d sub S part way to e sub S"; },
+    onInput: function (v) { certT = v / 100; certUpdate(); } });
+
+  /* ================================================================ Fig. 3: the 3/320 zoom */
+  PB.svg("#zoom", { height: 132, label: "Data from the paper on a ruler from 1.385 to 1.405: the previous ratio 7/5, or 1.4, and the new ratio 89/64, or 1.390625, which is 3/320 lower." },
+    function (svg, s) {
+      var x = d3.scaleLinear().domain([1.385, 1.405]).range([1, Math.min(s.width, 420) - 18]);
+      var y = 60, ry = 96, a = x(1.4), b = x(89 / 64);
+      var drops = svg.append("g").attr("class", "pb-grid-line");
+      [a, b].forEach(function (v) { drops.append("line").attr("x1", v).attr("x2", v).attr("y1", y + 6).attr("y2", ry); });
+      svg.append("line").attr("class", "pb-ground").style("stroke-width", "5px").attr("x1", b).attr("x2", a).attr("y1", y).attr("y2", y);
+      svg.append("line").attr("class", "pb-beam").attr("x1", b + 4).attr("x2", a - 4).attr("y1", y).attr("y2", y);
+      svg.append("circle").attr("class", "pb-ring").attr("cx", a).attr("cy", y);
+      svg.append("circle").attr("class", "pb-pen-trap").attr("cx", b).attr("cy", y);
+      svg.append("circle").attr("class", "pb-live-fill pb-flood").attr("cx", b).attr("cy", y).attr("r", 4.5);
+      svg.append("text").attr("class", "pb-mark-label").attr("x", a).attr("y", y - 26).attr("text-anchor", "middle").text("Before");
+      svg.append("text").attr("class", "pb-mark-label").attr("data-strong", "").attr("x", a).attr("y", y - 13).attr("text-anchor", "middle").text("7/5");
+      svg.append("text").attr("class", "pb-mark-label").attr("x", b).attr("y", y - 26).attr("text-anchor", "middle").text("This paper");
+      svg.append("text").attr("class", "pb-mark-label").attr("data-finding", "").attr("x", b).attr("y", y - 13).attr("text-anchor", "middle").text("89/64");
+      svg.append("text").attr("class", "pb-mark-label").attr("x", (a + b) / 2).attr("y", y + 18).attr("text-anchor", "middle").text("3/320 lower");
+      PB.ruler(svg, { x: x, y: ry, major: [1.385, 1.39, 1.395, 1.4, 1.405], minor: d3.range(0, 21).map(function (i) { return +(1.385 + i * 0.001).toFixed(3); }),
+        format: function (v) { return v.toFixed(3); } });
+    });
+  PB.legend("#zoom-legend", [{ kind: "ring", label: "Previous best" }, { kind: "live", label: "This paper" }]);
+  PB.table("#zoom-table", {
+    caption: "Proven ratios for graphic TSP, and the conjecture. Rows in order of improvement.",
+    columns: [{ key: "who", label: "Result" }, { key: "frac", label: "Ratio" }, { key: "dec", label: "Decimal", numeric: true }],
+    rows: [
+      { who: "Christofides, 1976", frac: "3/2", dec: "1.5" },
+      { who: "Oveis Gharan, Saberi, Singh", frac: "just below 3/2", dec: "" },
+      { who: "Mömke and Svensson", frac: "", dec: "1.461" },
+      { who: "Mucha", frac: "13/9", dec: "about 1.444" },
+      { who: "Sebő and Vygen", frac: "7/5", dec: "1.4" },
+      { who: "This paper", frac: "89/64", dec: "1.390625" },
+      { who: "Improvement", frac: "3/320", dec: "0.009375" },
+      { who: "Goemans’ conjecture (open)", frac: "4/3", dec: "about 1.3333" }
+    ]
+  });
+
+  /* ================================================================ Fig. 4: the worked example */
+  var EX = [
+    { name: "Lower bound", note: "subtour LP", v: 26, fig: "26", kind: "plate" },
+    { name: "StarMatch", note: "this paper", v: 27, fig: "27", kind: "live" },
+    { name: "Star deletion LP", note: "this paper, simpler", v: 28, fig: "28", kind: "solid" },
+    { name: "Mömke–Svensson", note: "best parity fix", v: 29, fig: "29", kind: "solid" },
+    { name: "Mömke–Svensson bound", note: "standard analysis", v: 92 / 3, fig: "92/3", kind: "context" }
+  ];
+  PB.svg("#example", { height: 5 * 50 + 50,
+    label: "Data from the paper, on one graph with 23 vertices and 30 edges: lower bound 26 edges, StarMatch tour 27, star deletion tour 28, Mömke and Svensson tour 29, their standard bound 92/3, about 30.667." },
+    function (svg, s) {
+      var x = d3.scaleLinear().domain([0, 34]).range([0.5, Math.min(s.width - 50, 360)]);
+      var ry = 5 * 50 + 14;
+      EX.forEach(function (r, i) {
+        var y1 = 22 + 50 * i + 4, y2 = i === EX.length - 1 ? ry : 22 + 50 * (i + 1) - 12;
+        svg.append("line").attr("class", "pb-grid-line").attr("x1", x(26)).attr("x2", x(26)).attr("y1", y1).attr("y2", y2);
+      });
+      EX.forEach(function (r, i) {
+        var top = 22 + 50 * i;
+        var head = svg.append("text").attr("class", "pb-mark-label").attr("x", 0).attr("y", top);
+        head.append("tspan").attr("data-strong", "").style("font-weight", 600).text(r.name);
+        head.append("tspan").attr("dx", 8).style("fill", "var(--pb-ink-2)").text(r.note);
+        var sh = PB.fillShape(svg, r.kind, 1, function (q) { return q.append("rect").attr("x", x(0)).attr("y", top + 8).attr("width", x(r.v) - x(0)).attr("height", 16); });
+        if (r.kind === "live") sh.fills.forEach(function (f) { f.attr("class", "pb-flood"); });
+        svg.append("text").attr("class", "pb-mark-figure").attr("x", x(r.v) + 7).attr("y", top + 24).text(r.fig);
+      });
+      PB.ruler(svg, { x: x, y: ry, major: [0, 10, 20, 30], minor: d3.range(0, 35, 2), unit: "edges" });
+    });
+  PB.table("#example-table", {
+    caption: "Appendix C.4 and Table 3. All values exact.",
+    columns: [{ key: "what", label: "On the example graph" }, { key: "v", label: "Edges", numeric: true }],
+    rows: [
+      { what: "Vertices in the graph", v: "23" }, { what: "Edges in the graph", v: "30" },
+      { what: "Lower bound (subtour LP)", v: "26" }, { what: "StarMatch tour (this paper)", v: "27" },
+      { what: "Star deletion LP tour (this paper)", v: "28" }, { what: "Mömke and Svensson tour, best parity fix", v: "29" },
+      { what: "Mömke and Svensson standard bound", v: "92/3, about 30.667" }
+    ]
+  });
+
+  /* ================================================================ Fig. 5: graph classes, before and after */
+  var CLS = [
+    { name: "All connected graphs", a: 1.4, b: 89 / 64, vals: "7/5 → 89/64" },
+    { name: "k-connected, k ≥ 4, max degree ≤ k+1", a: 1.4, b: 4 / 3, vals: "7/5 → 4/3" },
+    { name: "4-regular, 4-connected", a: 4 / 3, b: 1.3, vals: "4/3 → 13/10", finding: true }
+  ];
+  PB.svg("#classes", { height: 3 * 56 + 50,
+    label: "Data from the paper. All connected graphs: 7/5 before, 89/64 now. k-connected graphs with k at least 4 and maximum degree at most k plus 1: 7/5 before, 4/3 now. 4-regular, 4-connected graphs: 4/3 before, 13/10 now." },
+    function (svg, s) {
+      var W = Math.min(s.width, 420);
+      var x = d3.scaleLinear().domain([1.28, 1.42]).range([6, W - 6]);
+      var ry = 3 * 56 + 18;
+      var vl = svg.append("g").attr("class", "pb-grid-line");
+      [1.3, 1.35, 1.4].forEach(function (v) { vl.append("line").attr("x1", x(v)).attr("x2", x(v)).attr("y1", 26).attr("y2", ry); });
+      CLS.forEach(function (c, i) {
+        var top = 16 + 56 * i, y = top + 20;
+        svg.append("rect").attr("class", "pb-ground").attr("x", 0).attr("y", top - 11).attr("width", W).attr("height", 15);
+        svg.append("text").attr("class", "pb-mark-label").attr("data-strong", "").style("text-transform", "none").attr("x", 0).attr("y", top).text(c.name);
+        svg.append("text").attr("class", "pb-mark-label").attr("text-anchor", "end").attr("x", W).attr("y", top).text(c.vals);
+        svg.append("line").attr("class", "pb-ground").style("stroke-width", "5px").attr("x1", x(c.a)).attr("x2", x(c.b)).attr("y1", y).attr("y2", y);
+        svg.append("line").attr("class", "pb-beam").attr("x1", x(c.a)).attr("x2", x(c.b)).attr("y1", y).attr("y2", y);
+        svg.append("circle").attr("class", "pb-ring").attr("cx", x(c.a)).attr("cy", y);
+        if (c.finding) {
+          svg.append("circle").attr("class", "pb-pen-trap").attr("cx", x(c.b)).attr("cy", y);
+          svg.append("circle").attr("class", "pb-live-fill pb-flood").attr("cx", x(c.b)).attr("cy", y).attr("r", 4.5);
+        } else svg.append("circle").attr("cx", x(c.b)).attr("cy", y).attr("r", 4).style("fill", "var(--pb-ink)");
+      });
+      PB.ruler(svg, { x: x, y: ry, major: [1.3, 1.35, 1.4], minor: d3.range(1.28, 1.421, 0.01).map(function (v) { return +v.toFixed(2); }),
+        format: function (v) { return v.toFixed(2); } });
+    });
+  PB.legend("#classes-legend", [{ kind: "ring", label: "Previous best" }, { kind: "solid", label: "This paper" }, { kind: "live", label: "Best new ratio" }]);
+  PB.table("#classes-table", {
+    caption: "Table 1 and Theorem 2.3. All values exact.",
+    columns: [{ key: "cls", label: "Graphs" }, { key: "a", label: "Before" }, { key: "b", label: "Now" }],
+    rows: [
+      { cls: "All connected graphs", a: "7/5 = 1.4", b: "89/64 = 1.390625" },
+      { cls: "k-connected, k ≥ 4, max degree ≤ k+1", a: "7/5 = 1.4", b: "4/3, about 1.3333" },
+      { cls: "4-regular, 4-connected", a: "4/3, about 1.3333", b: "13/10 = 1.3" }
+    ]
+  });
+});
+</script>
+</body>
+</html>
