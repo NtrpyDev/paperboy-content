@@ -1,0 +1,26 @@
+{
+  "id": "doi-10.0000-paperboy.fixture",
+  "doi": "10.0000/paperboy.fixture",
+  "arxiv_id": null,
+  "title": "Paperboy test fixture: the kit gallery",
+  "authors": [
+    "Paperboy"
+  ],
+  "venue": "Paperboy test fixture",
+  "published": "2026-11-13",
+  "status": "preprint",
+  "license": "CC-BY-4.0",
+  "url": "https://github.com/NtrpyDev/paperboy-content",
+  "field": "cs",
+  "tags": [
+    "test fixture"
+  ],
+  "hook": "Test fixture: this card is not a real paper",
+  "summary": "This card is a test fixture for the Paperboy feed and describes no real paper. Its explainer is the kit gallery, a page that shows every component an explainer can use. All numbers on that page are made up.",
+  "significance": 0,
+  "has_explainer": true,
+  "added_at": "2026-11-13T03:34:00Z",
+  "explained_at": "2026-11-13T03:34:00Z",
+  "kit": 1,
+  "fulltext_source": null
+}
