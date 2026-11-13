@@ -1,0 +1,44 @@
+{
+  "upgrades": {
+    "arxiv-2611.12881": {
+      "explained_at": "2026-11-13T17:54:17Z",
+      "explainer": "papers/arxiv-2611.12881/",
+      "hero": {
+        "height": 654,
+        "kind": "data",
+        "night": {
+          "height": 654,
+          "path": "papers/arxiv-2611.12881/hero-night.webp",
+          "width": 780
+        },
+        "path": "papers/arxiv-2611.12881/hero.webp",
+        "width": 780
+      },
+      "readout": {
+        "label": "Mass ratio at the brown dwarf desert floor",
+        "unit": "%",
+        "value": "1.76"
+      }
+    },
+    "arxiv-2611.13585": {
+      "explained_at": "2026-11-13T17:54:17Z",
+      "explainer": "papers/arxiv-2611.13585/",
+      "hero": {
+        "height": 590,
+        "kind": "data",
+        "night": {
+          "height": 590,
+          "path": "papers/arxiv-2611.13585/hero-night.webp",
+          "width": 780
+        },
+        "path": "papers/arxiv-2611.13585/hero.webp",
+        "width": 780
+      },
+      "readout": {
+        "label": "Approximation ratio for graphic TSP",
+        "value": "1.390625"
+      }
+    }
+  },
+  "v": 1
+}
