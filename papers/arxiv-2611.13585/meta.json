@@ -115,6 +115,7 @@
       }
     }
   },
+  "depth": "full",
   "doi": null,
   "explained_at": "2026-11-13T17:54:17Z",
   "field": "cs",
