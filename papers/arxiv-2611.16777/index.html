@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark light">
+<title>Three Lipschitz functions on a Hilbert space can share no point of differentiability.</title>
+<link rel="stylesheet" href="/kit/v2/vendor/katex/katex.min.css">
+<link rel="stylesheet" href="/kit/v2/paperboy.css">
+<script src="/kit/v2/vendor/d3.min.js"></script>
+<script src="/kit/v2/vendor/plot.umd.min.js"></script>
+<script src="/kit/v2/vendor/katex/katex.min.js"></script>
+<script src="/kit/v2/vendor/katex/auto-render.min.js"></script>
+<script src="/kit/v2/paperboy.js"></script>
+</head>
+<body>
+<article class="pb" data-depth="abstract">
+
+<header class="pb-hero">
+  <div class="pb-kicker">
+    <span class="pb-tag">Math</span>
+    <span class="pb-badge" data-status="preprint">Preprint</span>
+    <a class="pb-journal" href="https://arxiv.org/abs/2611.16777">arXiv</a>
+  </div>
+  <h1 class="pb-title">Three Lipschitz functions on a Hilbert space can share no point of differentiability.</h1>
+  <div class="pb-stage" id="hero" data-kind="illustration"></div>
+  <div class="pb-readout-row">
+    <div></div>
+    <div class="pb-plate-slug">Plate 1<br>Illustration,<br>not to scale</div>
+  </div>
+  <p class="pb-dek">On every infinite-dimensional Hilbert space, the author builds three Lipschitz functions with no point where all three are smooth at once. With two, such a point always exists, so three is the fewest that can fail. In the plate, the creased field stands for the functions' corners, and the bright line runs out to three on a ruler of target dimension.</p>
+</header>
+
+<div class="pb-callout" data-kind="key">
+  <span class="pb-callout-label">Key idea</span>
+  <p>Two Lipschitz functions on a Hilbert space always share a smooth point, but three need not.</p>
+</div>
+
+<section class="pb-section" data-section="question">
+  <p class="pb-eyebrow">The question</p>
+  <h2>Functions with corners <em>still have smooth spots.</em></h2>
+  <p>A <span class="pb-term" data-def="A function whose graph is never steeper than some fixed slope. It may have corners, but no jumps or spikes.">Lipschitz function</span> can bend sharply, yet in ordinary finite-dimensional space it has a derivative almost everywhere. In a <span class="pb-term" data-def="A space with lengths and angles like ordinary space, but possibly with infinitely many independent directions.">Hilbert space</span> with infinitely many directions, Lindenstrauss, Preiss, and Tišer asked a longstanding question: must several such functions share a point where all are <span class="pb-term" data-def="Having a derivative in the strongest usual sense: near the point, the function is well matched by a linear map in every direction at once.">Fréchet differentiable</span>.</p>
+  <figure class="pb-fig" data-kind="illustration" data-slug="Fig. 1">
+    <p class="pb-fig-title">A Lipschitz function: bounded slope, sharp corners</p>
+    <div id="fig1"></div>
+    <figcaption>The graph never climbs steeper than the cone, but at each corner it has no derivative.</figcaption>
+  </figure>
+</section>
+
+<section class="pb-section" data-section="method">
+  <p class="pb-eyebrow">What they did</p>
+  <h2>A direct construction, <em>with elementary tools.</em></h2>
+  <p>The proof builds the three functions explicitly. It relies on elementary calculus and finite-dimensional linear algebra.</p>
+</section>
+
+<section class="pb-section" data-section="findings">
+  <p class="pb-eyebrow">What they found</p>
+  <h2>The answer is no, <em>and three is the edge.</em></h2>
+  <p>On every infinite-dimensional real Hilbert space, three real-valued Lipschitz functions can have no common point of Fréchet differentiability. Every Lipschitz map into the plane has such a point, so the target dimension three is optimal.</p>
+  <figure class="pb-fig" data-kind="illustration" data-slug="Fig. 2">
+    <p class="pb-fig-title">Two functions leave a gap; three can close it</p>
+    <div id="fig2"></div>
+    <figcaption>A cartoon: lines stand for each function's corners, and a flat page cannot show infinite dimensions.</figcaption>
+  </figure>
+</section>
+
+<section class="pb-section" data-section="confidence">
+  <h2>How sure <em>is this?</em></h2>
+  <ul class="pb-confidence">
+    <li class="pb-confidence-head">Strengths</li>
+    <li><b>A proof</b><span class="note">A mathematical proof, and a constructive one: it exhibits the functions.</span></li>
+    <li><b>Sharp</b><span class="note">A known result covers maps into the plane, so three cannot be lowered.</span></li>
+    <li class="pb-confidence-head">Limits</li>
+    <li><b>Review</b><span class="v"><span class="pb-badge" data-status="preprint">Preprint</span></span><span class="note">Not yet peer reviewed.</span></li>
+    <li><b>Scope</b><span class="note">The result is stated for real Hilbert spaces. This page cannot say what happens in other spaces.</span></li>
+    <li data-kind="standing"><b>This explainer</b>Built from the paper's abstract, not its full text. Every number here is printed in the abstract. Machine written, and it can be wrong. Check it against the paper.</li>
+  </ul>
+</section>
+
+<section class="pb-section" data-section="matters">
+  <p class="pb-eyebrow">Why it matters</p>
+  <h2>A longstanding question <em>gets a negative answer.</em></h2>
+  <p>It settles an open problem about how smooth Lipschitz maps must be in infinite dimensions, and pins the exact point where the guarantee breaks.</p>
+</section>
+
+<footer class="pb-source">
+  <p class="pb-eyebrow">Source</p>
+  <cite>Three Lipschitz functions on infinite-dimensional Hilbert spaces with no common point of Fréchet differentiability</cite>
+  <p class="pb-authors">Zhouzhe Wang</p>
+  <small>arXiv 2611.16777</small>
+  <small>November 12, 2026. Preprint, not peer reviewed.</small>
+  <a class="pb-btn" href="https://arxiv.org/abs/2611.16777">Read the paper</a>
+  <p class="pb-note">This page was written by a machine from the paper's abstract and can be wrong. The paper is the source.</p>
+</footer>
+
+</article>
+<script>
+PB.ready(function () {
+  function label(g, x, y, text, o) {
+    o = o || {};
+    var lg = g.append("g");
+    var r = lg.append("rect").attr("class", "pb-ground");
+    var t = lg.append("text").attr("class", "pb-mark-label").attr("x", x).attr("y", y).attr("text-anchor", o.anchor || "start");
+    String(text).split(/([α-ω]+)/).forEach(function (part, i) {
+      if (part) t.append("tspan").text(part).style("text-transform", i % 2 || o.asIs ? "none" : null);
+    });
+    if (o.strong) t.attr("data-strong", "");
+    if (o.finding) t.attr("data-finding", "");
+    if (o.muted) t.attr("data-muted", "");
+    var b = t.node().getBBox();
+    r.attr("x", b.x - 3).attr("y", b.y - 1).attr("width", b.width + 6).attr("height", b.height + 2);
+    return t;
+  }
+
+  function engrave(g, f, o) {
+    var st = o.step || 2, m = 8, x0 = o.x0 - m, y0 = o.y0 - m;
+    var nx = Math.ceil((o.x1 - o.x0 + 2 * m) / st) + 1, ny = Math.ceil((o.y1 - o.y0 + 2 * m) / st) + 1;
+    var v = new Float64Array(nx * ny);
+    for (var j = 0; j < ny; j++) for (var i = 0; i < nx; i++) v[j * nx + i] = f(x0 + i * st, y0 + j * st);
+    var path = d3.geoPath(d3.geoIdentity().scale(st).translate([x0, y0]));
+    var out = g.append("g");
+    var cid = "clip-" + Math.random().toString(36).slice(2, 8);
+    out.append("clipPath").attr("id", cid).append("rect").attr("x", o.x0).attr("y", o.y0).attr("width", o.x1 - o.x0).attr("height", o.y1 - o.y0);
+    var lines = out.append("g").attr("clip-path", "url(#" + cid + ")");
+    d3.contours().size([nx, ny]).thresholds(o.levels)(v).forEach(function (c) {
+      lines.append("path").attr("class", "pb-field-hair").attr("d", path(c));
+    });
+    return out;
+  }
+
+  /* Plate 1: a creased field (three Lipschitz functions with corners) over a ruler of target dimension. */
+  PB.plate("#hero", {
+    band: function () { var v = window.innerWidth; return v >= 1160 ? 400 : v >= 930 ? 360 : v >= 700 ? 320 : 272; },
+    label: "Illustration on a ruler of target dimension. Above, a field folded along three families of creases stands for three Lipschitz functions and their corners. A ring at the plane marks that every map into the plane has a common smooth point. The bright line runs out to three, where the paper builds functions with no common point.",
+    draw: function (p) {
+      var x = d3.scaleLinear().domain([0, 5]).range([p.left, p.right]), base = p.band - 46, top = base - 76;
+      var L1 = 37, L2 = 29, L3 = 33;
+      var f = function (a, b) { return Math.abs(Math.sin(a / L1)) + Math.abs(Math.sin((a + b) / L2)) + Math.abs(Math.sin((b - 0.6 * a) / L3)); };
+      engrave(p.print, f, { x0: 0, y0: 0, x1: p.width, y1: top, levels: d3.range(0.1, 3, 0.13) });
+      // the creases themselves, in key ink
+      var cid = "plate-crease-clip";
+      p.key.append("clipPath").attr("id", cid).append("rect").attr("x", 0).attr("y", 0).attr("width", p.width).attr("height", top);
+      var cg = p.key.append("g").attr("clip-path", "url(#" + cid + ")");
+      var H = top, k;
+      for (k = 0; k * Math.PI * L1 <= p.width; k++) {
+        var cx = k * Math.PI * L1;
+        cg.append("line").attr("class", "pb-contour-line").style("stroke-width", "1.1px").attr("x1", cx).attr("x2", cx).attr("y1", 0).attr("y2", H);
+      }
+      for (k = 0; k * Math.PI * L2 <= p.width + H; k++) {
+        var c = k * Math.PI * L2;   // a + b = c
+        cg.append("line").attr("class", "pb-contour-line").style("stroke-width", "1.1px").attr("x1", c).attr("y1", 0).attr("x2", c - H).attr("y2", H);
+      }
+      for (k = -Math.ceil(0.6 * p.width / (Math.PI * L3)) - 1; k * Math.PI * L3 <= H; k++) {
+        var d = k * Math.PI * L3;   // b = 0.6 a + d
+        cg.append("line").attr("class", "pb-contour-line").style("stroke-width", "1.1px").attr("x1", 0).attr("y1", d).attr("x2", p.width).attr("y2", d + 0.6 * p.width);
+      }
+      p.key.append("line").attr("class", "pb-contour-line").style("stroke-width", "1.4px").attr("x1", 0).attr("x2", p.width).attr("y1", top).attr("y2", top);
+      PB.ruler(p.live, { x: x, y: p.rulerY, x1: 0, x2: p.width, major: [0, 1, 2, 3, 4, 5], labels: [1, 2, 3], unit: "TARGET DIMENSION", unitAt: "end", unitX: p.right });
+      label(p.live, p.left, 22, "CREASES: CORNERS OF THREE FUNCTIONS", { strong: true });
+      label(p.live, x(2), base - 50, "INTO THE PLANE:", { anchor: "middle", strong: true });
+      label(p.live, x(2), base - 36, "ALWAYS A COMMON POINT", { anchor: "middle" });
+      label(p.live, x(3) + 10, base - 18, "THREE:", { finding: true });
+      label(p.live, x(3) + 10, base - 4, "NONE IN COMMON", { });
+      label(p.live, x(3) + 10, base + 18, "OPTIMAL", { muted: true });
+      PB.live(p.live, "M" + x(0) + " " + base + "H" + x(3), { carriage: p.rulerY, cap: 5, pulse: true });
+      p.live.append("circle").attr("class", "pb-ring").attr("cx", x(2)).attr("cy", base);
+    }
+  });
+
+  /* Fig. 1: a Lipschitz function with corners inside its slope cone. */
+  PB.svg("#fig1", { height: 210, label: "Illustration: the graph of a Lipschitz function, a zigzag with sharp corners. At one corner, two dashed lines show the steepest slopes allowed; the graph stays between them. A ring marks a corner, where the function has no derivative." }, function (svg, s) {
+    var W = s.width, y0 = 150;
+    var xs = [0, 0.12, 0.22, 0.38, 0.47, 0.6, 0.72, 0.86, 1];
+    var ys = [0, 34, 10, 52, 30, 72, 44, 60, 22];
+    var pts = xs.map(function (u, i) { return [u * W, y0 - ys[i]]; });
+    var cx = pts[3][0], cy = pts[3][1];
+    // slope cone through the corner, the steepest slope in the graph
+    var maxs = 0;
+    for (var i = 1; i < pts.length; i++) maxs = Math.max(maxs, Math.abs((pts[i][1] - pts[i - 1][1]) / (pts[i][0] - pts[i - 1][0])));
+    var dx = W * 0.14;
+    [[1, 1], [1, -1], [-1, 1], [-1, -1]].forEach(function (sg) {
+      svg.append("line").attr("class", "pb-grid-line").style("stroke-dasharray", "4 3").attr("x1", cx).attr("y1", cy).attr("x2", cx + sg[0] * dx).attr("y2", cy + sg[1] * dx * maxs);
+    });
+    PB.fillShape(svg, "context", 1, function (q) {
+      return q.append("path").attr("d", "M" + cx + " " + cy + "L" + (cx - dx) + " " + (cy + dx * maxs) + "L" + (cx - dx) + " " + (cy - dx * maxs) + "Z M" + cx + " " + cy + "L" + (cx + dx) + " " + (cy + dx * maxs) + "L" + (cx + dx) + " " + (cy - dx * maxs) + "Z");
+    });
+    svg.append("path").attr("class", "pb-line-trap").attr("d", d3.line()(pts));
+    svg.append("path").attr("class", "pb-line").style("stroke-width", "1.8px").attr("d", d3.line()(pts));
+    pts.slice(1, -1).forEach(function (q) { svg.append("circle").attr("class", "pb-dot").attr("cx", q[0]).attr("cy", q[1]); });
+    svg.append("circle").attr("class", "pb-ring").attr("cx", pts[3][0]).attr("cy", pts[3][1]);
+        label(svg, cx, 16, "CORNER: NO DERIVATIVE", { anchor: "middle", strong: true });
+    svg.append("line").attr("class", "pb-grid-line").attr("x1", cx).attr("x2", cx).attr("y1", 22).attr("y2", cy - 8);
+    label(svg, cx, y0 + 46, "SLOPE NEVER LEAVES THE CONE", { anchor: "middle", muted: true });
+  });
+
+  /* Fig. 2: two crease families leave gaps; three dense families can leave none. */
+  PB.svg("#fig2", { height: 230, label: "Illustration: two panels. On the left, two sparse families of lines stand for the corners of two functions, and a ring sits in a gap: a point smooth for both always exists. On the right, three dense families of lines cover the whole panel: three functions can leave no point smooth for all." }, function (svg, s) {
+    var gap = 16, w = (s.width - gap) / 2, top = 40, h = 180;
+    function panel(x0, id) {
+      var g = svg.append("g");
+      g.append("clipPath").attr("id", id).append("rect").attr("x", x0).attr("y", top).attr("width", w).attr("height", h);
+      g.append("rect").attr("class", "pb-outline").attr("x", x0).attr("y", top).attr("width", w).attr("height", h).style("fill", "none");
+      return g.append("g").attr("clip-path", "url(#" + id + ")");
+    }
+    var a = panel(0, "fig2-a"), sp = 36, k;
+    for (k = 0; k * sp <= w + sp; k++) a.append("line").attr("class", "pb-line").attr("data-series", "3").style("stroke-width", "1.1px").attr("x1", k * sp + 6).attr("x2", k * sp + 6).attr("y1", top).attr("y2", top + h);
+    for (k = 0; k * sp <= h + sp; k++) a.append("line").attr("class", "pb-line").style("stroke-width", "1.1px").attr("x1", 0).attr("x2", w).attr("y1", top + k * sp + 6).attr("y2", top + k * sp + 6);
+    var rx = 6 + sp * Math.floor(w / sp / 2) + sp / 2, ry = top + 6 + sp * 2 + sp / 2;
+    svg.append("circle").attr("class", "pb-ring").attr("cx", rx).attr("cy", ry);
+    var x1 = w + gap, b = panel(x1, "fig2-b"), d = 5;
+    for (k = 0; k * d <= w; k++) b.append("line").attr("class", "pb-line").attr("data-series", "3").style("stroke-width", "0.7px").attr("x1", x1 + k * d).attr("x2", x1 + k * d).attr("y1", top).attr("y2", top + h);
+    for (k = -Math.ceil(h / d); k * d <= w + h; k++) b.append("line").attr("class", "pb-line").style("stroke-width", "0.6px").attr("x1", x1 + k * d * 1.4).attr("y1", top).attr("x2", x1 + k * d * 1.4 - h).attr("y2", top + h);
+    for (k = -Math.ceil(h / d); k * d <= w + h; k++) b.append("line").attr("class", "pb-line").attr("data-series", "3").style("stroke-width", "0.6px").attr("x1", x1 + k * d * 1.4).attr("y1", top).attr("x2", x1 + k * d * 1.4 + h).attr("y2", top + h);
+    label(svg, 0, 14, "TWO FUNCTIONS", { strong: true });
+    label(svg, 0, 30, "A SHARED SMOOTH POINT", { muted: true });
+    label(svg, x1, 14, "THREE FUNCTIONS", { strong: true });
+    label(svg, x1, 30, "NO SHARED SMOOTH POINT", { finding: true });
+  });
+});
+</script>
+</body>
+</html>

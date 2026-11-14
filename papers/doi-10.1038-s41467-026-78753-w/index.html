@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark light">
+<title>Mammalian cells took up algae and kept algal chromosomes for 95 generations.</title>
+<link rel="stylesheet" href="/kit/v2/vendor/katex/katex.min.css">
+<link rel="stylesheet" href="/kit/v2/paperboy.css">
+<script src="/kit/v2/vendor/d3.min.js"></script>
+<script src="/kit/v2/vendor/plot.umd.min.js"></script>
+<script src="/kit/v2/vendor/katex/katex.min.js"></script>
+<script src="/kit/v2/vendor/katex/auto-render.min.js"></script>
+<script src="/kit/v2/paperboy.js"></script>
+</head>
+<body>
+<article class="pb" data-depth="abstract">
+
+<header class="pb-hero">
+  <div class="pb-kicker">
+    <span class="pb-tag">Biology</span>
+    <span class="pb-badge" data-status="peer_reviewed">Peer-reviewed</span>
+    <a class="pb-journal" href="https://doi.org/10.1038/s41467-026-78753-w">Nature Communications</a>
+  </div>
+  <h1 class="pb-title">Mammalian cells took up algae and <em>kept algal chromosomes for 95 generations.</em></h1>
+  <div class="pb-stage" id="hero" data-kind="illustration"></div>
+  <div class="pb-readout-row">
+    <div>
+      <div class="pb-readout">&gt;16<span class="pb-unit">Mb</span></div>
+      <span class="pb-label">Algal DNA kept in hybrid cells</span>
+    </div>
+    <div class="pb-plate-slug">Plate 1<br>Illustration,<br>not to scale</div>
+  </div>
+  <p class="pb-dek">Mammalian cells that swallowed whole algal cells sometimes ended up with algal DNA inside their nuclei, and hybrid cell lines held on to chromosome-scale pieces of it. More than 16&nbsp;Mb stayed, including intact chromosomes, for 95 generations with nothing selecting for it. The plate reads along cell generations: the bright line is how long the foreign DNA was kept.</p>
+</header>
+
+<div class="pb-callout" data-kind="key">
+  <span class="pb-callout-label">Key idea</span>
+  <p>DNA methylation looks like the gatekeeper that lets a mammalian nucleus settle a distant eukaryote's chromosomes rather than lose them.</p>
+</div>
+
+<section class="pb-section" data-section="question">
+  <p class="pb-eyebrow">The question</p>
+  <h2>Gene transfer between species is a bacterial story, <em>and eukaryotes were the gap in it.</em></h2>
+  <p><span class="pb-term" data-def="The movement of DNA between organisms by some route other than inheritance from a parent.">Horizontal gene transfer</span> drives fast evolutionary innovation, but the well-substantiated cases are largely confined to prokaryotes, the single-celled life without a nucleus. Transfer from one eukaryote to another stays exceptionally rare, and the abstract says direct demonstrations at the scale of a whole genome are absent. So: can a mammalian cell take in another eukaryote's DNA by the genome, and hold it?</p>
+  <figure class="pb-fig" data-kind="illustration" data-slug="Fig. 1">
+    <p class="pb-fig-title">Two ways in, one of them rare</p>
+    <div id="fig1"></div>
+    <figcaption>Illustration of the routes the abstract names: a mammalian cell swallowing an intact algal cell, which starts transfer much less often than cell fusion does.</figcaption>
+  </figure>
+</section>
+
+<section class="pb-section" data-section="method">
+  <p class="pb-eyebrow">What they did</p>
+  <h2>They borrowed the trick that made chloroplasts, <em>then watched the DNA arrive.</em></h2>
+  <p>Inspired by endosymbiotic genome acquisition, the team had mammalian cells engulf intact algal cells, and compared that route with cell fusion. Live-cell imaging caught the transferred algal DNA appearing early in the nucleus after fusion, while genome sequencing and cytogenetic analyses tracked what was still there later. They also tested cells made deficient in a de novo DNA methyltransferase, the enzyme that places new methyl marks on DNA.</p>
+</section>
+
+<section class="pb-section" data-section="findings">
+  <p class="pb-eyebrow">What they found</p>
+  <h2>Algal chromosomes stayed, <em>wrapped in silencing marks.</em></h2>
+  <p>Hybrid cells maintained more than 16&nbsp;Mb of algal DNA, including intact chromosomes, as telomere-linked structures that persisted for 95 generations without selection. The transferred DNA gained methylation progressively and picked up repressive histone modifications, forming heterochromatic domains that physically associate with host chromosomes. Cells deficient in the de novo DNA methyltransferase established and retained the algal DNA less well, which the authors read as a gatekeeping role for methylation.</p>
+  <figure class="pb-fig" data-kind="data" data-slug="Fig. 2">
+    <p class="pb-fig-title">How long the foreign DNA lasted</p>
+    <div id="fig2"></div>
+    <div id="fig2-table"></div>
+    <figcaption>How long hybrid cells kept the algal DNA, and how much, from the abstract; the abstract reports no selection pressure over this stretch and gives no endpoint beyond it.</figcaption>
+  </figure>
+</section>
+
+<section class="pb-section" data-section="confidence">
+  <h2>How sure <em>is this?</em></h2>
+  <ul class="pb-confidence">
+    <li class="pb-confidence-head">Strengths</li>
+    <li><b>Three lines of evidence</b><span class="note">Live-cell imaging for the arrival, genome sequencing and cytogenetic analyses for the stable retention of chromosome-scale algal DNA.</span></li>
+    <li><b>Review</b><span class="v"><span class="pb-badge" data-status="peer_reviewed">Peer-reviewed</span></span><span class="note">Published in Nature Communications on November 12, 2026.</span></li>
+    <li><b>A causal test</b><span class="note">Removing a de novo DNA methyltransferase reduced stable establishment and retention, rather than only correlating methylation with it.</span></li>
+    <li class="pb-confidence-head">Limits</li>
+    <li><b>Cultured cells</b><span class="note">The abstract describes mammalian cells taking up algal cells in the lab, not transfer in an animal or in the wild.</span></li>
+    <li><b>Rare</b><span class="note">Phagocytic uptake started transfer at a much lower frequency than cell fusion. This page cannot say how rare, or how much less stable the methyltransferase-deficient cells were.</span></li>
+    <li data-kind="standing"><b>This explainer</b>Built from the paper's abstract, not its full text. Every number here is printed in the abstract. Machine written, and it can be wrong. Check it against the paper.</li>
+  </ul>
+</section>
+
+<section class="pb-section" data-section="matters">
+  <p class="pb-eyebrow">Why it matters</p>
+  <h2>A big piece of foreign DNA can be housed, <em>if the host silences it.</em></h2>
+  <p>The findings point to an epigenetic mechanism that helps a cell accommodate large-scale foreign DNA from a distantly related eukaryote. That gives a handle on how such transfers could ever stick, and on what limits them.</p>
+</section>
+
+<footer class="pb-source">
+  <p class="pb-eyebrow">Source</p>
+  <cite>Epigenetic gatekeeping enables genome-scale horizontal gene transfer in eukaryotic cells.</cite>
+  <p class="pb-authors">Ryota Aoki, Hidenori Nishihara, Takuya Sakamoto, Yuko Sato, Tae Kuramoto, Makiha Fukuda and others</p>
+  <small>Nature Communications. doi:10.1038/s41467-026-78753-w</small>
+  <small>November 12, 2026. Peer-reviewed.</small>
+  <a class="pb-btn" href="https://doi.org/10.1038/s41467-026-78753-w">Read the paper</a>
+  <p class="pb-note">This page was written by a machine from the paper's abstract and can be wrong. The paper is the source.</p>
+</footer>
+
+</article>
+<script>
+PB.ready(function () {
+  function label(g, x, y, text, o) {
+    o = o || {};
+    var lg = g.append("g");
+    var r = lg.append("rect").attr("class", "pb-ground");
+    var t = lg.append("text").attr("class", "pb-mark-label").attr("x", x).attr("y", y).attr("text-anchor", o.anchor || "start");
+    String(text).split(/([α-ω]+)/).forEach(function (part, i) {
+      if (part) t.append("tspan").text(part).style("text-transform", i % 2 || o.asIs ? "none" : null);
+    });
+    if (o.strong) t.attr("data-strong", "");
+    if (o.finding) t.attr("data-finding", "");
+    if (o.muted) t.attr("data-muted", "");
+    var b = t.node().getBBox();
+    r.attr("x", b.x - 3).attr("y", b.y - 1).attr("width", b.width + 6).attr("height", b.height + 2);
+    return t;
+  }
+
+  function engrave(g, f, o) {
+    var st = o.step || 2, m = 8, x0 = o.x0 - m, y0 = o.y0 - m;
+    var nx = Math.ceil((o.x1 - o.x0 + 2 * m) / st) + 1, ny = Math.ceil((o.y1 - o.y0 + 2 * m) / st) + 1;
+    var v = new Float64Array(nx * ny);
+    for (var j = 0; j < ny; j++) for (var i = 0; i < nx; i++) v[j * nx + i] = f(x0 + i * st, y0 + j * st);
+    var path = d3.geoPath(d3.geoIdentity().scale(st).translate([x0, y0]));
+    var out = g.append("g");
+    var cid = "clip-" + Math.random().toString(36).slice(2, 8);
+    out.append("clipPath").attr("id", cid).append("rect").attr("x", o.x0).attr("y", o.y0).attr("width", o.x1 - o.x0).attr("height", o.y1 - o.y0);
+    var lines = out.append("g").attr("clip-path", "url(#" + cid + ")");
+    d3.contours().size([nx, ny]).thresholds(o.levels)(v).forEach(function (c) {
+      lines.append("path").attr("class", "pb-field-hair").attr("d", path(c));
+    });
+    return out;
+  }
+
+  /* A chromosome drawn as a rod: ground trap under a heavy contour line. */
+  function rod(g, pts, w) {
+    var d = PB.curve(pts);
+    g.append("path").attr("class", "pb-line-trap").style("stroke-width", (w + 7) + "px").attr("d", d);
+    g.append("path").attr("class", "pb-contour-line").style("stroke-width", w + "px").attr("d", d);
+    return d;
+  }
+
+  /* ---- Plate 1: the host nucleus, an algal chromosome held in it, on a ruler of cell generations. */
+  PB.plate("#hero", {
+    band: function () { var v = window.innerWidth; return v >= 1160 ? 400 : v >= 930 ? 360 : v >= 700 ? 320 : 272; },
+    label: "Illustration on a ruler of cell generations. Inside a mammalian nucleus, engraved chromatin and two host chromosomes drawn as rods. A shorter algal chromosome, screened to mark it as foreign and silenced, is joined to a host rod at a telomere. The bright line runs the whole ruler: hybrid cells kept more than 16 Mb of algal DNA, including intact chromosomes, for 95 generations without selection.",
+    draw: function (p) {
+      var x = d3.scaleLinear().domain([0, 95]).range([p.left, p.right]);
+      var W = p.right - p.left, B = p.band, cell = 0.34 * B, base = B - 44;
+      engrave(p.print, function (a, b) { return Math.sin(Math.PI * (a + 0.3 * cell) / cell) * Math.sin(Math.PI * (b + 0.15 * cell) / cell); },
+        { x0: 0, y0: 0, x1: p.width, y1: base - 14, levels: d3.range(-0.92, 0.93, 0.115).filter(function (l) { return Math.abs(l) > 0.05; }) });
+
+      /* the nuclear envelope */
+      p.key.append("ellipse").attr("class", "pb-contour-line").style("fill", "none").style("stroke-width", "1.4px")
+        .attr("cx", p.width / 2).attr("cy", B * 0.44).attr("rx", p.width * 0.49).attr("ry", B * 0.36);
+
+      /* two host chromosomes */
+      var hTop = B * 0.26, hLen = B * 0.34;
+      [0.20, 0.36].forEach(function (u) {
+        var cx = p.left + W * u;
+        rod(p.key, d3.range(0, 1.001, 0.2).map(function (t) { return [cx + 8 * Math.sin(t * 3.1), hTop + t * hLen]; }), 7);
+      });
+
+      /* the algal chromosome: shorter, screened, joined at a telomere dot to the second host rod */
+      var ax = p.left + W * 0.52, aTop = hTop + B * 0.12, aBot = hTop + hLen;
+      var apts = d3.range(0, 1.001, 0.25).map(function (t) { return [ax + 10 * t, aBot - t * (aBot - aTop)]; });
+      var ad = rod(p.key, apts, 10);
+      p.key.append("path").attr("d", ad).style("fill", "none").style("stroke-width", "10px")
+        .style("stroke", PB.screen(p.key, { tone: "context", color: "plate", angle: 2 }));
+      var jx = p.left + W * 0.36 + 8 * Math.sin(3.1), jy = aBot;
+      p.key.append("line").attr("class", "pb-line").style("stroke-width", "1.2px").attr("x1", jx).attr("y1", jy).attr("x2", ax).attr("y2", aBot);
+      p.key.append("circle").attr("class", "pb-dot").attr("data-named", "").attr("cx", (jx + ax) / 2).attr("cy", aBot);
+
+      label(p.live, p.left, 16, "MAMMALIAN NUCLEUS", { strong: true });
+      label(p.live, p.left, hTop + hLen + 20, "HOST CHROMOSOMES", { muted: true });
+      label(p.live, p.right, aTop - 18, "ALGAL CHROMOSOME", { anchor: "end", strong: true });
+      label(p.live, p.right, aTop - 4, "TELOMERE-LINKED,", { anchor: "end" });
+      label(p.live, p.right, aTop + 10, "METHYLATED", { anchor: "end", muted: true });
+      label(p.live, p.left, base - 30, "MORE THAN 16 Mb KEPT", { finding: true, asIs: true });
+      label(p.live, p.left, base - 16, "FOR 95 GENERATIONS, NO SELECTION");
+      PB.ruler(p.live, { x: x, y: p.rulerY, x1: 0, x2: p.width, major: [0, 40, 80], minor: 10, labels: [0, 40], unit: "CELL GENERATIONS", unitAt: "end", unitX: p.right });
+      PB.live(p.live, "M" + x(0) + " " + base + "H" + x(95), { carriage: p.rulerY, cap: 5, pulse: true });
+    }
+  });
+
+  /* ---- Fig. 1: the two routes in. */
+  PB.svg("#fig1", { height: 226, label: "Illustration: on the left a mammalian cell taking in an intact algal cell, the rarer route; on the right two cells merged into one, the more frequent route. The algal cell is screened, the host nucleus is a solid dot." }, function (svg, s) {
+    var cy = 132;
+    /* phagocytic uptake, left */
+    var hx = s.width * 0.26;
+    svg.append("circle").attr("class", "pb-ground").attr("cx", hx).attr("cy", cy).attr("r", 46);
+    svg.append("circle").attr("class", "pb-outline").attr("cx", hx).attr("cy", cy).attr("r", 46);
+    svg.append("circle").attr("class", "pb-dot").attr("data-named", "").attr("cx", hx - 16).attr("cy", cy + 14);
+    PB.fillShape(svg, "screen", 2, function (q) { return q.append("circle").attr("cx", hx + 38).attr("cy", cy - 30).attr("r", 15); });
+    svg.append("line").attr("class", "pb-beam").attr("x1", hx + 28).attr("y1", cy - 20).attr("x2", hx + 10).attr("y2", cy - 4);
+    /* cell fusion, right */
+    var fx = s.width * 0.74;
+    [-18, 18].forEach(function (d) {
+      svg.append("circle").attr("class", "pb-ground").attr("cx", fx + d).attr("cy", cy).attr("r", 40);
+      svg.append("circle").attr("class", "pb-outline").attr("cx", fx + d).attr("cy", cy).attr("r", 40);
+    });
+    svg.append("circle").attr("class", "pb-dot").attr("data-named", "").attr("cx", fx - 24).attr("cy", cy + 8);
+    PB.fillShape(svg, "screen", 2, function (q) { return q.append("circle").attr("cx", fx + 20).attr("cy", cy - 6).attr("r", 14); });
+    label(svg, hx, 22, "SWALLOWED WHOLE", { anchor: "middle", strong: true });
+    label(svg, hx, 36, "RARER ROUTE", { anchor: "middle", muted: true });
+    label(svg, fx, 22, "CELLS FUSED", { anchor: "middle", strong: true });
+    label(svg, fx, 36, "MORE FREQUENT", { anchor: "middle", muted: true });
+    label(svg, hx - 46, cy + 70, "HOST NUCLEUS");
+    label(svg, s.width - 2, cy + 70, "ALGAL CELL", { anchor: "end" });
+  });
+
+  /* ---- Fig. 2: how long the algal DNA was kept. */
+  PB.barRows("#fig2", {
+    domain: [0, 95], unit: "GENERATIONS", major: [0, 40], minor: 10,
+    label: "Data from the abstract: hybrid cells kept more than 16 Mb of algal DNA, including intact chromosomes, as telomere-linked structures for 95 generations without selection.",
+    rows: [{ label: "Hybrid cells", note: "algal DNA kept, no selection", segments: [{ from: 0, to: 95, kind: "live", figure: "95" }] }]
+  });
+  PB.table("#fig2-table", {
+    caption: "What the hybrid cells held on to, from the abstract.",
+    columns: [{ key: "what", label: "What" }, { key: "v", label: "Value", numeric: true }],
+    rows: [
+      { what: "Algal DNA kept, in Mb", v: ">16" },
+      { what: "Cell generations, no selection", v: "95" }
+    ]
+  });
+});
+</script>
+</body>
+</html>

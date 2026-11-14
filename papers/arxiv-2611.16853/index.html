@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark light">
+<title>A smooth rotating vacuum black hole must be Kerr, with no analyticity or smallness assumed.</title>
+<link rel="stylesheet" href="/kit/v2/vendor/katex/katex.min.css">
+<link rel="stylesheet" href="/kit/v2/paperboy.css">
+<script src="/kit/v2/vendor/d3.min.js"></script>
+<script src="/kit/v2/vendor/plot.umd.min.js"></script>
+<script src="/kit/v2/vendor/katex/katex.min.js"></script>
+<script src="/kit/v2/vendor/katex/auto-render.min.js"></script>
+<script src="/kit/v2/paperboy.js"></script>
+</head>
+<body>
+<article class="pb" data-depth="abstract">
+
+<header class="pb-hero">
+  <div class="pb-kicker">
+    <span class="pb-tag">Physics</span>
+    <span class="pb-badge" data-status="preprint">Preprint</span>
+    <a class="pb-journal" href="https://arxiv.org/abs/2611.16853">arXiv</a>
+  </div>
+  <h1 class="pb-title">A smooth rotating vacuum black hole must be Kerr, <em>with no analyticity or smallness assumed.</em></h1>
+  <div class="pb-stage" id="hero" data-kind="illustration"></div>
+  <div class="pb-readout-row">
+    <div></div>
+    <div class="pb-plate-slug">Plate 1<br>Illustration,<br>not to scale</div>
+  </div>
+  <p class="pb-dek">A new proof says that outside its horizon, a single smooth, steadily rotating black hole in empty space is exactly a Kerr black hole. The plate draws a hole of unknown shape in a field of swirling spacetime; the bright line is the Kerr horizon the proof forces it to match.</p>
+</header>
+
+<div class="pb-callout" data-kind="key">
+  <span class="pb-callout-label">Key idea</span>
+  <p>Under the paper's stated assumptions, there is only one kind of steady, spinning black hole in empty space: Kerr's.</p>
+</div>
+
+<section class="pb-section" data-section="question">
+  <p class="pb-eyebrow">The question</p>
+  <h2>Is Kerr the only rotating black hole, <em>or just the one we know?</em></h2>
+  <p>In general relativity, the Kerr solution describes a black hole that spins at a steady rate in empty space. The open question is whether every such black hole looks like Kerr from outside, in its <span class="pb-term" data-def="The part of spacetime outside the horizon that can still send signals out to far away observers.">domain of outer communications</span>, without assuming the spacetime is <span class="pb-term" data-def="Describable everywhere by convergent power series, a much stronger demand than smoothness.">analytic</span> or close to Kerr to begin with.</p>
+  <figure class="pb-fig" data-kind="illustration" data-slug="Fig. 1">
+    <p class="pb-fig-title">The region the theorem is about</p>
+    <div id="fig1"></div>
+    <figcaption>The theorem describes only the outside: from the horizon out to where spacetime becomes flat far away.</figcaption>
+  </figure>
+</section>
+
+<section class="pb-section" data-section="method">
+  <p class="pb-eyebrow">What they did</p>
+  <h2>They gave the hole a charge on paper, <em>then took a limit.</em></h2>
+  <p>The authors apply a <span class="pb-term" data-def="A mathematical operation that turns a solution of Einstein's equations without charge into a family of solutions with electric and magnetic fields.">Harrison transform</span> to build a family of solutions of the Einstein&ndash;Maxwell equations. Comparing areas of null surfaces with the area-charge inequality, they pin down the limiting transformed geometry.</p>
+</section>
+
+<section class="pb-section" data-section="findings">
+  <p class="pb-eyebrow">What they found</p>
+  <h2>The limit has exact identities, <em>and they lead to Kerr.</em></h2>
+  <p>With the mass normalized to \(M = 1\), the <span class="pb-term" data-def="The sphere where the two halves of the horizon cross, at the heart of a stationary black hole.">bifurcate sphere</span> of the limiting geometry has area radius one and constant electric and magnetic flux densities. Those identities meet the technical assumptions of a theorem by Ionescu and Klainerman, which then identifies the spacetime with subextremal Kerr.</p>
+  <figure class="pb-fig" data-kind="illustration" data-slug="Fig. 2">
+    <p class="pb-fig-title">The chain of the proof</p>
+    <div id="fig2"></div>
+    <figcaption>Each step hands the next one what it needs; the bright line runs from the starting hole to Kerr.</figcaption>
+  </figure>
+</section>
+
+<section class="pb-section" data-section="confidence">
+  <h2>How sure <em>is this?</em></h2>
+  <ul class="pb-confidence">
+    <li class="pb-confidence-head">Strengths</li>
+    <li><b>A proof</b><span class="note">A mathematical argument, with no analyticity and no smallness assumptions.</span></li>
+    <li class="pb-confidence-head">Limits</li>
+    <li><b>Review</b><span class="v"><span class="pb-badge" data-status="preprint">Preprint</span></span><span class="note">Not yet peer reviewed.</span></li>
+    <li><b>Assumptions</b><span class="note">The result holds under "reasonable geometric and physical assumptions" that this page cannot list.</span></li>
+    <li><b>Scope</b><span class="note">A single, non-degenerate, rotating black hole in vacuum; other cases are not covered here.</span></li>
+    <li data-kind="standing"><b>This explainer</b>Built from the paper's abstract, not its full text. Every number here is printed in the abstract. Machine written, and it can be wrong. Check it against the paper.</li>
+  </ul>
+</section>
+
+<section class="pb-section" data-section="matters">
+  <p class="pb-eyebrow">Why it matters</p>
+  <h2>A smooth spinning hole is Kerr, <em>if the proof holds up.</em></h2>
+  <p>If it holds, a single steady, spinning black hole in empty space is pinned down as Kerr without assuming analyticity or smallness, under the paper's other stated assumptions.</p>
+</section>
+
+<footer class="pb-source">
+  <p class="pb-eyebrow">Source</p>
+  <cite>The uniqueness of smooth stationary black holes</cite>
+  <p class="pb-authors">Yishen Huang, Jiongyue Li, Junbin Li, Xi-Ping Zhu</p>
+  <small>arXiv:2611.16853</small>
+  <small>November 12, 2026. Preprint, not peer reviewed.</small>
+  <a class="pb-btn" href="https://arxiv.org/abs/2611.16853">Read the paper</a>
+  <p class="pb-note">This page was written by a machine from the paper's abstract and can be wrong. The paper is the source.</p>
+</footer>
+
+</article>
+<script>
+PB.ready(function () {
+  function label(g, x, y, text, o) {
+    o = o || {};
+    var lg = g.append("g");
+    var r = lg.append("rect").attr("class", "pb-ground");
+    var t = lg.append("text").attr("class", "pb-mark-label").attr("x", x).attr("y", y).attr("text-anchor", o.anchor || "start");
+    String(text).split(/([α-ω]+)/).forEach(function (part, i) {
+      if (part) t.append("tspan").text(part).style("text-transform", i % 2 || o.asIs ? "none" : null);
+    });
+    if (o.strong) t.attr("data-strong", "");
+    if (o.finding) t.attr("data-finding", "");
+    if (o.muted) t.attr("data-muted", "");
+    var b = t.node().getBBox();
+    r.attr("x", b.x - 3).attr("y", b.y - 1).attr("width", b.width + 6).attr("height", b.height + 2);
+    return t;
+  }
+
+  function engrave(g, f, o) {
+    var st = o.step || 2, m = 8, x0 = o.x0 - m, y0 = o.y0 - m;
+    var nx = Math.ceil((o.x1 - o.x0 + 2 * m) / st) + 1, ny = Math.ceil((o.y1 - o.y0 + 2 * m) / st) + 1;
+    var v = new Float64Array(nx * ny);
+    for (var j = 0; j < ny; j++) for (var i = 0; i < nx; i++) v[j * nx + i] = f(x0 + i * st, y0 + j * st);
+    var path = d3.geoPath(d3.geoIdentity().scale(st).translate([x0, y0]));
+    var out = g.append("g");
+    var cid = "clip-" + Math.random().toString(36).slice(2, 8);
+    out.append("clipPath").attr("id", cid).append("rect").attr("x", o.x0).attr("y", o.y0).attr("width", o.x1 - o.x0).attr("height", o.y1 - o.y0);
+    var lines = out.append("g").attr("clip-path", "url(#" + cid + ")");
+    d3.contours().size([nx, ny]).thresholds(o.levels)(v).forEach(function (c) {
+      lines.append("path").attr("class", "pb-field-hair").attr("d", path(c));
+    });
+    return out;
+  }
+
+  /* An ellipse as points, its radius optionally wobbled: a horizon of some shape. */
+  function ring(cx, cy, rx, ry, wob) {
+    return d3.range(0, 2 * Math.PI + 0.001, Math.PI / 60).map(function (t) {
+      var k = wob ? 1 + 0.15 * Math.sin(3 * t + 0.7) + 0.07 * Math.cos(5 * t) : 1;
+      return [cx + rx * k * Math.cos(t), cy + ry * k * Math.sin(t)];
+    });
+  }
+
+  /* ---- Plate 1: a rotating hole of unknown shape in swirling spacetime; the live line is Kerr's horizon. */
+  PB.plate("#hero", {
+    band: function () { var v = window.innerWidth; return v >= 1160 ? 400 : v >= 930 ? 360 : v >= 700 ? 320 : 272; },
+    ruler: false,
+    label: "Illustration, not to scale: spacetime around a rotating black hole is engraved as spiral arms that fade to flat far away. A faint outline of uncertain shape marks any smooth rotating hole; the bright line traces the Kerr horizon, which the proof says its outside must match. No analyticity or smallness is assumed.",
+    draw: function (p) {
+      var W = p.right - p.left, cx = p.left + W * 0.32, cy = p.band * 0.54;
+      var rx = Math.min(p.band * 0.2, W * 0.16), ry = rx * 0.84, R = rx * 1.15;
+      engrave(p.print, function (a, b) {
+        var dx = a - cx, dy = (b - cy) / 0.84, r = Math.hypot(dx, dy);
+        if (r < R * 0.9) return 0;
+        var th = Math.atan2(dy, dx);
+        return Math.sin(2 * th - 3.4 * Math.log(r / R)) * Math.exp(-(r - R) / (2.6 * R));
+      }, { x0: 0, y0: 0, x1: p.width, y1: p.band, levels: d3.range(-0.95, 0.96, 0.1).filter(function (l) { return Math.abs(l) > 0.04; }) });
+      var wob = ring(cx, cy, rx, ry, true);
+      p.key.append("ellipse").attr("class", "pb-knockout").attr("cx", cx).attr("cy", cy).attr("rx", rx * 1.26).attr("ry", ry * 1.26);
+      PB.fillShape(p.key, "solid", 1, function (q) { return q.append("ellipse").attr("cx", cx).attr("cy", cy).attr("rx", rx * 0.72).attr("ry", ry * 0.72); });
+      p.key.append("path").attr("class", "pb-contour-line").style("stroke-width", "1.2px").style("stroke-dasharray", "4 3").attr("d", d3.line()(wob));
+      // spin arrow above the hole
+      var arc = d3.range(-2.5, -0.65, 0.05).map(function (t) { return [cx + rx * 1.45 * Math.cos(t), cy + ry * 1.45 * Math.sin(t)]; });
+      p.key.append("path").attr("class", "pb-contour-line").style("stroke-width", "1.3px").style("fill", "none").attr("d", PB.curve(arc));
+      var e = arc[arc.length - 1], e0 = arc[arc.length - 3], ang = Math.atan2(e[1] - e0[1], e[0] - e0[0]);
+      p.key.append("path").attr("class", "pb-contour-line").style("stroke-width", "1.3px").style("fill", "none")
+        .attr("d", "M" + (e[0] - 7 * Math.cos(ang - 0.5)) + " " + (e[1] - 7 * Math.sin(ang - 0.5)) + "L" + e[0] + " " + e[1] + "L" + (e[0] - 7 * Math.cos(ang + 0.5)) + " " + (e[1] - 7 * Math.sin(ang + 0.5)));
+      label(p.live, cx, cy - ry * 1.45 - 10, "SPIN", { anchor: "middle", strong: true });
+      label(p.live, p.right, 22, "SPACETIME FLAT FAR AWAY", { anchor: "end", muted: true });
+      var lx = p.right, ly = cy - 26;
+      label(p.live, lx, ly, "ANY SMOOTH", { anchor: "end", strong: true });
+      label(p.live, lx, ly + 14, "ROTATING HOLE", { anchor: "end", strong: true });
+      label(p.live, lx, ly + 36, "OUTSIDE IS KERR", { anchor: "end", finding: true });
+      label(p.live, lx, ly + 58, "NO ANALYTICITY,", { anchor: "end", muted: true });
+      label(p.live, lx, ly + 72, "NO SMALLNESS ASSUMED", { anchor: "end", muted: true });
+      PB.live(p.live, PB.curve(ring(cx, cy, rx, ry, false)), { pulse: true });
+    }
+  });
+
+  /* ---- Fig. 1: the domain of outer communications, horizon out to flat space. */
+  PB.svg("#fig1", { height: 200, label: "Illustration: a rotating black hole's horizon at left, a shaded region around it reaching out to straight, flat grid lines at the right. The shaded region, the domain of outer communications, is what the theorem describes." }, function (svg, s) {
+    var rh = 34, cx = rh * 2.9 + 4, cy = 110;
+    for (var i = 0; i < 7; i++) {
+      var y0 = 40 + i * 20, pts = d3.range(0, 1.001, 0.04).map(function (u) {
+        var xx = cx + rh + u * (s.width - cx - rh), pull = Math.exp(-u * 4) * (cy - y0) * 0.45;
+        return [xx, y0 + pull];
+      });
+      svg.append("path").attr("class", "pb-line").attr("data-series", "3").style("stroke-width", "0.9px").attr("d", PB.curve(pts));
+    }
+    PB.fillShape(svg, "context", 1, function (q) { return q.append("ellipse").attr("cx", cx).attr("cy", cy).attr("rx", rh * 2.9).attr("ry", rh * 2.3); });
+    svg.append("ellipse").attr("class", "pb-knockout").attr("cx", cx).attr("cy", cy).attr("rx", rh + 3).attr("ry", rh * 0.84 + 3);
+    PB.fillShape(svg, "solid", 1, function (q) { return q.append("ellipse").attr("cx", cx).attr("cy", cy).attr("rx", rh).attr("ry", rh * 0.84); });
+    label(svg, cx, cy + rh + 18, "HORIZON", { anchor: "middle", strong: true });
+    label(svg, s.width - 2, 24, "DOMAIN OF OUTER COMMUNICATIONS", { anchor: "end", strong: true });
+    label(svg, s.width - 2, 190, "FLAT FAR AWAY", { anchor: "end", muted: true });
+  });
+
+  /* ---- Fig. 2: the chain of the proof as stations on one live path. */
+  PB.svg("#fig2", { height: 326, label: "Illustration of the proof's chain, top to bottom: a smooth rotating vacuum black hole; a Harrison transform gives a family of Einstein-Maxwell solutions; null area comparison and the area-charge inequality show the limiting bifurcate sphere has area radius one and constant flux densities, with mass M equal to 1; these meet the Ionescu-Klainerman assumptions; so the spacetime is Kerr." }, function (svg, s) {
+    var x0 = 14, steps = [
+      ["SMOOTH ROTATING HOLE", "stationary, vacuum, non-degenerate"],
+      ["HARRISON TRANSFORM", "a family of Einstein-Maxwell solutions"],
+      ["AREA COMPARISON", "with the area-charge inequality"],
+      ["LIMIT: AREA RADIUS ONE", "constant flux densities, M = 1"],
+      ["IONESCU-KLAINERMAN", "its technical assumptions now hold"],
+      ["KERR", "subextremal, outside the horizon"]
+    ];
+    var ys = steps.map(function (d, i) { return 24 + i * 52; });
+    svg.append("line").attr("class", "pb-line-trap").attr("x1", x0).attr("x2", x0).attr("y1", ys[0]).attr("y2", ys[5]);
+    PB.live(svg, "M" + x0 + " " + ys[0] + "V" + ys[5], { ms: 1400, cap: 5 });
+    steps.forEach(function (d, i) {
+      svg.append("circle").attr("class", "pb-dot").attr("data-named", i === 5 ? "" : null).attr("cx", x0).attr("cy", ys[i]).attr("r", i === 5 ? 6 : 4);
+      label(svg, x0 + 18, ys[i] + 4, d[0], { strong: true, finding: i === 5 });
+      label(svg, x0 + 18, ys[i] + 20, d[1], { muted: true, asIs: true });
+    });
+  });
+});
+</script>
+</body>
+</html>

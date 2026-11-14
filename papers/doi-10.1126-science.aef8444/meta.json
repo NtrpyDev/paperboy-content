@@ -1,0 +1,101 @@
+{
+  "added_at": "2026-11-14T02:57:27Z",
+  "arxiv_id": null,
+  "authors": [
+    "Rebecca G Englert",
+    "Matthieu J B Cartigny",
+    "Megan L Baker",
+    "Sanem Acikalin",
+    "Dick Mastbergen",
+    "Niall Tracey",
+    "Sean C Ruffell",
+    "Daniel H Shugar",
+    "D Gwyn Lintern",
+    "Romit Aggarwal",
+    "Lewis Bailey",
+    "Daniel Bell",
+    "Michael A Clare",
+    "Stephen M Hubbard",
+    "Gustavo Lobato",
+    "Daniel Parsons",
+    "Stephen M Simmons",
+    "Cooper Stacey",
+    "Peter Talling",
+    "Michael Tilston"
+  ],
+  "check": {
+    "render": {
+      "checked_at": "2026-11-14T02:29:14Z",
+      "hero": {
+        "height": 546,
+        "kind": "illustration",
+        "night": {
+          "height": 546,
+          "path": "explainer/hero-night.webp",
+          "width": 780
+        },
+        "path": "explainer/hero.webp",
+        "to_scale": false,
+        "width": 780
+      },
+      "page": {
+        "data_figures": 0,
+        "depth": "abstract",
+        "figures": 2,
+        "height_px": 4333,
+        "kit": 2,
+        "numbers": {
+          "checked": 0,
+          "not_in_abstract": 0
+        }
+      },
+      "pass": true,
+      "problems": [],
+      "shots": [
+        "shots/light-01.png",
+        "shots/light-02.png",
+        "shots/light-03.png",
+        "shots/light-04.png",
+        "shots/dark-01.png",
+        "shots/dark-02.png",
+        "shots/dark-03.png",
+        "shots/dark-04.png",
+        "shots/still-01.png",
+        "shots/still-02.png",
+        "shots/still-03.png",
+        "shots/still-04.png",
+        "shots/still-dark-01.png",
+        "shots/still-dark-02.png",
+        "shots/still-dark-03.png",
+        "shots/still-dark-04.png"
+      ]
+    },
+    "review": null
+  },
+  "depth": "abstract",
+  "doi": "10.1126/science.aef8444",
+  "explained_at": "2026-11-14T02:57:27Z",
+  "field": "earth",
+  "fulltext_source": null,
+  "has_explainer": true,
+  "hook": "Divers' instruments caught undersea landslides creeping slowly uphill, which no one had watched before.",
+  "hook_turn": "which no one had watched before.",
+  "id": "doi-10.1126-science.aef8444",
+  "kit": 2,
+  "license": null,
+  "made_by": {
+    "quick": "claude-opus-5-5"
+  },
+  "published": "2026-11-12",
+  "significance": 8,
+  "status": "peer_reviewed",
+  "summary": "Direct underwater monitoring at the Homathko Delta in Canada recorded fully submarine landslides that retreat slowly upslope, the signature of breaching failure. This had been hypothesized but never observed in nature. The slow failures also start lasting turbidity currents that carry sediment and carbon offshore. The observations come from a single delta, so other settings may behave differently.",
+  "tags": [
+    "submarine landslides",
+    "turbidity currents",
+    "sediment transport"
+  ],
+  "title": "Direct monitoring of breaching in deltaic submarine landslides.",
+  "url": "https://doi.org/10.1126/science.aef8444",
+  "venue": "Science"
+}

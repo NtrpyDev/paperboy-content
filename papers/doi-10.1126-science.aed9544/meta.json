@@ -1,0 +1,93 @@
+{
+  "added_at": "2026-11-14T02:57:27Z",
+  "arxiv_id": null,
+  "authors": [
+    "Eric J Morgan",
+    "Yuming Jin",
+    "Elena Kozlova",
+    "Andrew J Watson",
+    "Andrew C Manning",
+    "Sönke Zaehle",
+    "Yasunori Tohjima",
+    "Xin Lan",
+    "Ralph F Keeling"
+  ],
+  "check": {
+    "render": {
+      "checked_at": "2026-11-14T02:21:42Z",
+      "hero": {
+        "height": 614,
+        "kind": "data",
+        "night": {
+          "height": 614,
+          "path": "explainer/hero-night.webp",
+          "width": 780
+        },
+        "path": "explainer/hero.webp",
+        "width": 780
+      },
+      "page": {
+        "data_figures": 2,
+        "depth": "abstract",
+        "figures": 2,
+        "height_px": 4219,
+        "kit": 2,
+        "numbers": {
+          "checked": 41,
+          "not_in_abstract": 0
+        }
+      },
+      "pass": true,
+      "problems": [],
+      "shots": [
+        "shots/light-01.png",
+        "shots/light-02.png",
+        "shots/light-03.png",
+        "shots/light-04.png",
+        "shots/dark-01.png",
+        "shots/dark-02.png",
+        "shots/dark-03.png",
+        "shots/dark-04.png",
+        "shots/still-01.png",
+        "shots/still-02.png",
+        "shots/still-03.png",
+        "shots/still-04.png",
+        "shots/still-dark-01.png",
+        "shots/still-dark-02.png",
+        "shots/still-dark-03.png",
+        "shots/still-dark-04.png"
+      ]
+    },
+    "review": null
+  },
+  "depth": "abstract",
+  "doi": "10.1126/science.aed9544",
+  "explained_at": "2026-11-14T02:57:27Z",
+  "field": "earth",
+  "fulltext_source": null,
+  "has_explainer": true,
+  "hook": "Air measurements show the ocean sink for CO2 grew since 1990 while the land sink stalled.",
+  "hook_turn": "while the land sink stalled.",
+  "id": "doi-10.1126-science.aed9544",
+  "kit": 2,
+  "license": null,
+  "made_by": {
+    "quick": "claude-opus-5-5"
+  },
+  "published": "2026-11-12",
+  "readout": {
+    "label": "Growth in ocean carbon sink, 1990 to 2019",
+    "unit": "Pg C per year per decade",
+    "value": "0.63"
+  },
+  "significance": 8,
+  "status": "peer_reviewed",
+  "summary": "Thirty years of atmospheric oxygen and CO2 records let the authors separate ocean from land uptake, finding the ocean sink grew and took up 35% of fossil emissions in 1990 to 2019. The net land sink shows no clear trend. The results conflict with many process-based models, and the land estimate carries large uncertainty.",
+  "tags": [
+    "carbon cycle",
+    "ocean carbon sink"
+  ],
+  "title": "Atmospheric O2 reveals a strengthening ocean carbon sink and a stagnant net land sink since 1990.",
+  "url": "https://doi.org/10.1126/science.aed9544",
+  "venue": "Science"
+}

@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark light">
+<title>Every finite group can be covered by h products of small subsets, proving Rohrbach's conjecture.</title>
+<link rel="stylesheet" href="/kit/v2/vendor/katex/katex.min.css">
+<link rel="stylesheet" href="/kit/v2/paperboy.css">
+<script src="/kit/v2/vendor/d3.min.js"></script>
+<script src="/kit/v2/vendor/plot.umd.min.js"></script>
+<script src="/kit/v2/vendor/katex/katex.min.js"></script>
+<script src="/kit/v2/vendor/katex/auto-render.min.js"></script>
+<script src="/kit/v2/paperboy.js"></script>
+</head>
+<body>
+<article class="pb" data-depth="abstract">
+
+<header class="pb-hero">
+  <div class="pb-kicker">
+    <span class="pb-tag">Math</span>
+    <span class="pb-badge" data-status="preprint">Preprint</span>
+    <a class="pb-journal" href="https://arxiv.org/abs/2611.16938">arXiv</a>
+  </div>
+  <h1 class="pb-title">Every finite group can be covered by h products of small subsets, <em>proving Rohrbach's conjecture.</em></h1>
+  <div class="pb-stage" id="hero" data-kind="illustration"></div>
+  <div class="pb-readout-row">
+    <div></div>
+    <div class="pb-plate-slug">Plate 1<br>Illustration,<br>not to scale</div>
+  </div>
+  <p class="pb-dek">The paper proves that any finite group can be written as a product of a few small subsets, as Rohrbach conjectured. On the plate, the group is the large engraved field, and the bright line along the bottom is the group's size on a log scale, split into the shares the small subsets take.</p>
+</header>
+
+<div class="pb-callout" data-kind="key">
+  <span class="pb-callout-label">Key idea</span>
+  <p>For any finite group, you can pick subsets whose sizes multiply to about the size of the group, and their products still reach every element.</p>
+</div>
+
+<section class="pb-section" data-section="question">
+  <p class="pb-eyebrow">The question</p>
+  <h2>How small can the pieces be <em>and still cover the group?</em></h2>
+  <p>A <span class="pb-term" data-def="A set with a way to combine any two elements, like multiplying invertible matrices, that has an identity and lets every element be undone.">group</span> lets you multiply elements, so two subsets \(A\) and \(B\) give a product set \(AB\) of every \(ab\). That product has at most \(|A|\cdot|B|\) elements, so to reach all of \(G\) the sizes must multiply to at least \(|G|\). Rohrbach's conjecture asks whether that counting limit can nearly be met.</p>
+  <figure class="pb-fig" data-kind="illustration" data-slug="Fig. 1">
+    <p class="pb-fig-title">A product set is a grid of products</p>
+    <div id="fig1"></div>
+    <figcaption>Each element of A times each element of B fills one cell, so the product set can never hold more elements than the grid has cells.</figcaption>
+  </figure>
+</section>
+
+<section class="pb-section" data-section="method">
+  <p class="pb-eyebrow">What they did</p>
+  <h2>A theorem for every finite group, <em>with any split of sizes.</em></h2>
+  <p>The paper proves a statement for every finite group \(G\), every positive integer \(h\), and any nonnegative shares \(\alpha_1, \ldots, \alpha_h\) that add up to 1. The abstract does not describe the method of proof.</p>
+</section>
+
+<section class="pb-section" data-section="findings">
+  <p class="pb-eyebrow">What they found</p>
+  <h2>Small subsets multiply out <em>to the whole group.</em></h2>
+  <p>There are subsets \(A_1, \ldots, A_h\) with \(G = A_1 \cdots A_h\): each set is at most \(|G|\) raised to its share \(\alpha_i\), and every set after the first may be bigger by one absolute constant \(C\). Taking equal shares gives a single set \(A\) with \(A^h = G\) and size at most \(c_h\) times the h-th root of \(|G|\).</p>
+  <figure class="pb-fig" data-kind="illustration" data-slug="Fig. 2">
+    <p class="pb-fig-title">Any split of the exponent, or an even one</p>
+    <div id="fig2"></div>
+    <div id="fig2-legend"></div>
+    <figcaption>The shares on top are a sketch of any split the theorem allows; the even split below is its consequence, one set used h times.</figcaption>
+  </figure>
+</section>
+
+<section class="pb-section" data-section="confidence">
+  <h2>How sure <em>is this?</em></h2>
+  <ul class="pb-confidence">
+    <li class="pb-confidence-head">Strengths</li>
+    <li><b>A proof</b><span class="note">The abstract states a theorem for every finite group, not a pattern seen in examples.</span></li>
+    <li class="pb-confidence-head">Limits</li>
+    <li><b>Review</b><span class="v"><span class="pb-badge" data-status="preprint">Preprint</span></span><span class="note">Not yet peer reviewed.</span></li>
+    <li><b>Constants</b><span class="note">The abstract gives no value for \(C\) or \(c_h\), so this page cannot say how close to the counting limit the sizes come.</span></li>
+    <li data-kind="standing"><b>This explainer</b>Built from the paper's abstract, not its full text. Every number here is printed in the abstract. Machine written, and it can be wrong. Check it against the paper.</li>
+  </ul>
+</section>
+
+<section class="pb-section" data-section="matters">
+  <p class="pb-eyebrow">Why it matters</p>
+  <h2>An open conjecture, <em>settled for finite groups.</em></h2>
+  <p>If the proof holds, every finite group has a small set whose h-fold product is the whole group, within a constant of the smallest size counting allows.</p>
+</section>
+
+<footer class="pb-source">
+  <p class="pb-eyebrow">Source</p>
+  <cite>Rohrbach's Conjecture for Finite Groups</cite>
+  <p class="pb-authors">Yong Yang</p>
+  <small>arXiv:2611.16938</small>
+  <small>November 12, 2026. Preprint, not peer reviewed.</small>
+  <a class="pb-btn" href="https://arxiv.org/abs/2611.16938">Read the paper</a>
+  <p class="pb-note">This page was written by a machine from the paper's abstract and can be wrong. The paper is the source.</p>
+</footer>
+
+</article>
+<script>
+PB.ready(function () {
+  function label(g, x, y, text, o) {
+    o = o || {};
+    var lg = g.append("g");
+    var r = lg.append("rect").attr("class", "pb-ground");
+    var t = lg.append("text").attr("class", "pb-mark-label").attr("x", x).attr("y", y).attr("text-anchor", o.anchor || "start");
+    String(text).split(/([α-ω]+)/).forEach(function (part, i) {
+      if (part) t.append("tspan").text(part).style("text-transform", i % 2 || o.asIs ? "none" : null);
+    });
+    if (o.strong) t.attr("data-strong", "");
+    if (o.finding) t.attr("data-finding", "");
+    if (o.muted) t.attr("data-muted", "");
+    var b = t.node().getBBox();
+    r.attr("x", b.x - 3).attr("y", b.y - 1).attr("width", b.width + 6).attr("height", b.height + 2);
+    return t;
+  }
+
+  function engrave(g, f, o) {
+    var st = o.step || 2, m = 8, x0 = o.x0 - m, y0 = o.y0 - m;
+    var nx = Math.ceil((o.x1 - o.x0 + 2 * m) / st) + 1, ny = Math.ceil((o.y1 - o.y0 + 2 * m) / st) + 1;
+    var v = new Float64Array(nx * ny);
+    for (var j = 0; j < ny; j++) for (var i = 0; i < nx; i++) v[j * nx + i] = f(x0 + i * st, y0 + j * st);
+    var path = d3.geoPath(d3.geoIdentity().scale(st).translate([x0, y0]));
+    var out = g.append("g");
+    var cid = "clip-" + Math.random().toString(36).slice(2, 8);
+    out.append("clipPath").attr("id", cid).append("rect").attr("x", o.x0).attr("y", o.y0).attr("width", o.x1 - o.x0).attr("height", o.y1 - o.y0);
+    var lines = out.append("g").attr("clip-path", "url(#" + cid + ")");
+    d3.contours().size([nx, ny]).thresholds(o.levels)(v).forEach(function (c) {
+      lines.append("path").attr("class", "pb-field-hair").attr("d", path(c));
+    });
+    return out;
+  }
+
+  /* A small subset: a density profile with nested contours over a knockout. */
+  function bump(g, cx, s, a, y0) {
+    var pts = function (k) {
+      var out = [], w = s * Math.sqrt(Math.log(a / 0.5));
+      for (var xx = cx - w; xx <= cx + w; xx += 1.5) out.push([xx, y0 - k * a * Math.exp(-Math.pow((xx - cx) / s, 2))]);
+      return out;
+    };
+    var outer = pts(1);
+    g.append("path").attr("class", "pb-knockout").attr("d", d3.line()(outer.concat([[outer[outer.length - 1][0], y0 + 2], [outer[0][0], y0 + 2]])) + "Z");
+    [0.33, 0.66].forEach(function (k) { g.append("path").attr("class", "pb-contour-line").style("stroke-width", "0.6px").attr("d", d3.line()(pts(k))); });
+    g.append("path").attr("class", "pb-contour-line").style("stroke-width", "1.3px").attr("d", d3.line()(outer));
+  }
+
+  /* Plate 1: the group G as an engraved field of products; small subsets stand on a log-size ruler
+     whose shares add up to the whole group. */
+  var SHARES = [0.34, 0.22, 0.16, 0.28], NAMES = ["A₁", "A₂", "⋯", "Aₕ"];
+  PB.plate("#hero", {
+    band: function () { var v = window.innerWidth; return v >= 1160 ? 400 : v >= 930 ? 360 : v >= 700 ? 320 : 272; },
+    label: "Illustration, not to scale. A large engraved field is the finite group G. Along the bottom, on a log scale of size, small subsets A sub 1 through A sub h stand on segments whose shares of the exponent add up to 1. The bright line runs across all of them: their product is the whole group.",
+    draw: function (p) {
+      var x = d3.scaleLinear().domain([0, 1]).range([p.left, p.right]);
+      var base = p.band - 44, gTop = 30, gBot = base - 0.24 * p.band - 30;
+      var cx = p.width / 2, cy = (gTop + gBot) / 2, rx = p.width * 0.47, ry = (gBot - gTop) / 2;
+      var L = Math.max(14, p.width / 26);
+      /* the group: a woven table of products, fading out at its rim */
+      engrave(p.print, function (a, b) {
+        var d = Math.pow((a - cx) / rx, 2) + Math.pow((b - cy) / ry, 2);
+        return Math.sin(Math.PI * a / L) * Math.sin(Math.PI * b / L) * Math.max(0, 1 - d);
+      }, { x0: 0, y0: 0, x1: p.width, y1: base - 4, levels: [-0.6, -0.35, -0.12, 0.12, 0.35, 0.6] });
+      p.key.append("ellipse").attr("class", "pb-contour-line").style("stroke-width", "1.3px").attr("cx", cx).attr("cy", cy).attr("rx", rx).attr("ry", ry);
+      /* the subsets, each on its share of the exponent */
+      var acc = 0, cuts = [0];
+      SHARES.forEach(function (sh, i) {
+        var mid = x(acc + sh / 2), w = x(acc + sh) - x(acc);
+        if (i !== 2) bump(p.key, mid, w * 0.22, 0.08 * p.band + 60 * sh, base);
+        acc += sh; cuts.push(acc);
+      });
+      PB.ruler(p.live, { x: x, y: p.rulerY, x1: 0, x2: p.width, major: [0, 0.5, 1], minor: 0.1, labels: [0], format: function (v) { return v === 0 ? "SIZE 1" : ""; }, unit: "LOG SIZE, UP TO |G|", unitAt: "end", unitX: p.right });
+      label(p.live, cx, cy - 4, "THE WHOLE GROUP G", { anchor: "middle", strong: true });
+      label(p.live, cx, cy + 12, "EVERY ELEMENT REACHED", { anchor: "middle", muted: true });
+      acc = 0;
+      SHARES.forEach(function (sh, i) {
+        var mid = x(acc + sh / 2), top = i === 2 ? base - 12 : base - (0.08 * p.band + 60 * sh) - 8;
+        label(p.live, mid, top, NAMES[i], { anchor: "middle", strong: true, asIs: true });
+        acc += sh;
+      });
+      label(p.live, p.left, base + 22, "SHARES ADD UP TO 1: THE PRODUCT IS G", { finding: true });
+      PB.live(p.live, "M" + x(0) + " " + base + "H" + x(1), { carriage: p.rulerY, cap: 5, pulse: true });
+      cuts.slice(1, -1).forEach(function (c) { p.live.append("circle").attr("class", "pb-ring").attr("cx", x(c)).attr("cy", base); });
+    }
+  });
+
+  /* Fig. 1: a product set as a grid. */
+  PB.svg("#fig1", { height: 220, label: "Illustration: the elements of a subset A run down the left, the elements of a subset B across the top, and each cell of the grid is one product ab. The product set AB can hold no more elements than the grid has cells." }, function (svg, s) {
+    var na = 4, nb = 6, gx = 64, gy = 58, cw = Math.min(42, (s.width - gx - 10) / nb), ch = 34;
+    PB.fillShape(svg, "context", 1, function (q) { return q.append("rect").attr("x", gx).attr("y", gy).attr("width", nb * cw).attr("height", na * ch); });
+    for (var i = 0; i <= na; i++) svg.append("line").attr("class", "pb-grid-line").attr("x1", gx).attr("x2", gx + nb * cw).attr("y1", gy + i * ch).attr("y2", gy + i * ch);
+    for (var j = 0; j <= nb; j++) svg.append("line").attr("class", "pb-grid-line").attr("x1", gx + j * cw).attr("x2", gx + j * cw).attr("y1", gy).attr("y2", gy + na * ch);
+    for (i = 0; i < na; i++) {
+      svg.append("circle").attr("class", "pb-dot").attr("data-named", "").attr("cx", gx - 22).attr("cy", gy + (i + 0.5) * ch);
+      for (j = 0; j < nb; j++) svg.append("circle").attr("cx", gx + (j + 0.5) * cw).attr("cy", gy + (i + 0.5) * ch).attr("r", 2.6).style("fill", "var(--pb-ink)");
+    }
+    for (j = 0; j < nb; j++) svg.append("circle").attr("class", "pb-dot").attr("data-named", "").attr("cx", gx + (j + 0.5) * cw).attr("cy", gy - 18);
+    label(svg, gx - 22, gy - 18, "A", { anchor: "middle", strong: true });
+    label(svg, gx + nb * cw / 2, 16, "B", { anchor: "middle", strong: true });
+    label(svg, gx + nb * cw / 2, gy + na * ch + 22, "AB: EACH CELL IS ONE PRODUCT ab", { anchor: "middle", muted: true, asIs: true });
+  });
+
+  /* Fig. 2: any split of the exponent, and the even split. */
+  PB.svg("#fig2", { height: 214, label: "Illustration: on top, a bar for the exponent of the group's size, split unevenly into shares alpha sub 1 through alpha sub h that add up to 1, one for each subset. Below, the same bar split evenly, each share 1 over h, for one set A used h times." }, function (svg, s) {
+    var x = d3.scaleLinear().domain([0, 1]).range([0.5, s.width - 0.5]), ry = 184;
+    var rows = [
+      { y: 54, name: "The theorem", note: "any shares, sizes may differ", shares: [0.34, 0.22, 0.16, 0.28], names: ["α₁", "α₂", "⋯", "αₕ"], kind: "screen" },
+      { y: 146, name: "The consequence", note: "one set A, h times", shares: [0.2, 0.2, 0.2, 0.2, 0.2], names: ["", "", "", "", ""], kind: "live" }
+    ];
+    rows.forEach(function (r) {
+      var head = svg.append("text").attr("class", "pb-mark-label").attr("x", 0).attr("y", r.y - 30);
+      head.append("tspan").attr("data-strong", "").style("font-weight", 600).text(r.name);
+      head.append("tspan").attr("dx", 8).style("fill", "var(--pb-ink-2)").style("text-transform", "none").text(r.note);
+      var acc = 0;
+      r.shares.forEach(function (sh, i) {
+        var kind = r.kind === "live" ? "live" : (i % 2 ? "context" : "screen");
+        var shape = PB.fillShape(svg, kind, 1, function (q) { return q.append("rect").attr("x", x(acc) + 1).attr("y", r.y - 10).attr("width", x(acc + sh) - x(acc) - 2).attr("height", 20); });
+        if (kind === "live") shape.fills.forEach(function (f) { f.attr("class", "pb-flood"); });
+        if (r.names[i]) label(svg, x(acc + sh / 2), r.y + 26, r.names[i], { anchor: "middle", asIs: true });
+        acc += sh;
+      });
+    });
+    label(svg, x(0.5), 146 + 26, "EACH SHARE 1/h", { anchor: "middle", finding: true, asIs: true });
+    PB.ruler(svg, { x: x, y: ry, major: [0, 1], minor: 0.1, labels: [0], unit: "EXPONENT OF |G|", unitAt: "end", unitX: s.width });
+  });
+  PB.legend("#fig2-legend", [{ kind: "screen", label: "Uneven shares" }, { kind: "live", label: "Even shares" }]);
+});
+</script>
+</body>
+</html>
