@@ -1,0 +1,36 @@
+{
+  "abstract": "We study congruence properties of Dedekind numbers $d_n$. Our approach relies on actions of $p$-subgroups of symmetric groups on posets of monotone functions and leads to the congruences $d_{10}\\equiv 106\\pmod{210}$, $d_{11}\\equiv 117\\pmod{210}$, and $d_{12}\\equiv 12\\pmod{30}$. In particular, $d_{11}$ is odd, confirming a claim stated by Yamamoto without a proof.",
+  "arxiv_id": "2611.13887",
+  "authors": [
+    "Bart{\\l}omiej Pawelski",
+    "Andrzej Szepietowski",
+    "B{\\l}a\\.zej Szepietowski"
+  ],
+  "categories": [
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13887"
+  },
+  "hook": "Dedekind number d11 is odd, and d10, d11 and d12 now have proven congruences.",
+  "id": "arxiv-2611.13887",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Using actions of p-subgroups of symmetric groups on posets of monotone functions, the authors derive congruences for the Dedekind numbers d10, d11 and d12. This proves that d11 is odd, which had been claimed without proof. The results give residues only, not the exact values.",
+  "tags": [
+    "Dedekind numbers",
+    "combinatorics"
+  ],
+  "title": "Congruences for Dedekind numbers",
+  "url": "https://arxiv.org/abs/2611.13887",
+  "venue": "arXiv"
+}

@@ -1,0 +1,47 @@
+{
+  "abstract": "Natal kicks - kinematic impulses to neutron stars and black holes at birth - play a decisive role in the end-stage evolution of binaries hosting massive stars, in determining the global phase-space properties of compact objects, and in setting expected merger-rates detectable through gravitational-wave observations. Inferring the kick ($v_{\\rm NK}$) for individual systems requires well constrained binary system properties and centre-of-mass kinematics, which must then be modelled to constrain likely system characteristics at supernova. As a result, population-wide studies of kicks remain few and far between. Here, we model plausible evolutionary histories for 68 accreting binaries, encompassing almost all black-hole and neutron-star X-ray binaries with 3D kinematics measurements, constraining allowed $v_{\\rm NK}$ distributions for each source using a simulation framework presented in our previous paper. The resultant $v_{\\rm NK}$ distribution for the sample can be simply represented by a broad Gamma distribution with mean $v_{\\rm NK}$ = $128^{+17}_{-15}$ km s$^{-1}$ and scatter $\\sigma$ = 117 km s$^{-1}$. Intriguingly, the distributions for black-hole vs. neutron-star systems are found to be formally indistinguishable. Despite still being limited by small-number statistics, we find that black holes can receive large natal kicks, and that kicks for all remnant types span similar ranges (0-700 km s$^{-1}$). There is a hint, but no statistically significant evidence at present, for $v_{\\rm NK}$ scaling inversely with black-hole mass. Our work suggests either that similar physics drives kicks and shows evidence for effects beyond simplistic fallback-moderated scaling for black holes, or that selection effects conspire to erase differences between remnant types in current accreting-binary samples. Larger samples are needed to provide robust discriminatory tests between these possibilities.",
+  "arxiv_id": "2611.14680",
+  "authors": [
+    "Cordelia Dashwood Brown",
+    "Poshak Gandhi",
+    "Christian Knigge",
+    "Yue Zhao",
+    "Phil Charles",
+    "Katelyn Breivik",
+    "Pornisara Nuchvanichakul",
+    "Siddharth Malu"
+  ],
+  "categories": [
+    "astro-ph.HE"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14680"
+  },
+  "hook": "Black holes and neutron stars get similar birth kicks, averaging about 128 km/s, across 68 X-ray binaries.",
+  "id": "arxiv-2611.14680",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Mean natal kick, 68 X-ray binaries",
+    "unit": "km/s",
+    "value": "128"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Natal kicks shape binary evolution and merger rates, but few have been measured. The authors modeled the histories of 68 X-ray binaries with 3D motion data and found black-hole and neutron-star kick distributions indistinguishable, spanning 0 to 700 km/s. The sample is small, and selection effects could hide real differences between the two types.",
+  "tags": [
+    "neutron stars",
+    "black holes",
+    "X-ray binaries"
+  ],
+  "title": "Natal Kicks of Compact Binaries: II. Neutron-star and black-hole systems share similar kick distributions",
+  "url": "https://arxiv.org/abs/2611.14680",
+  "venue": "arXiv"
+}

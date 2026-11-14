@@ -1,0 +1,39 @@
+{
+  "abstract": "Artificial spin arrays assembled on surfaces enable atomic-scale studies of quantum correlations. Here we establish a hierarchy of connections between spin inelastic electron tunneling spectroscopy (IETS) and entanglement in spin-$1/2$ systems. We first show that the number of spectroscopically active transitions in a spin-$1/2$ dimer serves as an entanglement witness. Using the leading-order tunneling conductance for the tip placed on spin $i$, $dI(i)/dV$, we then relate spectral moments $\\mathcal{M}^{(n)}(i)=\\int V^n(d^2I(i)/dV^2)\\,dV$ to quantum correlations. The zeroth moment probes the one-tangle in systems with a gapped, nondegenerate ground state. For rotationally invariant Heisenberg systems, the first moment yields thermal spin correlators $\\langle\\boldsymbol S(i)\\cdot\\boldsymbol S(j)\\rangle$, enabling reconstruction of nearest-neighbor concurrence and spatial imaging of entanglement in spin chains. It also provides access to the internal energy and magnetic specific heat, both usable as entanglement witnesses. Applying this approach to experimental IETS data from nanographene spin chains, we find good agreement with theory. We further discuss how the second moment probes longer-range correlations and the inverse moment relates to local spin susceptibility. For spin-$1/2$ trimers, we connect inter-multiplet inelastic spectral weight to genuine tripartite entanglement quantified by the concurrence fill. Finally, we reconcile the local character of IETS with its sensitivity to nonlocal entanglement through an analogy with digital quantum circuits, where Hamiltonian evolution implements multiqubit operations. These results establish IETS as a tool for quantifying and imaging entanglement in engineered on-surface spin systems.",
+  "arxiv_id": "2611.10946",
+  "authors": [
+    "J. C. G. Henriques",
+    "B. Vi\\~na-Baus\\'a",
+    "I. Brihuega",
+    "J. Fern\\'andez-Rossier"
+  ],
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci",
+    "quant-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.10946"
+  },
+  "hook": "Tunneling spectroscopy can reveal spin entanglement in atom-scale spin chains.",
+  "id": "arxiv-2611.10946",
+  "license": "cc-by",
+  "published": "2026-11-07",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors derive how features of inelastic tunneling spectra relate to entanglement between neighboring spin-1/2 sites. Applied to existing nanographene spin chain data, the theory agrees well. The approach is shown for small, well-isolated spin systems and assumes idealized models.",
+  "tags": [
+    "spin entanglement",
+    "scanning tunneling microscopy"
+  ],
+  "title": "Imaging spin entanglement with a scanning tunneling microscope",
+  "url": "https://arxiv.org/abs/2611.10946",
+  "venue": "arXiv"
+}

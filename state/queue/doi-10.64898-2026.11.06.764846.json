@@ -1,0 +1,49 @@
+{
+  "abstract": "Adaptive evolution frequently proceeds through the co-option of pre-existing biological functions, yet the molecular mechanisms by which such co-option generates new adaptive traits over contemporary evolutionary timescales remain poorly understood. Herbicide-resistant weeds provide a powerful model for addressing this question because enhanced herbicide metabolism has repeatedly evolved within only a few decades. Here, we show that resistance to cyhalofop-butyl in Echinochloa crus-galli evolved through the co-option of EcNIT4A2, which encodes a nitrilase that normally functions in ethylene-associated cyanide detoxification. Genetic mapping, transcriptomics and transgenic analyses identified EcNIT4A2 as the major determinant of resistance. A D317G substitution enhanced its herbicide-detoxifying activity. Molecular dynamics simulations indicated that this substitution facilitates substrate access to the catalytic pocket. A promoter structural variant markedly increased EcNIT4A2 expression. Our findings reveal how coding and regulatory changes can jointly drive the co-option and optimization of a conserved metabolic function during rapid adaptation under intense anthropogenic selection.",
+  "arxiv_id": null,
+  "authors": [
+    "Ishizawa, H.",
+    "Nakanomori, L.",
+    "Hengphasatporn, K.",
+    "Nishimura, K.",
+    "Ishizaka, M.",
+    "Akimoto, C. T.",
+    "Su, D.",
+    "Sugahara, M.",
+    "Endo, M.",
+    "Suzuki, R.",
+    "Sato, M. P.",
+    "Yasuda, K.",
+    "Shigeta, Y.",
+    "Gondo, T.",
+    "Uchino, A.",
+    "Iwakami, S."
+  ],
+  "categories": [
+    "plant biology"
+  ],
+  "doi": "10.64898/2026.11.06.764846",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/11/2026.11.06.764846.source.xml"
+  },
+  "hook": "A cyanide-detox enzyme was repurposed to break down herbicide in resistant barnyard grass.",
+  "id": "doi-10.64898-2026.11.06.764846",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Resistance to cyhalofop-butyl in the weed Echinochloa crus-galli arises from the nitrilase EcNIT4A2, which normally handles cyanide linked to ethylene. One amino acid change boosts its herbicide-breaking activity, and a promoter variant raises its expression. Evidence comes from genetic mapping, transgenics and simulation, in one herbicide and species; this is a preprint.",
+  "tags": [
+    "herbicide resistance",
+    "enzyme evolution"
+  ],
+  "title": "Evolution of herbicide resistance through co-option of an ethylene-associated nitrilase",
+  "url": "https://doi.org/10.64898/2026.11.06.764846",
+  "venue": "bioRxiv"
+}

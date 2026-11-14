@@ -1,0 +1,38 @@
+{
+  "abstract": "We give a Diophantine definition of the integers in the rational numbers conditional on the $abc$ conjecture, Dickson's conjecture, and finiteness of $2$-primary parts of Shafarevich--Tate groups. We also discuss some consequences of the existence of a Diophantine definition of the integers in the rational numbers. The goal of this work is to serve as an entry point to recent developments around Hilbert's tenth problem for the rational numbers.",
+  "arxiv_id": "2611.17124",
+  "authors": [
+    "Alexander Kozachinskiy",
+    "Hector Pasten",
+    "Xavier Vidaux"
+  ],
+  "categories": [
+    "math.NT",
+    "math.LO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17124"
+  },
+  "hook": "Assuming three open conjectures, the integers can be defined inside the rationals by polynomial equations.",
+  "hook_turn": "inside the rationals by polynomial equations.",
+  "id": "arxiv-2611.17124",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors give a Diophantine definition of the integers within the rational numbers, which would bear on Hilbert's tenth problem over the rationals. It depends on the abc conjecture, Dickson's conjecture and finiteness of 2-primary parts of Shafarevich-Tate groups. The paper also serves as an entry point to recent work. Since all three assumptions are unproven, nothing is settled unconditionally.",
+  "tags": [
+    "number theory",
+    "Hilbert's tenth problem"
+  ],
+  "title": "Why should $\\mathbb{Z}$ be Diophantine in $\\mathbb{Q}$?",
+  "url": "https://arxiv.org/abs/2611.17124",
+  "venue": "arXiv"
+}

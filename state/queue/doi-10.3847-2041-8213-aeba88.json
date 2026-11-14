@@ -1,0 +1,42 @@
+{
+  "abstract": "Abstract The young intermediate-mass star AB Aurigae is surrounded by a transition disk whose cavity contains several proposed protoplanets, including the debated source “AB Aur b” at a projected separation of ≈ 0 . ″ 6 (≈93 au). To search for circumplanetary material associated with these candidates, we have obtained the most sensitive (∼20 μ Jy beam −1 rms) and highest angular resolution (∼30 mas) Atacama Large Millimeter/submillimeter Array (ALMA) Band 7 (0.88 mm) observations of AB Aur to date. We recover the asymmetric dust ring in the continuum emission peaking at ∼ 0 . ″ 9 (∼140 au) and compact emission at the stellar position, but detect no point source at the location of AB Aur b or any of the other proposed protoplanet candidates down to a 3 σ limit of 60 μ Jy. For optically thin emission, this corresponds to a dust mass of ≲0.0059 M ⊕ (for a dust temperature of 40 K), comparable to the circumplanetary disk around PDS 70 c. The 12 CO emission fills the continuum cavity, revealing an inner spiral structure and a clear rotation pattern. The gas at the position of AB Aur b is smoothly connected to the ambient disk with no localized excess or obvious kinematic deviation. If any proposed candidates are accreting, their circumplanetary material must have a low dust mass, a small physical size, dust that is optically thick, or a dearth of large millimeter-emitting grains.",
+  "arxiv_id": null,
+  "authors": [
+    "Lillian Yushu Jiang",
+    "Brendan P. Bowler",
+    "Ya-lin Wu",
+    "Yifan Zhou"
+  ],
+  "categories": [],
+  "doi": "10.3847/2041-8213/aeba88",
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Deep ALMA images show no sign of dust around the proposed planet AB Aur b.",
+  "hook_turn": "no sign of dust around the proposed planet AB Aur b.",
+  "id": "doi-10.3847-2041-8213-aeba88",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "3-sigma limit, AB Aur b point source",
+    "unit": "uJy",
+    "value": "60"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "The deepest, sharpest ALMA observations of AB Aurigae found no point source at the position of AB Aur b or other candidate protoplanets, and the gas there flows smoothly with the disk. Any circumplanetary material must be low in dust mass, small, optically thick, or lacking large grains. A non-detection does not rule out the planets themselves.",
+  "tags": [
+    "protoplanets",
+    "planet formation",
+    "ALMA"
+  ],
+  "title": "Searching for Circumplanetary Dust in the Cavity of the AB Aurigae Disk with ALMA",
+  "url": "https://doi.org/10.3847/2041-8213/aeba88",
+  "venue": "The Astrophysical Journal Letters"
+}

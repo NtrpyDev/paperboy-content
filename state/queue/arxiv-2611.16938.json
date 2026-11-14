@@ -1,0 +1,36 @@
+{
+  "abstract": "Rohrbach's conjecture holds for finite groups. In fact, there is an absolute constant $C$ such that, for every finite group $G$, every positive integer $h$, and all nonnegative real numbers $\\alpha_1,\\ldots,\\alpha_h$ with $\\alpha_1+\\cdots+\\alpha_h=1$, there are subsets $A_1,\\ldots,A_h\\subseteq G$ satisfying \\[ G=A_1\\cdots A_h, \\qquad |A_1|\\leq |G|^{\\alpha_1}, \\qquad |A_i|\\leq C|G|^{\\alpha_i}\\quad(2\\leq i\\leq h). \\] Consequently, for every $h$ there is a constant $c_h$ such that every finite group $G$ has a subset $A$ with \\[ A^h=G\\qquad\\text{and}\\qquad |A|\\leq c_h|G|^{1/h}. \\]",
+  "arxiv_id": "2611.16938",
+  "authors": [
+    "Yong Yang"
+  ],
+  "categories": [
+    "math.GR",
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16938"
+  },
+  "hook": "Every finite group can be covered by h products of small subsets, proving Rohrbach's conjecture.",
+  "hook_turn": "proving Rohrbach's conjecture.",
+  "id": "arxiv-2611.16938",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 8,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For any finite group and any h, there is a subset A of size at most a constant times the h-th root of the group's size whose h-fold product is the whole group. The result is stronger, allowing uneven subset sizes. It is a new preprint on a long-open problem, so expert verification is still pending.",
+  "tags": [
+    "group theory",
+    "additive combinatorics"
+  ],
+  "title": "Rohrbach's Conjecture for Finite Groups",
+  "url": "https://arxiv.org/abs/2611.16938",
+  "venue": "arXiv"
+}

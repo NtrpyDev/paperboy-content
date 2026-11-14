@@ -1,0 +1,35 @@
+{
+  "abstract": "In this paper, we first prove Appleton's conjecuture on the uniqueness of noncollapsed steady solitons constructed in \\cite{Appleton}. We also classify non-Ricci-flat $\\kappa$-noncollapsed cohomogeneity one steady gradient Ricci solitons in dimension four and five. After passing to a finite cover, in dimension four, they must be the Bryant soliton or Appleton's noncollapsed 4d steady soliton; in dimension five, they must be the Bryant soliton or solitons constructed by Ivey--Dancer--Wang.",
+  "arxiv_id": "2611.08206",
+  "authors": [
+    "Yuxing Deng",
+    "Guohao Wang"
+  ],
+  "categories": [
+    "math.DG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.08206"
+  },
+  "hook": "Steady Ricci solitons with cohomogeneity one symmetry in dimensions four and five are classified",
+  "id": "arxiv-2611.08206",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-05",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Steady Ricci solitons are shapes that stay fixed under Ricci flow. The authors prove Appleton's conjecture that his noncollapsed four-dimensional solitons are unique, then show that noncollapsed, non-Ricci-flat solitons with this symmetry in dimensions four and five are the Bryant soliton or known examples. The classification applies only to highly symmetric cases in these two dimensions.",
+  "tags": [
+    "Ricci flow",
+    "differential geometry"
+  ],
+  "title": "Classification of cohomogeneity one steady gradient Ricci solitons in dimension four and five",
+  "url": "https://arxiv.org/abs/2611.08206",
+  "venue": "arXiv"
+}

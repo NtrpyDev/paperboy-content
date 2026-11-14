@@ -1,0 +1,40 @@
+{
+  "abstract": "Using annular webs and Kazhdan-Lusztig mu-coefficients, we disprove Guralnick's absolute boundedness conjecture for first cohomology.",
+  "arxiv_id": "2611.09114",
+  "authors": [
+    "Tom Goertzen",
+    "Abel Lacabanne",
+    "Daniel Tubbenhauer",
+    "Pedro Vaz"
+  ],
+  "categories": [
+    "math.RT",
+    "math.CO",
+    "math.GR"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.09114"
+  },
+  "hook": "Guralnick's conjecture bounding first cohomology is false.",
+  "hook_turn": "is false.",
+  "id": "arxiv-2611.09114",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-06",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors disprove the absolute boundedness conjecture for first cohomology using annular webs and Kazhdan-Lusztig mu-coefficients. The abstract is a single sentence, so the size and form of the counterexamples are not stated here.",
+  "tags": [
+    "representation theory",
+    "cohomology"
+  ],
+  "title": "Annular webs and Guralnick's conjecture",
+  "url": "https://arxiv.org/abs/2611.09114",
+  "venue": "arXiv"
+}

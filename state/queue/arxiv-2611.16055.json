@@ -1,0 +1,35 @@
+{
+  "abstract": "An edge map $f:E(G)\\to E(H)$ between graphs is called an $FT_M$ map if the pullback of every $M$-tension on $H$ is an $M$-flow on $G$; equivalently, the pullback of every $M$-valued 1-coboundary is an $M$-valued 1-cycle. The correspondence between restricted tensions and homomorphisms to Cayley graphs motivates two flow analogues. An $(M,B)$-flow (or tension), is an $M$-flow (resp. $M$-tension) taking values in $B$. For subsets $B=-B\\subseteq M$ with $M$ an abelian group, \\v{S}\\'amal conjectured that a graph admits an $(M,B)$-flow if and only if it admits an $FT_M$ map to the Cayley graph $\\operatorname{Cay}(M,B)$. DeVos conjectured that, whenever there is a graph homomorphism $\\operatorname{Cay}(M,B)\\to\\operatorname{Cay}(M',B')$, every graph admitting an $(M,B)$-flow also admits an $(M',B')$-flow. We prove that these conjectures are equivalent and give a counterexample using the Petersen graph.",
+  "arxiv_id": "2611.16055",
+  "authors": [
+    "Nicolas Arnold"
+  ],
+  "categories": [
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16055"
+  },
+  "hook": "Two graph-flow conjectures are shown equivalent, and the Petersen graph breaks both",
+  "hook_turn": "the Petersen graph breaks both",
+  "id": "arxiv-2611.16055",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper proves that Samal's conjecture about flows and Cayley graph maps is equivalent to DeVos's conjecture about transferring flows between groups. It then gives a counterexample built on the Petersen graph, which refutes both. The result is a negative one and does not say which weaker statements might still hold.",
+  "tags": [
+    "graph theory",
+    "nowhere-zero flows"
+  ],
+  "title": "Counterexample to Flow-Transfer Conjectures",
+  "url": "https://arxiv.org/abs/2611.16055",
+  "venue": "arXiv"
+}

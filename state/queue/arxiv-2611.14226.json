@@ -1,0 +1,35 @@
+{
+  "abstract": "We study rational points of bounded maximum-coordinate height on the split four-nodal Cayley cubic surface over \\(\\mathbb Q\\), with its nine lines removed. Writing \\(U\\) for this open subset and \\(N_U(B)\\) for its counting function, we establish \\[ N_U(B)\\sim c_{\\mathrm{Peyre}}B(\\log B)^6. \\] The argument starts from the universal-torsor parametrization and combines two counting methods over complementary ranges of the auxiliary variables. The two-dimensional lattice count is controlled by averages of reciprocal shortest-vector lengths and character-moment bounds, while Poisson summation treats the complementary parameter range. The main contribution is the uniform control needed to combine these methods when the size parameters of the auxiliary variables vary independently: the estimates retain every coprimality condition, the original height weight, and the full set of auxiliary tuples contributing to the geometric error. Divisibility estimates without an additional power of the height parameter control the sieve tail and justify removing the sieve after taking the height limit. We track the derivative losses and boundary contributions throughout the summation, and identify the common continuous main term with Peyre's constant by computing the effective-cone volume and the real and finite local densities.",
+  "arxiv_id": "2611.14226",
+  "authors": [
+    "Xiaodong Zhao"
+  ],
+  "categories": [
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14226"
+  },
+  "hook": "Rational points on Cayley's cubic surface grow as B(log B)^6, matching Peyre's predicted constant.",
+  "hook_turn": "matching Peyre's predicted constant.",
+  "id": "arxiv-2611.14226",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Counting rational points of height up to B on the four-nodal Cayley cubic surface, with its nine lines removed, gives an asymptotic of c times B(log B)^6. The proof counts on a universal torsor with lattice-point and Poisson summation methods, and the constant is shown to equal Peyre's. This confirms the Manin-Peyre prediction for one specific surface only.",
+  "tags": [
+    "number theory",
+    "rational points"
+  ],
+  "title": "Counting Rational Points on Cayley's Cubic Surface",
+  "url": "https://arxiv.org/abs/2611.14226",
+  "venue": "arXiv"
+}

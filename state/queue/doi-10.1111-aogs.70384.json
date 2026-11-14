@@ -1,0 +1,62 @@
+{
+  "abstract": "Introduction We describe timing, diagnostic yield, secondary findings of prenatal whole genome sequencing (pWGS) in ongoing pregnancies during the first 5 years of implementation within a publicly funded healthcare system. Moreover, we discuss our collective clinical experiences implementing pWGS in prenatal care. Material and methods We conducted a historical cohort study, including all singleton pregnancies undergoing pWGS after a normal chromosomal microarray between 2019 and 2023. Data on sample type, gestational age at test ordering, turnaround time, diagnostic yield, and secondary findings were extracted from all four Danish clinical genetics laboratories. Results A total of 207 cases were analyzed, including 85 chorionic villus samples and 122 amniotic fluid samples; trio sequencing was performed in 204/207 (98.6%). Median gestational age at ordering was 20 weeks (IQR 17-21). Median turnaround time for ongoing pregnancies was 11 working days (IQR 8-17). Pathogenic or likely pathogenic variants explaining the phenotype were identified in 33/207 pregnancies (15.9%, 95% CI 11.6-21.5). Yield was highest in hydrops (25.0%, 95% CI 12.0-44.9) and multiple anomalies (24.3%, 95% CI 13.4-40.1), and lowest in isolated increased nuchal translucency (7.1%, 95% CI 2.0-22.6). Secondary findings were reported in 18/207 cases (8.7%, 95% CI 5.6-13.3). Conclusions pWGS was delivered within clinically relevant turnaround times. Applied after normal chromosomal microarray, the yield represents incremental diagnostic value in a chromosomal microarray-negative population. In clinical practice, both normal and abnormal pWGS results form a central component of counseling in ongoing pregnancies with unresolved fetal risk. However, the impact of such results on parental decision-making or pregnancy outcomes was not assessed in this study.",
+  "arxiv_id": null,
+  "authors": [
+    "Ida Vogel",
+    "Lotte Andreasen",
+    "Pernille Mathiesen Tørring",
+    "Marie Skov Hvidbjerg",
+    "Martin Larsen",
+    "Ida Charlotte Bay Lund",
+    "Laura Kirstine Sønderberg Roos",
+    "Katrine Saldern Aagaard",
+    "Karina Hjort-Pedersen",
+    "Lene Sperling",
+    "Pernille Marker Rydder",
+    "Eva Hoseth",
+    "Stina Lou",
+    "Lone Sunde",
+    "Olav Bjørn Petersen",
+    "Puk Sandager",
+    "Finn Stener Jørgensen",
+    "Sidsel Barken",
+    "Anne Cathrine Roslev",
+    "Kathinka Marie Hoff Nyborg",
+    "Louise Hornstrup",
+    "Cathrine Vedel",
+    "Marie Balslev-Harder",
+    "Tina Duelund Hjortshøj",
+    "Naja Becher"
+  ],
+  "categories": [],
+  "doi": "10.1111/aogs.70384",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "europepmc",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13752980/fullTextXML"
+  },
+  "hook": "Whole genome sequencing explained 15.9% of fetal problems that standard chip tests missed.",
+  "hook_turn": "that standard chip tests missed.",
+  "id": "doi-10.1111-aogs.70384",
+  "license": "cc-by-nc",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Diagnostic yield, prenatal genome sequencing",
+    "unit": "percent",
+    "value": "15.9"
+  },
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Denmark's first five years of prenatal genome sequencing found a likely cause in 33 of 207 pregnancies after a normal microarray. Results came back in a median of 11 working days, and yield was highest with fetal hydrops or multiple anomalies. This was a historical cohort with no comparison group, and it did not assess how results affected parents' decisions.",
+  "tags": [
+    "prenatal genetics",
+    "genome sequencing"
+  ],
+  "title": "Five years of nationwide use of whole genome sequencing in ongoing pregnancies: Diagnostic yield, timing, and implementation.",
+  "url": "https://europepmc.org/articles/PMC13752980",
+  "venue": "Acta obstetricia et gynecologica Scandinavica"
+}

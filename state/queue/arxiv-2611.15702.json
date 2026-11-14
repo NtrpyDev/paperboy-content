@@ -1,0 +1,39 @@
+{
+  "abstract": "We prove that a very general quartic hypersurface of any positive dimension over an uncountable algebraically closed field of characteristic different from 2 does not admit an integral decomposition of the diagonal, and in particular it is not stably rational.",
+  "arxiv_id": "2611.15702",
+  "authors": [
+    "Christian B\\\"ohning",
+    "Hans-Christian Graf von Bothmer",
+    "Alena Pirutka",
+    "Zhijia Zhang"
+  ],
+  "categories": [
+    "math.AG",
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15702"
+  },
+  "hook": "A very general quartic hypersurface of any dimension is not stably rational.",
+  "hook_turn": "is not stably rational.",
+  "id": "arxiv-2611.15702",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove that a very general quartic hypersurface of any positive dimension has no integral decomposition of the diagonal, which rules out stable rationality. This extends earlier results known in some dimensions, and works over uncountable algebraically closed fields of characteristic other than 2. It says nothing about any specific quartic, only the very general one.",
+  "tags": [
+    "algebraic geometry",
+    "rationality"
+  ],
+  "title": "Stable irrationality of quartic hypersurfaces",
+  "url": "https://arxiv.org/abs/2611.15702",
+  "venue": "arXiv"
+}

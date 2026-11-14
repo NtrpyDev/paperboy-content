@@ -1,0 +1,47 @@
+{
+  "abstract": "Oncofetal reprogramming in glioblastoma (GBM) relies on the co-option of still poorly defined pathways that are transiently active during brain development, thereby exposing therapeutically actionable vulnerabilities. To better characterize GBM biology in the context of neurodevelopment, we create an expanded human spatiotemporal multi-omic dataset that resolves both gliogenic and neurogenic lineage fate and assess oncofetal reprogramming at the tumor core and infiltrative margin in both primary and recurrent disease. Analyses reveal the preferential enrichment of a glial intermediate progenitor cell (gIPC)-like state, which is most reminiscent of third-trimester germinal matrix gIPCs, across tumor regions and in recurrence. We uncover EGFR and the long non-coding RNA (lncRNA) NRXN1-DT as co-opted gIPC-specific markers, demonstrate NRXN1-DT's clinical utility in GBM diagnostics, and prioritize POU3F3 as a gIPC-like oncofetal driver, confirming its regulatory role in NRXN1-DT enhancer activity, EGFR expression, and maintenance of GBM stem/progenitor-like properties. This study lays the groundwork for future investigations into targeting POU3F3 and other co-opted gliogenic drivers as GBM therapeutics.",
+  "arxiv_id": null,
+  "authors": [
+    "Susana I Ramos",
+    "Mohammad Imran K Khan",
+    "Wan Sze Cheng",
+    "Balagopal Pai",
+    "Thenzing J Silva-Hurtado",
+    "Jorge Samanamud",
+    "Xi Chen",
+    "Kristin G Beaumont",
+    "Robert P Sebra",
+    "Raymund L Yong",
+    "Timothy E Richardson",
+    "Amanda Krausert",
+    "Lakshmi S K Mahadevan",
+    "Elena Zaslavsky",
+    "Nadejda M Tsankova"
+  ],
+  "categories": [],
+  "doi": "10.1016/j.neuron.2026.10.012",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Glioblastoma reuses a fetal glial progenitor program, and the gene POU3F3 helps sustain it.",
+  "hook_turn": "and the gene POU3F3 helps sustain it.",
+  "id": "doi-10.1016-j.neuron.2026.10.012",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "A spatial multi-omic dataset of human tumors, from core and margin and from primary and recurrent disease, shows a state resembling third-trimester glial progenitors. EGFR and the RNA NRXN1-DT mark it, and POU3F3 regulates both and keeps tumor cells stem-like. Therapeutic targeting of POU3F3 is not yet tested.",
+  "tags": [
+    "glioblastoma",
+    "cancer biology"
+  ],
+  "title": "Glial progenitor-like state is preferentially co-opted in glioblastoma and sustained by POU3F3.",
+  "url": "https://doi.org/10.1016/j.neuron.2026.10.012",
+  "venue": "Neuron"
+}

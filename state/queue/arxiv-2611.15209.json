@@ -1,0 +1,37 @@
+{
+  "abstract": "We prove that the collection of all cluster boundaries of near-critical site percolation (with a fixed parameter) on the triangular lattice has a unique scaling limit in the loop-ensemble space, as the mesh size tends to 0. This answers a problem proposed by Camia, Fontes and Newman (2006). Using this, we also prove that near-critical percolation exploration path in a disk converges in distribution to a continuous path as the mesh size goes to 0. The main idea of our proof is to construct the cut-off loop ensembles under the near-critical coupling, based on the enhanced networks and the quad-crossing scaling limits of near-critical percolation constructed by Garban, Pete and Schramm (2018); the proof also relies on the study of the geometry of cluster chains. Some properties of the limiting loop ensemble, including rotation invariance, scale covariance and finite chaining, are established. Moreover, a few applications of our scaling-limit result and proof strategy are discussed.",
+  "arxiv_id": "2611.15209",
+  "authors": [
+    "Chang-Long Yao"
+  ],
+  "categories": [
+    "math.PR",
+    "math-ph",
+    "math.MP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15209"
+  },
+  "hook": "Near-critical percolation loops have a unique scaling limit, settling a 2006 question.",
+  "hook_turn": "settling a 2006 question.",
+  "id": "arxiv-2611.15209",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove that all cluster boundaries of near-critical site percolation on the triangular lattice converge to a unique limiting loop ensemble as mesh size goes to zero. This answers a question of Camia, Fontes and Newman, and shows exploration paths converge too. The proof builds on earlier quad-crossing limits and covers only the triangular lattice.",
+  "tags": [
+    "percolation",
+    "probability"
+  ],
+  "title": "The loop-ensemble scaling limits of near-critical percolation in the plane",
+  "url": "https://arxiv.org/abs/2611.15209",
+  "venue": "arXiv"
+}

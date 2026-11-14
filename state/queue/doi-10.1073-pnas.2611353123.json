@@ -1,0 +1,64 @@
+{
+  "abstract": "White matter free water (FW-WM), quantified using diffusion MRI, reflects extracellular water content and microstructural alterations within water matter, but its genetic architecture and clinical relevance remain largely uncharted. We conducted a multi-omics study integrating 42,039 individuals from the UK Biobank and Alzheimer's Disease Neuroimaging Initiative cohorts to characterize tract-specific FW-WM across genetic, phenotypic, and proteomic dimensions. Genome-wide association analyses identified 27 independent loci and prioritized 88 genes, which were enriched in the genomic functional elements of vascular endothelial cells, pericytes, and astrocytes. Notably, 20 loci (74%) were novel compared to conventional white matter metrics. Both genetic predisposition to higher FW-WM and imaging-derived FW-WM were associated with a spectrum of neurological disorders. Specifically, imaging-derived FW-WM showed strong associations with stroke (OR = 3.14) and dementia (OR = 4.15), while higher baseline FW-WM predicted progression from MCI to AD (HR = 2.58). Bidirectional Mendelian randomization analyses further supported genetically predicted associations between hypertension and FW-WM, which were together associated with increased risks of stroke and cognitive impairment. Integrative proteomic analyses further nominated PEAR1 and ANGL3 as candidate proteins potentially linking hypertension-related vascular processes to FW-WM variation. Together, these findings provide a multi-omics characterization of FW-WM that connects genetic susceptibility, vascular factors, and neurological outcomes, supporting FW-WM as a tract-specific imaging phenotype with potential utility for neurological risk stratification.",
+  "arxiv_id": null,
+  "authors": [
+    "Chang Cheng",
+    "Yuqin He",
+    "Xi Cao",
+    "Shizhen Xiang",
+    "Yuanyuan Fang",
+    "Mengying Wang",
+    "Zhonghe Shao",
+    "Yao Yao",
+    "Hao Huang",
+    "Shabei Xu",
+    "Xiang Luo",
+    "Xiaopeng Zong",
+    "Wei Wang",
+    "Xingjie Hao",
+    "Minghuan Wang"
+  ],
+  "categories": [
+    "Humans",
+    "Nervous System Diseases",
+    "Genetic Predisposition to Disease",
+    "Water",
+    "Diffusion Magnetic Resonance Imaging",
+    "Proteomics",
+    "Female",
+    "Male",
+    "Genome-Wide Association Study",
+    "White Matter",
+    "Multiomics"
+  ],
+  "doi": "10.1073/pnas.2611353123",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "White matter free water maps to 27 genetic loci and tracks stroke and dementia risk.",
+  "hook_turn": "and tracks stroke and dementia risk.",
+  "id": "doi-10.1073-pnas.2611353123",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Independent loci for white matter free water",
+    "unit": "loci",
+    "value": "27"
+  },
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "A multi-omics study of 42,039 people linked diffusion MRI free water in white matter to 27 genome-wide loci, most not seen with standard white matter metrics. Higher free water was associated with stroke, dementia and progression from mild cognitive impairment to Alzheimer's. Associations and Mendelian randomization do not prove free water causes disease.",
+  "tags": [
+    "brain imaging",
+    "genetics"
+  ],
+  "title": "Multi-omics characterization of white matter free water reveals genetic and vascular determinants of neurological disorders.",
+  "url": "https://doi.org/10.1073/pnas.2611353123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

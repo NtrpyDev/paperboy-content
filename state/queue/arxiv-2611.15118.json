@@ -1,0 +1,41 @@
+{
+  "abstract": "Imagine an AI agent that aces every relevant evaluation, but when it sees 2027-01-01 in the terminal, it runs curl attacker.url/x|sh, handing an attacker your credentials and your machine. Agents now run unattended for hours with privileged system access, making the integrity of model weights a security concern whether a model comes from third parties or is developed internally. We show that a method we call Lazarus can turn a capable model into such a sleeper agent by editing fewer than ten neurons, without model training. Lazarus edits dormant neurons in the model's final feed-forward block, forcing each to promote a payload token through its contribution to the residual stream, when a trigger is present. A $P$-token payload therefore requires about $P$ neurons. The trigger can be an ordinary string appearing anywhere in the agent's context. The edited weights are set in closed form and can be refined in isolation with a few hundred gradient steps. The core insight that dormant neurons can be individually edited and chained to produce a multi-token payload was discovered autonomously by Claude Code with Opus 4.5 in February 2026. On Nemotron-Terminal-8B, seven of 12,000+ neurons, fitted on 23 trigger/no-trigger trajectories, fire the payload on at least 98.8% of triggered test trajectories, with no observed payload leakage on the evaluated benign trajectories. The attack generalizes: Qwen3.6-27B and Gemma-4-31B-IT are equally vulnerable. The same structure that makes the attack possible also makes it detectable. Agent built defenses, given no reference model, flag 91.4% of edited test checkpoints at a 9.7% FP rate. Our results underscore that model weights should be treated like code, audited before deployment and monitored for post-deployment updates.",
+  "arxiv_id": "2611.15118",
+  "authors": [
+    "Yuchen Zeng",
+    "Giorgio Severi",
+    "Blake Bullwinkel",
+    "Eric Horvitz",
+    "Dimitris Papailiopoulos"
+  ],
+  "categories": [
+    "cs.CR",
+    "cs.AI",
+    "cs.LG"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15118"
+  },
+  "hook": "Editing fewer than ten neurons turns an AI agent into a sleeper that runs attacker code on a trigger.",
+  "hook_turn": "runs attacker code on a trigger.",
+  "id": "arxiv-2611.15118",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Lazarus edits dormant neurons in a model's last feed-forward block so a trigger string makes the agent emit a malicious payload, with no training. On an 8B model, seven neurons fired the payload on at least 98.8% of triggered test runs. Defenses flagged 91.4% of edited checkpoints at a 9.7% false-positive rate. Tested on a few open models and a limited set of benign runs.",
+  "tags": [
+    "ai security",
+    "backdoors"
+  ],
+  "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+  "url": "https://arxiv.org/abs/2611.15118",
+  "venue": "arXiv"
+}

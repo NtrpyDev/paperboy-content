@@ -1,0 +1,41 @@
+{
+  "abstract": "The evolution of behavior is typically attributed to changes in innate circuitry, but learning can also drive behavioral evolution. Mus musculus evolved to produce trimethylamine (TMA) and behaviorally approach it, unlike the ancestral response retained by other mammals including Mus caroli. Here we demonstrate that this attraction is not innate but learned, depending on developmental TMA exposure. Whole brain immediate-early gene mapping reveals experience-dependent patterns of activation in response to TMA olfaction. Using activity-dependent TRAP2 labelling, we find that TMA-responsive neurons in the anterior olfactory nucleus are necessary and sufficient for attraction, consistent with a memory engram. Meanwhile, Mus caroli innate aversion is dependent on excitatory neurons in the posterior cortical amygdala. These results demonstrate how innate and learned circuitry both contribute to behavioral evolution in mammals.",
+  "arxiv_id": null,
+  "authors": [
+    "Conway, P. B.",
+    "Wang, Z.",
+    "Shettigar, N.",
+    "Urrieta, E.",
+    "McCrea, I.",
+    "Dennis, E.",
+    "Ryan, T. J."
+  ],
+  "categories": [
+    "neuroscience"
+  ],
+  "doi": "10.64898/2026.11.11.765886",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/13/2026.11.11.765886.source.xml"
+  },
+  "hook": "House mice learn to like a smell other mice flee. Early exposure to TMA builds the attraction.",
+  "hook_turn": "Early exposure to TMA builds the attraction.",
+  "id": "doi-10.64898-2026.11.11.765886",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "House mice approach trimethylamine, a smell that repels a close relative, but the attraction turns out to be learned from early exposure, not inborn. Brain activity mapping and neuron labeling traced it to the anterior olfactory nucleus, while the relative's aversion depends on the amygdala. Only mice were tested, with one smell.",
+  "tags": [
+    "olfaction",
+    "behavioral evolution"
+  ],
+  "title": "Learned attraction replaces innate aversion in the evolution of an olfactory response in Mus musculus",
+  "url": "https://doi.org/10.64898/2026.11.11.765886",
+  "venue": "bioRxiv"
+}

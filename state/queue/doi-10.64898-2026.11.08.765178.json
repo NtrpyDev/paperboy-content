@@ -1,0 +1,60 @@
+{
+  "abstract": "Amide bond formation is of central importance in the chemical industry, underpinning the synthesis of small bioactive molecules, macrocycles, peptides and their conjugates. Conventional methods of amide synthesis rely on stoichiometric coupling agents and costly protecting group manipulations. While biocatalysis can alleviate some of these challenges, enzymes typically operate across a narrow range of substrates and their adaptation to new coupling partners requires extensive engineering. Here we show that de novo amide ligases featuring a cysteine catalytic triad can be programmed computationally to operate across diverse substrate classes with high selectivity. We first designed complementary peptide ligases to selectively functionalise either the N-terminus or a single lysine residue of a polypeptide sequence containing 36 competing lysines. Crystal structures of both ligases show excellent agreement with the designs, with structural modelling suggesting that amidation outcompetes hydrolysis because the catalytically competent geometry forms only upon acceptor binding. We then extended our approach to the synthesis of small bioactive molecules by designing stereoselective ligases that mediate a key amide bonding forming step in the synthesis of the preventative HIV therapeutic lenacapavir. These results establish de novo enzyme design as a programmable platform for achieving selective amide bond formations across a wide range of molecular targets.",
+  "arxiv_id": null,
+  "authors": [
+    "Salike, S.",
+    "Fluegel, T.",
+    "Gantz, M.",
+    "Moroz, S. S.",
+    "Hunt, A. C.",
+    "Jones, H.",
+    "Singh, A.",
+    "Corley, N.",
+    "Didi, K.",
+    "Brent, R. I.",
+    "Kazman, M. W.",
+    "Xu, Z.",
+    "Savvides, C.",
+    "Woodbury, S. M.",
+    "Sotomayor, B.",
+    "Nguyen, H.",
+    "Mendoza, J.",
+    "Kang, A.",
+    "Bera, A. K.",
+    "Li, X.",
+    "Banala, S.",
+    "Butcher, J.",
+    "Lavis, L. D.",
+    "Green, A. P.",
+    "Hilvert, D.",
+    "Baker, D."
+  ],
+  "categories": [
+    "biochemistry"
+  ],
+  "doi": "10.64898/2026.11.08.765178",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/11/2026.11.08.765178.source.xml"
+  },
+  "hook": "Computer-designed enzymes now form amide bonds selectively, including a step in making lenacapavir.",
+  "hook_turn": "including a step in making lenacapavir.",
+  "id": "doi-10.64898-2026.11.08.765178",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Enzymes designed from scratch with a cysteine catalytic triad can join amides at chosen sites, such as the N-terminus or one lysine among 36. Crystal structures match the designs, and designed stereoselective ligases handle a key step toward the HIV drug lenacapavir. These are lab-scale reactions in a preprint, and industrial yield and scale are untested.",
+  "tags": [
+    "enzyme design",
+    "amide synthesis"
+  ],
+  "title": "Programmable amide bond formation using de novo ligases",
+  "url": "https://doi.org/10.64898/2026.11.08.765178",
+  "venue": "bioRxiv"
+}

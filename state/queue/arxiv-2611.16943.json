@@ -1,0 +1,38 @@
+{
+  "abstract": "We show that at sufficiently large inverse-temperature $\\beta>0$, the 3D Ising model on the torus, under boundary conditions that have a positive slope $\\theta_1,\\theta_2>0$, has a GFF scaling limit for its interface. The proof goes through three steps of a Tetris map, which lets cubes drop according to gravity in each of the three axes, yielding Solid-On-Solid (SOS), Half-Monotone SOS (HMSOS) and monotone surfaces (dimers). We establish GFF limits sequentially, in particular resolving the analogous problem for the $(2+1)$D SOS. A crucial ingredient is an improved RG analysis for interacting dimers, which is of independent interest: it relaxes the assumptions on interactions from being uniformly bounded in $L^\\infty$ to only being typically small.",
+  "arxiv_id": "2611.16943",
+  "authors": [
+    "Beno\\^{\\i}t Laslier",
+    "Eyal Lubetzky"
+  ],
+  "categories": [
+    "math.PR",
+    "math-ph",
+    "math.MP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16943"
+  },
+  "hook": "The rough surface between phases in a 3D Ising model at low temperature is Gaussian-free-field random.",
+  "hook_turn": "is Gaussian-free-field random.",
+  "id": "arxiv-2611.16943",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For a 3D Ising model on a torus with tilted boundary conditions at large inverse temperature, the interface converges to a Gaussian free field. The proof steps through three gravity-style maps down to dimer surfaces, and resolves the analogous 2+1D solid-on-solid case. It holds only for low temperature and sloped boundaries.",
+  "tags": [
+    "Ising model",
+    "statistical mechanics"
+  ],
+  "title": "GFF for 3D Ising interfaces in three moves of Tetris",
+  "url": "https://arxiv.org/abs/2611.16943",
+  "venue": "arXiv"
+}

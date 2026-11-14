@@ -1,0 +1,36 @@
+{
+  "abstract": "We present a deterministic algorithm for 3-SAT running in $1.32736^n$ time. The algorithm is built on a branching-and-chain framework augmented with a polynomial-time expansion procedure that joins short chains through additional clauses to form bounded-size blocks, which impose stronger constraints on the assignment space. After branching, the algorithm chooses between derandomized local search guided by the block structure and enumeration of block assignments together with selected port variables, reducing the remaining formula to 2-SAT. A weighted analysis of branching, partial-assignment, and local-search costs, together with inductive bounds for chains and block interactions, establishes the running-time guarantee. The framework is self-contained and also offers guidance for practical SAT solver design by identifying useful clause-overlap structures and suggesting when to switch between local-search and reduction-based strategies.",
+  "arxiv_id": "2611.16814",
+  "authors": [
+    "Binbin Cui",
+    "S. Cliff Liu",
+    "Yongrui Yu"
+  ],
+  "categories": [
+    "cs.DS"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16814"
+  },
+  "hook": "A new deterministic 3-SAT algorithm runs in 1.32736^n time.",
+  "id": "arxiv-2611.16814",
+  "license": "cc-by-nc-sa",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The algorithm solves 3-SAT without randomness by branching, joining short clause chains into bounded blocks, and then either running derandomized local search or reducing the rest to 2-SAT. A weighted analysis gives the 1.32736^n running time. This is a worst-case bound proved on paper, and the abstract reports no implementation or practical solver tests.",
+  "tags": [
+    "3-SAT",
+    "algorithms"
+  ],
+  "title": "Improved Deterministic Algorithms for $k$-SAT: Generalization of Chains and Recurrence Proof",
+  "url": "https://arxiv.org/abs/2611.16814",
+  "venue": "arXiv"
+}

@@ -1,0 +1,37 @@
+{
+  "abstract": "Abstract Two-coordinate diboron(II) dications represent highly electron-deficient species that deviate substantially from the classical octet rule. Their extreme electrophilicity, significant Coulombic repulsion, and inherent instability render their isolation particularly challenging, leaving them hitherto elusive. Herein, we report an N-heterocyclic imine (NHI)-supported formal 1,2-bis(borinium) dication, an isoelectronic analogue of the diberyllocene, featuring a unique B(sp)–B(sp) bonding motif devoid of σ-donor stabilization and free from counterion and solvent interactions. Single-crystal X-ray diffraction analysis reveals that the resulting two-coordinate diboron(II) dication adopts a nearly linear −C–N–B–B–N–C– arrangement. DFT calculations suggest that it is best described as an N≡B–B≡N core, with two B≡N-type units linked by a B–B single bond and capped by imidazolium-type rings, with two vacant π*(B–N) orbitals localized at the boron atoms. Reactivity studies further establish that this species behaves as a Lewis superacid, capable of small molecule activation and functions as an efficient precatalyst to promote diverse catalytic transformations under mild conditions.",
+  "arxiv_id": null,
+  "authors": [
+    "Ke Li",
+    "Arseni Kostenko",
+    "Burkhard Butschke",
+    "Daniel Franz",
+    "Tobias Weng",
+    "Shigeyoshi Inoue"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c17635",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Chemists isolated a diboron dication that breaks the octet rule.",
+  "id": "doi-10.1021-jacs.6c17635",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "The team made a molecule with two boron atoms bonded directly to each other, each short of electrons and holding a positive charge. X-ray crystallography shows a nearly linear chain, and calculations describe it as two boron-nitrogen triple-bond units joined by a single boron-boron bond. It acts as a very strong Lewis acid, but the catalytic scope is shown only under mild lab conditions.",
+  "tags": [
+    "main-group chemistry",
+    "boron"
+  ],
+  "title": "An N-Heterocyclic Imine-Supported Two-Coordinate 1,2-Bis(borinium) Dication",
+  "url": "https://doi.org/10.1021/jacs.6c17635",
+  "venue": "Journal of the American Chemical Society"
+}

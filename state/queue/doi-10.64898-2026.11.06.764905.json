@@ -1,0 +1,44 @@
+{
+  "abstract": "Many wild populations have experienced severe human-induced declines, but the genetic consequences of such bottlenecks are often poorly understood. In Finland, as well as in many other countries, golden eagles were heavily persecuted during the 19th-20th centuries, disappearing from southern regions and reaching their lowest population size in the 1950-1960s. Although conservation efforts facilitated demographic recovery, the long-term genomic consequences of the bottleneck remained unknown. Here, we used whole-genome sequencing data spanning 136 years to evaluate patterns of genetic diversity in 26 Finnish golden eagles before, during, and after the mid-20th century bottleneck. We found substantial loss of genetic variation, including an 82% reduction in genome-wide heterozygosity, a 42% decline in nucleotide diversity, a 67% reduction in Watterson's theta, and a substantial loss of variable sites. Analyses of the site frequency spectrum and Tajima's D confirmed historical population contraction, and runs of homozygosity analysis indicated elevated post-bottleneck inbreeding. These results indicate strong genetic erosion in Finnish golden eagles despite the census size recovery. Therefore, incorporating genomic indicators in conservation monitoring and performing regional assessments are necessary to guide management and preserve biodiversity in line with the Global Biodiversity Framework's goal of maintaining genetic variation.",
+  "arxiv_id": null,
+  "authors": [
+    "Karabanina, E.",
+    "Ponnikas, S.",
+    "Mattila, T. M.",
+    "Niskanen, A.",
+    "Kvist, L."
+  ],
+  "categories": [
+    "genomics"
+  ],
+  "doi": "10.64898/2026.11.06.764905",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/11/2026.11.06.764905.source.xml"
+  },
+  "hook": "Finnish golden eagles lost 82% of genome-wide heterozygosity despite population recovery.",
+  "hook_turn": "despite population recovery.",
+  "id": "doi-10.64898-2026.11.06.764905",
+  "license": "cc-by-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Reduction in genome-wide heterozygosity",
+    "unit": "%",
+    "value": "82"
+  },
+  "significance": 6,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Genomes from 26 Finnish golden eagles spanning 136 years show a steep loss of genetic variation across the 20th-century bottleneck, with more inbreeding afterward. Numbers have rebounded, but diversity has not. The sample is small and from one country, and this is a preprint.",
+  "tags": [
+    "conservation genomics",
+    "golden eagle"
+  ],
+  "title": "Genome-wide diversity across 130 years reveals drastic post-bottleneck genetic erosion in a recovering population of golden eagles (Aquila chrysaetos)",
+  "url": "https://doi.org/10.64898/2026.11.06.764905",
+  "venue": "bioRxiv"
+}

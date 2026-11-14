@@ -1,0 +1,45 @@
+{
+  "abstract": "Abstract In medical imaging report generation, supervised fine-tuning can overfit to superficial patterns and generalize poorly across institutions. We introduce Universal Report Generation (UNIRG), which adopts reinforcement learning to directly optimize clinically meaningful quality criteria. With this framework, we developed UNIRG-CXR, an 8-billion-parameter vision–language model trained on four public datasets (MIMIC-CXR, CheXpert Plus, ReXGradient-160k and IU-Xray) by supervised fine-tuning followed by reinforcement learning (group-relative policy optimization) against a composite lexical, semantic and clinical-error reward. We evaluated held-out test sets and an external proprietary dataset, with RadCliQ as primary metric and expert radiologist validation. Here we show that our method improves report quality and generalization: UNIRG-CXR surpasses prior models on the ReXrank benchmark across four datasets and two generation settings, exceeding the previous best score by over 50% on two test sets, and produces fewer clinically significant errors while maintaining performance on unseen data sources and across demographic subgroups.",
+  "arxiv_id": null,
+  "authors": [
+    "Qianchu Liu",
+    "Sheng Zhang",
+    "Guanghui Qin",
+    "Yu Gu",
+    "Ying Jin",
+    "Sam Preston",
+    "Yanbo Xu",
+    "Sid Kiblawi",
+    "Wen-wai Yim",
+    "Timothy Ossowski",
+    "Tristan Naumann",
+    "Mu Wei",
+    "Hoifung Poon"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-78767-4",
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A reinforcement-learning model writes chest X-ray reports with fewer clinical errors than past models.",
+  "hook_turn": "with fewer clinical errors than past models.",
+  "id": "doi-10.1038-s41467-026-78767-4",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "UNIRG-CXR is an 8-billion-parameter vision-language model first fine-tuned on public chest X-ray data, then trained with reinforcement learning to reward clinically accurate reports. It tops the ReXrank benchmark on four datasets and holds up on an outside dataset. Scores rely on automated metrics plus expert review, not testing in live clinical use.",
+  "tags": [
+    "medical AI",
+    "report generation"
+  ],
+  "title": "Scaling medical imaging report generation with multimodal reinforcement learning",
+  "url": "https://doi.org/10.1038/s41467-026-78767-4",
+  "venue": "Nature Communications"
+}

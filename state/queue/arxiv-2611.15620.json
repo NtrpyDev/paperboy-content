@@ -1,0 +1,35 @@
+{
+  "abstract": "We study the splitting number at singular cardinals with emphasis on what we call the reduction to the cofinality problem: whether $\\mathfrak{s}_{\\kappa} = \\mathfrak{s}_{\\mathrm{cf}(\\kappa)}$ holds for a singular cardinal $\\kappa$. Our main tool is the transfinite logarithm function $\\mathrm{log}_{2}(\\mu) := \\min \\{ \\lambda \\in \\mathrm{card} \\colon \\mu \\leq 2^{\\lambda} \\}$ defined for every infinite cardinal $\\mu$. We prove that the reduction holds, and in fact $\\mathfrak{s}_{\\kappa} = \\mathrm{log}_{2}(\\mathrm{cf}(\\kappa))$, whenever $\\mathrm{cf}(\\kappa)$ is uncountable and not weakly compact. When $\\mathrm{cf}(\\kappa) = \\aleph_{0}$, we show that $\\mathfrak{s}_{\\kappa} = \\mathfrak{s}$ provided that $\\mathfrak{s} \\leq \\log_{2}(\\kappa)$, while the failure of the reduction is consistent with $\\mathrm{ZFC}$. When $\\mathrm{cf}(\\kappa)$ is weakly compact, we use a model constructed by Ben-Neria and Gitik to prove that, under suitable large cardinals hypothesis, $\\mathfrak{s}_{\\kappa} < \\mathfrak{s}_{\\mathrm{cf}(\\kappa)}$ is consistent. Furthermore, we show that the consistency strength of $\\mathrm{ZFC} \\, +$\"$\\exists \\kappa \\in \\mathrm{card} [\\mathrm{cf}(\\kappa) > \\aleph_{0} \\wedge \\mathfrak{s}_{\\kappa} < \\mathfrak{s}_{\\mathrm{cf}(\\kappa)}]$'' is at least that of the negation of the singular cardinal hypothesis. Finally, we study the cofinality of $\\mathfrak{s}_{\\kappa}$, extending several results about the cofinality of $\\mathfrak{s}$ to the uncountable setting. In particular, we show in $\\mathrm{ZFC}$ that there are regular cardinals $\\kappa$ such that $\\mathfrak{s}_{\\kappa}$ is singular, partially answering an open question posed by Fischer and Soukup.",
+  "arxiv_id": "2611.15620",
+  "authors": [
+    "Andr\\'es F. Uribe-Zapata"
+  ],
+  "categories": [
+    "math.LO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15620"
+  },
+  "hook": "Set theorists show the splitting number at a singular cardinal often reduces to its cofinality's.",
+  "hook_turn": "often reduces to its cofinality's.",
+  "id": "arxiv-2611.15620",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The splitting number at a singular cardinal equals log2 of its cofinality whenever that cofinality is uncountable and not weakly compact. Other cases can fail consistently, using a Ben-Neria and Gitik model under large cardinal assumptions. The failures are relative consistency results, not outright theorems of ZFC.",
+  "tags": [
+    "set theory",
+    "cardinal characteristics"
+  ],
+  "title": "Splitting Number at Singular Cardinals",
+  "url": "https://arxiv.org/abs/2611.15620",
+  "venue": "arXiv"
+}

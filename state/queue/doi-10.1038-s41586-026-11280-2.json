@@ -1,0 +1,45 @@
+{
+  "abstract": "The scarcity of terrestrial rocks older than 3.9 billion years (Gyr) has hindered our understanding of Earth's early evolution, fuelling persistent debates on how and when the first continental crust formed and plate tectonics started. At present, the only unequivocally documented >3.9-Gyr-old rocks are from the Acasta Gneiss Complex, Canada1-3. Here we report a 3.95-Gyr-old trondhjemitic gneiss from eastern Hebei, North China Craton, in which primary magmatic zircon records elevated δ18O values (average +6.77 ± 0.23‰) and positive εHf(t) values (weighted mean +1.45 ± 0.27). This suggests a low-temperature altered basaltic source that originated from a mantle depleted in the Hadean. In contrast to the low-pressure origin inferred for the roughly 4.0-Gyr-old Idiwhaa unit in Acasta2, the 3.95-Gyr-old trondhjemitic gneiss reported here exhibits geochemical signatures attributed to a high-pressure origin4. Thermodynamic and trace element modelling demonstrate that its parental magma formed by means of low-degree (8-16%) melting of basaltic crust at >1.6 GPa and 740-820 °C, suggesting rapid burial of (near-)surface-altered oceanic crust to mantle depths along a cool thermal gradient. We propose that this rapid burial was most likely achieved through a transient subduction event.",
+  "arxiv_id": null,
+  "authors": [
+    "Hangqiang Xie",
+    "Chunyan Dong",
+    "Pengchuan Li",
+    "Rongfeng Ge",
+    "Simon A Wilde",
+    "Shoujie Liu",
+    "Dunyi Liu",
+    "Yusheng Wan"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41586-026-11280-2",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Rocks in North China date to 3.95 billion years and hint at early subduction.",
+  "hook_turn": "hint at early subduction.",
+  "id": "doi-10.1038-s41586-026-11280-2",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Age of trondhjemitic gneiss, North China",
+    "unit": "billion years",
+    "value": "3.95"
+  },
+  "significance": 7,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "A gneiss from eastern Hebei has zircon dated to 3.95 billion years, among the oldest known rocks. Its chemistry and modeling point to melting of altered ocean crust buried quickly to mantle depths, which the authors read as a brief subduction event. The subduction link is an inference from modeling, not a direct observation.",
+  "tags": [
+    "early Earth",
+    "subduction"
+  ],
+  "title": "Hadean mantle depletion and 3.95-Gyr subduction implied by North China rocks.",
+  "url": "https://doi.org/10.1038/s41586-026-11280-2",
+  "venue": "Nature"
+}

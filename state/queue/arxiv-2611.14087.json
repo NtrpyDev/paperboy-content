@@ -1,0 +1,37 @@
+{
+  "abstract": "We show that on the classical erasure channel, the tensor product of two capacity-achieving code families is itself capacity-achieving under mild conditions. We also prove that duals of tensor products of independent uniform random binary linear codes achieve erasure capacity. Using these local codes, for every erasure probability $\\rho\\in(0,1/2)$ and every rate gap $\\varepsilon>0$, we obtain a family of binary quantum Tanner codes of rate at least $1-2\\rho-\\varepsilon$. For fixed $\\rho$ and $\\varepsilon$, these codes have bounded check weights, minimum distance growing linearly with the blocklength, and a linear-time erasure decoder whose decoding error decays exponentially with the blocklength.",
+  "arxiv_id": "2611.14087",
+  "authors": [
+    "Henry D. Pfister",
+    "Oscar Sprumont",
+    "Gilles Z\\'emor"
+  ],
+  "categories": [
+    "cs.IT",
+    "math.IT"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14087"
+  },
+  "hook": "Quantum Tanner codes reach the erasure-channel capacity limit with linear distance and linear-time decoding.",
+  "id": "arxiv-2611.14087",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove that tensor products of capacity-achieving classical codes are capacity-achieving on the erasure channel, then use these as local codes to build binary quantum Tanner codes of rate at least 1 minus 2 rho minus epsilon. Decoding errors fall exponentially with blocklength. The result is for erasure noise only, not general quantum noise.",
+  "tags": [
+    "quantum codes",
+    "coding theory"
+  ],
+  "title": "Classical Tensor Codes and Quantum Tanner Codes Achieve Capacity on Erasure Channels",
+  "url": "https://arxiv.org/abs/2611.14087",
+  "venue": "arXiv"
+}

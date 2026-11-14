@@ -1,0 +1,52 @@
+{
+  "abstract": "Objectives: In 2025, the UK Health Security Agency (UKHSA), confirmed the identification of a Neisseria gonorrhoeae (NG) diagnostic escape mutant for the Xpert(R) CT/NG assay (Cepheid). Subsequently, a small number of further mutants were reported internationally. The assay comprises two NG-specific targets, NG2 and NG4, and amplification is required in both to report a positive result. This prospective case-finding study aimed to investigate the presence of diagnostic escape mutants in NG-negative specimens from two sexual health services using the Xpert(R) CT/NG assay to provide in-clinic testing. Methods: Residual Xpert(R) NG-negative clinical specimens were collected during December 2025 and transferred to the national STI Reference Laboratory at UKHSA. Following anonymisation extracts were tested on the GeneProofTM Neisseria gonorrhoeae PCR kit (GeneProof). GeneProofTM NG-positive specimens were re-tested on the Xpert(R)CT/NG assay to confirm. Results: In total, 978 specimens were tested on the GeneProofTM assay; 99.7% (975/978) were confirmed as NG-negative. Three specimens (two rectal swabs and one urine sample) tested NG-positive on the GeneProofTM assay. Two specimens were re-tested on the Xpert(R) CT/NG assay, both re-tested NG-negative. Both samples amplified either the NG2 or NG4 target within the Xpert(R) NG assay, but not both targets required for a positive result. The remaining sample was insufficient for re-testing. An extrapolation of possible missed NG cases due to mutants, indicated that between 62 and 562 cases may have been missed in 2025 from these clinics. Conclusions: This prospective case-finding study demonstrated excellent sensitivity of the Xpert(R) CT/NG assay with 99.7% of NG-negative samples correctly identified. However, a small number of diagnostic escape mutants were detected, and extrapolation suggests there may be some degree of missed cases from providers using this assay as a near-patient test. Further work is required to fully understand the prevalence of the mutants and clinical implications of missed diagnoses.",
+  "arxiv_id": null,
+  "authors": [
+    "Pitt-Kendall, R.",
+    "Finnie, E.",
+    "O'Connor, M.",
+    "Rayment, M.",
+    "Whitlock, G.",
+    "Pond, M.",
+    "Koulmi, M.",
+    "Viviani, L.",
+    "Jansen van Rensburg, M.",
+    "Sinka, K.",
+    "Ready, D.",
+    "Fifer, H.",
+    "Alexander, S."
+  ],
+  "categories": [
+    "sexual and reproductive health"
+  ],
+  "doi": "10.64898/2026.11.11.26367844",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.medrxiv.org/content/early/2026/11/12/2026.11.11.26367844.source.xml"
+  },
+  "hook": "Three of 978 samples that an Xpert gonorrhea test called negative were positive on a second test",
+  "hook_turn": "were positive on a second test",
+  "id": "doi-10.64898-2026.11.11.26367844",
+  "license": "cc-by-nc",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Xpert-negative samples confirmed negative",
+    "unit": "%",
+    "value": "99.7"
+  },
+  "significance": 5,
+  "source": "medrxiv",
+  "status": "preprint",
+  "summary": "Researchers retested residual negative Xpert CT/NG clinic samples from December 2025 on a different PCR kit. Three were positive, and the two retested on Xpert amplified only one of its two required targets, consistent with escape mutants. The sample is small, one sample could not be retested, and the estimate of 62 to 562 missed cases is an extrapolation.",
+  "tags": [
+    "gonorrhea",
+    "diagnostics"
+  ],
+  "title": "Seek and You Will Find: A Prospective Case-Finding Study for the Detection of Neisseria gonorrhoeae Xpert(R) CT/NG Diagnostic Escape Mutants in England",
+  "url": "https://doi.org/10.64898/2026.11.11.26367844",
+  "venue": "medRxiv"
+}

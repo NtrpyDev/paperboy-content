@@ -1,0 +1,55 @@
+{
+  "abstract": "Artificial intelligence models for echocardiography interpret studies without identifying the structures that support their outputs. We show that this spatial grounding does not emerge from the pretraining of current vision-language models. General-purpose and medical vision-language models and an open-vocabulary detector recalled 3% or fewer of cardiac structures and scored below a box that never sees the image. EchoLens, a detector trained on 5,912 expert-annotated structures and 4,219 Doppler signals from 136 patients, recalled 87% and localized structures as reliably as a blinded expert reader (box centre within the reference in 95.7% and 95.3% of cases). It covers 21 structures across 11 transthoracic views and 11 spectral Doppler signal types. In external data, two physicians judged 81-92% of its detections correct across all 11 views, and it identified the Doppler signal type in 83% of frames. EchoLens provides the spatial layer that grounded echocardiographic interpretation requires.",
+  "arxiv_id": null,
+  "authors": [
+    "Mahmoudi, E. m.",
+    "Pecco, N.",
+    "Sheashaa, H.",
+    "Baba Ali, N.",
+    "Awad, K.",
+    "Abdelfattah, F. E.",
+    "Attaripour Esfahani, S.",
+    "Scalia, I. G.",
+    "Farina, J.",
+    "Ayoub, C.",
+    "Arsanjani, R.",
+    "Grogan, M.",
+    "Kane, G.",
+    "Oh, J. K.",
+    "Banerjee, I.",
+    "Erickson, B. J.",
+    "Chao, C.-J."
+  ],
+  "categories": [
+    "cardiovascular medicine"
+  ],
+  "doi": "10.64898/2026.11.10.26367643",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.medrxiv.org/content/early/2026/11/12/2026.11.10.26367643.source.xml"
+  },
+  "hook": "An echo-specific detector finds 87% of heart structures where general AI models find 3% or fewer.",
+  "id": "doi-10.64898-2026.11.10.26367643",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Cardiac structure recall, EchoLens",
+    "unit": "%",
+    "value": "87"
+  },
+  "significance": 6,
+  "source": "medrxiv",
+  "status": "preprint",
+  "summary": "General and medical vision-language models could not point to cardiac structures in ultrasound, so the authors trained EchoLens on expert-annotated structures and Doppler signals from 136 patients. It matched a blinded expert reader on box placement across 21 structures and 11 views. Limit: training came from a small patient set and external checks used two physician judges.",
+  "tags": [
+    "echocardiography",
+    "medical imaging"
+  ],
+  "title": "Expert-level localization of fine-grained cardiac structures across the transthoracic echocardiogram",
+  "url": "https://doi.org/10.64898/2026.11.10.26367643",
+  "venue": "medRxiv"
+}

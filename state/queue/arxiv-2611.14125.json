@@ -1,0 +1,37 @@
+{
+  "abstract": "We construct asymptotically good codes by evaluating Siegel modular forms at superspecial points on congruence towers of Siegel modular varieties. For every genus $g\\ge2$ and every fixed weight $w\\ge g+1$, the construction gives such a family in sufficiently large characteristic, over a finite field which is independent of the level of the tower. The towers can be chosen so that this field is $\\mathbb{F}_{p^2}$. We give an explicit lower bound for the asymptotic rate. The lower bound for the relative minimum distance follows from the Pieri formula on the space of flags in the Hodge bundle and an intersection argument along its strata. We also prove that, for $p\\ge5$ and $0\\le w\\le p+1$, the kernel of evaluation in every genus consists precisely of the multiples of the ordinary Hasse invariant. For $g=2,3$, the geometry of the supersingular locus gives explicit bounds for the relative minimum distance and recovery sets whose sizes are bounded independently of the level.",
+  "arxiv_id": "2611.14125",
+  "authors": [
+    "Yota Maeda"
+  ],
+  "categories": [
+    "math.NT",
+    "cs.IT",
+    "math.AG",
+    "math.IT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14125"
+  },
+  "hook": "Codes built from Siegel modular forms are asymptotically good, with explicit rate and distance bounds.",
+  "id": "arxiv-2611.14125",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "By evaluating Siegel modular forms at superspecial points on towers of modular varieties, the author gets code families with positive rate and relative distance over a fixed finite field. The proofs use algebraic geometry on flag spaces. The construction needs sufficiently large characteristic and is theoretical.",
+  "tags": [
+    "coding theory",
+    "modular forms"
+  ],
+  "title": "Asymptotically good codes from Siegel modular varieties",
+  "url": "https://arxiv.org/abs/2611.14125",
+  "venue": "arXiv"
+}

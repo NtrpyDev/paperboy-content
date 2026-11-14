@@ -1,0 +1,37 @@
+{
+  "abstract": "We give a counterexample to a question of Borichev on polynomial approximation with monotone weights. We construct an even continuous weight $W$, strictly increasing on $[0,\\infty)$, with superpolynomial growth and finite logarithmic integral, and an entire function $F$ of zero exponential type such that $F/W$ vanishes at infinity and belongs to $L^p(\\mathbb{R})$ for every $1\\leq p<\\infty$. Nevertheless, $F$ has positive distance from the polynomials in the weighted uniform norm and in every corresponding weighted $L^{p}$ norm.",
+  "arxiv_id": "2611.13288",
+  "authors": [
+    "Natanael Alpay",
+    "Paata Ivanisvili"
+  ],
+  "categories": [
+    "math.CA",
+    "math.CV"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13288"
+  },
+  "hook": "A weight that grows ever faster still leaves an entire function far from every polynomial.",
+  "hook_turn": "still leaves an entire function far from every polynomial.",
+  "id": "arxiv-2611.13288",
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors answer a question of Borichev in the negative. They build an increasing continuous weight and an entire function of zero exponential type that is small against it yet stays a positive distance from polynomials, in uniform and every weighted L^p norm. It is a single constructed counterexample, so it does not say which weights do work.",
+  "tags": [
+    "approximation theory",
+    "complex analysis"
+  ],
+  "title": "A Counterexample to Polynomial Approximation for Monotone Weights",
+  "url": "https://arxiv.org/abs/2611.13288",
+  "venue": "arXiv"
+}

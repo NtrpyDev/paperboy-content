@@ -1,0 +1,36 @@
+{
+  "abstract": "Which linguistic units minimise the bitrate required to encode speech content: phones, syllables, words, maybe larger units, or something in between? This question has implications for the development of speech and language systems and theories of human language processing. Using a transcribed corpus of 960 hours of English audiobooks, I compare the information rates of phones, syllables, words, multi-word combinations and intermediate tokenisations. While all units are equivalent under a perfect language model, it makes sense to compare these under limited modelling budgets; I use $n$-gram and transformer language models. The lowest bitrates are achieved using words, with slightly longer units sometimes performing best. The results show that, when modelling capacity is limited, units larger than syllables but smaller than long multi-word phrases provide the most efficient representation in terms of information rate.",
+  "arxiv_id": "2611.13990",
+  "authors": [
+    "Herman Kamper"
+  ],
+  "categories": [
+    "cs.CL",
+    "eess.AS"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13990"
+  },
+  "hook": "Words, not phones or syllables, give the lowest bitrate for encoding English speech content.",
+  "hook_turn": "give the lowest bitrate for encoding English speech content.",
+  "id": "arxiv-2611.13990",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Using 960 hours of transcribed English audiobooks, the study compares information rates for phones, syllables, words and longer units, modeled with n-gram and transformer language models. Words win, with slightly longer units sometimes better. The ranking holds when model capacity is limited and may change with larger models or other languages.",
+  "tags": [
+    "speech",
+    "language models"
+  ],
+  "title": "On the information rate of phones, syllables and words",
+  "url": "https://arxiv.org/abs/2611.13990",
+  "venue": "arXiv"
+}

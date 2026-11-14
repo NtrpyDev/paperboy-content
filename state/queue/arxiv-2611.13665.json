@@ -1,0 +1,38 @@
+{
+  "abstract": "We have prepared pairs of atoms at densities exceeding $ 10^{16}/\\rm{cm}^3$ corresponding to $n\\lambdabar^3>10$ and studied how they interact with light. In this regime, the coherent part of the electric dipole-dipole interaction is larger than the dissipative part, and a single photon emission can transfer large momenta (larger than ten times the single photon recoil) to the atoms. For off-resonant laser light, the atoms are dressed with an electric dipole moment of $\\approx$ 1 Debye and interact coherently. This light-induced dipole-dipole interaction has been previously observed only in the far-field mean-field regime. For two atoms, the resonance is shifted by the two-body Lamb shift which is dominated by the near-field part of the dipolar interaction. Dipolar resonance shifts have been observed before only for many atoms interacting with the far-field part of the dipolar interaction. Our work sheds new light on photoassociation processes and paves the way for studying driven quantum systems with strong electric dipole-dipole interactions.",
+  "arxiv_id": "2611.13665",
+  "authors": [
+    "Yu-Kun Lu",
+    "Jiahao Lyu",
+    "Wolfgang Ketterle"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.atom-ph"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13665"
+  },
+  "hook": "Two atoms packed densely enough interact through strong electric dipole forces, seen for the first time.",
+  "hook_turn": "seen for the first time.",
+  "id": "arxiv-2611.13665",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Ketterle's group prepared pairs of atoms at densities above 10^16 per cubic centimeter and shone light on them. Off-resonant light gave each atom a dipole moment of about 1 Debye, and the two-atom resonance shifted by the two-body Lamb shift from the near-field interaction. Earlier shifts were seen only for many atoms and far-field coupling. The abstract gives no precision figures.",
+  "tags": [
+    "atomic physics",
+    "dipole interactions"
+  ],
+  "title": "Observation of strong electric dipole-dipole interactions between two atoms",
+  "url": "https://arxiv.org/abs/2611.13665",
+  "venue": "arXiv"
+}

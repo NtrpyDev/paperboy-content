@@ -1,0 +1,45 @@
+{
+  "abstract": "Abstract Kondo insulators are paradigmatic strongly correlated materials, traditionally found in f-electron compounds. They originate from the hybridization between itinerant conduction electrons and localized magnetic moments, which opens a gap in the electronic spectrum. Two-dimensional moiré systems provide a new route to flat bands with strong electron correlation, which host localized moments at half filling. Here we report signatures, based on local conductivity measurements using microwave impedance microscopy, of a Kondo insulator in a moiré superlattice of monolayer WS 2 / bilayer WSe 2 , in which one WSe 2 layer carries flat moiré bands and the other dispersive ones. When both layers are partially doped with two holes per moiré unit cell in total, an insulating state appears when the moiré band contains less than one hole. The insulator becomes metallic above a certain threshold magnetic field, evidence for the singlet nature of the Kondo insulator, and the observed behavior is reproduced by a periodic Anderson model. Our results open a route to simulating Kondo physics in tunable moiré systems.",
+  "arxiv_id": null,
+  "authors": [
+    "Qiran Wu",
+    "Jingyuan Cui",
+    "Ang-Kun Wu",
+    "Yuze Meng",
+    "Dongxue Chen",
+    "Yueshan Wang",
+    "Li Yan",
+    "Lei Ma",
+    "Takashi Taniguchi",
+    "Kenji Watanabe",
+    "Shi-Zeng Lin",
+    "Su-Fei Shi",
+    "Yong-Tao Cui"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-78687-3",
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A moiré semiconductor shows signs of a Kondo insulator that turns metallic in a magnetic field",
+  "hook_turn": "that turns metallic in a magnetic field",
+  "id": "doi-10.1038-s41467-026-78687-3",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "In a stack of WS2 and WSe2 layers, local conductivity maps show an insulating state at two holes per moiré cell that becomes metallic above a threshold magnetic field. That fits a Kondo singlet and matches a periodic Anderson model. The evidence is labeled signatures, so other explanations are not fully excluded.",
+  "tags": [
+    "moiré materials",
+    "kondo effect"
+  ],
+  "title": "Signatures of a Kondo insulator in a multilayer moiré Superlattice",
+  "url": "https://doi.org/10.1038/s41467-026-78687-3",
+  "venue": "Nature Communications"
+}

@@ -1,0 +1,42 @@
+{
+  "abstract": "Abstract The influence of water on acid–base interactions in zeolites was quantified by measuring the enthalpy of pyridine adsorption on H-ZSM-5 with three Si/Al ratios (11.5, 40, and 140) in water using isothermal titration calorimetry (ITC). This calorimetric study reconciles the liquid- and gas-phase energetics of acid–base interactions in a solvated, pore-filled zeolite through a Born–Haber cycle analysis. In water, the apparent adsorption enthalpy is about 150 kJ/mol less exothermic than the gas-phase value and becomes more exothermic as the Si/Al ratio increases, whereas the gas-phase enthalpy is near −200 kJ/mol and independent of the Si/Al ratio. Since the intrinsic acid strength of the framework does not vary with Si/Al ratio, this increasing apparent adsorption energy trend with increasing Si/Al ratio reflects the influence of solvation rather than acidity. Water stabilizes both the acidic proton and the pyridinium ion, and a fraction of this stabilization is lost when adsorbed pyridine displaces water from the acid site. By combining ITC data with vapor-phase water adsorption isotherms and differential scanning calorimetry to construct a Born–Haber cycle for each zeolite, the aqueous-phase enthalpies are quantitatively reconciled with their gas-phase counterparts, and their dependence on Si/Al ratio is traced to the different extents to which the initial and final states are solvated.",
+  "arxiv_id": null,
+  "authors": [
+    "Yanyu Mu",
+    "Jeonghwan Lee",
+    "William A. Elliott",
+    "Robert M. Rioux"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c19203",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Water cuts the measured heat of pyridine binding in zeolite acid sites by about 150 kJ/mol.",
+  "hook_turn": "by about 150 kJ/mol.",
+  "id": "doi-10.1021-jacs.6c19203",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Water lowers pyridine adsorption enthalpy by",
+    "unit": "kJ/mol",
+    "value": "~150"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Isothermal titration calorimetry of pyridine on H-ZSM-5 in water, combined with a Born-Haber cycle, reconciles liquid and gas-phase energies. The trend with Si/Al ratio comes from how strongly water solvates the acid site and pyridinium, not from acid strength. Only one probe molecule and three zeolites were studied.",
+  "tags": [
+    "zeolites",
+    "calorimetry",
+    "solvation"
+  ],
+  "title": "Effect of Water on Elementary Reactions in Solid-Acid Catalyzed Reactions: Thermodynamics of Acid–Base Interactions in H-ZSM-5",
+  "url": "https://doi.org/10.1021/jacs.6c19203",
+  "venue": "Journal of the American Chemical Society"
+}

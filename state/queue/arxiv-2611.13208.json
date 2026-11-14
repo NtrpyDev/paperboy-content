@@ -1,0 +1,36 @@
+{
+  "abstract": "Jones showed that Thompson's group $F$ produces all unoriented links, and introduced its oriented subgroup $\\vec{F}$, which produces all oriented links; the same holds for the Brown-Thompson group $F_3$ and its oriented subgroup $\\vec{F}_3$. The corresponding Thompson indices measure the complexity of a knot in these groups, much as the braid index does for braid groups. In this article we prove that the span of the Jones polynomial plus $1$ is a lower bound for the $F$- and $\\vec{F}$-index, and we give lower bounds for the $\\vec{F}$- and $\\vec{F}_3$-index in terms of the degrees of the HOMFLY-PT polynomial. We then compute the four indices (the $F$-, $F_3$-, $\\vec{F}$- and $\\vec{F}_3$-index) for the prime knots with at most 13 crossings, by an exhaustive enumeration of tree diagrams (up to 13 leaves for $F$, 17 for $\\vec{F}$, with the HOMFLY-PT polynomials of all the diagrams with 19 leaves, and 9 and 11 for $F_3$ and $\\vec{F}_3$) completed by targeted searches; every value is rigorously certified, by exact computations and by verified computations of hyperbolic structures in interval arithmetic. The $F$-index is determined for all knots with at most 11 crossings, the $\\vec{F}$-index for all knots with at most 8 crossings, and the $F_3$- and $\\vec{F}_3$-index for all knots with at most 12 crossings. The main outcome of these computations is that the oriented indices are sensitive to the orientation: we find hundreds of non-invertible knots $K$ whose reverse $K^r$ has a different $\\vec{F}$- or $\\vec{F}_3$-index, the smallest being $8_{17}$ (with $\\vec{F}_3$-index $7$ and $9$). The $\\vec{F}$-index also distinguishes the Conway knot from its mutant, the Kinoshita-Terasaka knot.",
+  "arxiv_id": "2611.13208",
+  "authors": [
+    "Valeriano Aiello"
+  ],
+  "categories": [
+    "math.GT",
+    "math.GR"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13208"
+  },
+  "hook": "Reversing a knot can change its Thompson group index. Hundreds of knots do, starting with 8_17.",
+  "hook_turn": "Hundreds of knots do, starting with 8_17.",
+  "id": "arxiv-2611.13208",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Thompson group indices measure how complex a knot is within those groups, much like braid index. The paper proves lower bounds and computes four indices for knots up to 13 crossings by exhaustive enumeration, finding hundreds of knots whose reverse has a different oriented index. Values are fully determined only for knots up to 8 to 12 crossings, depending on the index.",
+  "tags": [
+    "knot theory",
+    "thompson groups"
+  ],
+  "title": "Thompson indices of knots and the invertibility problem",
+  "url": "https://arxiv.org/abs/2611.13208",
+  "venue": "arXiv"
+}

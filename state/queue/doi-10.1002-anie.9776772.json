@@ -1,0 +1,42 @@
+{
+  "abstract": "Boron/nitrogen‑embedded multi‑resonance thermally activated delayed fluorescence (MR‑TADF) emitters are highly attractive for developing wide‑color‑gamut and low‑power‑consumption organic light‑emitting diode (OLED) displays. However, their development and application face challenges of slow reverse intersystem crossing (RISC) and significant synthetic difficulties that arise from the borylation reaction. In this study, we introduce the incorporation of B-S bonds into the MR framework as a strategic design concept, achieved by designing molecules (O2S2-B3N and MesO2S2-B3N) that contain both B-S and B-O bonds within the same core. The introduction of B-S bonds promotes enhanced spin-orbit coupling relative to the control compound with only B-O bonds, enabling substantially faster RISC with rate constants exceeding 2.6 × 105 s-1, while also facilitating streamlined borylation with yields reaching 85%. The B-S incorporation preserves narrowband emission, yielding full widths at half maximum (FWHMs) of 22-23 nm. In a non‑sensitized electroluminescent device, MesO2S2-B3N retains a narrow emission profile (FWHM: 26 nm) and achieves a high external quantum efficiency of 30.2% with substantially improved efficiency roll‑off characteristics compared to the control compound. This B-S incorporation strategy provides a unified solution to both the slow RISC kinetics and the challenging synthesis in MR‑TADF materials, establishing a new route to high‑performance, readily accessible emitters.",
+  "arxiv_id": null,
+  "authors": [
+    "Yashu Wang",
+    "Xing Wang",
+    "Yanan Cui",
+    "Ziping Chi",
+    "Xingyuan Song",
+    "Zuolun Zhang"
+  ],
+  "categories": [],
+  "doi": "10.1002/anie.9776772",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Adding boron-sulfur bonds speeds up a narrowband OLED emitter and gives 30.2% external efficiency.",
+  "id": "doi-10.1002-anie.9776772",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "External quantum efficiency of the OLED",
+    "unit": "%",
+    "value": "30.2"
+  },
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Chemists put B-S bonds next to B-O bonds in a multi-resonance emitter, which strengthens spin-orbit coupling and speeds the slow step that recycles dark excited states into light. The synthesis also reached yields up to 85%. Results come from two new molecules and one device design compared against a single control.",
+  "tags": [
+    "OLED",
+    "light-emitting molecules"
+  ],
+  "title": "Incorporating B-S Bonds Into Multi-Resonance Frameworks for Narrowband Emitters With Fast Reverse Intersystem Crossing and Facile Synthesis.",
+  "url": "https://doi.org/10.1002/anie.9776772",
+  "venue": "Angewandte Chemie International Edition"
+}

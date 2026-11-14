@@ -1,0 +1,56 @@
+{
+  "abstract": "CD19 targeted CAR T cell therapy induces profound B cell depletion and clinical responses in autoimmune disease; however, whether it reshapes host microbiota interactions remains unknown. We longitudinally profiled gut microbiome composition and microbiota-specific humoral immunity in 20 patients with systemic lupus erythematosus, systemic sclerosis, or idiopathic inflammatory myopathy undergoing CAR T cell therapy, alongside 23 healthy controls, using shotgun metagenomics, IgA/IgG-bound microbiota profiling, and PhIP Seq. CAR T cell therapy reshaped microbiota directed humoral immunity, with reduced fecal IgA and serum anti commensal IgA and IgG accompanied by selective remodeling of microbiota-reactive antibody repertoires. This finding was paralleled by selective changes in gut microbial composition, including depletion of Bifidobacterium adolescentis, without uniform depletion of disease-associated pathobionts. Integrated host microbiome analyses identified altered predicted protein protein interactions involving the immunoproteasome and B cell plasma cell pathways, with interactions before CAR T cell intervention being significantly associated with subsequent relapse. Consistent with these findings, taxon specific IgA targeting, but not global diversity of IgA IgG coated microbiota, differed according to subsequent relapse. Lower baseline fecal IgA was also associated with delayed B-cell reconstitution, linking mucosal humoral immunity to immune recovery after CAR T cell therapy.",
+  "arxiv_id": null,
+  "authors": [
+    "Zaiss, M. M.",
+    "Maeda, Y.",
+    "Yi-Yuan, L.",
+    "Redanz, S.",
+    "Petrov, V.",
+    "Gimaev, I.",
+    "Fehringer, M.",
+    "Pereira, M. S.",
+    "Robeck, S.",
+    "Chu, J.",
+    "Hagen, M.",
+    "Wirsching, A.",
+    "Rothe, T.",
+    "Prinzensteiner, M.",
+    "Bozec, A.",
+    "Mueller, F.",
+    "Mackensen, A.",
+    "Vogl, T.",
+    "Schett, G.",
+    "Brito, I. L.",
+    "Kriegel, M. A."
+  ],
+  "categories": [
+    "immunology"
+  ],
+  "doi": "10.64898/2026.11.11.765834",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/12/2026.11.11.765834.source.xml"
+  },
+  "hook": "CAR T therapy lowers antibodies against gut microbes in autoimmune patients. Baseline levels track relapse.",
+  "hook_turn": "Baseline levels track relapse.",
+  "id": "doi-10.64898-2026.11.11.765834",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "In 20 lupus, scleroderma, or myositis patients, CAR T therapy cut fecal IgA and antibody levels against gut microbes and shifted some species, such as Bifidobacterium adolescentis. Taxon-specific IgA before treatment differed by later relapse. The cohort is small and observational, so these links are associations, not proof of a role in relapse.",
+  "tags": [
+    "CAR T cells",
+    "microbiome",
+    "autoimmune disease"
+  ],
+  "title": "CD19 CAR T cell therapy reshapes the host microbiota immune axis in autoimmune diseases",
+  "url": "https://doi.org/10.64898/2026.11.11.765834",
+  "venue": "bioRxiv"
+}

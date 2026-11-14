@@ -1,0 +1,49 @@
+{
+  "abstract": "Abstract The application of sodium-ion batteries (SIBs) in wide-temperature and fast-charging scenarios is severely constrained by the performance limitations of electrolytes. Conventional ester-based electrolytes struggle to simultaneously achieve high ionic conductivity, low desolvation energy, and excellent interfacial stability. Herein, we propose a hybrid solvent system comprising ethyl propionate and ethoxy(pentafluoro)cyclotriphosphazene (PFPN), aiming to synergistically enhance the rate capability and temperature adaptability of SIBs. The relatively weak coordination ability of both solvents effectively promotes anion participation in solvation structure, significantly lowering the Na+ desolvation energy barrier and inducing the formation of stable, inorganic-rich electrode/electrolyte interphases. Meanwhile, the dual-solvent combination increases the diversity of solvation configurations and reduces ion clustering, thereby enhancing ionic conductivity. The intrinsic nonflammability and excellent film-forming ability of PFPN further enhance safety and synergistically strengthen interfacial stability. Therefore, Prussian blue||hard carbon full cells operate stably over a wide temperature range from −50 to 100 °C. Notably, ampere-hour-level pouch cells deliver a capacity retention of 86.3% after 300 cycles at 25 °C and maintain stable operation for over 100 cycles even at −20 and 80 °C. This solvent synergy strategy offers a practical new pathway for the development of electrolytes for SIBs in extreme environments.",
+  "arxiv_id": null,
+  "authors": [
+    "Yun Wan",
+    "Xiaoyan Shi",
+    "Yuerong Li",
+    "Zhiming Zhou",
+    "Xu Xu",
+    "Xinhui Zeng",
+    "Xiaosa Zhang",
+    "Xunzhu Zhou",
+    "Huanhuan Dong",
+    "Xingqiao Wu",
+    "Shu-Lei Chou",
+    "Lin Li"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c15956",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A two-solvent electrolyte keeps sodium-ion cells running from -50 to 100 degrees C.",
+  "hook_turn": "from -50 to 100 degrees C.",
+  "id": "doi-10.1021-jacs.6c15956",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Pouch cell capacity kept after 300 cycles",
+    "unit": "%",
+    "value": "86.3"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Mixing ethyl propionate with a flame-retardant phosphazene weakens sodium coordination, speeds ion transfer, and builds a stable inorganic-rich interface. Prussian blue and hard carbon cells ran across the range, and ampere-hour pouch cells kept 86.3% capacity after 300 cycles. Long-term cycling at extreme temperatures was tested only to about 100 cycles.",
+  "tags": [
+    "sodium-ion batteries",
+    "electrolytes"
+  ],
+  "title": "Hybrid Weakly Coordinated Solvents for Fast-Charging and Wide-Temperature Sodium-Ion Full Batteries",
+  "url": "https://doi.org/10.1021/jacs.6c15956",
+  "venue": "Journal of the American Chemical Society"
+}

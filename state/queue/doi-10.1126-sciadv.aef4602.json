@@ -1,0 +1,40 @@
+{
+  "abstract": "Climate change is intensifying floods and storms, leading governments to consider relocating households away from high-risk areas. Yet, there is little evidence on whether such programs reduce risk or improve household well-being. I evaluate the US Federal Emergency Management Agency's property acquisition (\"buyout\") program using nationwide longitudinal records that track households before and after approval. By comparing households facing similar mapped flood risks, I estimate the program's effects on relocation, residence in high-risk flood areas, and financial outcomes. Households that participate are more likely to relocate outside Federal Emergency Management Agency-designated flood hazard areas and experience short-term reductions in debt and improvements in neighborhood socioeconomic conditions. However, these benefits are concentrated among participants from wealthier and predominantly white neighborhoods, who relocate more quickly and achieve larger reductions in risk. A benefit-cost analysis shows that the program value depends on implementation costs and realized reductions in flood-risk exposure, with benefit-cost ratios ranging from 0.84 to 1.28 across three scenarios. These results show that government-assisted relocation can be an effective adaptation tool, but its social and economic benefits remain unevenly distributed.",
+  "arxiv_id": null,
+  "authors": [
+    "Rachel Young"
+  ],
+  "categories": [
+    "Humans",
+    "Family Characteristics",
+    "Cost-Benefit Analysis",
+    "United States",
+    "Floods",
+    "Climate Change"
+  ],
+  "doi": "10.1126/sciadv.aef4602",
+  "explain": false,
+  "field": "social",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "US flood buyouts moved households out of risky areas, but mostly helped wealthier, whiter neighborhoods.",
+  "hook_turn": "but mostly helped wealthier, whiter neighborhoods.",
+  "id": "doi-10.1126-sciadv.aef4602",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Tracking households before and after approval for FEMA buyouts, and comparing them with similar flood-risk households, the study found participants more often moved out of flood zones and cut debt briefly. Benefit-cost ratios ranged from 0.84 to 1.28 across scenarios. The comparison is observational, so unmeasured differences could affect the estimates.",
+  "tags": [
+    "flood adaptation",
+    "climate policy"
+  ],
+  "title": "Does government-assisted relocation help households.",
+  "url": "https://doi.org/10.1126/sciadv.aef4602",
+  "venue": "Science Advances"
+}

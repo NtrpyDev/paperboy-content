@@ -1,0 +1,55 @@
+{
+  "abstract": "The rise of edge-centric 6G networks demands real-time intelligent processing of heterogeneous radio-frequency (RF) signals. Complex-valued blind source separation (CV-BSS) provides a physical-layer capability, enabling the blind extraction of source components from overlapping RF signals. Here, we demonstrate an integrated photonic vector processor (IPVP) that implements real-time CV-BSS via in-physics computation directly on raw RF signals. The IPVP operates across multiple RF bands up to 24 GHz and achieves blind, in-hardware adaptation to unknown sources and channels via in situ learning. Experiments demonstrate the efficacy of IPVP in multiple-input multiple-output (MIMO) communications and multi-band radar interference suppression. The IPVP reduces the EVMs of the two recovered signals from over 50% to 6.18% and 5.3%, respectively, while enhancing the SIR by up to 26 dB. This work demonstrates, to our knowledge, the first photonic processor capable of real-time CV-BSS at RF, highlighting the potential of integrated photonic hardware for ultralow-latency, edge-intelligent signal processing.",
+  "arxiv_id": null,
+  "authors": [
+    "Jiajia Wang",
+    "Shuran Zhang",
+    "Haoran Zhang",
+    "Yifu Xu",
+    "Shifan Chen",
+    "Peiming Yan",
+    "Zhihui Liu",
+    "Xiaotian Zhu",
+    "Shuying Li",
+    "Yuyang Liu",
+    "Sha Zhu",
+    "Chao Wang",
+    "Yunping Bai",
+    "Chaoran Huang",
+    "Sai T Chu",
+    "David J Moss",
+    "Xingyuan Xu",
+    "Kun Xu"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aeg1515",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A photonic chip separated mixed radio signals in real time at up to 24 GHz.",
+  "hook_turn": "at up to 24 GHz.",
+  "id": "doi-10.1126-sciadv.aeg1515",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Max signal-to-interference gain",
+    "unit": "dB",
+    "value": "26"
+  },
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "An integrated photonic processor learns in hardware to unmix overlapping radio signals without knowing the sources, cutting error in two recovered signals from over 50% to about 6%. It was tested in communication and radar setups in the lab. Real-world channel conditions and scaling beyond two signals are open questions.",
+  "tags": [
+    "photonic computing",
+    "signal processing"
+  ],
+  "title": "Real-time complex-valued RF blind source separation via in-physics computing.",
+  "url": "https://doi.org/10.1126/sciadv.aeg1515",
+  "venue": "Science Advances"
+}

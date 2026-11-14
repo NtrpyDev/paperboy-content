@@ -1,0 +1,38 @@
+{
+  "abstract": "Genetic Programming (GP) is a search paradigm inspired from natural evolution for the automated discovery of expressions, functions, and computer programs. Cartesian GP (CGP) is a flavor of GP that uses a graph-based model to encode candidate programs, as contrasted to the conventional Tree-based GP (TGP). Since its inception two decades ago, CGP has predominantly been analyzed empirically, thus little is known regarding its theoretical performance guarantees. This paper analyzes CGP for the Max problem, which has been only rigorously studied for TGP with a proven expected runtime superlinear in the optimal program length $n$. We prove that the expected time for the ($1$+$1$)~CGP employing common mutation operators to evolve an equivalent optimal of the same output is polylogarithmic in $n$, specifically at most $O(\\log^9{n})$. This is remarkable, as it shows an exponential speedup by switching to CGP. Our results shed light on the benefit and the compactness of the graph-based representation for programs, and on how CGP can navigate its search and fitness spaces efficiently. This is a first proven performance guarantee for CGP on an established benchmark problem. Experiments complement our theoretical findings.",
+  "arxiv_id": "2611.16013",
+  "authors": [
+    "Duc-Cuong Dang",
+    "Roman Kalkreuth",
+    "Andre Opris"
+  ],
+  "categories": [
+    "cs.LG",
+    "cs.AI",
+    "cs.NE"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16013"
+  },
+  "hook": "Graph-based genetic programming provably solves the Max problem exponentially faster than tree-based.",
+  "id": "arxiv-2611.16013",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove that Cartesian genetic programming, which encodes programs as graphs, finds an optimal Max program in at most O(log^9 n) expected time, versus superlinear for tree-based genetic programming. Experiments back the proof. The guarantee covers one benchmark and a simple (1+1) algorithm.",
+  "tags": [
+    "genetic programming",
+    "runtime analysis"
+  ],
+  "title": "Runtime Analysis of Cartesian Genetic Programming on Max: A Proven Exponential Speedup",
+  "url": "https://arxiv.org/abs/2611.16013",
+  "venue": "arXiv"
+}

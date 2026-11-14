@@ -1,0 +1,44 @@
+{
+  "abstract": "Mucosa-associated invariant T (MAIT) cells have been paradoxically implicated in tissue repair and fibrosis. However, when and how they modulate fibrogenesis in distinct tissue environments remain unclear. Using the carbon tetrachloride model of liver injury in major histocompatibility complex–related protein 1 (MR1)– and MAIT cell–sufficient and –deficient mice, we identify MAIT cells as early drivers of fibrogenesis. MAIT cells exacerbated hepatocellular injury, myofibroblast activation, and matrix deposition during fibrosis initiation, coinciding with rapid polarization toward a MAIT17 phenotype and induction of a profibrotic transcriptional program. Despite acquiring an exhaustion-associated phenotype, MAIT cells retained their effector functions. Mechanistically, MAIT cells limited hepatic regulatory T (T reg ) cell accumulation, accompanied by reduced Ki-67 and CXCR3 levels in the latter population. Furthermore, in vivo T reg cell inactivation abrogated MAIT cell–dependent differences in fibrosis severity. Together, these findings identify MAIT cells as early orchestrators of fibrogenesis and reveal a previously unappreciated MAIT-T reg axis that can be therapeutically targeted in the early stages of fibrotic diseases.",
+  "arxiv_id": null,
+  "authors": [
+    "Nicole I. Wang",
+    "Valeryia Shydlouskaya",
+    "Angela Schincaglia",
+    "Katelyn R. Reid",
+    "Agetha Mahendran",
+    "Denise Cao",
+    "Brian A. Keller",
+    "Shereen Q. Zia",
+    "Ahmad R. Movasseghi",
+    "Julius Haruna",
+    "Veronica Guariglia-Oropeza",
+    "Dale I. Godfrey",
+    "S. M. Mansour Haeryfar"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aej0496",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "MAIT immune cells speed early liver scarring in mice by suppressing regulatory T cells.",
+  "id": "doi-10.1126-sciadv.aej0496",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "In mice given carbon tetrachloride, those with MAIT cells developed worse injury, myofibroblast activation and matrix deposition early on. MAIT cells held down the buildup of regulatory T cells, and disabling those cells erased the MAIT effect. This is one chemical injury model in mice, so the role in human liver disease is unproven.",
+  "tags": [
+    "liver fibrosis",
+    "T cells"
+  ],
+  "title": "MAIT cells exacerbate early liver fibrosis by downsizing the intrahepatic regulatory T cell compartment",
+  "url": "https://doi.org/10.1126/sciadv.aej0496",
+  "venue": "Science Advances"
+}

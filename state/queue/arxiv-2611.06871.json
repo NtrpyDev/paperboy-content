@@ -1,0 +1,42 @@
+{
+  "abstract": "Pseudo-Jahn-Teller distortions can substantially alter singlet-triplet gaps, potentially reversing the predicted excited-state ordering in molecules proposed to exhibit inverted singlet-triplet (INVEST) gaps. In this study, we benchmark geometry optimization methods for 13 azaphenalenes against CCSD(T)-quality reference geometries, assessing their ability to reproduce symmetry lowering and its consequences for singlet-triplet gaps. Among the methods examined, $\\omega$B97M-D4 reliably describes the distorted geometries and corresponding gaps, whereas the commonly used methods B3LYP and MP2 retain high-symmetry structures, potentially leading to false-positive INVEST assignments. We further assess $\\omega$B97M-D4 geometries across 337 molecules comprising azaphenalenes, boron/nitrogen-substituted polycyclic aromatic hydrocarbons, and non-alternant hydrocarbons. Subsequent L-CC2/aug-cc-pVDZ calculations predict negative singlet-triplet gaps for 85 molecules and identify discrepancies with previously reported INVEST assignments. These findings demonstrate that the choice of geometry optimization method is crucial for reliable INVEST screening, particularly in systems susceptible to symmetry-breaking distortions.",
+  "arxiv_id": "2611.06871",
+  "authors": [
+    "Atreyee Majumdar",
+    "Elamathi Selvan Samynathan",
+    "Raghunathan Ramakrishnan"
+  ],
+  "categories": [
+    "physics.chem-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.06871"
+  },
+  "hook": "Common methods keep molecules too symmetric, creating false inverted singlet-triplet gaps.",
+  "hook_turn": "creating false inverted singlet-triplet gaps.",
+  "id": "arxiv-2611.06871",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-04",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Predicted negative singlet-triplet gaps, of 337",
+    "unit": "molecules",
+    "value": "85"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Standard geometry optimizers B3LYP and MP2 miss symmetry-lowering distortions in azaphenalenes, which can wrongly flag a molecule as having an inverted singlet-triplet gap. Checked against CCSD(T)-quality geometries, ωB97M-D4 captured the distortions, and follow-up L-CC2 calculations on 337 molecules gave negative gaps for 85. All results are computed, with no experimental measurements to confirm the predicted gaps.",
+  "tags": [
+    "inverted singlet-triplet gap",
+    "computational chemistry"
+  ],
+  "title": "When optimized geometries are not optimal: Implications for inverted singlet-triplet gap predictions",
+  "url": "https://arxiv.org/abs/2611.06871",
+  "venue": "arXiv"
+}

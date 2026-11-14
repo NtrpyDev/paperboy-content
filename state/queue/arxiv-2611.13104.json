@@ -1,0 +1,49 @@
+{
+  "abstract": "Measuring lithium abundance in galaxies beyond the Milky Way (MW) remains a challenging task. In these systems, only stars close to the tip of the red giant branch (RGB) are sufficiently bright to be observed spectroscopically.Their A(Li) are expected to be altered by mixing episodes that occur during the stellar evolution, making the interpretation of measured abundances more complex. In this context, we present A(Li) of 209 RGB stars in the Small Magellanic Cloud (SMC),observed with FLAMES@VLT. Approximately one-third of the sample shows a Li line detected at a significance level above 5sigma, while about half of the sample has detections above 3sigma; for the remaining stars, only upper limits can be derived. This sample exhibits a significant star-to-star scatter in A(Li). Using theoretical models, we find that the observed scatter can be likely explained by the combination of 2 effects.First,our stars span a wide range of ages, masses, [Fe/H]. Thermohaline mixing, one of the leading mechanisms proposed to explain the extra mixing occurring at the RGB bump, predicts different levels of A(Li) depletion depending on stellar mass and [Fe/H], naturally contributing to the observed scatter in A(Li). Second, in the SMC, the enrichment in A(Li) driven by novae is expected to occur at lower [Fe/H] than in the MW, because the SMC has experienced a lower star formation efficiency than the MW. This is also supported by the rise of A(Li) with decreasing age, as measured in 3 SMC globular clusters. Furthermore, we report the first identification of 4 low-mass Li-rich giant stars in the SMC, reinforcing the existence of Li-rich stars in extra-galactic systems. All these results demonstrate that A(Li) measured in stars close to the RGB tip, still provide valuable constraints on both stellar/galactic chemical evolution of A(Li) in external galaxies.",
+  "arxiv_id": "2611.13104",
+  "authors": [
+    "A. Mucciarelli",
+    "M. Palla",
+    "C. T. Nguyen",
+    "L. Monaco",
+    "E. Pancino",
+    "D. A. Alvarez Garay",
+    "S. Anoardo",
+    "C. Lardo",
+    "F. Matteucci",
+    "D. Romano"
+  ],
+  "categories": [
+    "astro-ph.SR",
+    "astro-ph.GA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13104"
+  },
+  "hook": "Four lithium-rich giants found in the Small Magellanic Cloud, the first low-mass ones identified there.",
+  "id": "arxiv-2611.13104",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Red giants with lithium measured, SMC",
+    "unit": "stars",
+    "value": "209"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Lithium is hard to measure in other galaxies. The team measured it in 209 red giants in the Small Magellanic Cloud with VLT spectra, and compared the star-to-star scatter with models of mixing and nova enrichment. Many stars give only upper limits, and the model explanation is likely rather than proven.",
+  "tags": [
+    "lithium",
+    "Magellanic Clouds"
+  ],
+  "title": "The chemical DNA of the Magellanic Clouds -- VII. The lithium abundance in the Small Magellanic Cloud and the discovery of 4 lithium-rich stars",
+  "url": "https://arxiv.org/abs/2611.13104",
+  "venue": "arXiv"
+}

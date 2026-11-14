@@ -1,0 +1,44 @@
+{
+  "abstract": "Frontier models such as GPT-6.1 Sol, GPT-6 Astra and Claude Opus 5.5 can now plan and call tools, yet they still struggle to drive real robots through long-horizon, contact-rich manipulation, blind while the arm moves and while they think. We present Reins, a harness in which an off-the-shelf model operates a dual-arm robot with 3D perception tools and atomic actions that report contact and grip. The model chains actions in one call, each with a condition that must hold, stopping at the first that fails; a second instance, the narrator, watches the cameras continuously and reports what changed with every result. From images, Reins also builds a simulation-ready twin of the scene for continual policy learning. With natural-language prompts and no task-specific code, GPT-6.1 Sol succeeds in 88% of real episodes on five tasks; without the harness, it fails every shell game, taking 8 times as long. Three frontier models perform alike but differ in tracking a scene that changes while the actor thinks. Code will be released upon publication.",
+  "arxiv_id": "2611.16632",
+  "authors": [
+    "Pengfei Ye",
+    "Zhiyang Dou",
+    "Yuxiang Ma",
+    "Haonan Chen",
+    "Heng Yang",
+    "Edward H. Adelson"
+  ],
+  "categories": [
+    "cs.RO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16632"
+  },
+  "hook": "A harness lets an off-the-shelf AI model run a two-armed robot, succeeding in 88% of real episodes.",
+  "id": "arxiv-2611.16632",
+  "license": "cc-by-nc-sa",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Real-robot episode success, five tasks",
+    "unit": "percent",
+    "value": "88"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The system gives a frontier model perception tools and actions that report contact, plus a second model watching cameras and narrating changes. With prompts alone, the best model succeeded in 88% of real episodes across five tasks. Only five tasks were tested, and the code is not yet released.",
+  "tags": [
+    "robot manipulation",
+    "language models"
+  ],
+  "title": "Reins: Frontier Multimodal Models Driving Real Robot Arms on Long-Horizon Tasks, Zero-Shot",
+  "url": "https://arxiv.org/abs/2611.16632",
+  "venue": "arXiv"
+}

@@ -1,0 +1,38 @@
+{
+  "abstract": "We prove a lower bound of $\\Omega_d((\\log N)^{d-1/2})$ for the worst-case combinatorial discrepancy of $N$-point sets with respect to anchored boxes in every fixed dimension $d\\ge3$. Together with Nikolov's upper bound of the same order and Wei's planar lower bound, this settles Tusn\\'ady's problem: the discrepancy of axis-parallel boxes is $\\Theta_d((\\log N)^{d-1/2})$ in every fixed dimension $d\\ge2$. The proof combines smoothed product test functions, sampling discretization, and an entropy argument for conditioned Gaussian vectors. The matching upper and lower bounds are also formalized in Lean 4.",
+  "arxiv_id": "2611.06998",
+  "authors": [
+    "Nicola Wengiel"
+  ],
+  "categories": [
+    "math.CA",
+    "cs.CG",
+    "cs.DS",
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.06998"
+  },
+  "hook": "Box discrepancy grows like (log N)^(d-1/2) in every dimension, closing Tusnády's problem.",
+  "hook_turn": "closing Tusnády's problem.",
+  "id": "arxiv-2611.06998",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-04",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 8,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The best possible imbalance when two-coloring N points so every axis-parallel box is split evenly grows as (log N)^(d-1/2) in each fixed dimension d of 2 or more. The new lower bound for d of 3 or more matches an earlier upper bound, and the proof uses smoothed test functions, sampling, and an entropy argument. The bounds are also checked in Lean 4, but the constants depend on d and are not made explicit.",
+  "tags": [
+    "discrepancy theory",
+    "combinatorics"
+  ],
+  "title": "Resolving Tusn\\'ady's Problem",
+  "url": "https://arxiv.org/abs/2611.06998",
+  "venue": "arXiv"
+}

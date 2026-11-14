@@ -1,0 +1,43 @@
+{
+  "abstract": "A compact hyperbolic surface is $k$-extremal if it contains $k$ disjoint embedded discs of the largest possible radius; such surfaces are uniformized by surface subgroups of the triangle groups $\\Delta^{\\pm}(2,3,N)$. We determine all extremal $k$-packings in every $k$-extremal surface of minimal genus, orientable of genus $2$ and non-orientable of genus $3$: $373$ surface groups in total, all treated in a unified way; $264$ of them had never been studied before. The computation is automatic and verified in exact arithmetic, each packing being certified by an element $\\alpha\\in\\mathrm{PGL}_2$ over an explicit number field with $\\alpha^{-1}K\\alpha<\\Delta^{\\pm}(2,3,N)$. We also obtain the full isometry groups of these surfaces. In every surface but one, all the extremal packings are related by isometries. The exception is the genus two surface $X_6$ of Girondo and Gonz\\'alez-Diez, which has exactly five extremal $4$-packings, one invariant under all isometries and four forming an orbit; it is also the only one of these surfaces uniformized by two non-conjugate subgroups of the same triangle group, and we show that the two facts are equivalent. We find its equation, $y^2=x^6+2\\sqrt{3}\\,i\\,x^3+1$. The results form a catalogue with detailed data and pictures of every surface (packings, isometries, Weierstrass points, Dirichlet domains), distributed with programs that allow the reader to consult it and to reproduce it completely.",
+  "arxiv_id": "2611.15477",
+  "authors": [
+    "Ernesto Girondo",
+    "Cristian Reyes-Monsalve"
+  ],
+  "categories": [
+    "math.GT",
+    "math.CV",
+    "math.GR",
+    "math.MG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15477"
+  },
+  "hook": "On 373 hyperbolic surfaces, extremal disc packings are all symmetric copies, except on one genus-2 surface.",
+  "id": "arxiv-2611.15477",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Surface groups with packings determined",
+    "unit": "surface groups",
+    "value": "373"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors computed every largest-radius disc packing on the minimal-genus hyperbolic surfaces that admit them, 373 surface groups in all, with exact-arithmetic certificates. All packings are related by isometries except on the genus-2 surface X6, which has five 4-packings and the equation y^2 = x^6 + 2 sqrt(3) i x^3 + 1. The result covers only minimal genus surfaces.",
+  "tags": [
+    "hyperbolic geometry",
+    "disc packing"
+  ],
+  "title": "Extremal disc packings in compact hyperbolic surfaces of minimal genus",
+  "url": "https://arxiv.org/abs/2611.15477",
+  "venue": "arXiv"
+}

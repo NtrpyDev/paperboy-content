@@ -1,0 +1,41 @@
+{
+  "abstract": "We investigate the critical geometry of triconnected clusters in percolation, which remain connected after the removal of any two sites. By combining biconnected-component decomposition with the SPQR decomposition of graphs, we develop an efficient algorithm for identifying triconnected clusters in large systems. Extensive Monte Carlo simulations yield estimates of the fractal dimension $d_3=1.2308(3)$, $1.083(2)$, and $0.77(2)$ in dimensions $d=2$, $3$, and $4$, respectively, revealing a systematic decrease of $d_3$ with increasing $d$. In dimension $d=6$, the largest triconnected cluster grows logarithmically with system size, whereas on complete graphs, corresponding to $d=\\infty$, it approaches a finite size. Both behaviors indicate a vanishing fractal dimension, $d_3=0$, for $d\\geq6$. Furthermore, the singular contribution to the susceptibility-like quantity associated with the second moment of the triconnected-cluster size distribution scales as $\\chi\\sim L^{2d_3-d}$. Consequently, it vanishes for $d\\geq3$, leaving a finite asymptotic susceptibility, in contrast to the divergent behavior observed in standard percolation.",
+  "arxiv_id": "2611.13783",
+  "authors": [
+    "Qi Wang",
+    "Youjin Deng",
+    "Ming Li"
+  ],
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13783"
+  },
+  "hook": "Triconnected percolation clusters have fractal dimension 1.2308 in 2D, and vanish above dimension 6.",
+  "hook_turn": "and vanish above dimension 6.",
+  "id": "arxiv-2611.13783",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Triconnected cluster fractal dimension, 2D",
+    "value": "1.2308"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A new algorithm based on SPQR graph decomposition finds clusters that stay connected after removing any two sites. Monte Carlo simulations give fractal dimensions of 1.2308 in 2D, 1.083 in 3D and 0.77 in 4D, falling to zero at dimension 6 and above. Results are numerical estimates, not proofs.",
+  "tags": [
+    "percolation",
+    "statistical mechanics"
+  ],
+  "title": "Critical geometry of triconnected clusters in percolation",
+  "url": "https://arxiv.org/abs/2611.13783",
+  "venue": "arXiv"
+}

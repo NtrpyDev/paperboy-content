@@ -1,0 +1,67 @@
+{
+  "abstract": "With new high-resolution spectra and radial velocities (RVs) from the NEID spectrometer, we reaffirm the planetary designation of the previously identified super-eccentric giant planet Gaia~3b. Our additional 23 RVs span 356 days, including an RV observation obtained within hours of the periastron passage. By modeling all of the available RVs we collapse a previously tri-modal orbital period posterior distribution and report a more precisely measured value of $P=331.52\\pm0.02$ days. Our measure of the eccentricity ($e=0.9462\\pm0.0017$) is in agreement with previous measurements and thus corroborates the status of Gaia~3b as the third most eccentric planet known to date. We generate synthetic realizations of the Gaia astrometric time series and derived RUWE to show that only the planetary-companion and close to equal-mass binary cases are plausible when compared to the reported RUWE. We then show that the close to equal-mass binary case is unlikely based on the Gaia color-magnitude position and the shape and amplitude of the bisectors measured from the NEID cross-correlation functions. The confirmation of Gaia~3b's planetary status makes it the closest known super-eccentric giant planet ($d \\approx 35$ pc) and leads us to anticipate that Gaia DR4 will detect more super-eccentric planets orbiting nearby Sun-like stars. Finally, due to the presence of a distant stellar companion, we demonstrate that a plausible pathway exists for excitation of the planet's eccentricity by von Zeipel-Kozai-Lidov oscillations.",
+  "arxiv_id": "2611.14714",
+  "authors": [
+    "Evan Fitzmaurice",
+    "Gudmundur Stefansson",
+    "Suvrath Mahadevan",
+    "Haedam Im",
+    "Sarah Millholland",
+    "Rachel B. Fernandes",
+    "Anne Dattilo",
+    "Simon H. Albrecht",
+    "Cullen H. Blake",
+    "Olivia Curtis",
+    "Megan Delamer",
+    "Jiayin Dong",
+    "Mark R. Giovinazzi",
+    "Arvind F. Gupta",
+    "Samuel Halverson",
+    "Kamil K. Kalinowski",
+    "Shubham Kanodia",
+    "Daniel M. Krolikowski",
+    "Sarah E. Logsdon",
+    "Marcus L. Marcussen",
+    "Michael W. McElwain",
+    "Joe P. Ninan",
+    "Leonardo A. Paredes",
+    "Jayadev Rajagopal",
+    "Paul Robertson",
+    "Arpita Roy",
+    "Christian Schwab",
+    "Joshua N. Winn",
+    "Jason T. Wright"
+  ],
+  "categories": [
+    "astro-ph.EP",
+    "astro-ph.SR"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14714"
+  },
+  "hook": "Gaia-3b is confirmed as a planet on a 331.5-day orbit with eccentricity 0.946, the closest of its kind.",
+  "id": "arxiv-2611.14714",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Orbital eccentricity of Gaia-3b",
+    "value": "0.9462"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "New NEID radial velocities, including one near closest approach to the star, pin down the orbit of Gaia-3b and show it is a planet, not a near-equal-mass binary. At about 35 parsecs it is the closest super-eccentric giant planet known. A distant stellar companion could have stretched the orbit through Kozai-Lidov oscillations, though that is only shown as plausible, not proven.",
+  "tags": [
+    "exoplanets",
+    "orbital dynamics"
+  ],
+  "title": "The Closest Super-Eccentric Giant Planet: Dynamical History and Orbital Future of Gaia-3b",
+  "url": "https://arxiv.org/abs/2611.14714",
+  "venue": "arXiv"
+}

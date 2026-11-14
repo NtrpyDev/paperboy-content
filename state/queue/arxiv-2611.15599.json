@@ -1,0 +1,36 @@
+{
+  "abstract": "We propose and provide evidence for the following conjecture: the covering number of a product of metric spaces with the sum metric is greater than or equal to the product of their covering numbers. This generalizes Vizing's conjecture in graph theory. We prove an infinitesimal version of the conjecture for Finsler manifolds of dimension at least six.",
+  "arxiv_id": "2611.15599",
+  "authors": [
+    "Kai Cieliebak",
+    "Milan Cieliebak"
+  ],
+  "categories": [
+    "math.MG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15599"
+  },
+  "hook": "A new conjecture says covering a product of metric spaces takes at least the product of covers.",
+  "hook_turn": "takes at least the product of covers.",
+  "id": "arxiv-2611.15599",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors conjecture that the covering number of a product of metric spaces with the sum metric is at least the product of their covering numbers, generalizing Vizing's conjecture from graph theory. They prove an infinitesimal version for Finsler manifolds of dimension at least six. The general conjecture remains unproven.",
+  "tags": [
+    "metric geometry",
+    "covering numbers"
+  ],
+  "title": "Covering numbers of metric spaces",
+  "url": "https://arxiv.org/abs/2611.15599",
+  "venue": "arXiv"
+}

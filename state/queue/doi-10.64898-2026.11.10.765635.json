@@ -1,0 +1,38 @@
+{
+  "abstract": "Organismal development, homeostasis and immunity are facilitated by distinct forms of regulated cell death (RCD). These include conserved apoptosis and necroptosis, a proposed backup antimicrobial defence that requires RIPK3-mediated activation of MLKL and is predicted to be absent in several species lacking MLKL. Zebrafish studies have identified a RIPK3-dependent regulated necrosis that is distinct from necroptosis and is pathogenic in tuberculosis. Here, we experimentally confirm the bioinformatics-based prediction that zebrafish lack canonical necroptosis because they lack MLKL, despite retaining functional RIPK3. We take advantage of the finding that Caspase-8 promotes apoptosis while restraining necroptosis; its deficiency is embryonic lethal in mice unless RIPK3 or MLKL is also inhibited. In contrast, we found that Caspase-8-deficient zebrafish are viable through adulthood without obvious morphological defects. Inhibition of related caspases did not compromise viability, arguing against functional redundancy. Finally, Ripk3 overexpression failed to induce death in Caspase-8-deficient embryos. Our work highlights the zebrafish as a model for exploring RIPK3 and extrinsic apoptosis biology in disease contexts in the natural absence of canonical necroptotic execution.",
+  "arxiv_id": null,
+  "authors": [
+    "Furtado Milao, J.",
+    "Ramakrishnan, L.",
+    "Yamaguchi, N."
+  ],
+  "categories": [
+    "immunology"
+  ],
+  "doi": "10.64898/2026.11.10.765635",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/11/2026.11.10.765635.source.xml"
+  },
+  "hook": "Zebrafish lack MLKL, so they cannot run classic necroptosis, yet their RIPK3 still works.",
+  "hook_turn": "so they cannot run classic necroptosis, yet their RIPK3 still works.",
+  "id": "doi-10.64898-2026.11.10.765635",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "The authors confirmed zebrafish have no MLKL, the executor of necroptosis, while keeping working RIPK3. Zebrafish missing Caspase-8 survived to adulthood, unlike mice, and overexpressing Ripk3 did not kill them. The result is based on genetic knockouts in one species, though it makes zebrafish a cleaner model for RIPK3 biology.",
+  "tags": [
+    "necroptosis",
+    "zebrafish",
+    "cell death"
+  ],
+  "title": "Zebrafish lack canonical necroptosis despite retaining functional RIPK3",
+  "url": "https://doi.org/10.64898/2026.11.10.765635",
+  "venue": "bioRxiv"
+}

@@ -1,0 +1,51 @@
+{
+  "abstract": "Higher-order exceptional points arise from the coalescence of multiple eigenvalues and eigenstates, leading to enhanced spectral responses to weak perturbations. However, realizing and controlling such higher-order degeneracies in interacting many-body systems remains challenging due to the complex coupling among multiple interacting eigenstates. Here, we construct spatially structured microensemble arrays in cold Rydberg gas, where long-range interaction and spatial connectivity enlarge the effective non-Hermitian dimensionality, enabling higher-order exceptional points. By varying the spatial arrangement of these sites, we realize different orders of non-Hermitian exceptional points. We further show that interactions between Rydberg excitation sites can enhance the quantum Fisher information, thereby improving sensing sensitivity. The resulting higher-order exceptional points exhibit increasingly nonlinear phase-boundary responses, which can be further tuned by varying the measurement time and atom number. By tracking shifts of these phase boundaries, we achieve a sensitivity of 0.47(10) nV cm-1 Hz-1/2, surpassing the standard quantum limit. Our results establish Rydberg microensemble arrays as a platform connecting higher-order non-Hermitian criticality, many-body dynamics, and microwave sensing.",
+  "arxiv_id": "2611.14893",
+  "authors": [
+    "Jun Zhang",
+    "Ya-Jun Wang",
+    "Zi-Han Li",
+    "Jin-Hang Fang",
+    "Luan-Yi Wei",
+    "Qing Li",
+    "Guang-Can Guo",
+    "Bang Liu",
+    "Li-Hua Zhang",
+    "Dong-Sheng Ding",
+    "Bao-Sen Shi"
+  ],
+  "categories": [
+    "cond-mat.quant-gas",
+    "quant-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14893"
+  },
+  "hook": "Rydberg atom arrays at higher-order exceptional points sense microwaves beyond the standard quantum limit",
+  "hook_turn": "beyond the standard quantum limit",
+  "id": "arxiv-2611.14893",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Microwave field sensitivity",
+    "unit": "nV cm-1 Hz-1/2",
+    "value": "0.47"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Researchers arranged small clusters of cold Rydberg atoms so that their long-range interactions produce exceptional points of several orders, where the system responds sharply to weak perturbations. Tracking shifts in the phase boundaries gave a microwave sensitivity of 0.47(10) nV cm-1 Hz-1/2, beating the standard quantum limit. This is a laboratory demonstration of one setup, not a field-ready sensor.",
+  "tags": [
+    "quantum sensing",
+    "Rydberg atoms"
+  ],
+  "title": "Higher-Order Exceptional Point Sensing with Rydberg Micro-Ensemble Arrays",
+  "url": "https://arxiv.org/abs/2611.14893",
+  "venue": "arXiv"
+}

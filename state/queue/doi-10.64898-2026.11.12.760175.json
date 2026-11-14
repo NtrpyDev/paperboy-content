@@ -1,0 +1,52 @@
+{
+  "abstract": "Cyclin-dependent kinase 12 (CDK12) is an attractive therapeutic target due to its critical role in transcriptional regulation and DNA damage response and is frequently co-amplified with ERBB2 (HER2) in breast cancer. CDK12 forms an active complex with its obligate partner cyclin K (CCNK), and pharmacological degradation of CCNK has emerged as a promising strategy for disrupting CDK12-dependent transcriptional programs. However, the broad expression and essential functions of the CDK12/CCNK complex may limit the therapeutic window of highly potent molecular glue degraders. Here, we investigate whether antibody-mediated delivery can impart cellular selectivity to a molecular glue degrader through targeting the HER2 receptor. Molecular glues lack the modular architecture of PROTACs, thus linker placement can be the central design problem. We designed SAS1001, a CCNK molecular glue degrader with a solvent-exposed piperazine primed for linker attachment. SAS1001 induced potent and ubiquitin-proteasome system-dependent degradation of CCNK and inhibited proliferation in a range of breast cancer cells. Conjugation to trastuzumab (Tz) generated the HER2-targeted degrader-antibody conjugate Tz-SS2009, which internalized preferentially in HER2-positive cells and produced enhanced CCNK degradation and antiproliferative effects, relative both to HER2-negative cells and to an isotype-matched non-targeting conjugate. Whole proteome analysis further demonstrated CCNK depletion and revealed downstream changes consistent with established roles of the CDK12/CCNK complex in transcriptional regulation. These findings demonstrate that antibody-mediated delivery can redistribute the cellular activity of a potent molecular glue degrader towards antigen-positive cells. In the CR8/DS18 purine series, substitution at a solvent-exposed position preserved CCNK degradation when the degrader was delivered on a full-length IgG. More broadly, this work extends antibody-directed degradation beyond the CRBN-based glues that have dominated the field and illustrates how structural characterization of a glue scaffold can identify a linker attachment point that does not compromise activity.",
+  "arxiv_id": null,
+  "authors": [
+    "Srdanovic, S.",
+    "Chrzastek, A.",
+    "Helbling, L. C.",
+    "Franz, P.",
+    "Pidd, A. B.",
+    "Lalovic, D.",
+    "Rochet, L. N. C.",
+    "McIntosh, A.",
+    "Gray, J.",
+    "Houghton, J. W.",
+    "Lu, J.",
+    "Walton, J.",
+    "Mills, T.",
+    "Stöcker, V.",
+    "Veillard, N.",
+    "Hogg, P. W.",
+    "Kozicka, Z.",
+    "Tate, E. W."
+  ],
+  "categories": [
+    "biochemistry"
+  ],
+  "doi": "10.64898/2026.11.12.760175",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/13/2026.11.12.760175.source.xml"
+  },
+  "hook": "An antibody-linked degrader destroys cyclin K more in HER2-positive breast cancer cells.",
+  "hook_turn": "more in HER2-positive breast cancer cells.",
+  "id": "doi-10.64898-2026.11.12.760175",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Chemists built a molecular glue that destroys cyclin K, found a spot to attach a linker without losing activity, and joined it to trastuzumab. The conjugate entered HER2-positive cells preferentially and degraded cyclin K more there than in HER2-negative cells. Work is in cell lines only, with no animal or safety data.",
+  "tags": [
+    "targeted protein degradation",
+    "breast cancer"
+  ],
+  "title": "A molecular glue degrader-antibody conjugate for HER2-targeted cyclin K degradation",
+  "url": "https://doi.org/10.64898/2026.11.12.760175",
+  "venue": "bioRxiv"
+}

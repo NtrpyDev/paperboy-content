@@ -1,0 +1,37 @@
+{
+  "abstract": "Whether stripes compete with $d$-wave superconductivity or promote pairing through fluctuations remains unsettled in the two-dimensional Hubbard model. Using multi-reference neural variational auxiliary-field quantum Monte Carlo (MR-nVAFQMC) at $U/t=8$, we superpose unpaired Slater determinants across stripe periods and domain-wall positions, reaching variational energies competitive with leading benchmarks on periodic lattices up to $32\\times32$ sites. For cuprate next-nearest-neighbor hopping ($t'/t=-0.2$), diagonal hopping preserves electron-doped antiferromagnetism while kinetically frustrating hole motion into Yamada stripes with a dome of short-range connected $d$-wave pairing. At $1/8$ hole doping, hole delocalization across antiphase spin boundaries outweighs on-site repulsion, splitting the filled stripes of the pure model into half-filled walls with strong local pairing. Coherently delocalizing shifted walls strongly suppresses static charge modulation yet leaves short-range pairing unchanged, showing that local pairing is intrinsic to half-filled walls rather than driven by stripe fluctuations. Across intervening antiferromagnetic domains, however, pairing correlations become unresolved at one stripe period and beyond. Both parameter transfer to larger lattices without reoptimization and deep benchmark checkpoints retain stripe spin order without resolving long-range pairing, within uncertainties allowing weak superconductivity. Half-filled antiphase walls thus generate local $d$-wave pairs, whereas suppressing static stripe order alone yields no resolved coherence across stripes in the states studied.",
+  "arxiv_id": "2611.16430",
+  "authors": [
+    "Honghui Shang",
+    "Jinlong Yang"
+  ],
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16430"
+  },
+  "hook": "In the Hubbard model, half-filled stripe walls form local d-wave pairs that do not link across stripes.",
+  "hook_turn": "that do not link across stripes.",
+  "id": "arxiv-2611.16430",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Neural variational quantum Monte Carlo on lattices up to 32 by 32 finds that stripes split into half-filled walls with strong local d-wave pairing. Suppressing static stripe order leaves that pairing unchanged, yet no long-range pairing is resolved across stripes. Weak superconductivity cannot be excluded within the uncertainties, and variational states can miss the true ground state.",
+  "tags": [
+    "Hubbard model",
+    "stripe order",
+    "d-wave pairing"
+  ],
+  "title": "Multi-reference variational states resolve stripe selection and local $d$-wave pairing in the Hubbard model",
+  "url": "https://arxiv.org/abs/2611.16430",
+  "venue": "arXiv"
+}

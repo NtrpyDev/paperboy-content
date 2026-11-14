@@ -1,0 +1,43 @@
+{
+  "abstract": "Triassic sauropodomorph cranial material is known primarily from Argentina, Brazil and Europe and is sparsely distributed across the phylogenetic tree. In southern Africa, only two Late Triassic taxa preserve cranial elements, Mbiresaurus and Kholumolumo, both represented by limited material. Here we describe Nyana rooiwalensis, a new early-branching sauropodomorph from the Upper Triassic lower Elliot Formation of South Africa, represented by the first well-preserved, near-complete skull to be recovered from the unit. The holotype comprises the braincase, palate, the hyoid apparatus and scleral rings, as well as associated postcranial elements. Body mass estimates predict Nyana was approximately 400 kg yet osteohistological analyses show at most two lines of arrested growth and a crenulated periosteal surface, indicating an early ontogenetic stage. These observations support the early evolution of rapid growth in Sauropodomorpha, foreshadowing the evolution of sauropod gigantism. Phylogenetic analyses place Nyana as the sister taxon to either the North American Sarahsaurus or the South African Ngwevu and is recovered as either an early-branching massopodan or nested within Massospondylidae. The exceptional preservation, early ontogenetic stage and phylogenetic position of Nyana provide critical insights into cranial evolution, postural and locomotory behaviours, body mass and growth dynamics during the early diversification of Sauropodomorpha.",
+  "arxiv_id": null,
+  "authors": [
+    "Atashni Moopen",
+    "Jennifer Botha",
+    "Roger Benson",
+    "Kimberley E J Chapelle",
+    "Paul M Barrett",
+    "Kathleen Dollman",
+    "Jonah N Choiniere"
+  ],
+  "categories": [],
+  "doi": "10.1098/rsos.261002",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "europepmc",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13750947/fullTextXML"
+  },
+  "hook": "South Africa's most complete early sauropodomorph skull belongs to a new, still-growing dinosaur.",
+  "id": "doi-10.1098-rsos.261002",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Estimated body mass of Nyana",
+    "unit": "kg",
+    "value": "~400"
+  },
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Nyana rooiwalensis, a new Late Triassic relative of long-necked dinosaurs, comes from a near-complete skull plus some body bones. Bone growth lines show a young animal near 400 kg that was already growing fast, hinting rapid growth evolved early. Its exact place in the family tree is uncertain between two options.",
+  "tags": [
+    "dinosaurs",
+    "paleontology"
+  ],
+  "title": "Nyana rooiwalensis: South Africa's earliest near-complete sauropodomorph dinosaur skull from the Late Triassic of the Eastern Cape Province.",
+  "url": "https://europepmc.org/articles/PMC13750947",
+  "venue": "Royal Society open science"
+}

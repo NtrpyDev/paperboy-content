@@ -1,0 +1,46 @@
+{
+  "abstract": "TDE 2025abcr is a tidal disruption event (TDE) located approximately 9 kpc in projection from its host galaxy nucleus. Our spectroscopic follow-up with the Very Large Telescope (VLT) reveals C IV $\\lambda\\lambda5801, 5812$ emission, representing the first identification of this C IV doublet in a TDE. These transitions are uncommon in active galactic nuclei (AGN) spectra but have been observed in supernova flash spectra and Wolf-Rayet (WR) stars. We propose that the doublet arises from the combined effects of continuum fluorescence and photon trapping in the 312 \\r{A} transition, analogous to the mechanism operating in nitrogen-sequence Wolf-Rayet (WN) winds. This mechanism requires intense extreme-ultraviolet (EUV) illumination and a high optical depth, providing a distinctive diagnostic of the physical conditions in optically thick TDE outflows. These requirements, together with the relatively narrow widths of the broad emission lines, the presence of Bowen fluorescence features, and the small inferred blackbody radius, favor a compact and dense envelope in TDE 2025abcr. The optical C IV doublet may have been overlooked in previous observational and theoretical studies of TDEs, motivating more detailed radiative-transfer calculations for optically thick outflows. With future TDE samples from Rubin/LSST and WFST, a larger C IV TDE sample will test if this population systematically favors a compact photosphere.",
+  "arxiv_id": "2611.13364",
+  "authors": [
+    "Jingbo Sun",
+    "Hengxiao Guo",
+    "Sjoert van Velzen",
+    "Yuhan Yao",
+    "Mar Mezcua",
+    "Stefan Geier",
+    "Alok C. Gupta",
+    "Karan Dogra",
+    "Philip G. Edwards",
+    "Wenwen Zuo",
+    "Yu Pan",
+    "Minfeng Gu"
+  ],
+  "categories": [
+    "astro-ph.HE",
+    "astro-ph.GA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13364"
+  },
+  "hook": "A star-shredding black hole flare shows a carbon emission doublet never seen in such events before.",
+  "id": "arxiv-2611.13364",
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "VLT spectra of the off-nuclear tidal disruption event TDE 2025abcr show a C IV doublet near 5800 angstroms, a first for this class. The authors attribute it to fluorescence and photon trapping, as in Wolf-Rayet winds, implying a compact, dense envelope. This is a single event and the mechanism is proposed, not confirmed by radiative-transfer modeling.",
+  "tags": [
+    "tidal disruption events",
+    "spectroscopy"
+  ],
+  "title": "Identification of the C IV $\\lambda\\lambda$5801, 5812 Emission in the Off-Nuclear TDE 2025abcr",
+  "url": "https://arxiv.org/abs/2611.13364",
+  "venue": "arXiv"
+}

@@ -1,0 +1,53 @@
+{
+  "abstract": "Deep-learning-based magnetic resonance imaging (MRI) reconstruction holds great promise for accelerating acquisitions, yet its clinical translation remains bottlenecked by poor generalizability across unseen scanners, populations, anatomies, and protocols. Gathering sufficiently diverse clinical datasets to overcome this bottleneck is hindered by high acquisition costs, privacy restrictions, and institutional biases. Here, we introduce Scalable Inverse Model (SIM), a framework that systematically co-designs physics-simulated training data, model architecture, and learning paradigms around scalability--leveraging compute scaling to overcome historical data bottlenecks and achieve robust zero-shot MRI reconstruction. Across 14 public and in-house datasets--spanning seven international centers, five vendors, field strengths of 0.3-7 T, over ten anatomical regions, more than ten acquisition protocols, downstream quantitative and molecular tasks, and a 150-scan blinded radiologist study--SIM demonstrates robust zero-shot generalizability, recovering fine anatomical details while suppressing aliasing artifacts where conventional deep-learning methods fail. Attention-map analyses confirm that SIM learns physically explainable, dynamically adaptive reconstruction primitives rather than anatomy-specific priors. SIM establishes a scalable, privacy-preserving, and democratized infrastructure for universal MRI reconstruction, providing a blueprint for generalizable AI across inverse problems in medical imaging.",
+  "arxiv_id": "2611.15758",
+  "authors": [
+    "Hong Shang",
+    "Zijian Zhan",
+    "Sen Jia",
+    "Xiang Fan",
+    "Jintao Meng",
+    "Yang Zhou",
+    "Xiang Zhou",
+    "Tianyu He",
+    "Xinran Chen",
+    "Qiaoling Zeng",
+    "Keyan Yu",
+    "Jianhua Yao",
+    "Dong Liang"
+  ],
+  "categories": [
+    "eess.IV",
+    "cs.CV"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15758"
+  },
+  "hook": "A model trained on physics-simulated data reconstructs MRI scans from unseen scanners without retraining.",
+  "hook_turn": "without retraining.",
+  "id": "arxiv-2611.15758",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Datasets tested zero-shot",
+    "unit": "datasets",
+    "value": "14"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The Scalable Inverse Model is trained on simulated MRI data and reconstructs accelerated scans zero-shot across scanners, field strengths and anatomies. It was tested on 14 datasets plus a 150-scan blinded radiologist study. It is a preprint, and clinical use would need prospective validation.",
+  "tags": [
+    "MRI reconstruction",
+    "medical imaging"
+  ],
+  "title": "Physics-based simulation unlocks scaling laws for generalizable MRI reconstruction",
+  "url": "https://arxiv.org/abs/2611.15758",
+  "venue": "arXiv"
+}

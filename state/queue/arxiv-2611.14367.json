@@ -1,0 +1,36 @@
+{
+  "abstract": "K\\\"uhnel and Lassmann constructed a neighborly triangulation of the three-torus on 15 vertices, and Lutz conjectured that it is vertex-minimal. The standard lower-bound arguments exclude at most twelve vertices but do not decide the 13- and 14-vertex cases. We exclude the 13-vertex case. Our proof uses the Novik--Swartz $g_2$-inequality and a simplicial-complement reduction to a nine-vertex model of the punctured three-torus. By analyzing fundamental groups of small simplicial complexes and applying Alexander duality in a vertex link, we obtain a contradiction from the deficiency of $\\Z^3$.",
+  "arxiv_id": "2611.14367",
+  "authors": [
+    "Geunho Lim"
+  ],
+  "categories": [
+    "math.GT",
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14367"
+  },
+  "hook": "No 13-vertex triangulation of the three-torus exists, leaving only 14 or 15 vertices possible",
+  "hook_turn": "leaving only 14 or 15 vertices possible",
+  "id": "arxiv-2611.14367",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A known neighborly triangulation of the three-torus uses 15 vertices, and the minimum was conjectured to be 15. This proof rules out 13 vertices, using a g2 inequality, a reduction to a nine-vertex model, and fundamental group arguments. The 14-vertex case stays open.",
+  "tags": [
+    "triangulations",
+    "topology"
+  ],
+  "title": "No 13-vertex triangulation of the three-torus",
+  "url": "https://arxiv.org/abs/2611.14367",
+  "venue": "arXiv"
+}

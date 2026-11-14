@@ -1,0 +1,35 @@
+{
+  "abstract": "We show that the derivative of a $Q$-valued $C^1$ function on an $n$-dimensional domain that is locally harmonic on its regular set is locally Dirichlet minimising, and that its branch set coincides with that of its derivative. As a consequence, we get that a $Q$-valued $C^1$ harmonic function is $C^{1,\\alpha}$ and that its branch set is countably $(n-2)$-rectifiable when $n\\geq 3$ and discrete when $n=2$. Our methods are directly applicable to the regularity theory of stable minimal hypersurfaces. We show that a multi-valued Lipschitz function whose graph is a two-sided, properly immersed, stable minimal $n$-dimensional hypersurface with locally $\\mathcal{H}^{n-2}$-finite singular set, and whose Lipschitz constant is sufficiently small is in fact multi-valued $C^{1,\\alpha}$. As a consequence, we obtain optimal regularity conclusions for a branched sheeting theorem of Bellettini for singular immersions. When $n=2$, we obtain stronger conclusions and show that locally about a branch point, a $Q$-valued $C^1$ harmonic function is the real part of a Dirichlet minimiser which is itself obtained from a finite number of holomorphic functions via classical branching, thus giving a full series expansion for the function near the branch point. Furthermore, we prove that the class of branched, two-sided, properly immersed, stable minimal surfaces with isolated singularities is compact under varifold convergence.",
+  "arxiv_id": "2611.14409",
+  "authors": [
+    "Sidney Stanbury"
+  ],
+  "categories": [
+    "math.DG",
+    "math.AP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14409"
+  },
+  "hook": "Multi-valued harmonic functions with C1 regularity are smoother than assumed, with small branch sets",
+  "id": "arxiv-2611.14409",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper shows that Q-valued C1 harmonic functions are in fact C1,alpha, with branch sets that are rectifiable in dimension three and up and discrete in two dimensions. It applies this to stable minimal hypersurfaces, giving optimal regularity for a branched sheeting theorem and compactness for branched stable minimal surfaces. The results hold under the stated smallness and singular-set conditions.",
+  "tags": [
+    "minimal surfaces",
+    "harmonic functions"
+  ],
+  "title": "Regularity of $Q$-valued $C^1$ harmonic functions with applications to stable minimal hypersurfaces",
+  "url": "https://arxiv.org/abs/2611.14409",
+  "venue": "arXiv"
+}

@@ -1,0 +1,36 @@
+{
+  "abstract": "We study the defocusing energy-critical nonlinear Schr\\\"{o}dinger equation and establish global uniqueness for weak solutions. The key idea comes from the weak uniqueness in the uniform-in-time high-frequency threshold (UTHT) class introduced in [12,14]. We derive a new energy defect threshold (EDT) criterion from the UTHT criterion. Along the strong solution flow, energy conservation propagates the EDT condition for weak solutions and, combined with the global well-posedness theory for strong solutions, yields global weak uniqueness. As an application, we prove unconditional uniqueness for the quintic defocusing energy-critical Gross-Pitaevskii hierarchy.",
+  "arxiv_id": "2611.14175",
+  "authors": [
+    "Xuwen Chen",
+    "Justin Holmer",
+    "Shunlin Shen"
+  ],
+  "categories": [
+    "math.AP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14175"
+  },
+  "hook": "Weak solutions of the defocusing energy-critical Schrodinger equation are globally unique.",
+  "id": "arxiv-2611.14175",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove that weak solutions of this nonlinear wave equation cannot branch, using a new energy defect threshold condition that energy conservation carries along the strong solution flow. They apply it to show unconditional uniqueness for the quintic Gross-Pitaevskii hierarchy, a model of many interacting bosons. The result is mathematical and applies to the defocusing energy-critical case only.",
+  "tags": [
+    "nonlinear Schrodinger",
+    "PDE"
+  ],
+  "title": "Uniqueness of global weak solutions for the defocusing energy-critical NLS",
+  "url": "https://arxiv.org/abs/2611.14175",
+  "venue": "arXiv"
+}

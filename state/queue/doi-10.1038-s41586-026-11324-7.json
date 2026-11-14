@@ -1,0 +1,48 @@
+{
+  "abstract": "Disconnects between in vitro and in vivo results in experimental biology have long been recognized as potential hurdles to understanding health and disease. A prototypical example of such a disconnect is the NLRP3 inflammasome, which mediates inflammation in diverse settings of disease and protective immunity1,2. Activation of the NLRP3 inflammasome in vitro requires two signals: (1) priming by pathogen-associated molecular patterns such as bacterial lipopolysaccharides and (2) activation by molecules that disrupt cellular homeostasis1,3. By contrast, the NLRP3 inflammasome in vivo is activated by lipopolysaccharide alone. The mechanisms that underlie the difference between in vitro and in vivo activation of the NLRP3 inflammasome are undefined. Here we report that extracellular matrix (ECM) stiffness is a determinant of NLRP3 activities and that in vitro systems using physiological ECM stiffness enable one-signal in vivo-like NLRP3 activities to occur in human and mouse phagocytes. Physiological ECM stiffness induced expression of the transcription factor NRF2, which was found to be necessary for one-signal NLRP3 activation. Mechanistically, we identify Panx1 as an NRF2-regulated gene that promotes NLRP3 activity. Macrophages derived from the stiff matrix of the bone-osteoclasts-had reduced NRF2 levels and impaired NLRP3 activity. Moreover, alveolar macrophages from patients with pulmonary fibrosis displayed reduced NRF2 activity. Finally, NRF2 was required for antitumour immunity induced by cancer vaccines consisting of NLRP3 agonistic adjuvants. These findings indicate that NRF2 may be a transcriptional checkpoint that controls NLRP3 inflammasome activity.",
+  "arxiv_id": null,
+  "authors": [
+    "Daniel Okin",
+    "Joon H Choi",
+    "Chun Wang",
+    "Anh Cao",
+    "Daniel Fisch",
+    "Weiyi Ma",
+    "Katherine E Lindblad",
+    "Marta Valenti",
+    "Tristan Kooistra",
+    "Trong Nguyen",
+    "Lida P Hariri",
+    "Neha Chaudhary",
+    "Yun Chen Tien",
+    "Henrique Borges da Silva",
+    "Rachel S Knipe",
+    "Gabriel Mbalaviele",
+    "Jonathan C Kagan"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41586-026-11324-7",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Tissue-like stiffness lets immune cells fire the NLRP3 alarm with one signal, via NRF2.",
+  "id": "doi-10.1038-s41586-026-11324-7",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "NLRP3 needs two signals in a dish but one in the body. Growing human and mouse immune cells on physiologically stiff surfaces made them respond to one signal, and NRF2 and the gene Panx1 were required. Findings span cell culture, mice and patient lung samples, and the clinical use is not tested.",
+  "tags": [
+    "inflammasome",
+    "mechanobiology"
+  ],
+  "title": "NRF2 is a mechanosensitive checkpoint for NLRP3 inflammasome activation.",
+  "url": "https://doi.org/10.1038/s41586-026-11324-7",
+  "venue": "Nature"
+}

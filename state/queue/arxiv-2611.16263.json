@@ -1,0 +1,39 @@
+{
+  "abstract": "The lifetime of localized turbulence in transitional channel flow, the so-called turbulent stripes or bands, as a function of the Reynolds number ($Re$) is reported here. Recent studies showed that although the mean lifetime of a turbulent band increases with the band length, it appears to saturate at a certain critical length, which is smaller than the fully developed band length. However, this observation was based on a single Reynolds number only. Here, we first confirmed this saturation by considering higher Reynolds numbers. This property enables us to measure the characteristic lifetime of a turbulent band without having to resolve it at its full length, which greatly reduces the computational cost and makes statistical studies by direct numerical simulation (DNS) feasible near the lower end of the transitional-$Re$ regime. Subsequently, by extensive DNS, we measured the lifetime up to $Re=670$, and the data cover more than two orders of magnitude, ranging from $O(10^2)$ to nearly $O(10^5)$ and revealing a sharp but smooth growth with increasing $Re$. No sudden divergence of the lifetime was observed in the $Re$ range investigated, in which controversy existed over whether or not a turbulent band would become sustained. Despite significant differences between the structure and dynamics of channel bands and pipe puffs, our data concretely support a unified transition scenario in the two flows.",
+  "arxiv_id": "2611.16263",
+  "authors": [
+    "Yuze Wu",
+    "Baofang Song"
+  ],
+  "categories": [
+    "physics.flu-dyn"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16263"
+  },
+  "hook": "Turbulent bands in channel flow show no sudden lifetime divergence up to Reynolds number 670.",
+  "id": "arxiv-2611.16263",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Highest Reynolds number simulated",
+    "value": "670"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Simulations of turbulent bands in channel flow show their lifetimes grow sharply but smoothly with Reynolds number, over more than two orders of magnitude. Because lifetime saturates beyond a critical band length, the authors could use shorter bands and cut computing cost. The data stop at Re=670, so a divergence at higher Re is not ruled out.",
+  "tags": [
+    "turbulence",
+    "fluid dynamics"
+  ],
+  "title": "Lifetime of localized turbulence in transitional channel flow",
+  "url": "https://arxiv.org/abs/2611.16263",
+  "venue": "arXiv"
+}

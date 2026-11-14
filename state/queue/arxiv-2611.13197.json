@@ -1,0 +1,39 @@
+{
+  "abstract": "Compact object binaries formed dynamically are characterized by a tail of eccentric sources and by the potential presence of environmental perturbations. Here we show that the presence of eccentricity in a gravitational-wave (GW) signal strongly enhances the sensitivity to environmental effects, focusing in particular on line-of-sight acceleration (LSA). We demonstrate that this enhancement is recovered in Fisher-analysis forecasts and, crucially, persists in full Bayesian parameter estimation using state-of-the-art eccentric waveform models. The key insight is that the signal should be analyzed from the moment the first detectable eccentric harmonic enters the detector band, rather than from the customary entry of the $n=2$ harmonic: this allows to probe the early inspiral and thus a longer signal, over which the GW dephasing introduced by LSA becomes substantially larger. We show that with this approach constraints on LSA can increase by more than an order of magnitude between eccentricities at 20~Hz $e_{20}=0$ and $e_{20}\\sim0.1$, for signals with sufficient signal-to-noise-ratio (SNR), while we predict a factor $5$ amplification even for low-SNR ones. Fully exploiting this effect necessitates the continued improvement of efficient eccentric waveform models and likelihood evaluations, enabling the efficient analysis of signals lasting thousands of seconds and containing a large number of harmonics.",
+  "arxiv_id": "2611.13197",
+  "authors": [
+    "J\\'anos Tak\\'atsy",
+    "Anna Puecher",
+    "Gonzalo Morras",
+    "Lorenz Zwick"
+  ],
+  "categories": [
+    "gr-qc",
+    "astro-ph.HE"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13197"
+  },
+  "hook": "In forecasts, orbital eccentricity makes gravitational waves over 10 times better at sensing acceleration.",
+  "hook_turn": "makes gravitational waves over 10 times better at sensing acceleration.",
+  "id": "arxiv-2611.13197",
+  "license": "cc-by-sa",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Merging black holes on eccentric orbits could reveal whether they sit in an accelerating environment, if the signal is analyzed from the first eccentric harmonic rather than the usual one. Forecasts and Bayesian analysis show constraints improve by more than a factor of 10 at eccentricity 0.1 for strong signals. These are simulated signals, and the method needs waveform models that are costly to run.",
+  "tags": [
+    "gravitational waves",
+    "binary black holes"
+  ],
+  "title": "Eccentricity greatly enhances the detectability of line-of-sight acceleration in gravitational wave signals",
+  "url": "https://arxiv.org/abs/2611.13197",
+  "venue": "arXiv"
+}

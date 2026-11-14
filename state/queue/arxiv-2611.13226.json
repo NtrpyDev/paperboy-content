@@ -1,0 +1,42 @@
+{
+  "abstract": "A room with mirrored walls can contain two points that are mutually invisible: no light ray from one reaches the other. Tokarsky built the first polygonal examples by tiling a room with reflected copies of a triangle and making every tile vertex of certain kinds a corner of the room. We study the smallest rooms of this kind, which we call lattice rooms. Their interior tile vertices of the remaining kind, the sources, are invisible and pairwise mutually invisible. On the tiling by isosceles right triangles, a hole-free lattice room with a source has at least 12 sides, attained only by the pinwheel. On the square tiling the least number is 16, again attained by one room. A hole-free lattice room with two sources has at least 24 sides on the first tiling and 34 on the square tiling. Up to congruence there are 12 such rooms with 24 sides, 89 with 25 sides and 14 with 34 sides. One absorbing post, one partition, or one hole that touches the outer boundary at one point lowers the least number of sides for two sources to 18, 20 and 22 (21 if sides are counted as maximal straight segments). Two and three posts give 17 and 16 sides, and a hole that does not touch the outer boundary gives 26. We list all smallest rooms. Rooms assembled from n modules have exactly 12n sides and n sources, and a hole-free lattice room with three or more sources has at least 36 sides. We also give rooms in which some tile vertices need not be corners: 15 types of 27-sided rooms on the tiling by triangles with angles 30, 60 and 90 degrees, which are smallest in their class, a nonagon with three mutually invisible corners, and a 42-sided room in which a rotation through 180 degrees takes the place of a corner. In a ring of three trapezoids a light ray returns to a corner that is invisible in one trapezoid. Several classifications rely on exhaustive computer searches made finite by the bounds proved here.",
+  "arxiv_id": "2611.13226",
+  "authors": [
+    "J. C. F. de Winter",
+    "George W. Tokarsky"
+  ],
+  "categories": [
+    "math.CO",
+    "cs.CG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13226"
+  },
+  "hook": "Among tiled mirror rooms with a point no light reaches, the smallest has 12 sides: the pinwheel.",
+  "hook_turn": "the pinwheel.",
+  "id": "arxiv-2611.13226",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Fewest sides, room with one dark source",
+    "unit": "sides",
+    "value": "12"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors classify the smallest mirrored polygon rooms with mutually invisible points, built from tilings by reflected triangles. A hole-free room with one dark source needs at least 12 sides on the isosceles right triangle tiling, and only the pinwheel achieves it. Several results depend on computer searches, and they apply to this tile-based family of rooms, not all polygons.",
+  "tags": [
+    "geometry",
+    "billiards"
+  ],
+  "title": "Unilluminable rooms: minimal examples, classifications and exceptions",
+  "url": "https://arxiv.org/abs/2611.13226",
+  "venue": "arXiv"
+}

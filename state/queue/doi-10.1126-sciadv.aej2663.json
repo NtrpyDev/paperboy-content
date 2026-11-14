@@ -1,0 +1,50 @@
+{
+  "abstract": "PRGN-3008 is a CD19 CAR T cell designed to overcome key limitations in ex vivo and in vivo CAR T manufacturing, cost, safety, and therapeutic durability. Featuring decentralized overnight manufacturing without ex vivo expansion, PRGN-3008 is engineered using a single nonviral transposon to encode CD19 CAR, membrane-bound interleukin-15 (mbIL-15) for improved persistence, PD-1–targeting microRNAs to prevent exhaustion, and an inducible safety switch for controlled in vivo elimination. Safety studies showed low vector copy numbers, favorable integration profile, and efficient CAR T ablation upon safety-switch activation. The combined mbIL-15 expression and PD-1 down-regulation preserved PRGN-3008 polyfunctionality and sustained cytotoxicity across repeated tumor challenges, outperforming nonarmored or singly modified CAR T cells. In xenograft models, overnight-manufactured PRGN-3008 without ex vivo expansion and activation achieved durable tumor clearance, prolonged tumor-free survival, robust antigen dependent expansion, and enrichment of memory T cell phenotypes linked to clinical durability. Notably, PRGN-3008 generated from heavily pretreated patients with systemic lupus erythematosus or lupus nephritis, maintained effector function, resisted terminal differentiation under chronic antigen exposure, and effectively depleted autoreactive B cells in a humanized mouse model. Transcriptomic analysis revealed that the combination of mbIL-15 expression and PD-1 down-regulation enhances the expression of genes associated with bioenergetic pathways, including oxidative phosphorylation, mitochondrial biogenesis, glycolysis, and glutamine utilization, thereby supporting resistance to exhaustion and sustained effector function. Collectively, these data support PRGN-3008 as a clinically translatable, scalable, and controllable CAR T with the potential to expand access to cell therapy across oncology and autoimmune indications.",
+  "arxiv_id": null,
+  "authors": [
+    "Afreen Asif Ali Sayed",
+    "Tim Chan",
+    "Cheryl G. Bolinger",
+    "Pooja Chauhan",
+    "Marion Chakiath",
+    "Carol Poortman",
+    "Jacques Plummer",
+    "Bernward Klocke",
+    "Enayat Nikoopour",
+    "Aifen Wang",
+    "Tikva Dadon",
+    "David Woessner",
+    "Woo Joo",
+    "Christian Zinser",
+    "Roshanak Tolouei Semnani",
+    "Rutul R. Shah",
+    "Helen Sabzevari",
+    "Douglas E. Brough",
+    "Shamim Ahmad"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aej2663",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Overnight-made CAR T cells with a kill switch cleared tumors and depleted B cells in mice.",
+  "id": "doi-10.1126-sciadv.aej2663",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "PRGN-3008 is a CD19 CAR T cell made overnight with one nonviral transposon, adding membrane-bound IL-15, PD-1 microRNAs and a safety switch. It cleared tumors durably in xenograft models and, using cells from lupus patients, depleted autoreactive B cells in humanized mice. All evidence is preclinical, so human safety and benefit are untested.",
+  "tags": [
+    "CAR T",
+    "autoimmune disease"
+  ],
+  "title": "Engineering exhaustion-resistance CD19 CAR T cells to address translational barriers for the treatment of cancer and autoimmune disease",
+  "url": "https://doi.org/10.1126/sciadv.aej2663",
+  "venue": "Science Advances"
+}

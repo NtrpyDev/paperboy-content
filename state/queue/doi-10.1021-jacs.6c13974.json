@@ -1,0 +1,43 @@
+{
+  "abstract": "Abstract Structured interfacial water can substantially modify charge transfer at solid–liquid interfaces, yet direct spectroscopic evidence for how water ordering reshapes interfacial electronic states remains scarce. Herein, using angle-resolved photoemission spectroscopy (ARPES), we identify parabolic interfacial states (IFSs) arising with the ordered water structures on Au(111), in striking contrast to the insulating nature of disordered water multilayers. Light exposure induces partial dissociation of H2O, and the resulting hydrated protons combine with residual H2O molecules to form ordered Eigen/Zundel-type hexagonal hydronium-water monolayers on Au(111) at 120–140 K. Density functional theory (DFT) calculations based on Eigen/Zundel-type motifs reproduce the experimentally observed IFSs and indicate that the states derive from the renormalized Au(111) Shockley surface state with a reduced effective mass at the water/gold interface. Annealing-driven transition from the Eigen-type to Zundel-type monolayers is evidenced by the distinct changes in the dispersions of the IFSs. These results establish a band-structure perspective for ordered water/metal interfaces and show that hydrated-proton-introduced excess electrons, when confined at a two-dimensional interface, can reshape the interfacial electronic landscape and charge transport.",
+  "arxiv_id": null,
+  "authors": [
+    "Zhengcong Yan",
+    "Xia Sun",
+    "Yichen Qiu",
+    "Ziyang Guo",
+    "Xiaochuan Ma",
+    "Tongzheng Ji",
+    "Xuefeng Cui",
+    "Jin Zhao",
+    "Shijing Tan",
+    "Bing Wang"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c13974",
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Ordered hydronium-water layers on gold create new electronic states at the interface, seen directly by ARPES.",
+  "hook_turn": "seen directly by ARPES.",
+  "id": "doi-10.1021-jacs.6c13974",
+  "license": "other",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Photoemission measurements show parabolic interfacial electronic states when light turns water on Au(111) into ordered hydronium-water monolayers at 120 to 140 K. Calculations tie them to the gold surface state with a lighter effective mass, and annealing shifts them from Eigen-type to Zundel-type. The work is at cryogenic temperature in vacuum, far from a real liquid electrochemical interface.",
+  "tags": [
+    "water interfaces",
+    "photoemission",
+    "surface states"
+  ],
+  "title": "Evolution of Interfacial States Induced by Hydronium–Water Ordering on Au(111)",
+  "url": "https://doi.org/10.1021/jacs.6c13974",
+  "venue": "Journal of the American Chemical Society"
+}

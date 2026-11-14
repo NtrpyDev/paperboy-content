@@ -1,0 +1,53 @@
+{
+  "abstract": "Abstract Metal–organic frameworks (MOFs) have tremendous promise for filtration, catalysis, and sequestration, but they are limited by the polymer matrices in which they must be embedded to form functional composites. Here, we find an experimental approach in which composite performance can be predicted using a single MOF particle. In particular, we attach single MOF particles to atomic force microscope (AFM) probes and find that the forces between the MOF-tipped probe and polymer films can be transformed into an instructive low-dimensional descriptor of MOF-polymer interactions. This two-dimensional latent space provides direct measures of chemical compatibility as well as the work of adhesion and can be used to understand interfacial phenomena in MOF-polymer composites. For example, polymer intercalation is observed via X-ray scattering for MOF-polymer combinations with high chemical-compatibility latent-space variables. Bulk composite performance can also be predicted using the latent space values for cases where the MOF is held constant. For example, a simple linear model was trained to predict CO2 absorption into composites of UiO-66-NH2 based solely on the latent space variables. In addition to providing a rapid way to screen polymer matrices to complement a MOF chosen for its bulk properties, these results suggest that composite performance may be a separable function of bulk properties and the interfacial latent space. In this way, this transfer-learning approach can vastly accelerate the design and understanding of functional composites.",
+  "arxiv_id": null,
+  "authors": [
+    "Yihong Xu",
+    "Adedire D. Adesiji",
+    "Joseph M. Palomba",
+    "Peter A. Beaucage",
+    "Avery E. Baumann",
+    "Noora M. Al-Kharji",
+    "Tien M. Tran",
+    "Madeline M. Howell",
+    "Joshua D. Marquez",
+    "Florencia Son",
+    "Zoha H. Syed",
+    "Jan Ilavsky",
+    "Chase B. Thompson",
+    "Trenton M. Tovar",
+    "Thomas P. Pearl",
+    "Omar K. Farha",
+    "Austin M. Evans",
+    "Ronald A. Smaldone",
+    "Gregory W. Peterson",
+    "Keith A. Brown"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c14560",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Force on a single MOF particle touching a polymer predicts how a whole MOF-polymer composite performs.",
+  "hook_turn": "predicts how a whole MOF-polymer composite performs.",
+  "id": "doi-10.1021-jacs.6c14560",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Researchers glued single metal-organic framework particles to atomic force microscope tips and turned the forces against polymer films into a two-variable measure of compatibility. A simple linear model using those values predicted CO2 uptake of UiO-66-NH2 composites. The prediction holds only when the MOF is held constant, and few MOF-polymer pairs were tested.",
+  "tags": [
+    "metal-organic frameworks",
+    "composites",
+    "atomic force microscopy"
+  ],
+  "title": "An Experimental MOF-Polymer Latent Space for Composite Design",
+  "url": "https://doi.org/10.1021/jacs.6c14560",
+  "venue": "Journal of the American Chemical Society"
+}

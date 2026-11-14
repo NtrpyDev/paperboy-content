@@ -1,0 +1,42 @@
+{
+  "abstract": "A defining feature of the primate neocortex is an expanded cortical progenitor pool, especially the basal radial glia (bRG), contributing to complex intracortical circuitry underlying higher cognition. Here, a comparative transcriptomic analysis of developing human and mouse neocortical cells identified DACH1 as a transcription factor enriched in human neurogenic RGs. Using both primate ESCs and mouse models, we found an LHX2-DACH1-miR-215-5p program regulating bRG production. DACH1 loss in human cortical progenitors impaired bRG production and shifted neuronal output toward corticospinal neurons, whereas Dach1 depletion in mice had no effect. Conversely, ectopic DACH1 expression in the rodent neocortex induced bRG formation and promoted callosal neuron production. Further, we found that DACH1 is regulated by LHX2 via a primate-evolved enhancer. Introducing this enhancer into mice promoted bRG generation, while its removal in primates impaired bRG production. Mechanistically, DACH1 promotes bRG generation by suppressing miR-215-5p–mediated down-regulation of centromere- and centrosome-related genes. These findings reveal a mechanism by which cortical progenitor expansion shapes the primate cortical connectome for cognitive evolution.",
+  "arxiv_id": null,
+  "authors": [
+    "Pei-Shan Hou",
+    "Ching-Yu Chuang",
+    "Feng-Lan Chiu",
+    "Chan-Hsien Yeh",
+    "Shih-Shun Hung",
+    "Quan Wu",
+    "Taeko Suetsugu",
+    "Fumio Matsuzaki",
+    "Shen-Ju Chou",
+    "Hung-Chih Kuo"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aed3856",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A single gene, DACH1, boosts the progenitor cells behind the primate cortex's expansion.",
+  "hook_turn": "behind the primate cortex's expansion.",
+  "id": "doi-10.1126-sciadv.aed3856",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Comparing human and mouse developing cortex pointed to DACH1, which promotes basal radial glia production. Losing it in human cells hurt their production, while adding it to mice induced them, and a primate-specific enhancer controlled by LHX2 drives it. Evidence rests on cell models and mice, not intact developing primate brains.",
+  "tags": [
+    "cortex evolution",
+    "neural progenitors"
+  ],
+  "title": "An LHX2-DACH1 regulatory innovation drives basal progenitor expansion in the primate neocortex",
+  "url": "https://doi.org/10.1126/sciadv.aed3856",
+  "venue": "Science Advances"
+}

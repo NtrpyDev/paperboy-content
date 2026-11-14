@@ -1,0 +1,41 @@
+{
+  "abstract": "Dwarf galaxies are the most dark-matter-dominated systems in the Universe, serving as unique laboratories for exploring the fundamental nature of the dark sector. Although the observed diversity in dwarf galaxy sizes and morphologies suggests an interplay between dark matter and baryonic physics, this relationship has remained largely unquantified in existing models. Here, we utilize a set of novel cosmological simulations with baryons to demonstrate how dark matter physics directly drives the structural evolution of these galaxies. By comparing the same systems across cold dark matter and varied self-interacting dark matter models, we find that the evolution of the central density of dark matter significantly impacts a galaxy's half-light radius, but the signal is dependent on morphology. This causal link establishes galaxy size as a direct signature of the underlying dark matter microphysics. Our findings provide a predictive framework for decoding dark matter particle properties from galactic shapes, offering a roadmap for upcoming wide-field surveys, such as the Legacy Survey of Space and Time, to probe the dark sector through the statistical analysis of galaxy populations.",
+  "arxiv_id": "2611.14638",
+  "authors": [
+    "Akaxia Cruz",
+    "Robel Geda",
+    "Alyson Brooks",
+    "Mariangela Lisanti",
+    "Annika H. G. Peter",
+    "Thomas R. Quinn",
+    "Ben Keller"
+  ],
+  "categories": [
+    "astro-ph.CO",
+    "astro-ph.GA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14638"
+  },
+  "hook": "In simulations, self-interacting dark matter changes dwarf galaxy half-light radii, depending on morphology.",
+  "id": "arxiv-2611.14638",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Dwarf galaxies might reveal what dark matter is made of through their sizes. The authors ran cosmological simulations with normal matter, evolving the same galaxies under cold dark matter and several self-interacting models, and found that changes in central dark matter density shift the half-light radius. The link is simulated, depends on galaxy shape, and has not been tested against survey data.",
+  "tags": [
+    "dark matter",
+    "dwarf galaxies"
+  ],
+  "title": "Dark matter alters dwarf galaxy sizes and morphologies",
+  "url": "https://arxiv.org/abs/2611.14638",
+  "venue": "arXiv"
+}

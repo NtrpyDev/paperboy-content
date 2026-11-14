@@ -1,0 +1,46 @@
+{
+  "abstract": "The oxygen evolution reaction (OER) is governed by the electronic-state of catalytic metal centers, yet precise modulation of these states remains a critical bottleneck for non-noble-metal catalysts. Here we report that ultra-stable two-dimensional (2D) cobalt(II) metal-organic assemblies can engineer asymmetric electronic-state through inequivalent coordination environments. This electronic asymmetry drives local charge redistribution, optimizes the adsorption energetics of oxygenated intermediates, and achieves efficient oxygen evolution in alkaline electrolyte with an overpotential of 218 mV at 10 mA cm-2. Under 808 nm irradiation, photothermal activation further reduces the overpotential to 182 mV at 10 mA cm-2. Beyond bench-scale stability, a 100 cm2 electrolyzer operated at 25°C exhibited stable continuous performance at 100 mA cm-2 for over 5000 h. Mechanistic studies unravel a cooperative synergy between the coordination-induced electronic asymmetry and photothermal excitation, which concurrently improves catalytic thermodynamics and kinetic accessibility. These results establish a generalizable framework for integrating electronic-state regulation with photothermal activation to advance high-performance oxygen electrocatalysis.",
+  "arxiv_id": null,
+  "authors": [
+    "Wenlong Lan",
+    "Xiaoshuang Gou",
+    "Wenyue Cui",
+    "Bin Zhao",
+    "Yuewei Wu",
+    "Fuxiang Zhang",
+    "Peng Cheng",
+    "Kun Qi",
+    "Wei Shi"
+  ],
+  "categories": [],
+  "doi": "10.1002/anie.4509183",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A 2D cobalt catalyst evolves oxygen at 218 mV overpotential, and light cuts it to 182 mV.",
+  "hook_turn": "and light cuts it to 182 mV.",
+  "id": "doi-10.1002-anie.4509183",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "OER overpotential at 10 mA cm-2",
+    "unit": "mV",
+    "value": "218"
+  },
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Cobalt(II) metal-organic sheets with uneven coordination sites redistribute charge and speed up the oxygen evolution reaction in alkaline water. Infrared light heats the catalyst and lowers the needed voltage further. A 100 cm2 cell ran over 5000 h at 100 mA cm-2, but only in a lab alkaline setup.",
+  "tags": [
+    "electrocatalysis",
+    "water splitting"
+  ],
+  "title": "Asymmetric Electronic-State Regulation in 2D Cobalt(II) Metal-Organic Assemblies for Photothermally Boosted Oxygen Evolution.",
+  "url": "https://doi.org/10.1002/anie.4509183",
+  "venue": "Angewandte Chemie International Edition"
+}

@@ -1,0 +1,42 @@
+{
+  "abstract": "Abstract Domain of unknown function 4243 (DUF4243) family proteins are an emerging class of nonheme mononuclear iron enzymes characterized by a distinctive iron-binding motif comprised of four histidine (His) and one Nε-carboxylysine (Kcx) residue. Although predominantly found in fungi, OzmD is the only characterized bacterial member. OzmD catalyzes oxidative rearrangement of an aminopyridone ring into a 1,3-oxazine moiety with concomitant cyanide elimination in the final step of oxazinomycin biosynthesis. Herein, the X-ray crystal structure of OzmD is solved, demonstrating the presence of a conserved 4-His-1-Kcx iron-binding motif similar to other DUF4243 family proteins. Biochemical characterization using a substrate analog carrying a hydroxypyridone ring reveals that OzmD also exhibits intrinsic dioxygenase activity, catalyzing a transformation analogous to those of fungal DUF4243 dioxygenases. Electron paramagnetic resonance and Mössbauer spectroscopic characterization of MinCC, a functionally equivalent homologue of OzmD, reveals that the as-isolated protein predominantly contains ferric iron, which can be reduced to the ferrous state upon binding with either the native substrate or the hydroxy analog under anaerobic conditions. These findings support a unified mechanism in which catalysis begins with single-electron transfer from the substrate to ferric iron, enabling molecular oxygen activation and formation of an alkylperoxide intermediate. Overall reaction mechanisms for substrates bearing aminopyridone and hydroxypyridone rings are proposed based on chemical precedents and computational analyses. These findings reveal that OzmD employs a distinctive FeIII-dependent path for oxygen activation in contrast to the classical FeII-dependent route used by most oxygenases and establish a functional connection between bacterial and fungal DUF4243 enzymes.",
+  "arxiv_id": null,
+  "authors": [
+    "Daan Ren",
+    "Tai-Ping Zhou",
+    "Jin Xiong",
+    "Xueli Hou",
+    "Yu-Hsuan Lee",
+    "Jiahai Zhou",
+    "Yisong Guo",
+    "Binju Wang",
+    "Hung-Wen Liu"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c18755",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A bacterial iron enzyme activates oxygen from its ferric state, unlike most oxygenases that use ferrous iron.",
+  "hook_turn": "unlike most oxygenases that use ferrous iron.",
+  "id": "doi-10.1021-jacs.6c18755",
+  "license": "other",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "The crystal structure of OzmD shows a 4-histidine, 1-carboxylysine iron site shared with fungal relatives, and the enzyme also works as a dioxygenase on an analog substrate. EPR and Mossbauer data on a homologue show the iron starts ferric and is reduced by substrate binding. The mechanism is proposed from spectroscopy and computation, not directly observed intermediates.",
+  "tags": [
+    "enzymes",
+    "oxygen activation",
+    "biosynthesis"
+  ],
+  "title": "Decyanation, Dioxygenation, and Oxidative Ring Contraction Catalyzed by the DUF4243 Oxidase OzmD Rely on Ferric Oxygen Activation",
+  "url": "https://doi.org/10.1021/jacs.6c18755",
+  "venue": "Journal of the American Chemical Society"
+}

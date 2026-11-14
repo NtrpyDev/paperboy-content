@@ -1,0 +1,42 @@
+{
+  "abstract": "Streaming speech recognizers output a word only after the speaker has finished it, typically 90-400 ms later. For a voice agent every millisecond counts: the sooner the words are outputted, the sooner the agent can start a search or plan its reply. We present Earlybird, a 29M-parameter streaming recognizer (16.8 MB at 4 bits). Earlybird learns from audio cut off at random points, including partway through a word, and is asked to predict every word that is due by then in full, plus a guess of the next two words. Its raw token probabilities give a confidence for every word including the one still being spoken. On clean audiobook speech (LibriSpeech test-clean), the median word is predicted correctly 90 ms before the speaker finishes it, while released streaming models get it 90 to 400 ms after it ends. Earlybird is the earliest on all six test sets we time, covering audiobooks, TED talks, public speech, earnings calls, and synthetic speech. On the same audiobooks, 69% of words are predicted correctly before they end, against 3-25% for the other models. For words still being spoken, confidence is calibrated, with an expected calibration error (ECE) of 3.7 to 5.5. On the eight English Open ASR Leaderboard sets, it is more accurate than Moonshine Tiny on every set and roughly ties Whistle, a model of the same size.",
+  "arxiv_id": "2611.14421",
+  "authors": [
+    "Sahil Mahendrakar"
+  ],
+  "categories": [
+    "cs.SD",
+    "cs.CL",
+    "eess.AS"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14421"
+  },
+  "hook": "A 29M-parameter speech recognizer predicts the median word 90 ms before the speaker finishes it",
+  "hook_turn": "before the speaker finishes it",
+  "id": "arxiv-2611.14421",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Median lead before word ends, LibriSpeech test-clean",
+    "unit": "ms",
+    "value": "90"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Earlybird is a small streaming recognizer trained on audio cut at random points, so it guesses words still being spoken and the next two, with calibrated confidence. On LibriSpeech test-clean, 69% of words are right before they end, versus 3-25% for other models. Accuracy only roughly ties a same-size model, and the evaluation is on read and prepared speech.",
+  "tags": [
+    "speech recognition",
+    "streaming models"
+  ],
+  "title": "Earlybird: Predictive Streaming Speech Recognition in 29M Parameters",
+  "url": "https://arxiv.org/abs/2611.14421",
+  "venue": "arXiv"
+}

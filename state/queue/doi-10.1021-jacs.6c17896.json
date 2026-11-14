@@ -1,0 +1,35 @@
+{
+  "abstract": "Abstract Deuterium labeling plays a pivotal role in pharmaceutical development by modulating physicochemical properties and enabling metabolic tracing. However, site-selective and programmable deuteration in amine-containing pharmaceuticals remains a formidable challenge, as it typically requires prefunctionalized and costly deuterated reagents that hamper scalability and practical utility. Here, we report an electrochemical strategy for synthesizing deuterated amine pharmaceuticals using D2O as a cost-effective deuterium source, enabling site selectivity, degree-programmable deuteration, and excellent deuterium incorporation. Central to this approach is the electrochemical conversion of toxic polyhalides into reactive deuterated building blocks in situ, facilitating the efficient synthesis of over 70 deuterated drugs, with selective mono-, di-, and trideuteration at the N-benzyl, N-methyl, O-benzyl, and S-benzyl positions, and broad functional-group tolerance. Collectively, we establish a platform integrating polyhalides valorization with precision isotopic editing for accessing high-value deuterated pharmaceuticals, especially amine-containing drugs bearing common metabolic soft spots such as benzyl and methyl motifs.",
+  "arxiv_id": null,
+  "authors": [
+    "Cui Zhang",
+    "Zhihao Yang",
+    "Linwei Wang",
+    "Youai Qiu"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c17896",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Heavy water and electricity add deuterium to over 70 amine drugs at chosen sites.",
+  "id": "doi-10.1021-jacs.6c17896",
+  "license": "other",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Deuterium is a heavy hydrogen used to slow drug breakdown and trace metabolism. This method uses an electric current to turn toxic polyhalide chemicals into deuterium-carrying building blocks, with heavy water as the cheap source. It labeled over 70 drugs at specific positions, but these are small-scale lab syntheses, and scale-up is not shown.",
+  "tags": [
+    "deuteration",
+    "electrochemistry"
+  ],
+  "title": "Site-Selective and Deuterium-Programmable Electrochemical Synthesis of Deuterated Pharmaceuticals",
+  "url": "https://doi.org/10.1021/jacs.6c17896",
+  "venue": "Journal of the American Chemical Society"
+}

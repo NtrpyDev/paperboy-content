@@ -1,0 +1,52 @@
+{
+  "abstract": "Abstract High-fidelity three-dimensional displays require precise control over the polarization of light. Screens incorporating chiral emissive micropixels─which allow effective regulation of spin angular momentum─offer the potential for minimal-crosstalk, high-definition imaging. However, such highly asymmetric luminous, densely integrated microarrays have not yet been reported, owing to interfacial pinning effects and easy chiral structural degradation during miniaturization. Here, we present a spiral-in-shrink assembly strategy that couples evaporation-induced contraction with chiral self-organization in a nonequilibrium pathway. Geometry-confined shrinkage and chiral helically ordered microdomes act in concert to stabilize circularly polarized emission, yielding lateral features of 58 μm─corresponding to a significant improvement in miniaturization over reported dimensions. Large-area arrays comprising over 31,000 emissive units achieve 359 pixels per inch─and luminescence dissymmetry factors up to 1.25, enabling densely packed full-color photonic patterning. Moreover, spatially encoded handedness distributions underpin polarization-resolved mapping on aerial platforms for human–machine sensing. Our scalable route establishes a platform for cohesive chiroptical materials across advanced optical displays, polarization imaging, and intelligent sensing.",
+  "arxiv_id": null,
+  "authors": [
+    "Tingjie Lv",
+    "Qi Guo",
+    "Guangen Li",
+    "Zeyi Li",
+    "Yanji Huang",
+    "Yajie Zhou",
+    "Shanshan Zhao",
+    "Mingjiang Zhang",
+    "Yaxin Wang",
+    "Zhi Tong",
+    "Anqi Li",
+    "Jing Lin",
+    "Ruiqi Su",
+    "Rui Duan",
+    "Taotao Zhuang"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c18804",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Chiral light-emitting micropixels as small as 58 μm form arrays at 359 pixels per inch.",
+  "hook_turn": "form arrays at 359 pixels per inch.",
+  "id": "doi-10.1021-jacs.6c18804",
+  "license": "other",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Pixel density of chiral emissive array",
+    "unit": "pixels per inch",
+    "value": "359"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "A shrink-and-assemble method lets chiral materials self-organize into tiny domes that emit circularly polarized light. Arrays hold over 31,000 units with dissymmetry factors up to 1.25, for polarization-based 3D displays and sensing. Only demonstrations of patterns and mapping are described, not a working display.",
+  "tags": [
+    "circularly polarized light",
+    "displays"
+  ],
+  "title": "Spiral-in-Shrink Assembly of Microarchitected Circularly Polarized Luminescent Networks",
+  "url": "https://doi.org/10.1021/jacs.6c18804",
+  "venue": "Journal of the American Chemical Society"
+}

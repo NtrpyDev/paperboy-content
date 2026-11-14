@@ -1,0 +1,41 @@
+{
+  "abstract": "We present the relativistic dynamical tidal response of a neutron star computed using stellar perturbation theory and matched to a worldline effective field theory via the tidal scattering phase. This phase is defined as the difference between the Compton/Raman scattering phase of gravitational-waves from a neutron star and the real part of the black hole scattering phase. The gravitational corrections to the response function are obtained using self-energy corrections up to fourth post-Minkowskian order. The response function for neutron stars obeying the BSk22 equation-of-state from Brussels-Skyrme family, is then consistently matched to an effective theory of relativistic quadrupolar harmonic oscillators to model the fundamental-mode ($f$-mode) and low-frequency gravity-modes ($g$-modes). This matching includes the frequency and tidal coupling of each mode and the post-adiabatic dynamical tidal Love number, and once matched this model is in excellent agreement with the full neutron star response. With the external tidal field up to third post-Newtonian order, we also analyse the tidal coupling of the induced quadrupole on the neutron star in a circular binary system, and the adiabatic binding energy.",
+  "arxiv_id": "2611.14077",
+  "authors": [
+    "M. V. S. Saketh",
+    "Raj Patil",
+    "Godwin Martin",
+    "Nils Andersson",
+    "Suprovo Ghosh",
+    "Jan Steinhoff"
+  ],
+  "categories": [
+    "gr-qc",
+    "astro-ph.HE",
+    "hep-th"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14077"
+  },
+  "hook": "A neutron star's relativistic tidal response to a companion is modeled and matches the full result.",
+  "id": "arxiv-2611.14077",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Using stellar perturbation theory matched to an effective field theory, the authors compute how a neutron star deforms in a binary, including f-modes and g-modes and corrections to fourth post-Minkowskian order. The effective model agrees well with the full response. It is demonstrated for a single equation of state, BSk22, and is theory only.",
+  "tags": [
+    "neutron stars",
+    "gravitational waves"
+  ],
+  "title": "Renormalized dynamical tidal response of neutron stars in binary dynamics",
+  "url": "https://arxiv.org/abs/2611.14077",
+  "venue": "arXiv"
+}

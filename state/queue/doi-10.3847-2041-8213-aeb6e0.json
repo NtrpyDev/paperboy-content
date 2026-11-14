@@ -1,0 +1,36 @@
+{
+  "abstract": "Abstract Recent observations of V1298 Tau b, a warm sub-Neptune ( R = 9.85 ± 0.3 R ⊕ , M = 13.1 ± 5.3 M ⊕ , T eq = 670 K) orbiting a young (10–30 Myr) K star, show depleted methane and surprising abundances of CO 2 in its atmosphere. This makes the planet an interesting target to study the “missing methane problem,” where Hubble Space Telescope, Spitzer, and JWST have revealed many sub-Jovian planets with effective temperatures cooler than 800 K to be depleted in methane compared to equilibrium chemistry predictions. On V1298 Tau b, an intrinsic temperature ( T int ) of 500 K is required to explain the methane depletion if strong mixing from a warm interior is the reason for the missing methane, but this T int is too large for a planet of its age and size according to standard interior structure evolution theories. Here, we show that stellar flares can result in methane depletion in a warm planet’s atmosphere with nominal T int ∼ 100 K. During a stellar flare, fast methane photolysis rates cannot be balanced by diffusion from below into the upper atmospheric layers probed by observations. Young active stars flare frequently, and we show that the timescale of diffusion for the methane to recover from a flare-induced depletion can be slow compared to the flare frequency. Over time, the atmosphere reaches a new steady state set by the average flare frequency and energy. This new steady state shows depleted methane in the 2 mbar region, and abundant CO, CO 2 , and HCN, which results in synthetic transmission spectra that reproduce the main features of the recent JWST observations of V1298 Tau b.",
+  "arxiv_id": null,
+  "authors": [
+    "Danica Adams",
+    "Pierre-Alexis Roy",
+    "Hilke E. Schlichting",
+    "Björn Benneke"
+  ],
+  "categories": [],
+  "doi": "10.3847/2041-8213/aeb6e0",
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "In models, stellar flares strip methane from a young planet's air, matching JWST spectra.",
+  "hook_turn": "matching JWST spectra.",
+  "id": "doi-10.3847-2041-8213-aeb6e0",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Frequent flares from a young star may explain why the planet V1298 Tau b has so little methane. Flares destroy methane faster than it can be resupplied from below, and the atmosphere settles into a depleted steady state without needing a hot interior. The result comes from atmospheric modeling that reproduces JWST features, not from direct detection of flare effects.",
+  "tags": [
+    "exoplanet atmospheres",
+    "JWST"
+  ],
+  "title": "Stellar Flares Rather than High T int as Possible Cause for the Missing Methane in Young Exoplanets: The Case Study of V1298 Tau b",
+  "url": "https://doi.org/10.3847/2041-8213/aeb6e0",
+  "venue": "The Astrophysical Journal Letters"
+}

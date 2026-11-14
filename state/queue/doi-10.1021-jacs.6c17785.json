@@ -1,0 +1,36 @@
+{
+  "abstract": "Abstract For homogeneous transition metal reactions, it is generally assumed that when intermediates are formed, they are sufficiently long-lived for the surrounding solvent cage to fully equilibrate prior to product formation. However, some transition metal reactions generate a highly reactive and transient intermediate for which product selectivity is not governed by subsequent competing transition states but rather by dynamic effects during descent from the transition state that forms the intermediate. In such reactions, solvent reorganization may be slow relative to product formation, which could significantly impact reaction pathway selectivity. Here, we demonstrate the important role of the solvent cage and explicit solute–solvent interactions in determining pathway selectivity for the ultrafast-evolving radical pair intermediate generated during (PDP)Fe-oxo-catalyzed intramolecular sp3 C–H functionalization. Quasiclassical reactive trajectories showed that with only a continuum solvent model a mixture of oxygen rebound/hydroxylation, desaturation, and direct carboxylate rebound products are formed due to dynamically driven, entropically favored wandering, which is inconsistent with experiments. In contrast, trajectories in explicit solvent reproduced the experimental product selectivity and demonstrated that solvent controls the nonstatistical, motion-driven selectivity by acting as a nonequilibrated solvent cage that restricts access to entropically favorable wandering configurations. The solvent effectively guides the radical pair intermediate toward one dominant product pathway. These results demonstrate the important role of the solvent cage in reactions involving highly transient intermediates where dynamic effects control selectivity.",
+  "arxiv_id": null,
+  "authors": [
+    "Jyothish Joy",
+    "Anthony J. Schaefer",
+    "Daniel H. Ess"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c17785",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "In simulations, a solvent cage steers a short-lived iron radical pair to one product, matching experiment.",
+  "hook_turn": "matching experiment.",
+  "id": "doi-10.1021-jacs.6c17785",
+  "license": "other",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Trajectory simulations of an Fe-oxo C-H functionalization found that continuum solvent gives a product mixture contradicting experiment, while explicit solvent molecules reproduce the observed selectivity. The unequilibrated solvent cage restricts the radical pair's wandering. The result is computational and covers a single catalyst reaction.",
+  "tags": [
+    "reaction dynamics",
+    "solvent effects",
+    "iron catalysis"
+  ],
+  "title": "Solvent Cage Suppresses Dynamically Induced Entropic Pathways to Provide High Selectivity in Intramolecular Fe-Oxo Radical Rebound Reactions",
+  "url": "https://doi.org/10.1021/jacs.6c17785",
+  "venue": "Journal of the American Chemical Society"
+}

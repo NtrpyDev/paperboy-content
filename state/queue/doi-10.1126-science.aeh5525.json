@@ -1,0 +1,37 @@
+{
+  "abstract": "The rapid ice loss in West Antarctica since the 1990s has led to substantial ice surface lowering, regional bedrock uplift, and gravity reduction, as measured by geodetic observations. The bedrock (crustal) motions and gravity changes result from glacial isostatic adjustment (GIA), a process controlled by Earth's viscoelastic properties and deglaciation history. In this study, we present GIA models with geodynamically consistent three-dimensional mantle viscoelastic structures and reconstructed ice history for Antarctica from 1900 to 2020, which explain both the observed Global Navigation Satellite System crustal motions and Gravity Recovery and Climate Experiment gravity changes in West Antarctica. This study demonstrates that a mantle rheology including a weak asthenosphere and temperature-dependent viscosity is consistent with both mantle convection at million-year timescales and ongoing decadal GIA occurring in West Antarctica.",
+  "arxiv_id": null,
+  "authors": [
+    "Donna L dePolo",
+    "Tao Yuan",
+    "Matt A King",
+    "Shijie Zhong"
+  ],
+  "categories": [],
+  "doi": "10.1126/science.aeh5525",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "West Antarctica's rising bedrock fits a mantle model with a weak, temperature-sensitive layer under the crust.",
+  "hook_turn": "a mantle model with a weak, temperature-sensitive layer under the crust.",
+  "id": "doi-10.1126-science.aeh5525",
+  "license": null,
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Three-dimensional mantle models with a weak asthenosphere and temperature-dependent viscosity, driven by ice history from 1900 to 2020, reproduce both GNSS crustal motions and GRACE gravity changes in West Antarctica. The same rheology also fits mantle convection over million-year timescales. The result is model fit to observations, so other mantle structures may fit comparably well.",
+  "tags": [
+    "Antarctica",
+    "mantle viscosity",
+    "glacial isostatic adjustment"
+  ],
+  "title": "Geodetic observations in West Antarctica reveal geodynamically consistent 3D mantle viscosity.",
+  "url": "https://doi.org/10.1126/science.aeh5525",
+  "venue": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "abstract": "The elemental composition of ultra-high-energy cosmic rays (UHECRs) must be evaluated at a given rigidity rather than energy to compare with candidate elemental abundances, such as those of low-energy cosmic rays seeding the acceleration of UHECRs. We determine the UHECR composition from fits to Pierre Auger Observatory data and evaluate the resulting abundances at fixed rigidity. We identify two classes of solutions consistent with measurements above $10^{17.8}$ eV: one in which the hydrogen flux at Earth is dominated by secondary nucleons produced by photodisintegration of heavier nuclei in extragalactic photon fields, and a second in which this contribution is less pronounced. Only the latter, which yields a mixture of primary and secondary protons at Earth, allows a hydrogen abundance at the source comparable to that of low-energy cosmic rays. However, both classes of solutions require an overabundance of nuclei in the silicon-iron group. Other source models from the literature also fail to reproduce the full elemental composition. The metallicity of UHECRs thus differs markedly from that of all candidate seed populations considered, leaving the origin of the heavy-element excess unresolved.",
+  "arxiv_id": "2611.14038",
+  "authors": [
+    "E. Podlesnyi",
+    "F. Oikonomou",
+    "D. Ehlert",
+    "M. Unger"
+  ],
+  "categories": [
+    "astro-ph.HE"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14038"
+  },
+  "hook": "Fits to Auger data show ultra-high-energy cosmic rays carry far more iron-group nuclei than seed sources.",
+  "hook_turn": "carry far more iron-group nuclei than seed sources.",
+  "id": "arxiv-2611.14038",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors fit Pierre Auger Observatory data above 10^17.8 eV and compare abundances at fixed rigidity. Both families of solutions need an overabundance of silicon-iron nuclei compared with low-energy cosmic-ray seeds. The conclusion depends on the assumed models of photon fields and propagation, and the origin of the excess is unresolved.",
+  "tags": [
+    "cosmic rays",
+    "Pierre Auger"
+  ],
+  "title": "Ultra-high-energy cosmic rays require metal-rich sources",
+  "url": "https://arxiv.org/abs/2611.14038",
+  "venue": "arXiv"
+}

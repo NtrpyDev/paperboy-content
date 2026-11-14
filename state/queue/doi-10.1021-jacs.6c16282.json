@@ -1,0 +1,37 @@
+{
+  "abstract": "Abstract The electrolyte and applied potential are known to impact a catalyst’s structure and performance, yet the role of reaction intermediates and products in driving surface evolution remains largely unexplored. Here, using electrochemical atomic force microscopy, we show that the dynamic restructuring of copper (Cu) surfaces during nitrate reduction reaction (NO3RR) directly correlates with the rate and selectivity of ammonia (NH3) formation. At moderate overpotentials, where nitrite formation dominates, lateral expansion of Cu terraces is observed, whereas rapid NH3 formation at higher cathodic potentials induces Cu adislands enriched in low-coordinated step sites, revealing distinct restructuring pathways that accompany the transition from nitrite- to ammonia-selective NO3RR. These transformations are rationalized by an NH3-mediated Cu dissolution-redeposition mechanism. Our results identify reaction products as active modulators of catalyst surface structure, establishing a framework for understanding reaction-driven catalyst restructuring and enabling in situ control of catalyst surfaces through the interfacial reaction environment.",
+  "arxiv_id": null,
+  "authors": [
+    "Yujie Peng",
+    "Mael Brule",
+    "Yawei Zhou",
+    "Beatriz Roldan Cuenya",
+    "Christopher S. Kley"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c16282",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Copper catalyst surfaces reshape as ammonia forms, and the reshaping tracks ammonia output.",
+  "hook_turn": "and the reshaping tracks ammonia output.",
+  "id": "doi-10.1021-jacs.6c16282",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Electrochemical atomic force microscopy watched copper change during nitrate reduction, with terraces widening when nitrite dominates and step-rich islands forming when ammonia dominates. The authors propose ammonia-driven copper dissolution and redeposition. The mechanism is inferred from surface imaging on model copper.",
+  "tags": [
+    "electrocatalysis",
+    "ammonia"
+  ],
+  "title": "Ammonia-Driven Nanoscale Surface Restructuring of Copper Catalysts during Nitrate Reduction Reaction",
+  "url": "https://doi.org/10.1021/jacs.6c16282",
+  "venue": "Journal of the American Chemical Society"
+}

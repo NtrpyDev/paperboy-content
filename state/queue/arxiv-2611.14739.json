@@ -1,0 +1,41 @@
+{
+  "abstract": "Sand surfaces exposed to the wind are covered by aeolian sand waves of diverse wavelengths, from centimetres for small ripples to decameters for dunes. Sand dunes can be said to be antifragile, since their growth is not prohibited by storms, whereas ripples and megaripples are fragile since they get flattened. The fluid-entrainment hypothesis attributes their fragility to a common cause: the spontaneous aerodynamic entrainment of grains. Here, we challenge this conventional view by revealing its major shortcomings and inconsistencies. An alternative framework, routed in the granular bed rheology, posits that impact ripples are erased when the two-phase flow of ballistically hopping grains on a solid sand surface gives way to a three-phase flow, featuring an intermediate, collision-dominated, fluid-like transport layer. Notably, both martian wind-drag ripples and terrestrial aerodynamic ripples, which emerge via a hydrodynamic instability, are insensitive to such \"surface-melting\". Their destruction is predicated on the transition from aerodynamically smooth to rough conditions, instead. Our theoretical arguments are well supported by a stability diagram in terms of Shields number and grain diameter, assembled from a carefully reassessed large body of literature, and backed up by dedicated control measurements.",
+  "arxiv_id": "2611.14739",
+  "authors": [
+    "Constantin Rein",
+    "Katharina Tholen",
+    "Lior Saban",
+    "Itzhak Katra",
+    "Hezi Yizhaq",
+    "Klaus Kroy"
+  ],
+  "categories": [
+    "physics.geo-ph",
+    "physics.ao-ph",
+    "physics.flu-dyn"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14739"
+  },
+  "hook": "Sand ripples erase when grain transport turns fluid-like, not from wind entrainment, a theory argues.",
+  "id": "arxiv-2611.14739",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors argue that the standard explanation for why wind flattens ripples fails. They propose that impact ripples vanish when hopping grains give way to a collision-dominated, fluid-like layer, while other ripple types fail when airflow turns from smooth to rough. Support comes from a literature-based stability diagram and control measurements, so the case is largely theoretical.",
+  "tags": [
+    "sand ripples",
+    "granular flow"
+  ],
+  "title": "Fragility of Aeolian Ripples",
+  "url": "https://arxiv.org/abs/2611.14739",
+  "venue": "arXiv"
+}

@@ -1,0 +1,36 @@
+{
+  "abstract": "We study the query complexity of envy-free division for cake, chores, and resources with both positive and negative values. For arbitrary nonnegative nonatomic chore costs, we give a deterministic exact protocol using $2^{n\\log_2 n+O(n)}$ queries and cuts. For both cake and chores, a Las Vegas protocol uses $O(n^{12}\\log(2n))$ expected queries and $O(n^{11}\\log(2n))$ expected cuts. Conversely, every exact protocol with fixed positive success probability requires $\\Omega(n^2)$ expected queries in general, even with arbitrarily many output cuts at no query cost. For mixed cake and chores, no uniform finite expected-query bound exists even when every Cut returns the leftmost root or every Cut returns the rightmost root. This holds for any fixed positive multiplicative approximation factor and success probability, already when all net totals are one. An additive impossibility holds on the same normalized domain.",
+  "arxiv_id": "2611.11424",
+  "authors": [
+    "Alireza Farhadi",
+    "Mohammadtaghi Hajiaghayi"
+  ],
+  "categories": [
+    "cs.GT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.11424"
+  },
+  "hook": "Fair division of mixed cake and chores has no finite query bound, even with randomness.",
+  "hook_turn": "even with randomness.",
+  "id": "arxiv-2611.11424",
+  "license": "cc-by",
+  "published": "2026-11-08",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Dividing cake or chores without envy can be done with finite expected queries, but needs at least n^2 of them for n people. For mixed cake and chores, no finite bound exists at all. The results are proofs in the standard query model, so they say nothing about practical negotiation.",
+  "tags": [
+    "fair division",
+    "query complexity"
+  ],
+  "title": "The Query Complexity of Envy-Free Division: Cake, Chores, and Mixed Resources",
+  "url": "https://arxiv.org/abs/2611.11424",
+  "venue": "arXiv"
+}

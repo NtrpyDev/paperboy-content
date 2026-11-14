@@ -1,0 +1,42 @@
+{
+  "abstract": "Polyoxometalates (POMs) offer unique physicochemical properties for radiopharmaceutical design, yet their integration with clinically relevant radionuclides remains largely unexplored. Here we report the isolation and comprehensive solid-state and solution characterization of the gallium-substituted Keggin phosphotungstate cesium salt, Cs4[Ga(H2O)PW11O39]·8H2O (CsGaPW11), including single-crystal and powder X-ray diffraction, multinuclear NMR (31P, 71Ga, 183W), IR spectroscopy, ESI-MS, elemental analysis, and TGA. The radiolabeled analogue Cs68GaPW11 (45-55 MBq, >96% radiochemical purity) was synthesized in under 60 min, dictated by the 68 min half-life of 68Ga, and retained full structural integrity after radioactive decay. In CHO-K1 cells, Cs68GaPW11 shows higher cellular uptake than 68GaCl3 and 68Ga-oxine, with radioactivity progressively shifting from the cell membrane to the intracellular compartment over 60 min. Together with low cytotoxicity (>90% viability at 100 µM), these findings identify the membrane-permeable Keggin anion as a viable inorganic platform for PET cell tracking.",
+  "arxiv_id": null,
+  "authors": [
+    "Ella Duvanova",
+    "Joshua Rieger",
+    "Karsten Bamminger",
+    "Nadiia I Gumerova",
+    "Markus Mitterhauser",
+    "Annette Rompel"
+  ],
+  "categories": [],
+  "doi": "10.1002/anie.9529520",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A gallium-68 tungsten-oxide cluster enters cells and could work as a PET tracer for tracking cells.",
+  "id": "doi-10.1002-anie.9529520",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Radiochemical purity of labeled cluster",
+    "unit": "%",
+    "value": ">96"
+  },
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "The team built a Keggin-type cluster carrying radioactive gallium-68 and made it in under an hour, fast enough for the isotope's 68 minute half-life. In hamster ovary cells it was taken up more than two gallium controls and moved from the membrane to the interior, with little toxicity. This is cell culture only; no animal imaging is reported.",
+  "tags": [
+    "radiopharmaceuticals",
+    "polyoxometalates"
+  ],
+  "title": "A 68Ga-Substituted Keggin Phosphotungstate as an Intrinsically Radiolabeled Inorganic PET Tracer for Cell Tracking.",
+  "url": "https://doi.org/10.1002/anie.9529520",
+  "venue": "Angewandte Chemie International Edition"
+}

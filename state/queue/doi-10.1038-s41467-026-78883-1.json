@@ -1,0 +1,46 @@
+{
+  "abstract": "Abstract Layered transition-metal dichalcogenide 1T-TaS 2 has long been considered a prime example of a Mott insulator driven by strong electron correlations. However, this view has been recently challenged by proposals which favor a band insulating state arising from interlayer dimerization. This ongoing debate opens a frontier in 1T-TaS 2 research focusing on stacking order, and raises a fundamental question with broad implications for two-dimensional materials: can electronic phases be engineered by actively tuning interlayer coupling? Here, using micro-focused angle-resolved photoemission spectroscopy supported by first-principles calculations, we demonstrate that uniaxial strain drives 1T-TaS 2 from its insulating charge-density-wave phase into a stable metallic phase. This metallic phase, distinct from hydrostatic-pressure-induced or non-equilibrium hidden phases, emerges via a strain-induced rearrangement in the interlayer stacking of the Star-of-David charge order, effectively disrupting interlayer dimerization. Furthermore, the emergent metallic phase exhibits a significant quasiparticle mass renormalization, a hallmark of strong electron correlations, indicating its correlated nature and proximity to a Mott instability. This finding necessitates a re-evaluation of the interplay between structural and strong correlations in 1T-TaS 2 . The present results establish uniaxial strain as a powerful method for tuning the interlayer coupling, opening pathways for exploring quantum phases inaccessible under ambient conditions.",
+  "arxiv_id": null,
+  "authors": [
+    "Shuto Suzuki",
+    "Kosuke Nakayama",
+    "Koki Yanagizawa",
+    "Katsuaki Sugawara",
+    "Seigo Souma",
+    "Kenichi Ozawa",
+    "Shunichi Takano",
+    "Ryoga Takahara",
+    "Takeshi Hara",
+    "Yusuke Wakabayashi",
+    "Takashi Takahashi",
+    "Tsutomu Nojima",
+    "Keiji Ueno",
+    "Takafumi Sato"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-78883-1",
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Straining 1T-TaS2 along one axis turns an insulator into a metal",
+  "hook_turn": "turns an insulator into a metal",
+  "id": "doi-10.1038-s41467-026-78883-1",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Photoemission measurements with first-principles calculations show uniaxial strain shifts the layer stacking of the tantalum disulfide charge order and breaks interlayer pairing. The resulting metal has heavier electrons, a sign of strong correlations. The work addresses a debate over whether this material is a true Mott insulator, but it does not settle it.",
+  "tags": [
+    "2d materials",
+    "mott insulator"
+  ],
+  "title": "Strain-induced correlated metallic phase in 1T-TaS2",
+  "url": "https://doi.org/10.1038/s41467-026-78883-1",
+  "venue": "Nature Communications"
+}

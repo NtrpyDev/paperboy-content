@@ -1,0 +1,44 @@
+{
+  "abstract": "Abstract A major question about JWST’s little red dots (LRDs) at z ∼ 4−8 is the origin of their apparent X-ray weakness. Even deep Chandra stacks yield only tentative detections or broadband limits and cannot distinguish among super-Eddington accretion, intrinsic X-ray weakness, and Compton-thick (CT) obscuration. Local analogs offer a powerful complementary route. At z ∼ 0.3, similarly luminous sources require ∼10 3−4 less exposure for comparable signal-to-noise, suffer less source confusion, and directly probe the diagnostic rest-frame soft X-rays. Here we present a pilot Einstein Probe/FXT study of six “local little red dots” (LLRDs), V-shaped broad-line green pea galaxies selected as low-redshift counterparts of LRDs. These sources show X-ray diversity: “X-normal” LLRDs resemble type 1 active galactic nuclei (AGNs) in X-ray luminosity and optical variability, whereas “X-weak” stack lies ∼0.5–0.7 dex below standard unobscured-quasar scaling relations while remaining compatible with the representative LRD stack and 95% of published individual limits. The X-weak LLRDs also lack detected optical variability and have redder optical continua than X-normal LLRDs, making their V-shaped SEDs closer to those of high-redshift LRDs. The detection of the X-weak stack at ∼3.3 σ with the soft-X-ray-sensitive EP-FXT provides rest-frame ∼2−3 keV constraints difficult to reconcile with a typical unobscured super-Eddington model or a local-AGN-like CT geometry examined here, although modified variants remain possible. The simplest alternative is a mildly X-ray-weak corona (Δ α ox ∼ −0.1 to −0.2) with Compton-thin absorption ( N H ∼ 10 22−23 cm −2 ), consistent with the independent Balmer decrement/break diagnostics. Together with growing samples of local LRD analogs, our results offer a practical path for testing the physical nature of LRD X-ray weakness.",
+  "arxiv_id": null,
+  "authors": [
+    "Shi-Jiang Chen",
+    "Jun-Xian Wang",
+    "Zhen-Ya Zheng",
+    "Ruqiu Lin",
+    "Luis C. Ho",
+    "Zhen-Yi Cai",
+    "Chang-Hao Chen",
+    "Zsofi Igo",
+    "Jia-Lai Kang",
+    "Ruancun Li",
+    "Teng Liu",
+    "Wenke Ren",
+    "Zhen-Bo Su"
+  ],
+  "categories": [],
+  "doi": "10.3847/2041-8213/aeb93a",
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Nearby little red dot analogs are X-ray weak, hinting at a dim corona behind thin gas.",
+  "id": "doi-10.3847-2041-8213-aeb93a",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Six nearby galaxies that resemble JWST's distant little red dots were observed in X-rays with Einstein Probe. Some looked like normal active nuclei, while the stacked X-ray-weak ones sat 0.5 to 0.7 dex below expectations, detected at about 3.3 sigma. The best simple fit is a faintly X-ray-weak corona with thin absorbing gas, but the sample is six objects and other models remain possible.",
+  "tags": [
+    "little red dots",
+    "X-ray astronomy"
+  ],
+  "title": "Local Analogs of Little Red Dots: Clues to the X-Ray Weakness",
+  "url": "https://doi.org/10.3847/2041-8213/aeb93a",
+  "venue": "The Astrophysical Journal Letters"
+}

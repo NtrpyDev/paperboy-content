@@ -1,0 +1,38 @@
+{
+  "abstract": "Barnard's Star is the nearest single-star system to the Sun and hosts four recently detected sub-Earth-mass planets. The system exhibits architectural imprints of a \"broken resonant chain\". We explore scenarios in which the presence of a now-lost, additional planet provides a more natural explanation for the present-day architecture from a dynamical-formation perspective. In such a situation, a resonance-breaking event triggered a merger between two planets, forming the present-day planet c. We find two viable pathways that can reproduce the observed configuration: (i) stellar-driven, long-term tidal expansion and (ii) disk-driven, early expansion, in which one-sided Lindblad torques separate the two outermost planets. Both scenarios can lead to the c1-c2 merger required to form the present-day architecture. The latter pathway also agrees with the broader exoplanet census: among the 14 compact four-planet systems we identify with broken-chain architectures similar to Barnard's Star system, ten have the third planet \"breaking\" the resonant sequence.",
+  "arxiv_id": "2611.13771",
+  "authors": [
+    "Tian Yi",
+    "Qiran Huang",
+    "Shuo Huang",
+    "Chris W. Ormel"
+  ],
+  "categories": [
+    "astro-ph.EP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13771"
+  },
+  "hook": "Barnard's Star may once have had a fifth planet that merged with another, explaining its odd orbit spacing.",
+  "hook_turn": "explaining its odd orbit spacing.",
+  "id": "arxiv-2611.13771",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Simulations show that a lost planet merging with a neighbor could produce the four sub-Earth planets seen around Barnard's Star, via tidal expansion or early disk-driven separation. The disk pathway fits the wider exoplanet census, where ten of 14 similar systems have the third planet breaking the resonant sequence. The lost planet is a hypothesis with no direct evidence.",
+  "tags": [
+    "exoplanets",
+    "planet formation"
+  ],
+  "title": "Breaking the Chain: The Dynamical History of the Barnard's Star Planetary System",
+  "url": "https://arxiv.org/abs/2611.13771",
+  "venue": "arXiv"
+}

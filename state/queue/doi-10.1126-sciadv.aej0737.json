@@ -1,0 +1,42 @@
+{
+  "abstract": "Poly(benzodifurandione) (PBFDO) is a benchmark n-type conjugated polymer known for its record-high electrical conductivity. Nevertheless, its thermal robustness and charge/ion transport characteristics remain insufficient. To address this issue, we report a hierarchical complementary topology strategy via doping PBFDO with choline chloride (ChCl). At the molecular scale, the cations Ch+ selectively intercalate along the out-of-plane direction while simultaneously densifying the in-plane π-π stacking, accompanied by partial removal of H+. At the submicrometer scale, this induces distinct phase separation into high- and low-density stacking domains. As a result, the product PBFDO-ChCl exhibited a synergistic performance boost, with a 2.8-fold enhancement in high-temperature resilience, a 1.6-fold increase in sheet conductance, and a 15.9-fold reduction in ion diffusion resistance. Then, organic electrochemical transistors (OECTs) using PBFDO-ChCl as channel material further confirm these performance enhancements. As a whole, this work closes the performance gap between n-type PBFDO and state-of-the-art p-type conjugated polymers, potentially advancing its applications from energy storage to bioelectronics and neuromorphic computing.",
+  "arxiv_id": null,
+  "authors": [
+    "Yuhao Geng",
+    "Bowen Yao",
+    "Yuyao Lu",
+    "Jingcheng Liu",
+    "Zimo Chen",
+    "Shangcheng Zou",
+    "Zhaoyang Yin",
+    "Xuesong Huang",
+    "Jianlong Xu",
+    "Jiajun Fu"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aej0737",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Choline chloride makes a record-conducting n-type polymer tougher to heat and faster for ions",
+  "hook_turn": "faster for ions",
+  "id": "doi-10.1126-sciadv.aej0737",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "A common n-type conducting polymer, PBFDO, gets better heat resilience, conductance and ion transport when doped with choline chloride. Choline ions slide between the polymer layers and pack the layers tighter in-plane, and the material separates into dense and loose domains. Transistor tests agree, but the gains are modest (1.6-fold conductance) and shown only in lab films.",
+  "tags": [
+    "conducting polymers",
+    "organic electronics"
+  ],
+  "title": "Boosting stability and charge transfer of conducting polymer poly(benzodifurandione) (PBFDO) through complementary topology.",
+  "url": "https://doi.org/10.1126/sciadv.aej0737",
+  "venue": "Science Advances"
+}

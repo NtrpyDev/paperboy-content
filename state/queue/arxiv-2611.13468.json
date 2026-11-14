@@ -1,0 +1,42 @@
+{
+  "abstract": "We give new necessary conditions on the Weil polynomial of a K3 surface over a finite field using techniques from the theory of sphere packing. By comparing the Artin-Tate formula over a finite extension, we derive a special values formula at roots of unity that involves the discriminant of the Frobenius coinvariant lattice. Known bounds on the minimum discriminants of even rootless lattices then imply nontrivial lower bounds on these special values. Applying these new conditions to Kedlaya and Sutherland's list of candidate Weil polynomials of K3 surfaces over the field with 2 elements rules out over 50% of the candidates.",
+  "arxiv_id": "2611.13468",
+  "authors": [
+    "Asher Auel",
+    "Sair Shaikh"
+  ],
+  "categories": [
+    "math.AG",
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13468"
+  },
+  "hook": "Sphere-packing bounds rule out over half the candidate Weil polynomials of K3 surfaces over F2",
+  "hook_turn": "over half the candidate Weil polynomials of K3 surfaces over F2",
+  "id": "arxiv-2611.13468",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Candidate Weil polynomials ruled out",
+    "unit": "percent",
+    "value": ">50"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors derive new necessary conditions on Weil polynomials of K3 surfaces over finite fields by combining the Artin-Tate formula with known sphere-packing bounds on lattice discriminants. Applied to Kedlaya and Sutherland's list for the field with 2 elements, the conditions eliminate more than half the candidates. The conditions only exclude candidates and do not show that the survivors occur.",
+  "tags": [
+    "algebraic geometry",
+    "number theory"
+  ],
+  "title": "A cyclotomic Artin-Tate formula and sphere packing for K3 surfaces",
+  "url": "https://arxiv.org/abs/2611.13468",
+  "venue": "arXiv"
+}

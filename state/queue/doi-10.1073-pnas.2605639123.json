@@ -1,0 +1,40 @@
+{
+  "abstract": "Temporal control of neuronal differentiation is essential for establishing stable neuronal identities, yet the transcriptional and epigenetic mechanisms underlying this process remain poorly understood. Using auditory neurons as an in vivo model, we investigate the role of the proneural factor NEUROD1 in regulating neuronal differentiation timing and subtype specification. To bypass early neuronal loss in germline Neurod1 deletion mutants, we generated a delayed, self-terminating conditional knockout mouse ( Neurod1ST ) that permits analysis of later differentiation stages. Integration of NEUROD1 chromatin binding and histone profiling at embryonic day (E) 11.5 with transcriptomic analyses across E11.5, E14.5, and E18.5 reveals a two-phase regulatory program during auditory neuron development that parallels dynamic Neurod1 expression. In the first phase, coinciding with Neurod1 upregulation during early neuronal differentiation, NEUROD1 preferentially binds putative enhancers of neuronal differentiation genes and promotes their transition to active chromatin states, consistent with pioneer factor activity. Loss of Neurod1 disrupts these epigenomic transitions, resulting in persistence of progenitor-like states with premature activation of differentiation and axonogenesis programs. This dysregulation is accompanied by activation of alternative regulatory networks, leading to defective neuronal migration and innervation, progressive identity instability, and apoptosis. In the second phase, marked by reexpression of Neurod1 in developing Type Ib/Ic precursors, Neurod1 deletion selectively impairs Type Ic specification while promoting a Type Ib-like identity. These findings identify NEUROD1 as a temporal regulator that coordinates developmental progression and stabilizes auditory neuron identity through phased regulatory activity, providing a mechanistic framework for how pioneer transcription factors couple chromatin remodeling to developmental timing.",
+  "arxiv_id": null,
+  "authors": [
+    "Laura Lebrón-Mora",
+    "Romana Bohuslavova",
+    "Lenka Gmiterkova",
+    "Veronika Merc",
+    "Ebenezer N. Yamoah",
+    "Bernd Fritzsch",
+    "Gabriela Pavlinkova"
+  ],
+  "categories": [],
+  "doi": "10.1073/pnas.2605639123",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "The NEUROD1 protein works in two phases to fix auditory neurons' identity.",
+  "hook_turn": "to fix auditory neurons' identity.",
+  "id": "doi-10.1073-pnas.2605639123",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "In mouse embryos, NEUROD1 opens chromatin at genes for neuron differentiation early, then later helps decide between two hearing neuron subtypes (Ic versus Ib). Without it, cells stay progenitor-like and many die. The evidence comes from a mouse conditional knockout, so human relevance is inferred.",
+  "tags": [
+    "neuron development",
+    "epigenetics",
+    "hearing"
+  ],
+  "title": "Two-phase NEUROD1 pioneer activity synchronizes sensory neuronal differentiation and subtype specification",
+  "url": "https://doi.org/10.1073/pnas.2605639123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

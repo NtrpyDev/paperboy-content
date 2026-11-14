@@ -1,0 +1,44 @@
+{
+  "abstract": "Abstract Small islands and ice rumples can regulate ice‐shelf flow, but conventional satellite altimetry poorly resolves their evolution. Here we use CryoSat‐2 SARIn swath altimetry to quantify surface‐elevation and volume changes over the Carney‐Duncan sector at the outer margin of West Antarctica's Getz Ice Shelf. From July 2010 to March 2026, this sector lost ice at a rate of approximately 2.1 km 3 yr −1 , resulting in an integrated loss of more than 30 km 3 . Thinning was concentrated along valley troughs and fast‐flowing corridors, where swath‐derived estimates resolve stronger thinning than the previous multi‐mission altimetry product. Landsat imagery shows progressive unanchoring of the ice rumple within the Carney‐Duncan passage since 1973, with more pronounced retreat after 2002, accompanied by local speed‐up and flow reorganization linked to the Stockholm and Bali Glaciers. These results link localized thinning to weakened pinning and demonstrate that changes in small peripheral features can reorganize Antarctic ice‐shelf flow.",
+  "arxiv_id": null,
+  "authors": [
+    "Byeong‐Hoon Kim",
+    "Choon‐Ki Lee",
+    "Clare Eayrs",
+    "Ki‐Weon Seo",
+    "Won Sang Lee",
+    "Ji Sung Na",
+    "Hyeonsoo Cha"
+  ],
+  "categories": [],
+  "doi": "10.1029/2026gl126004",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A West Antarctic ice shelf sector lost over 30 cubic km of ice as its anchoring ice rumple let go.",
+  "hook_turn": "as its anchoring ice rumple let go.",
+  "id": "doi-10.1029-2026gl126004",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Ice loss rate, Carney-Duncan sector",
+    "unit": "km3 per year",
+    "value": "2.1"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "CryoSat-2 swath altimetry from 2010 to 2026 shows the Carney-Duncan sector of the Getz Ice Shelf thinning, with the pinning ice rumple retreating in Landsat images since 1973. Nearby glaciers sped up and their flow reorganized. The link between lost pinning and flow change is inferred from timing, not tested directly.",
+  "tags": [
+    "Antarctica",
+    "ice shelves"
+  ],
+  "title": "Sustained Ice Loss and Ice‐Shelf Flow Reorganization in the Carney‐Duncan Sector, Marie Byrd Land, West Antarctica (2010–2026)",
+  "url": "https://doi.org/10.1029/2026gl126004",
+  "venue": "Geophysical Research Letters"
+}

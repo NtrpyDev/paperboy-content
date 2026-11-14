@@ -1,0 +1,34 @@
+{
+  "abstract": "Gonzalez, Rossegger, and Turetsky introduced a spectrum-counting function $F(n)$ for the Scott complexities realized by $\\Pi^{\\mathrm{in}}_2$ theories with exactly $n$ countable models. They proved $7\\leq F(4)\\leq 8$ and left the exact value open. We prove $F(4)=8$. More precisely, we construct a $\\Pi^{\\mathrm{in}}_2$ sentence with exactly four countable models whose optimal Scott complexities are $\\Pi^{\\mathrm{in}}_2$, $\\Sigma^{\\mathrm{in}}_3$, $\\Pi^{\\mathrm{in}}_3$, and $d\\text{-}\\Sigma^{\\mathrm{in}}_3$, one of each. The construction starts with a complete first-order Ehrenfeucht theory having exactly two almost-prime and two limit models, whose existence follows from a realization theorem of Sudoplatov, and then passes to a full first-order Morleyization. The proof is organized around two low-level transfer principles. First, in a small theory, a $\\Sigma^{\\mathrm{in}}_3$ Scott sentence forces a model to be prime over a finite tuple; after Morleyization the converse holds. Second, if a model realizes every complete finite-tuple type over the empty set, then every $\\Pi^{\\mathrm{in}}_3$ sentence true in it is true in the countable saturated model. These two principles force the four models into the four distinct Scott-complexity classes above.",
+  "arxiv_id": "2611.12948",
+  "authors": [
+    "Yueer Yang"
+  ],
+  "categories": [
+    "math.LO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.12948"
+  },
+  "hook": "The Scott complexity count for theories with four countable models is exactly 8, not 7",
+  "id": "arxiv-2611.12948",
+  "license": "cc-by",
+  "published": "2026-11-06",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Earlier work showed the number of Scott complexities achievable by theories with four countable models is 7 or 8. This paper builds a sentence with exactly four countable models whose Scott complexities are all different, proving the value is 8. The construction uses a known Ehrenfeucht theory and Morleyization, and it settles only the case of four models.",
+  "tags": [
+    "model theory",
+    "logic"
+  ],
+  "title": "The Four-Model Scott Complexity Spectrum: $F(4)=8$",
+  "url": "https://arxiv.org/abs/2611.12948",
+  "venue": "arXiv"
+}

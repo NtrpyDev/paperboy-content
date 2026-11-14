@@ -1,0 +1,36 @@
+{
+  "abstract": "We study online selection problems subject to arbitrary downward-closed feasibility constraints, under different arrival orders, with different distributional assumptions. We establish the following bounds: (1) $\\Theta(\\log^2 n / \\log \\log n)$ for the standard (adversarial-order) prophet problem, (2) $\\Omega(\\log n)$ for the (Bayesian, random-order) prophet secretary problem, and by extension, for the standard (prior-free, random-order) secretary problem, and (3) $O(\\log n / \\log \\log n)$ for the free-order prophet problem. Together with complementary bounds established in prior work, these results pin down the asymptotically tight competitive ratios for all these variants of prophet and secretary problems subject to downward-closed constraints. Our results refine and reinforce the big-decisions-first principle by Rubinstein and Singla [2026], establishing a superconstant separation between the random-order and free-order models.",
+  "arxiv_id": "2611.16880",
+  "authors": [
+    "Hanrui Zhang"
+  ],
+  "categories": [
+    "cs.GT",
+    "cs.DS"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16880"
+  },
+  "hook": "Online picking under any constraint has tight worst-case limits, and free order beats random order.",
+  "hook_turn": "and free order beats random order.",
+  "id": "arxiv-2611.16880",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Choosing items as they arrive, under any rule about which sets are allowed, has now been pinned down: the best possible competitive ratios match known upper bounds across the prophet and secretary variants. The proof gives a superconstant gap between random arrival order and a free choice of order. This is a theoretical result about worst-case ratios, not a practical algorithm.",
+  "tags": [
+    "online algorithms",
+    "prophet inequalities"
+  ],
+  "title": "Tight Bounds for Downward-Closed Prophet and Secretary Problems",
+  "url": "https://arxiv.org/abs/2611.16880",
+  "venue": "arXiv"
+}

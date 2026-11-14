@@ -1,0 +1,36 @@
+{
+  "abstract": "We give a key polynomial of degree fourteen whose expansion in Demazure $t$-atoms has a coefficient with a negative term. This computation disproves the conjectured Demazure atom positivity of flagged LLT polynomials and the corresponding stable atom positivity assertion for modified nonsymmetric Macdonald polynomials.",
+  "arxiv_id": "2611.16899",
+  "authors": [
+    "Per Alexandersson"
+  ],
+  "categories": [
+    "math.CO",
+    "math.RT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16899"
+  },
+  "hook": "A degree-fourteen polynomial breaks a conjectured positivity rule for LLT and Macdonald polynomials.",
+  "hook_turn": "breaks a conjectured positivity rule for LLT and Macdonald polynomials.",
+  "id": "arxiv-2611.16899",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The author exhibits one explicit polynomial whose expansion in Demazure atoms contains a negative term. That disproves the conjectured atom positivity of flagged LLT polynomials and the matching claim for modified nonsymmetric Macdonald polynomials. The evidence is a single computation, so it kills the conjecture but does not say what the right statement is.",
+  "tags": [
+    "algebraic combinatorics",
+    "Macdonald polynomials"
+  ],
+  "title": "Counterexamples to flagged LLT and nonsymmetric Macdonald atom positivity",
+  "url": "https://arxiv.org/abs/2611.16899",
+  "venue": "arXiv"
+}

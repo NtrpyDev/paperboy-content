@@ -1,0 +1,47 @@
+{
+  "abstract": "Multicellular organisms produced by sexual reproduction develop from single cells, and the asymmetry of these cells can define the orientation of the earliest developmental axes. The haploid multicellular stage of the plant, Marchantia polymorpha, develops from a single cell-the spore-that divides asymmetrically, producing an apical germ cell that generates the plant body and a smaller basal cell that differentiates as an anchoring germ rhizoid cell. We show that the orientation of this asymmetric cell division is controlled by an external environmental cue-blue light-that is perceived by the photoreceptor phototropin. This process requires the NCH1 (NRL PROTEIN FOR CHLOROPLAST MOVEMENT 1) protein for downstream signaling. Together, these findings define core elements of the mechanism by which a directional environmental signal orients cell division, which, in turn, orients the first axis of symmetry.",
+  "arxiv_id": null,
+  "authors": [
+    "Johannes Roetzer",
+    "Radka Slovak",
+    "Eva-Sophie Wallner",
+    "Natalie Edelbacher",
+    "Beate Asper",
+    "Sebastian Deiber",
+    "Sebastian Seitner",
+    "Martin Colombini",
+    "Liam Dolan"
+  ],
+  "categories": [
+    "Spores",
+    "Marchantia",
+    "Plant Proteins",
+    "Signal Transduction",
+    "Phototropins",
+    "Blue Light"
+  ],
+  "doi": "10.1126/sciadv.aei3142",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Blue light, sensed by phototropin, sets which way a liverwort spore divides to start its body axis.",
+  "id": "doi-10.1126-sciadv.aei3142",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "The first asymmetric division of a Marchantia spore, which splits the plant body from the anchoring rhizoid, is oriented by blue light. The photoreceptor phototropin senses it and the NCH1 protein passes the signal on. The findings are from one liverwort species, so how general this is across plants is unknown.",
+  "tags": [
+    "plant development",
+    "photoreceptors"
+  ],
+  "title": "Phototropin-mediated blue light signaling orients the asymmetry of Marchantia polymorpha spores.",
+  "url": "https://doi.org/10.1126/sciadv.aei3142",
+  "venue": "Science Advances"
+}

@@ -1,0 +1,37 @@
+{
+  "abstract": "Confinement can turn widely separated particles into rapidly spinning primordial black holes. A flux tube pulls a heavy quark--antiquark pair together, converting its stored energy into relativistic motion. The same mechanism is possible in the magnetic dual, where a Higgs phase confines magnetic flux into a string joining a monopole--antimonopole pair. As the particles approach, cosmological tides and string bends can deflect their motion and make them miss. These disturbances can originate during inflation or be generated later. Black-hole formation then requires rare close passages from a smooth, broad encounter distribution. The resulting natal spin density therefore rises linearly to extremality, with mean dimensionless spin two thirds. Numerical string evolutions recover this law. Pairs that miss can remain bound, radiate and later collapse into lighter, near-extremal holes, sourcing a stochastic gravitational-wave background. Although the abundance remains model dependent, confinement leaves a unique spin signature that gravitational-wave observations can test.",
+  "arxiv_id": "2611.15169",
+  "authors": [
+    "Michael Zantedeschi"
+  ],
+  "categories": [
+    "hep-ph",
+    "astro-ph.CO",
+    "gr-qc"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15169"
+  },
+  "hook": "Confinement could form primordial black holes that spin near the maximum, with mean spin two thirds.",
+  "hook_turn": "that spin near the maximum, with mean spin two thirds.",
+  "id": "arxiv-2611.15169",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A string pulling a heavy particle pair together can make them collapse into a black hole, and near misses make the resulting spin density rise linearly toward extremal. String simulations recover this law, and bound pairs may later make a gravitational-wave background. Whether such black holes exist depends on model-dependent abundance.",
+  "tags": [
+    "primordial black holes",
+    "gravitational waves"
+  ],
+  "title": "Rapidly Spinning Primordial Black Holes from Confinement",
+  "url": "https://arxiv.org/abs/2611.15169",
+  "venue": "arXiv"
+}

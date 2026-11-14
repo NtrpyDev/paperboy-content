@@ -1,0 +1,54 @@
+{
+  "abstract": "Quantum networks require precision timing and classical communication to coordinate distributed quantum operations, yet these functions are typically supported by separate infrastructures, increasing system complexity and limiting scalability. Here we demonstrate an optical-frequency-comb-enabled infrastructure that unifies precision timing, classical communication and quantum communication over a shared fibre link. By encoding classical data onto the intensity of the comb while retaining its pulse timing, we simultaneously transmit data at 100 Mbit/s and achieve a timing stability of 0.85 fs at 1 s over 100 km. We develop a spectral-engineering strategy to suppress the coupling between data modulation and timing extraction. We further establish a power-dependent model of the excess noise induced in a co-propagating continuous-variable quantum key distribution channel, identifying optical power, wavelength allocation and propagation direction as the principal control parameters. After optimization, the system introduces only 0.0037 shot noise unit of additional excess noise and limits the secret-key-rate penalty to 6.7%. Furthermore, quantum-secured timestamp transmission additionally enables absolute time synchronization with a stability of 0.26 fs at 1 s. These results establish optical frequency combs as a common physical layer for integrated quantum-network services.",
+  "arxiv_id": "2611.16349",
+  "authors": [
+    "Yiting Lin",
+    "Zishuo Ren",
+    "Yunkun Zhao",
+    "Jiayu Ma",
+    "Zimeng Li",
+    "Yang Sun",
+    "Yufei Zhang",
+    "Yanhao Sun",
+    "Lei Yang",
+    "Xiangyu Wang",
+    "Kemi Xu",
+    "Ziyang Chen",
+    "Hong Guo"
+  ],
+  "categories": [
+    "physics.optics",
+    "quant-ph"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "engineering",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16349"
+  },
+  "hook": "One fibre link carries timing, data and quantum keys together with little added noise.",
+  "hook_turn": "with little added noise.",
+  "id": "arxiv-2611.16349",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Timing stability at 1 s over 100 km",
+    "unit": "fs",
+    "value": "0.85"
+  },
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A single optical frequency comb sends 100 Mbit/s of classical data while keeping femtosecond timing, and shares the fibre with a quantum key distribution channel. Careful choice of power, wavelength and direction limited extra noise to 0.0037 shot noise units and the key-rate penalty to 6.7%. It is a lab demonstration, and the key rate still drops.",
+  "tags": [
+    "quantum networks",
+    "optical frequency comb",
+    "quantum key distribution"
+  ],
+  "title": "An optical-frequency-comb-enabled unified infrastructure for quantum networks",
+  "url": "https://arxiv.org/abs/2611.16349",
+  "venue": "arXiv"
+}

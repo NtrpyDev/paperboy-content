@@ -1,0 +1,37 @@
+{
+  "abstract": "Wolfe's method computes the point of minimum Euclidean norm in the convex hull of finitely many points. The method is parameterized by an insertion rule and it has been an open problem whether Wolfe's original rule guarantees a polynomial number of iterations (De Loera, Haddock, and Rademacher; STOC'18). We resolve this question by proving an exponential lower bound. In fact, we establish a tight connection to the simplex method for linear programming that allows us to transfer many lower bounds for simplex pivot rules to corresponding insertion rules of Wolfe's method. These include not only Wolfe's linopt rule via Dantzig's pivot rule, but also many other classical, randomized and history-based rules. As a corollary, we obtain the first exponential example for the Lawson-Hanson algorithm for nonnegative least squares, as well as PSPACE-hardness of deciding whether the linopt rule ever uses a given point.",
+  "arxiv_id": "2611.12680",
+  "authors": [
+    "Yann Disser",
+    "Nils Mosis"
+  ],
+  "categories": [
+    "math.OC",
+    "cs.DS"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.12680"
+  },
+  "hook": "Wolfe's minimum-norm-point method needs exponentially many steps in the worst case.",
+  "hook_turn": "exponentially many steps in the worst case.",
+  "id": "arxiv-2611.12680",
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "This settles an open question from 2018 by proving an exponential lower bound for Wolfe's original rule. The authors link the method to the simplex method, so lower bounds for many simplex pivot rules carry over. As a consequence, the Lawson-Hanson nonnegative least squares algorithm gets its first exponential example. These are worst-case constructions and may not reflect typical performance.",
+  "tags": [
+    "algorithms",
+    "optimization"
+  ],
+  "title": "Wolfe's Minimum-Norm-Point Method Generalizes the Simplex Method",
+  "url": "https://arxiv.org/abs/2611.12680",
+  "venue": "arXiv"
+}

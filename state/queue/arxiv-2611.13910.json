@@ -1,0 +1,36 @@
+{
+  "abstract": "We prove the strict shifted Dirichlet P\\'olya inequality \\[ \\lambda_k(B_R)>\\frac{(d-1)^2\\kappa^2}{4}+4\\pi^2\\left(\\frac{k}{\\omega_d\\operatorname{Vol}_\\kappa(B_R)}\\right)^{2/d},\\qquad k\\ge1, \\] for every geodesic ball $B_R$ in hyperbolic space of constant sectional curvature $-\\kappa^2$, in every dimension $d\\ge2$. As a consequence, we obtain the shifted Berezin--Li--Yau type inequality for hyperbolic balls, thereby providing a concrete family of domains satisfying both conjectures proposed by Laptev in 2023. For arbitrary nonempty open subsets $\\Omega\\subset\\mathbb{H}^d_\\kappa$ of finite volume, we establish the weak Berezin--Li--Yau type inequality \\[ \\sum_{j=1}^{m}\\lambda_j(\\Omega)\\ge a_{d,\\kappa}m+\\frac{d}{d+2}\\,4\\pi^2\\left(\\frac{m}{\\omega_d\\operatorname{Vol}_\\kappa(\\Omega)}\\right)^{2/d}m,\\qquad m\\ge1, \\] with the optimal leading coefficient, where $a_{2,\\kappa}=\\kappa^2/4$ and $a_{d,\\kappa}=d(d-1)\\kappa^2/6$ for $d\\ge3$. We also establish the global two-sided estimate for the renormalized eigenvalue sum on hyperbolic space, originally proposed by Strichartz in 1996 and valid for $d\\ge3$.",
+  "arxiv_id": "2611.13910",
+  "authors": [
+    "Guowei Dai",
+    "Lan Zhao"
+  ],
+  "categories": [
+    "math.AP",
+    "math.SP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13910"
+  },
+  "hook": "Polya's eigenvalue inequality is proved for every ball in hyperbolic space.",
+  "id": "arxiv-2611.13910",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove a shifted Polya bound on Dirichlet eigenvalues for all geodesic balls in hyperbolic space of any dimension. They also prove a weaker Berezin-Li-Yau bound for arbitrary finite-volume open sets. The sharp result covers balls only, so it settles Laptev's conjectures for that family.",
+  "tags": [
+    "spectral geometry",
+    "hyperbolic space"
+  ],
+  "title": "P\\'olya's conjecture for hyperbolic balls and Berezin--Li--Yau type inequalities",
+  "url": "https://arxiv.org/abs/2611.13910",
+  "venue": "arXiv"
+}

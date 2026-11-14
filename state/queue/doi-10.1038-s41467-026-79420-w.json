@@ -1,0 +1,46 @@
+{
+  "abstract": "Abstract Disordered rocksalt positive electrodes are promising candidates for high-energy batteries, yet their ion transport kinetics is constrained by an incomplete understanding of Li transport in disordered environments. Conventional percolation theory focuses on topological connectivity but often overlooks the critical role of the energy landscape. Here, leveraging actively fine-tuned machine learning interatomic potentials combined with experimental validation, we quantitatively resolve the interplay between Li percolation connectivity and the Li-site energy distribution. We reveal a trade-off whereby increasing cation disorder enhances topological connectivity but concurrently broadens the site energy distribution, inducing a rugged energy landscape that suppresses overall diffusion. To reconcile these conflicting factors, we construct a design map spanning the full Li–Mn–Ti–O composition space, establishing a Li-site energy rectified percolation metric that transforms their interaction into a quantifiable descriptor. This framework enables the identification of Li 1.3 Mn 0.4 Ti 0.3 O 2 , which delivers a specific capacity of 294 mAh g −1 . Furthermore, we demonstrate that inducing a phase transition toward a partially disordered spinel-like state simultaneously enhances percolation connectivity and narrows the energy landscape, achieving a specific capacity of 316 mAh g −1 . This work provides insights into the ion transport mechanisms in disordered electrode materials and offers practical design principles for battery systems.",
+  "arxiv_id": null,
+  "authors": [
+    "Junhong Liao",
+    "Zihui Li",
+    "Hao Chen",
+    "Yaoshu Xie",
+    "Ziyi Man",
+    "Shendong Tan",
+    "Yiyang Qu",
+    "Shixi Zhao",
+    "Zhengyan Lun",
+    "Tingzheng Hou"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-79420-w",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Cation disorder helps lithium connectivity but roughens the energy landscape, slowing diffusion in cathodes",
+  "id": "doi-10.1038-s41467-026-79420-w",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Capacity of partially disordered spinel-like state",
+    "unit": "mAh/g",
+    "value": "316"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Machine-learned interatomic potentials with experiments show more disorder in rocksalt cathodes links more Li pathways but spreads site energies, which suppresses diffusion. A new descriptor guided a Li-Mn-Ti-O composition with 294 mAh/g, and a spinel-like state reached 316 mAh/g. Only capacity is cited, not long-term cycling stability.",
+  "tags": [
+    "batteries",
+    "cathode materials"
+  ],
+  "title": "Percolation and site energy distribution jointly control Li+ transport in disordered rocksalt positive electrodes",
+  "url": "https://doi.org/10.1038/s41467-026-79420-w",
+  "venue": "Nature Communications"
+}

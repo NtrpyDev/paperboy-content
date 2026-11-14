@@ -1,0 +1,39 @@
+{
+  "abstract": "We consider an $N\\times N$ complex Gaussian random band matrix in one dimension with band width of order $W$, in the periodic block form of Yau and Yin. The $N$ sites are split into $n=N/W$ blocks of size $W$ on a ring, and the entries are nonzero only within a block and between adjacent blocks. The conjectured localization--delocalization transition occurs at $W\\sim\\sqrt N$. We prove quantum unique ergodicity for bulk eigenvectors at every deterministic rank whenever $W^2/N\\to\\infty$, with no power or logarithmic separation between $W^2$ and $N$. At the threshold $N/W^2\\to\\tau\\in(0,\\infty)$, we show that the rescaled bulk eigenvalues and the block-mass profiles of their eigenvectors (the probability measures on the circle placing at $k/n$ the squared norm of the eigenvector on block $k$) converge jointly to a unique law. This law is encoded by a random entire function whose zeros give the limiting eigenvalues, and its derivatives there give the limiting profile integrals. The law of this function is determined by the Dorokhov--Mello--Pereyra--Kumar (DMPK) diffusion of the unitary class. In the critical law, the profiles have strictly positive variance against every nonconstant smooth test function, so they are not concentrated on the uniform profile. As $\\tau\\to0$ this variance vanishes and the local spectrum tends to the sine process. As $\\tau\\to\\infty$ it tends to a Poisson process where both limits taken after the critical one. The critical family thus interpolates between the delocalized and localized regimes, confirming for this model the prediction of Fyodorov and Mirlin that at $W^2\\asymp N$ the joint law of eigenvalues and eigenvectors depends only on $N/W^2$. The full content of this work has been autoformalized in Lean4 by AxiomProver.",
+  "arxiv_id": "2611.15085",
+  "authors": [
+    "Promit Ghosal",
+    "Guillaume Remy"
+  ],
+  "categories": [
+    "math.PR",
+    "math-ph",
+    "math.MP",
+    "math.SP"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15085"
+  },
+  "hook": "Eigenvectors of 1-d random band matrices spread evenly once bandwidth beats the square root of size.",
+  "hook_turn": "once bandwidth beats the square root of size.",
+  "id": "arxiv-2611.15085",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove that bulk eigenvectors of a one-dimensional complex Gaussian band matrix are evenly spread whenever W^2/N tends to infinity, and describe the exact limiting law at the threshold W^2 ~ N, which interpolates between delocalized and localized behavior. This confirms a Fyodorov-Mirlin prediction. The proof covers one specific Gaussian block model and is reported as machine-checked in Lean4.",
+  "tags": [
+    "random matrices",
+    "localization"
+  ],
+  "title": "Quantum unique ergodicity and the critical crossover for 1-d Gaussian band matrices",
+  "url": "https://arxiv.org/abs/2611.15085",
+  "venue": "arXiv"
+}

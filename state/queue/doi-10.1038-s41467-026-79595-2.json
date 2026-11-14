@@ -1,0 +1,48 @@
+{
+  "abstract": "Abstract Thin-film lithium niobate (TFLN) is a promising photonic platform in next-generation integrated optoelectronics and on-chip/chip-chip interconnection due to its attractive optical property and versatility. However, integration of conventional-material-based photodetectors on TFLN platforms still faces multiple challenges. Herein, a high-bandwidth TFLN-based waveguide-integrated lateral WSe 2 p-i-n photodetector is presented. The localized self-aligned doping process eliminates slow carrier diffusion and defect trapping in doped regions which further boosts modulation bandwidth. Secondly, n-type and p-type Ohmic contacts, along with a high-quality p-n junction, are achieved through Se vacancy defect engineering and high-work function molybdenum oxide buffer layer, respectively. Furthermore, combined with the high dielectric constant of lithium niobate suppressing ionized impurity scattering, carrier mobilities exceeding 350 cm 2 /V·s are achieved for both electrons and holes, significantly accelerating carrier drift. The device features a measured bandwidth of 1.12 GHz and a data rate up to 10 Gbit/s in visible light. Separately, the device achieves a responsivity of ~492 mA·W −1 and a near-unity external quantum efficiency of 95.6% at 638 nm. This combination of two-dimensional homostructure and TFLN nano-waveguides provides a basis for high-speed photodetectors and visible-light interconnections in future TFLN integrated optoelectronics and optical input/output applications.",
+  "arxiv_id": null,
+  "authors": [
+    "Weijia Tang",
+    "Zixian Wei",
+    "Ting He",
+    "Haoyu Huang",
+    "Xin He",
+    "Su Wu",
+    "Jun Liu",
+    "Changyuan Yu",
+    "Hongyan Fu",
+    "Weida Hu",
+    "Shun Wang",
+    "Youwei Zhang"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-79595-2",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A tungsten selenide photodiode on a lithium niobate chip receives 10 Gbit/s visible-light data.",
+  "id": "doi-10.1038-s41467-026-79595-2",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Data rate in visible light",
+    "unit": "Gbit/s",
+    "value": "10"
+  },
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "The waveguide-integrated device uses self-aligned doping and defect engineering for good contacts, reaching 1.12 GHz bandwidth and 95.6% external quantum efficiency at 638 nm. It is a single-device demonstration at one visible wavelength, and scaling to manufacturing is untested.",
+  "tags": [
+    "photonics",
+    "photodetectors"
+  ],
+  "title": "Thin-film lithium niobate waveguide-integrated p-i-n Tungsten selenide photodiodes with 10Gbit/s data reception",
+  "url": "https://doi.org/10.1038/s41467-026-79595-2",
+  "venue": "Nature Communications"
+}

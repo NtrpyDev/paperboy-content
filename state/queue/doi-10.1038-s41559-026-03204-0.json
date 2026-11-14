@@ -1,0 +1,45 @@
+{
+  "abstract": "Abstract Conservation programmes worldwide use reintroductions and translocations as management tools to support endangered species. However, such efforts often result in small and isolated populations that face genetic challenges associated with reduced gene flow and inbreeding. Inbreeding depression is a well-known risk in such programmes, as increased homozygosity can expose recessive deleterious alleles, compromise fitness and threaten population persistence. Yet, no causal variant for a lethal disease has previously been identified in a wild population. Here we combine long-term health and population data with genomic analyses to identify a recessive loss-of-function allele causing lethal organ mineralization in young Eurasian lynx ( Lynx lynx ) from a reintroduced population in Switzerland. Spatio-temporal analyses revealed that the allele was introduced from one of the source populations and increased in frequency through founder effects and inbreeding. Our findings establish the first direct link between reintroduction history and a lethal genetic disease in the wild, illustrating how population genetic processes interact to shape the fate of a recessive deleterious allele and emphasize the vulnerability of small, isolated populations following reintroduction.",
+  "arxiv_id": null,
+  "authors": [
+    "Janna Niehaus",
+    "Michelle Imlau",
+    "Saskia Keller",
+    "Iris Marti",
+    "Christine Breitenmoser",
+    "Anna Letko",
+    "Vidhya Jagannathan",
+    "Lea Anna Hiller",
+    "Arunasalam Naguleswaran",
+    "Sven Rottenberg",
+    "Christine Grossen",
+    "Tosso Leeb",
+    "Mirjam Pewsner"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41559-026-03204-0",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A lethal recessive gene variant spread in reintroduced Swiss lynx through founder effects and inbreeding",
+  "hook_turn": "through founder effects and inbreeding",
+  "id": "doi-10.1038-s41559-026-03204-0",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Health records and genomes identified a loss-of-function allele that causes fatal organ mineralization in young lynx. It came from one source population and grew in frequency through founder effects and inbreeding. It is described as the first causal variant for a lethal disease found in a wild population, from one lynx population.",
+  "tags": [
+    "conservation genetics",
+    "inbreeding"
+  ],
+  "title": "Lynx reintroduction from a bottlenecked source exposes a lethal genetic defect",
+  "url": "https://doi.org/10.1038/s41559-026-03204-0",
+  "venue": "Nature Ecology & Evolution"
+}

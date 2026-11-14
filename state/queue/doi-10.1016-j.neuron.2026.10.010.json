@@ -1,0 +1,35 @@
+{
+  "abstract": "Sensory feedback can trigger rapid motor corrections, but how self-generated movement errors are corrected and influence subsequent behavior remains less clear. Here, we found that corrective submovements (CSMs), structured, feedback-driven adjustments, occurred either spontaneously or in response to neural perturbations during mouse reaching. Corrections were modestly encoded in the cerebellar anterior interposed nucleus (IntA) along with non-corrective reach kinematic correlates. Closed-loop perturbations directed to red nucleus-projecting neurons were readily compensated for with corrective movements and led to learned shifts in the timing of future submovements, while perturbations to IntA more broadly were not compensated for and produced no learning. Thus, subsets of IntA outputs differentially permit or corrupt accurate corrections and subsequent learning, respectively.",
+  "arxiv_id": null,
+  "authors": [
+    "Courtney I Dobrott",
+    "Abdulraheem Nashef",
+    "Matthew I Becker",
+    "Abigail L Person"
+  ],
+  "categories": [],
+  "doi": "10.1016/j.neuron.2026.10.010",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "In mice, one cerebellar output pathway allows reach corrections and learning; broader disruption blocks both.",
+  "id": "doi-10.1016-j.neuron.2026.10.010",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Mice made small corrective movements during reaching, and the team perturbed the cerebellar interposed nucleus in closed loop. Disturbing neurons that project to the red nucleus was compensated and shifted later movement timing, while perturbing the nucleus broadly was not compensated and produced no learning. The correction signal in the nucleus was only modest.",
+  "tags": [
+    "cerebellum",
+    "motor learning"
+  ],
+  "title": "Dissociable cerebellar pathways for reach correction and learning.",
+  "url": "https://doi.org/10.1016/j.neuron.2026.10.010",
+  "venue": "Neuron"
+}

@@ -1,0 +1,35 @@
+{
+  "abstract": "We give a counterexample to S. Novikov's 1982 conjecture that every Riemannian $2$-sphere contains a closed embedded curve of curvature $c$ for every $c>0$.",
+  "arxiv_id": "2611.16960",
+  "authors": [
+    "Daniel Ketover"
+  ],
+  "categories": [
+    "math.DG"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16960"
+  },
+  "hook": "A 2-sphere exists that lacks closed curves of some curvature, refuting Novikov's 1982 conjecture.",
+  "hook_turn": "refuting Novikov's 1982 conjecture.",
+  "id": "arxiv-2611.16960",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 8,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Novikov conjectured that every curved 2-sphere has a simple closed curve of any prescribed curvature, which describes the path of a charged particle in a magnetic field. The author constructs a counterexample. The abstract gives no detail on the construction, so how general the failure is remains unclear.",
+  "tags": [
+    "differential geometry",
+    "magnetic geodesics"
+  ],
+  "title": "Non-existence of closed embedded magnetic geodesics",
+  "url": "https://arxiv.org/abs/2611.16960",
+  "venue": "arXiv"
+}

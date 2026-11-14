@@ -1,0 +1,49 @@
+{
+  "abstract": "Diseases affect multiple cell types within tissues, but the overall landscape of the multicellular responses in human diseases remains largely unexplored. Here we categorize the multicellular responses of human diseases based on a remapped atlas of human cells, PANGEA, incorporating 12.6 million cells acquired from a pipeline that automatically processes raw sequence files from public repositories. We constructed a hierarchical cell classification framework comprising 32 major cell types and 165 cellular subtypes. On the basis of this annotation framework, we explored an extensive atlas of human cells containing 46.5 million cells from 160 diseases across 48 organs and revealed core archetypes of human diseases repeatedly found across organs. We show that this cell atlas could also serve as a reference for unbiased analysis in spatial transcriptomics, revealing spatial features associated with immunotherapy responses. Collectively, our study provides foundational resources for cell ontologies, enabling cross-tissue comparisons of cellular features in human diseases.",
+  "arxiv_id": null,
+  "authors": [
+    "Seongryong Kim",
+    "Sungmin Cheong",
+    "Suho Lee",
+    "Yeju Kim",
+    "Ronald Xie",
+    "In Gyeong Koh",
+    "Jeongwoo La",
+    "Chanwoong Hwa",
+    "Hyunsu An",
+    "Jihwan Park",
+    "Joon-Yong An",
+    "Bo Wang",
+    "Jong-Eun Park"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41592-026-03295-4",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A cell atlas of 46.5 million cells finds shared multicellular response patterns across 160 human diseases.",
+  "id": "doi-10.1038-s41592-026-03295-4",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Cells in the disease atlas",
+    "unit": "million cells",
+    "value": "46.5"
+  },
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "PANGEA remaps public sequencing data into a hierarchy of 32 major cell types and 165 subtypes, then compares 160 diseases across 48 organs for recurring archetypes. It also serves as a reference for spatial transcriptomics, flagging features tied to immunotherapy response. Public data of mixed quality limit how cleanly diseases compare.",
+  "tags": [
+    "cell atlas",
+    "single-cell"
+  ],
+  "title": "PANGEA: an integrated cell atlas across diverse biological contexts enables systematic profiling of multicellular responses in human diseases.",
+  "url": "https://doi.org/10.1038/s41592-026-03295-4",
+  "venue": "Nature Methods"
+}

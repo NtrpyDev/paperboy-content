@@ -1,0 +1,38 @@
+{
+  "abstract": "We prove that every iterated untwisted Whitehead double of a nontrivial two-bridge knot satisfies the meridional rank conjecture. More precisely, for such a knot $K$ and every $N\\geq0$, the augmentation rank, meridional rank, and bridge number of $\\operatorname{Wh}^N(K)$ are all $2^{N+1}$. We use microlocal sheaf theory and a doubling construction to produce a lower bound for the meridional rank of the Whitehead double, assuming the peripheral data satisfy suitable conditions. For two-bridge knots, the required curves arise from ideal points detecting nonzero boundary slopes. In contrast, the ordinary group rank of an $N$-fold Whitehead double is at most the rank of the companion group plus $N$. We also give a non-example when the doubling construction does not work -- the first Whitehead double of the square knot has augmentation rank at most 5, whereas its meridional rank and bridge number are 6.",
+  "arxiv_id": "2611.15673",
+  "authors": [
+    "Honghao Gao",
+    "Shijie Gu",
+    "Zhenkun Li",
+    "Jian Wang"
+  ],
+  "categories": [
+    "math.GT",
+    "math.GN"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15673"
+  },
+  "hook": "Iterated Whitehead doubles of two-bridge knots all have meridional rank and bridge number 2^(N+1).",
+  "id": "arxiv-2611.15673",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For every N, the N-fold untwisted Whitehead double of a nontrivial two-bridge knot has augmentation rank, meridional rank, and bridge number all equal to 2^(N+1), which confirms the meridional rank conjecture for these knots. The lower bound comes from microlocal sheaf theory. It fails to be sharp for the first double of the square knot, where augmentation rank is at most 5 but the other two are 6.",
+  "tags": [
+    "knot theory",
+    "Whitehead doubles"
+  ],
+  "title": "Meridional ranks of iterated Whitehead doubles",
+  "url": "https://arxiv.org/abs/2611.15673",
+  "venue": "arXiv"
+}

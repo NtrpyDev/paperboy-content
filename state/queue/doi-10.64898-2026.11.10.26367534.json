@@ -1,0 +1,56 @@
+{
+  "abstract": "Diabetic kidney disease is the leading cause of kidney failure worldwide, yet the molecular events underlying disease initiation and progression remain unclear. We measured 5,420 circulating proteins in 830 adults with type 1 diabetes and examined their longitudinal associations with onset and progression of kidney disease over 10 years of follow-up. We identified 130 proteins associated with at least one outcome independent of established clinical risk factors, of which 59 replicated in an independent cohort. HAVCR1/KIM-1, GFRA1, CD14 and GDF15 predicted albuminuria onset up to a decade before detectable disease. Albuminuria progression pointed to the kidney-liver axis (ASGR1, RBP4), whereas rapid kidney function decline and incident kidney failure pointed to immune and tumor necrosis factor receptor signaling. Mendelian randomization prioritized UMOD, SORT1, CLSPN, MAST4 and EGF as potential targets. These findings reveal molecular perturbations preceding clinical manifestations of diabetic kidney disease and identify distinct pathways associated with disease progression.",
+  "arxiv_id": null,
+  "authors": [
+    "Mutter, S.",
+    "Dahlström, E.",
+    "Luo, X.",
+    "Kouki, J. M.",
+    "Ju, W.",
+    "Nair, V.",
+    "Valo, E.",
+    "Syreeni, A.",
+    "Abdelrahman, Z.",
+    "Hill, C.",
+    "Smyth, L. J.",
+    "Jackson, H. R.",
+    "Parton, A.",
+    "Harjutsalo, V.",
+    "Susztak, K.",
+    "Maxwell, A. P.",
+    "McKnight, A. J.",
+    "McKay, G. J.",
+    "Kretzler, M.",
+    "Groop, P.-H.",
+    "Sandholm, N.",
+    "FinnDiane Study Group,"
+  ],
+  "categories": [
+    "endocrinology"
+  ],
+  "doi": "10.64898/2026.11.10.26367534",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.medrxiv.org/content/early/2026/11/11/2026.11.10.26367534.source.xml"
+  },
+  "hook": "Blood proteins flag diabetic kidney disease up to a decade before it can be detected.",
+  "hook_turn": "up to a decade before it can be detected.",
+  "id": "doi-10.64898-2026.11.10.26367534",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "medrxiv",
+  "status": "preprint",
+  "summary": "Researchers measured 5,420 blood proteins in 830 adults with type 1 diabetes and followed them for 10 years. 130 proteins tracked kidney outcomes beyond clinical risk factors and 59 replicated in another cohort, with HAVCR1, GFRA1, CD14 and GDF15 predicting albuminuria. The links are associations, and Mendelian randomization targets are only candidates.",
+  "tags": [
+    "diabetic kidney disease",
+    "proteomics"
+  ],
+  "title": "Comprehensive proteomics reveals stage-specific signatures in blood that precede diabetic kidney disease onset and progression",
+  "url": "https://doi.org/10.64898/2026.11.10.26367534",
+  "venue": "medRxiv"
+}

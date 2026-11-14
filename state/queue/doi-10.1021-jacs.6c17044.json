@@ -1,0 +1,40 @@
+{
+  "abstract": "Abstract The transfer of phosphoryl groups plays a central role in biochemical energy metabolism. Understanding how such reactions could have occurred before the emergence of enzymes is thus crucial for elucidating the chemical foundations of life. Although the factors governing the mechanisms of phosphoryl transfer in water are well understood, predicting whether a given nucleophile and phosphorylating agent will undergo productive phosphoryl transfer rather than hydrolysis remains difficult, thereby hindering the rational exploration of nonenzymatic phosphorylation reactions. Herein, we establish a quantitative reactivity scale that predicts absolute rate constants for nonenzymatic phosphoryl transfer reactions in water based on a linear free-energy relationship (LFER). Using high-throughput kinetics, we measured 11,520 phosphoryl transfer reactions for 145 unique combinations of nucleophiles and phosphorylating agents under varying reaction conditions. Mechanism-specific rate constants extracted from this data for 102 substrate pairs, together with values scraped from the literature, enabled us to parametrize an LFER that places 34 phosphorylating agents and 45 nucleophiles on a unified quantitative reactivity scale, enabling predictions across 14 orders of magnitude in reactivity. Finally, we show that the empirically derived reactivity parameters can be used to predict optimal nucleophilic catalysts by balancing the competing steps in catalytic turnover, as experimentally validated for the reaction of monoamidophosphate with pyridines. For phosphorylating agents of intermediate electrophilicity such as ATP, imidazole is predicted to be the optimal catalyst, offering a kinetic rationale for the prevalence of histidine residues in enzymatic phosphoryl transfer. Together, high-throughput kinetics and data-driven modeling establish a predictive framework for exploring nonenzymatic phosphoryl transfer reactions in water.",
+  "arxiv_id": null,
+  "authors": [
+    "Nat Schürmann",
+    "Yanyan Fei",
+    "Robert J. Mayer"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c17044",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "One scale predicts how fast phosphate transfers happen in water, across 14 orders of magnitude.",
+  "hook_turn": "across 14 orders of magnitude.",
+  "id": "doi-10.1021-jacs.6c17044",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Phosphoryl transfers measured in water",
+    "unit": "reactions",
+    "value": "11,520"
+  },
+  "significance": 7,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "The team measured 11,520 phosphoryl transfer reactions and fit a linear free-energy relationship ranking 34 phosphorylating agents and 45 nucleophiles. It predicts the best catalyst, for example imidazole for ATP-like reagents, and was tested with pyridines. The scale covers water chemistry only, a proxy for prebiotic conditions.",
+  "tags": [
+    "origin of life",
+    "reaction kinetics"
+  ],
+  "title": "A Unified Reactivity Scale Predicts Nonenzymatic Phosphoryl Transfer and Nucleophilic Catalysis in Water",
+  "url": "https://doi.org/10.1021/jacs.6c17044",
+  "venue": "Journal of the American Chemical Society"
+}

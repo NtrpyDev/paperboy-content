@@ -1,0 +1,48 @@
+{
+  "abstract": "Galactic supernova remnants (SNRs) interacting with molecular clouds (MCs) provide important laboratories for investigating how supernova feedback is transferred to the interstellar medium. We performed observations of the HCO+ J=1-0, 3-2, and 4-3 lines, as well as the CO J=3-2 line, toward the eastern and western regions of SNR W49B using the Atacama Large Millimeter/submillimeter Array (ALMA) and the Atacama Pathfinder Experiment (APEX) telescope. In W49B west, we identify twelve regions with broad-line profiles in both HCO+ and CO emission, with FWHM of 25-60 km/s, providing clear evidence of SNR-MC interaction. These emissions are compact (at $\\sim$5 arcsec resolution) and spatially coincident with 2.12~$\\mu$m H$_2$ emission, but generally offset from the 1.64~$\\mu$m [Fe~II] and radio continuum peaks. Non-LTE analyses yield shocked-gas densities of (0.5-1.6) $\\times 10^5$~cm$^{-3}$ and high $N_{\\rm HCO+}/N_{\\rm CO}$ abundance ratios of (4.2-14.5) $\\times 10^{-4}$. Reproducing such high abundance ratios in shocked MCs requires high cosmic ray ionization rates (CRIRs) of a few 10$^{-14}$-10$^{-13}$~s$^{-1}$, about 3-4 orders of magnitude above the standard Galactic level. Some regions exhibit enhanced HCO+/CO intensity ratios in their high-velocity line wings, possibly due to multiple unresolved shocks spanning a range of velocities and gas densities, spatial variations in the CRIR, or both. By contrast, the ratio remains nearly constant with velocity in other regions. For these regions, we further explore the propagation of low-energy CRs through the post-shock layer. An energy-budget analysis of a representative shocked clump indicates that the shock-associated kinetic-energy reservoir substantially exceeds cumulative CR and X-ray heating inputs, with CR heating exceeding X-ray heating.[abridged]",
+  "arxiv_id": "2611.13519",
+  "authors": [
+    "Wenjin Yang",
+    "Ping Zhou",
+    "Zhi-Yu Zhang",
+    "Gao-Yuan Zhang",
+    "Bon-Chul Koo",
+    "Yan Gong",
+    "Ruo-Yu Liu",
+    "Hidetoshi Sano",
+    "Tian-Yu Tu",
+    "Yang Chen",
+    "Tram N. Le",
+    "Lianghao Lin",
+    "Friedrich Wyrowski"
+  ],
+  "categories": [
+    "astro-ph.GA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13519"
+  },
+  "hook": "Shocked gas in supernova remnant W49B implies cosmic-ray ionization thousands of times the Galactic norm",
+  "hook_turn": "thousands of times the Galactic norm",
+  "id": "arxiv-2611.13519",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "ALMA and APEX spectra of HCO+ and CO show twelve broad-line regions in W49B west where the blast wave hits molecular clouds. The high HCO+/CO ratios only fit chemical models if cosmic-ray ionization is 3-4 orders of magnitude above the standard Galactic level. The result rests on model-dependent chemistry and non-LTE fits to one remnant's western side.",
+  "tags": [
+    "supernova remnants",
+    "cosmic rays",
+    "molecular clouds"
+  ],
+  "title": "Molecular signatures of shocked gas and enhanced cosmic-ray ionization in supernova remnant W49B revealed by ALMA",
+  "url": "https://arxiv.org/abs/2611.13519",
+  "venue": "arXiv"
+}

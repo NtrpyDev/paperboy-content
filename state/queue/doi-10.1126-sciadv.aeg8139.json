@@ -1,0 +1,47 @@
+{
+  "abstract": "Sensorimotor deficits can profoundly affect the life quality of patients with neurological disorders, yet our understanding of central dysfunction at the cellular or circuit level is limited. Using a forward genetic approach to generate loss of auditory function in zebrafish larvae, we identified a recessive mutation in split ends (spen), which encodes a transcription factor implicated in neurodevelopmental disorders in humans. We found that auditory sensorimotor deficits in spen mutants are associated with chronically elevated calcium levels in hindbrain radial astrocytes. Astrocytes have been previously implicated in the integration of neuronal inputs that alter arousal states and sensorimotor behavior. Inhibition of noradrenergic receptors, which are expressed in astrocytes, lowered calcium levels in mutant radial astrocytes and, notably, restored behavioral responses to sound in spen mutants. Our study highlights a role for noradrenergic signaling in spen-related disease and points to potential therapeutic approaches for pediatric patients.",
+  "arxiv_id": null,
+  "authors": [
+    "Yan Gao",
+    "Anna Shipman",
+    "Peng Sun",
+    "Na Zhang",
+    "Eliot T Smith",
+    "Itallia Pacentine",
+    "Alex Nechiporuk",
+    "Teresa Nicolson"
+  ],
+  "categories": [
+    "Astrocytes",
+    "Animals",
+    "Zebrafish",
+    "Calcium",
+    "Zebrafish Proteins",
+    "Transcription Factors",
+    "Mutation"
+  ],
+  "doi": "10.1126/sciadv.aeg8139",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Blocking noradrenaline receptors restores sound responses in zebrafish with a spen mutation.",
+  "id": "doi-10.1126-sciadv.aeg8139",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Zebrafish larvae lacking the spen gene fail to respond to sound, and their hindbrain astrocytes carry chronically high calcium. Drugs that block noradrenaline receptors lowered that calcium and brought the sound responses back. The work is in larval zebrafish, so any link to human spen-related disorders is still a hypothesis.",
+  "tags": [
+    "astrocytes",
+    "zebrafish"
+  ],
+  "title": "Inhibition of aberrant astrocyte activity restores auditory sensorimotor function in zebrafish spen mutants.",
+  "url": "https://doi.org/10.1126/sciadv.aeg8139",
+  "venue": "Science Advances"
+}

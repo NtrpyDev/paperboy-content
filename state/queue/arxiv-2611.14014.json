@@ -1,0 +1,35 @@
+{
+  "abstract": "We provide an (in our opinion) simpler proof of the main results of [Stoll1992,Li2020,Li2021] on the question for which integers $a$ the Galois groups of all iterates of $x^2 + a$ are maximal (equivalently, the associated arboreal Galois representation is surjective). At the same time, we extend the results to rational parameters $a$. The main result states that for a subset of rational numbers of relative density $1/2$ in the complement of a certain open interval, the maximality of the Galois group of the second iterate is sufficient for the arboreal Galois representation to be surjective. We also discuss experimental evidence suggesting that a similar statement involving the fourth iterate may hold in general. The results were obtained in collaboration with Claude (Anthropic's AI model); they are also formalized in Lean (except for the experimental evidence).",
+  "arxiv_id": "2611.14014",
+  "authors": [
+    "Michael Stoll"
+  ],
+  "categories": [
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14014"
+  },
+  "hook": "Checking just the second iterate of x^2+a often proves all iterates have maximal Galois group.",
+  "hook_turn": "often proves all iterates have maximal Galois group.",
+  "id": "arxiv-2611.14014",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper gives a simpler proof of earlier results on when every iterate of x^2+a has the largest possible Galois group, and extends them to rational a. For a set of relative density 1/2 outside an interval, the second iterate suffices. It was developed with an AI model and formalized in Lean, while the fourth-iterate claim rests on experiments only.",
+  "tags": [
+    "number theory",
+    "Galois groups"
+  ],
+  "title": "When do all iterates of $x^2 + a$ have maximal Galois group?",
+  "url": "https://arxiv.org/abs/2611.14014",
+  "venue": "arXiv"
+}

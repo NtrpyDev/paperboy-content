@@ -1,0 +1,39 @@
+{
+  "abstract": "The formation of mountain belts (orogens) elevates rocks above sea level, making them available for chemical weathering and altering the composition of the atmosphere and oceans, which in turn control habitability. Peak-metamorphic pressures recorded by crustal rocks buried in orogens increased between 2.7 to 2.2 and 0.8 to 0.7 billion years ago, indicating that rocks could be buried deeper and that orogens could grow substantially thicker after each of these periods. The two periods of orogenic growth were broadly synchronous with major increases in terrigenous element and nutrient fluxes and changes in biological sulfur metabolism and surface oxygenation. These changes could be explained by enhanced weathering of higher mountains. The findings support the hypothesis that there are first-order mechanistic links between secular geodynamic change and changes in Earth system state and habitability, which shaped the conditions for the evolution of complex life during the past 3 billion years.",
+  "arxiv_id": null,
+  "authors": [
+    "Matthijs A. Smit",
+    "Douwe J. J. van Hinsbergen",
+    "Carl Guilmette",
+    "Ellen Kooijman",
+    "Amberlee V. King",
+    "Jamie A. Cutts",
+    "Wouter Bleeker"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aei2764",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Mountain belts grew thicker twice, around 2.5 and 0.75 billion years ago, as oxygen rose.",
+  "hook_turn": "as oxygen rose.",
+  "id": "doi-10.1126-sciadv.aei2764",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Peak metamorphic pressures in crustal rocks rose in two periods, 2.7 to 2.2 and 0.8 to 0.7 billion years ago, implying deeper burial and thicker orogens. Both periods line up with higher nutrient fluxes and shifts in sulfur metabolism and oxygen. The link to enhanced weathering is a correlation in the geologic record, not a proven cause.",
+  "tags": [
+    "mountain building",
+    "early Earth"
+  ],
+  "title": "Raising mountains for a habitable Earth",
+  "url": "https://doi.org/10.1126/sciadv.aei2764",
+  "venue": "Science Advances"
+}

@@ -1,0 +1,51 @@
+{
+  "abstract": "Abstract Although catalysis is widely exploited by nature to orchestrate noncovalent supramolecular assembly and build up complex living systems, its utilization in synthetic chemistry has conventionally been limited to accelerating covalent reactions. Consequently, the development of artificial systems for catalytic assembly remains a formidable and largely unexplored challenge. Here, we present a rationally designed strategy of electron-catalyzed supramolecular assembly, wherein the electron acts as an efficient, robust, and versatile catalyst to accelerate the formation of a donor–acceptor complex. Optimization of the elementary steps and intermediate stability yields an efficient catalytic cycle, furnishing the process with both a high turnover number and operational robustness in open air. Furthermore, the electron catalysis can be readily triggered by diverse external stimuli─including electricity, light, and mechanical force─enabling precise spatiotemporal control over the assembly process and near-quantitative synthesis of supramolecular complexes. Collectively, this work establishes a well-elucidated strategy of catalytic assembly with remarkable practicality, advancing the frontiers of noncovalent synthetic chemistry.",
+  "arxiv_id": null,
+  "authors": [
+    "Guangcheng Wu",
+    "Qinghua Yang",
+    "Yunyan Qiu",
+    "Long Zhang",
+    "Quentin Stern",
+    "Hongliang Chen",
+    "Kang Cai",
+    "Xueze Zhao",
+    "Zhao Wang",
+    "Xuesong Li",
+    "Xingang Zhao",
+    "Yi-Kang Xing",
+    "Han Han",
+    "Sheng-Nan Lei",
+    "Chun Tang",
+    "Ruihua Zhang",
+    "Charlotte L. Stern",
+    "J. Fraser Stoddart",
+    "Michael R. Wasielewski",
+    "Yang Jiao"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c16409",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Electrons can act as catalysts to speed assembly of molecular complexes held by weak bonds.",
+  "id": "doi-10.1021-jacs.6c16409",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "A donor-acceptor complex forms faster through an electron-catalyzed cycle with high turnover that works in open air. Electricity, light, or mechanical force can start it, giving near-quantitative yield. Shown for one type of complex.",
+  "tags": [
+    "supramolecular chemistry",
+    "catalysis"
+  ],
+  "title": "Electron-Catalyzed Supramolecular Assembly with High Efficiency, Robustness, and Versatility",
+  "url": "https://doi.org/10.1021/jacs.6c16409",
+  "venue": "Journal of the American Chemical Society"
+}

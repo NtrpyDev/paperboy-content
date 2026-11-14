@@ -1,0 +1,46 @@
+{
+  "abstract": "We perform a systematic dust reverberation mapping study of low-mass ($M_{\\mathrm{BH}}\\sim10^6$-$10^7 M_\\odot$) active galactic nuclei (AGNs) selected from a literature-compiled catalog, using data from the Zwicky Transient Facility and the Wide-field Infrared Survey Explorer. Through quality assessments, we obtain a core sample of 65 sources with W1- and W2-band lag measurements relative to optical light curves. The W2-band lags are generally longer than the W1-band lags, with a median ratio of $\\tau_{\\mathrm{W2}}/\\tau_{\\mathrm{W1}}=1.24^{+0.33}_{-0.21}$. We further investigate the relations between dust radius and AGN luminosity ($R_{\\mathrm{dust}}-L_{\\mathrm{AGN}}$), using different lag measurements and luminosity proxies. Combining our sample with a higher-luminosity AGN sample, we establish unified $R_{\\mathrm{dust}}-L_{\\mathrm{AGN}}$ relations spanning nearly seven orders of magnitude in bolometric luminosity. The slopes are $0.47\\pm0.01$ and $0.44\\pm0.01$ for the W1 and W2 bands, slightly below the expectation of $0.5$ from dust radiative equilibrium. In the combined sample, the lag deviations show a negative correlation with Eddington ratio, potentially related to the self-shadowing effect of slim disks. The luminosity-dependent SED variations revealed by the SPHEREx composite spectra suggest that individual luminosity proxies may not fully trace the intrinsic dust-heating luminosity. Both effects may contribute to the shallow $R_{\\mathrm{dust}}-L_{\\mathrm{AGN}}$ slopes. Future joint optical and near-infrared monitoring with the Vera C. Rubin Observatory's Legacy Survey of Space and Time and the Nancy Grace Roman Space Telescope will further extend dust RM studies to lower-luminosity AGNs hosting lower-mass black holes.",
+  "arxiv_id": "2611.13181",
+  "authors": [
+    "Chi-Zhuo Wang",
+    "Hengxiao Guo",
+    "Xue-Bing Wu",
+    "Wenwen Zuo",
+    "Wanling Liu",
+    "Jingbo Sun",
+    "Wenke Ren",
+    "Shu Wang"
+  ],
+  "categories": [
+    "astro-ph.GA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13181"
+  },
+  "hook": "Dust rings around 65 low-mass black holes grow with brightness a bit slower than theory predicts.",
+  "hook_turn": "grow with brightness a bit slower than theory predicts.",
+  "id": "arxiv-2611.13181",
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Low-mass AGNs with measured dust lags",
+    "value": "65"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Using Zwicky and WISE light curves, the authors measured infrared delays behind optical flickers in 65 active galactic nuclei with small black holes. Combined with brighter objects, the dust radius scales with luminosity with slope 0.44-0.47, under the expected 0.5. Explanations such as shadowing by slim disks are suggested but not established.",
+  "tags": [
+    "active galactic nuclei",
+    "reverberation mapping"
+  ],
+  "title": "Dust Reverberation Mapping of Low-Mass Active Galactic Nuclei",
+  "url": "https://arxiv.org/abs/2611.13181",
+  "venue": "arXiv"
+}

@@ -1,0 +1,52 @@
+{
+  "abstract": "Vaccine-induced protection relies on the generation and maintenance of stem-like memory B and T cells, a process sustained by two conserved mechanisms: asymmetric cell division (ACD) and autophagy. In T cells, ACD enables them to produce progeny with the same T cell receptor but with divergent metabolic and functional fates upon antigen encounter through the unequal inheritance of cellular cargoes. Autophagy recycles cellular components, provides metabolic substrates essential for sustaining energy demands, and is relevant for the maintenance of T cell memory. Direct evidence of how these processes synergize and affect human immunity is still lacking. Here, we show that mitotic human CD8+ T cells asymmetrically segregate autophagy-related organelles, including autophagosomes and lysosomes. Furthermore, we show that ACD drives divergent transcriptional and functional fates in daughter cells. Extending these findings to an influenza vaccine trial, we demonstrate that autophagic flux follows the dynamics of clonal expansion and contraction of antigen-specific T cells. Notably, individuals with enhanced ACD capacity, especially with increased LC3B asymmetry, exhibit better vaccine responses, linking early cellular segregation events to long-term immune fitness. Last, transient use of the mechanistic target of rapamycin complex 1 inhibitor rapamycin improved memory survival, which was associated with improved ACD, measured by the asymmetric inheritance of both CD8 and LC3B. Together, these findings highlight that the asymmetric inheritance of the autophagy machinery represents another layer of human adaptive immunity and offers a potential therapeutic target to enhance vaccine outcomes.",
+  "arxiv_id": null,
+  "authors": [
+    "Lin Luo",
+    "Ursula K Dueren",
+    "Ana Victoria Lechuga-Vieco",
+    "Dimitra Stamkopoulou",
+    "Liliana Tchernev",
+    "Yavuz F Yazicioglu",
+    "Amir Hossein Kayvanjoo",
+    "Teresa Lambe",
+    "Anna Katharina Simon",
+    "Mariana Borsa"
+  ],
+  "categories": [
+    "T-Lymphocytes",
+    "CD8-Positive T-Lymphocytes",
+    "Humans",
+    "Microtubule-Associated Proteins",
+    "Vaccines",
+    "Immunologic Memory",
+    "Autophagy",
+    "Asymmetric Cell Division",
+    "Autophagosomes"
+  ],
+  "doi": "10.1126/sciadv.aef1608",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "T cells that split their recycling machinery unevenly predicted stronger flu vaccine responses.",
+  "hook_turn": "predicted stronger flu vaccine responses.",
+  "id": "doi-10.1126-sciadv.aef1608",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Dividing human CD8+ T cells pass autophagy organelles unequally to daughter cells, which then take different fates. In an influenza vaccine trial, people with more uneven LC3B splitting responded better, and short rapamycin exposure improved memory survival in cells. The link is an association in a modest trial, not proof of cause.",
+  "tags": [
+    "T cells",
+    "vaccines"
+  ],
+  "title": "Asymmetric cell division is predictive of human T cell vaccine responses.",
+  "url": "https://doi.org/10.1126/sciadv.aef1608",
+  "venue": "Science Advances"
+}

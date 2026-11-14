@@ -1,0 +1,39 @@
+{
+  "abstract": "The spindle, which segregates chromosomes during cell division, is a paradigm of cytoskeletal self-organization: a highly ordered structure that persists for hours is assembled from dynamic microtubules that branch, grow, slide, and turn over within tens of seconds. Its microtubules point inward, with minus ends clustered at the poles and plus ends extending toward the chromosomes at the center of the structure. In large meiotic spindles this arrangement is puzzling, since microtubules nucleate near the chromosomes and grow at their plus ends much faster than motors slide them backward. One would therefore expect the plus ends, rather than the minus ends, to radiate outward. Here, we propose a resolution to this seeming paradox through a kinetic model that integrates the core filament-level processes. When branching complexes assemble with a sufficient delay, for instance through several sequential rate-limiting steps, they accumulate on old microtubule lattice sites near the backward-sliding minus ends of mother microtubules. Each generation is then born farther back than the last, so the self-renewing population drifts toward the minus ends even though each filament's center advances toward its plus end. For the sliding and growth velocities measured in Xenopus egg extract spindles, a multistep mechanism requires at least four rate-limiting steps. The kinetic theory has a surprisingly amenable structure: the filament length configuration variable can be eliminated exactly, yielding a finite space-time hierarchy, and the direction of population drift follows from a general criterion comparing the mean lattice age at branching sites with the ratio of plus-end advance to sliding speed.",
+  "arxiv_id": "2611.16200",
+  "authors": [
+    "Ido Lavi",
+    "Sebastian F\\\"urthauer",
+    "Daniel J. Needleman",
+    "Michael J. Shelley"
+  ],
+  "categories": [
+    "physics.bio-ph",
+    "cond-mat.soft"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16200"
+  },
+  "hook": "A model shows delayed branching lets microtubules drift poleward though each grows the opposite way.",
+  "hook_turn": "though each grows the opposite way.",
+  "id": "arxiv-2611.16200",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A kinetic model explains why spindle microtubules point minus-end outward even though they grow plus-end first faster than motors slide them. If branching complexes assemble with enough delay, each generation is born farther back, so the population drifts toward the poles. It is theory only, with Xenopus parameters, and untested in experiment.",
+  "tags": [
+    "spindle",
+    "microtubules"
+  ],
+  "title": "Proliferating against the current: how multistep branching nucleation can sort microtubule polarity in the spindle",
+  "url": "https://arxiv.org/abs/2611.16200",
+  "venue": "arXiv"
+}

@@ -1,0 +1,36 @@
+{
+  "abstract": "Vibrational strong coupling within a few molecules has recently been demonstrated in infrared nanocavities at room temperature, opening new alternatives to explore chemical reactions assisted by the confined electromagnetic vacuum. However, the intrinsic mechanisms of how the quantized electromagnetic mode modifies reactivity are not fully understood. We study infrared photodissociation of a single molecule strongly coupled to a resonant infrared nanocavity mode. The coupled system is driven by a monochromatic infrared laser that vibrationally excites the molecule directly or injects photons into the nanocavity field. We compare the intracavity dynamics of CO2 and H2O molecules and demonstrate that the driving energy required for dissociation is up to three orders of magnitude lower inside the cavity by injecting photons into the nanocavity than by driving the molecule directly. We show that photodissociation enhancements are due to the interplay between nuclear anharmonicity, stronglight-mattercoupling, and vacuum field polarisation according to the dipolar nature of the molecular bond. Our results provide the conceptual and numerical tools for understanding how to control chemical processes and to design nanophotonics experiments at the few-molecule level within a cavity quantum electrodynamics perspective.",
+  "arxiv_id": "2611.15450",
+  "authors": [
+    "Johan F. Triana",
+    "Felipe Herrera"
+  ],
+  "categories": [
+    "quant-ph",
+    "physics.chem-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15450"
+  },
+  "hook": "In simulation, a nanocavity cuts the laser energy to split CO2 and H2O up to 1000 times.",
+  "id": "arxiv-2611.15450",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Models of a single molecule strongly coupled to an infrared nanocavity show that feeding photons into the cavity breaks CO2 and H2O bonds with up to three orders of magnitude less driving energy than exciting the molecule directly. The gain comes from anharmonic bonds, strong coupling and the vacuum field's polarization. The work is purely theoretical, with no experiment yet.",
+  "tags": [
+    "cavity quantum electrodynamics",
+    "photodissociation"
+  ],
+  "title": "The infrared vacuum reduces the laser energy needed to break molecular bonds of simple molecules",
+  "url": "https://arxiv.org/abs/2611.15450",
+  "venue": "arXiv"
+}

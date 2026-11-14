@@ -1,0 +1,39 @@
+{
+  "abstract": "The apicomplexan parasite Cryptosporidium is a leading cause of diarrheal disease in young children. Within the intestinal epithelium, Cryptosporidium establishes a unique intracellular niche in the apical brush border of enterocytes. A structurally complex interface between host and parasite acts as a holdfast and enables protein and metabolite transport. How the parasite invades its host cell and builds the interface is poorly understood. Here, we reveal parasite invasion with high temporal and spatial resolution using rigorous molecular markers. We find that sequential discharge of specialized secretory organelles anchors the parasite within the host prior to internalization. The single Cryptosporidium rhoptry persists beyond its initial pre-invasion discharge, acting as a conduit for the secretion of multiple waves of effector proteins. Ultimately, the rhoptry membrane gives rise to the feeder organelle that separates host from parasite cytoplasm. These findings lead us to propose a mechanistic model of Cryptosporidium invasion and intracellular parasitism.",
+  "arxiv_id": null,
+  "authors": [
+    "Allison Cohen",
+    "Tim Bergner",
+    "Amandine Guérin",
+    "Maryse Lebrun",
+    "Michael Laue",
+    "Christian Klotz",
+    "Boris Striepen"
+  ],
+  "categories": [],
+  "doi": "10.1371/journal.pbio.3003933",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "The Cryptosporidium rhoptry stays after invasion and becomes the feeder organelle inside the host cell.",
+  "hook_turn": "becomes the feeder organelle inside the host cell.",
+  "id": "doi-10.1371-journal.pbio.3003933",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "The parasite that causes childhood diarrhea invades in steps: specialized organelles discharge in sequence to anchor it before it enters. Its single rhoptry keeps releasing waves of effector proteins and later forms the feeder organelle at the host-parasite interface. This comes from high-resolution imaging with molecular markers in cultured cells, so the proposed model still needs testing in infected animals.",
+  "tags": [
+    "parasites",
+    "cryptosporidium"
+  ],
+  "title": "The single Cryptosporidium rhoptry sequentially drives invasion and host-parasite interface formation.",
+  "url": "https://doi.org/10.1371/journal.pbio.3003933",
+  "venue": "PLOS Biology"
+}

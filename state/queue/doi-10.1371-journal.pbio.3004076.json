@@ -1,0 +1,50 @@
+{
+  "abstract": "Humans and other animals develop remarkable perceptual and cognitive specializations for identifying, differentiating, and acting on classes of ecologically important signals. This expertise is flexible enough to support diverse perceptual judgments: a voice, for example, simultaneously conveys what a talker says, as well as myriad cues about her identity and state. Expert perception across complex signals thus involves discovering and learning regularities that best inform diverse perceptual judgments, as well as weighting this information flexibly as task demands change. Here, we test whether this process may involve attentional gain. We use two prospective auditory category learning tasks to relate a complex, entirely novel soundscape to four classes of 'alien identity' and two classes of 'alien size.' Identity, but not size, categorization requires discovery and learning of patterned acoustic input situated in one of two simultaneous, non-overlapping frequency bands. This allows us to capitalize on the coarsely segregated, frequency-band-specific channels tiling auditory cortex. We use fMRI to ask whether category-relevant perceptual information present in one frequency band is prioritized relative to simultaneous, uninformative information in the other frequency band. Only among participants expert at alien identity categorization do we observe neural prioritization of the identity-diagnostic frequency band. This prioritization persists even when the diagnostic information becomes irrelevant in the size categorization task. Tellingly, the neural selectivity evoked implicitly in the identity categorization task aligns with that in an independent task, where activation is driven by explicit and sustained selective attention to pure tones in one or the other frequency band. Additionally, the learning trajectories taken to achieve expert-level categorization leave fingerprints on the patterns of neural activity associated with the diagnostic dimension. In all, this indicates that learning categories can drive attentional gain to category-diagnostic input dimensions.",
+  "arxiv_id": null,
+  "authors": [
+    "Sahil Luthra",
+    "Raha N Razin",
+    "Adam T Tierney",
+    "Lori L Holt",
+    "Frederic Dick"
+  ],
+  "categories": [
+    "Auditory Cortex",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Acoustic Stimulation",
+    "Learning",
+    "Auditory Perception",
+    "Attention",
+    "Adult",
+    "Female",
+    "Male",
+    "Young Adult"
+  ],
+  "doi": "10.1371/journal.pbio.3004076",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Learning sound categories makes the brain turn up the volume on the frequency band that matters.",
+  "hook_turn": "turn up the volume on the frequency band that matters.",
+  "id": "doi-10.1371-journal.pbio.3004076",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Volunteers learned to sort novel alien sounds by identity, which depended on one of two frequency bands. In fMRI, only those who became expert showed stronger auditory cortex response to the informative band, even when it stopped being useful. The task is artificial and the participants were healthy adults, so real-world speech may differ.",
+  "tags": [
+    "auditory cortex",
+    "attention",
+    "learning"
+  ],
+  "title": "Category learning drives cortical attentional gain to diagnostic dimensions of perceptual information.",
+  "url": "https://doi.org/10.1371/journal.pbio.3004076",
+  "venue": "PLOS Biology"
+}

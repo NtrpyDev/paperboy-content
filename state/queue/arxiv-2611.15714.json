@@ -1,0 +1,39 @@
+{
+  "abstract": "Compound lensing in double-source-plane lenses (DSPLs) introduces multiple mass-sheet transformations that bias the inferred distance ratios $\\beta$ used to constrain cosmology. We present the recovered $\\beta$ from lens models of simulated compound lenses and explore the systematic biases that arise from a mass-sheet transformation in the first source plane. We examined simulated observations based on SDSS J0946+1006, in which we varied the matter distribution of source 1. We found a strong correlation between the stellar-to-halo mass and the recovered $\\beta$. We produced a simulated catalogue of DSPLs detectable by the Euclid telescope to see if the same systematic propagates to a more varied population. But at Euclid's resolution, the properties of source 1 were poorly constrained, and any correlated bias was lost in the statistical uncertainty. We inferred $w_0$ and $\\Omega_{\\rm m}$ for a flat $w$CDM cosmology from our $\\beta$ posteriors for our combined sample. We found the cosmology biased when using the full mock Euclid sample, but reduced the bias substantially using a limited, well-modelled ''gold'' sub-sample, bringing it to within $\\sim2\\sigma$ and $\\sim1\\sigma$ of the ground-truth cosmology for simulated Euclid and Hubble Space Telescope imaging, respectively. Therefore, we must eliminate systems with unreliable lensing information, and for extreme compound lensing, the model complexity must be sufficient to reproduce the lensing observations. DSPLs remain a promising cosmological probe that could provide independent and complementary constraints to existing probes.",
+  "arxiv_id": "2611.15714",
+  "authors": [
+    "Duncan J. Bowden",
+    "Tian Li",
+    "Aprajita Verma",
+    "Thomas E. Collett",
+    "Philip Holloway"
+  ],
+  "categories": [
+    "astro-ph.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15714"
+  },
+  "hook": "In simulation, mass-sheet effects bias cosmology from double-source lenses; a gold subsample cuts the bias.",
+  "hook_turn": "a gold subsample cuts the bias.",
+  "id": "arxiv-2611.15714",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Simulated double-source-plane lenses show that compound lensing skews the distance ratios used to infer dark energy parameters. A well-modelled gold subsample brings the bias to within about 2 sigma for Euclid and 1 sigma for Hubble imaging. All results are from mock data, and at Euclid resolution the first source is poorly constrained.",
+  "tags": [
+    "gravitational lensing",
+    "cosmology"
+  ],
+  "title": "Can we constrain cosmology with compound gravitational lenses?",
+  "url": "https://arxiv.org/abs/2611.15714",
+  "venue": "arXiv"
+}

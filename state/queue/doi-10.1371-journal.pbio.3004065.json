@@ -1,0 +1,47 @@
+{
+  "abstract": "Many organisms alternate between distinct life stages and can reproduce either sexually or asexually, yet the mechanisms coordinating these developmental and reproductive transitions remain poorly understood. Here, we investigate the molecular basis of life stage identity and reproductive mode in the kelp Laminaria pallida, a multicellular organism with a complex life cycle. By combining gene expression analyses with developmental experiments and natural population-level approaches, we characterize the transcriptional signatures associated with developmental state transitions in both sexual and asexual contexts. We show that asexual reproduction is associated with endoreduplication and reduced fitness, while it is retained but rarely expressed in two natural populations. Moreover, we find that the presence of potential mating partners reduces asexual development, revealing that reproductive mode is adjusted in response to reproductive opportunities. Together, these findings suggest that asexual reproduction functions as a conditional alternative to sex, promoting persistence when sexual reproduction is constrained while preserving the long-term benefits of sexual reproduction when mates are available. More broadly, our results reveal how organisms integrate developmental, environmental, and reproductive cues to balance alternative reproductive strategies across complex life cycles.",
+  "arxiv_id": null,
+  "authors": [
+    "Daniel Liesner",
+    "Rémy Luthringer",
+    "Lineekela Kandjengo",
+    "John J Bolton",
+    "Mark D Rothman",
+    "Myriam Valero",
+    "Fabian B Haas",
+    "Susana M Coelho"
+  ],
+  "categories": [
+    "Kelp",
+    "Laminaria",
+    "Life Cycle Stages",
+    "Reproduction",
+    "Reproduction, Asexual"
+  ],
+  "doi": "10.1371/journal.pbio.3004065",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A kelp uses asexual reproduction as a backup, and develops it less when mates are present.",
+  "hook_turn": "develops it less when mates are present.",
+  "id": "doi-10.1371-journal.pbio.3004065",
+  "license": null,
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "In the kelp Laminaria pallida, asexual development was linked to extra genome copying and lower fitness, and it was rare in two wild populations. Its rate dropped when potential mates were present. The evidence combines gene expression, lab experiments and field samples from just two populations, so it may not generalize to other species.",
+  "tags": [
+    "kelp",
+    "reproduction",
+    "life cycles"
+  ],
+  "title": "Life-cycle plasticity enables conditional asexual reproduction in a kelp.",
+  "url": "https://doi.org/10.1371/journal.pbio.3004065",
+  "venue": "PLOS Biology"
+}

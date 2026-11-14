@@ -1,0 +1,45 @@
+{
+  "abstract": "People are increasingly using conversational AI systems to make decisions despite concerns around their reliability. How well do people calibrate to AI systems' accuracy in multi-turn conversations? We measure how people's reliance on LLMs' advice changes across repeated interactions, varying whether the AI assistant is helpful (100% accurate), unhelpful (0% accurate), or mixed (50% accurate). Across 4 experiments, we find people learn to trust helpful models more than unhelpful ones (67% vs 21% of the time), but only when they receive external feedback on the models' accuracy. Without feedback, people continue to be persuaded 48% of the time by a consistently unhelpful model (vs 38% for helpful). Rather than gaining trust in helpful models, participant reliance on LLM advisors tended to be high in early trials and only fell with evidence of inaccuracy. Participants trusted LLM advisors more than they trusted human advisors (83% vs 65%, Experiment 4), and LLMs benefited more from having a helpful track record than humans did. In contrast with previous work, we find limited evidence of an advantage for arguing for the truth (versus a falsehood). Truth advantages emerged only when participants were already very confident in their position, and did not emerge at all for static hints. Collectively, the results suggest that people may be swayed by LLM advice, even when it is consistently false, unless they have access to timely ground-truth feedback. Unfortunately, in many domains such feedback may not be available, leading to overreliance on AI.",
+  "arxiv_id": "2611.14833",
+  "authors": [
+    "Cameron R. Jones",
+    "Julia Wong",
+    "Aaron S. Cohen",
+    "James Woolley",
+    "Benjamin K. Bergen"
+  ],
+  "categories": [
+    "cs.HC",
+    "cs.CL"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "social",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14833"
+  },
+  "hook": "People follow wrong AI advice 48% of the time unless they get feedback on its accuracy.",
+  "hook_turn": "unless they get feedback on its accuracy.",
+  "id": "arxiv-2611.14833",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Persuaded by a consistently wrong AI, no feedback",
+    "unit": "%",
+    "value": "48"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "In four experiments, participants advised by a chatbot that was always right, always wrong, or half right learned to trust the accurate one only when told whether it had been correct. Without feedback, trust in the always-wrong model stayed close to trust in the accurate one. Participants also trusted LLMs more than human advisors. Results come from online lab-style tasks, so real-world stakes may change behavior.",
+  "tags": [
+    "AI trust",
+    "human-AI interaction"
+  ],
+  "title": "Do People Trust AI Assistants Even When They Are Consistently Wrong?",
+  "url": "https://arxiv.org/abs/2611.14833",
+  "venue": "arXiv"
+}

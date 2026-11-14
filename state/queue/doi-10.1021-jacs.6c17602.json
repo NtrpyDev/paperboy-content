@@ -1,0 +1,56 @@
+{
+  "abstract": "Abstract All-solid-state batteries (ASSBs) are a promising next-generation energy storage technology, but their development is often constrained by the thermal instability and high cost of solid-state electrolytes (SSEs). Amorphous oxyhalide electrolytes, while mechanically deformable, are particularly susceptible to thermal degradation. Here, we report a novel and cost-effective composite SSE fabricated by embedding LaCl3 nanocrystals within an amorphous Li–Al–O–Cl (LAOC) matrix. This unique architecture synergistically combines the high ionic conductivity of the amorphous phase with the enhanced thermal and mechanical robustness imparted by the crystalline phase. The resulting Li–La–Al–O–Cl electrolyte achieves a high room-temperature ionic conductivity exceeding 1 mS cm–1 and demonstrates exceptional thermal stability, remaining a solid powder at 150 °C, a temperature at which the baseline LAOC melts. This enhanced thermal and thermo-mechanical integrity, combined with excellent deformability, enables superior interfacial contact and stability with cathodes. The Li–La–Al–O–Cl-based ASSBs maintain stable operation at 80 °C, in stark contrast to the rapid failure of LAOC-based cells. This strategy of reinforcing a soft amorphous matrix with a rigid crystalline offers a new pathway for designing thermally robust, high-performance, and commercially viable SSEs.",
+  "arxiv_id": null,
+  "authors": [
+    "Yueyue Wang",
+    "Yang Yang",
+    "Xingyu Wang",
+    "Simeng Zhang",
+    "Yang Xu",
+    "Xiangzhen Zhu",
+    "Junyi Yue",
+    "Jiamin Fu",
+    "Xu Han",
+    "Yanlong Wu",
+    "Han Wu",
+    "Liyu Zhou",
+    "Hao Lai",
+    "Yu Xia",
+    "Changtai Zhao",
+    "Fangyan Xie",
+    "Xiaona Li",
+    "Xueliang Sun",
+    "Jianwen Liang"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c17602",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "LaCl3 nanocrystals keep a soft solid electrolyte solid at 150 °C, where the plain version melts.",
+  "hook_turn": "where the plain version melts.",
+  "id": "doi-10.1021-jacs.6c17602",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Room-temperature ionic conductivity",
+    "unit": "mS/cm",
+    "value": ">1"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Embedding LaCl3 nanocrystals in an amorphous Li-Al-O-Cl glass gave a deformable electrolyte that stays powdery at 150 °C and runs cells at 80 °C, where the baseline fails. Shown in lab-scale cells. Long-term cycling and performance at larger scale are not reported in the abstract.",
+  "tags": [
+    "solid-state batteries",
+    "solid electrolytes"
+  ],
+  "title": "A Crystalline LaCl3 Reinforced Amorphous Oxyhalide Electrolyte for Thermally Stable All-Solid-State Batteries",
+  "url": "https://doi.org/10.1021/jacs.6c17602",
+  "venue": "Journal of the American Chemical Society"
+}

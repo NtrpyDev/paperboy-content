@@ -1,0 +1,37 @@
+{
+  "abstract": "We study the diameter function on the Teichm\\\"uller space of closed hyperbolic Riemann surfaces. Although the Bolza surface maximizes the systole among hyperbolic surfaces of genus 2, its extremal behavior with respect to the diameter function is less clear. Using first variations of distances at diameter pairs and linear programming duality, we establish a sufficient criterion for a surface not to be a local minimizer of the diameter function. More precisely, we show that if each diameter pair can be assigned a simple closed geodesic formed by two minimizing geodesic segments joining its endpoints, with distinct assigned geodesics pairwise disjoint, then a deformation varying only the length parameters in Fenchel-Nielsen coordinates strictly decreases the diameter. The assigned geodesics extend to a pants decomposition, and the decrease is detected by a strictly negative upper bound for the first-order variation of the diameter. We then apply this criterion to the Bolza surface and prove that it is not a local minimizer of the diameter function on the Teichm\\\"uller space of genus 2.",
+  "arxiv_id": "2611.16340",
+  "authors": [
+    "Ryo Matsuda",
+    "Keita Yamazaki"
+  ],
+  "categories": [
+    "math.GT",
+    "math.DG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16340"
+  },
+  "hook": "Bolza surface is not a local diameter minimizer. A length-only deformation shrinks it.",
+  "hook_turn": "A length-only deformation shrinks it.",
+  "id": "arxiv-2611.16340",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The Bolza surface, the genus-2 surface with the largest shortest loop, is not a local minimizer of diameter. The authors prove a criterion using first-order changes in distances and linear programming duality, then show a deformation of Fenchel-Nielsen length parameters shrinks the diameter. This is a local result only; it does not identify the true minimizer.",
+  "tags": [
+    "hyperbolic geometry",
+    "Teichmuller space"
+  ],
+  "title": "The Bolza Surface Does Not Locally Minimize the Diameter Function",
+  "url": "https://arxiv.org/abs/2611.16340",
+  "venue": "arXiv"
+}

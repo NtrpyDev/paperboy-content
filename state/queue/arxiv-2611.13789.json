@@ -1,0 +1,39 @@
+{
+  "abstract": "We are able to catch the main idea from OpenAI's recent release and present a proof of Falconer distance conjecture in our own words. Arguments are judiciously simplified and carefully designed for graduate-level readers.",
+  "arxiv_id": "2611.13789",
+  "authors": [
+    "Kotaro Inami",
+    "Jianbin Li",
+    "Yudong Liang",
+    "Bochen Liu",
+    "Francisco Romero Acosta"
+  ],
+  "categories": [
+    "math.CA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13789"
+  },
+  "hook": "A write-up of a claimed proof of the Falconer distance conjecture, based on an OpenAI release.",
+  "hook_turn": "based on an OpenAI release.",
+  "id": "arxiv-2611.13789",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors present their own simplified version of a proof of the Falconer distance conjecture, whose main idea they took from an OpenAI release. The text is aimed at graduate readers. The abstract gives no technical detail, and the proof's correctness depends on expert checking that is not described.",
+  "tags": [
+    "harmonic analysis",
+    "AI mathematics"
+  ],
+  "title": "On the proof of Falconer distance conjecture",
+  "url": "https://arxiv.org/abs/2611.13789",
+  "venue": "arXiv"
+}

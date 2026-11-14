@@ -1,0 +1,41 @@
+{
+  "abstract": "Unfamiliar walkers may follow the shortest route and miss nearby shade, indoor passages and multilevel connections. We define the resulting hidden solar cost as the direct-sun exposure avoidable through shade-informed routing without substantial detours. We developed a time-specific three-dimensional model of Hong Kong Island that combines indoor and outdoor walking networks with building geometry, vegetation mapped by light detection and ranging (LiDAR), and solar position. For 500 modelled journeys, we compared shortest and shade-informed routes at four daytime snapshots and five extra-distance limits. At noon, shade-informed routes reduced modelled direct-sun exposure by 13.5% relative to shortest routes under a 10% extra-distance limit. Route length increased by 2.85% on average. A 5% extra-distance limit delivered 77% of the reduction obtained at 10%. In a controlled comparison, outdoor shade information accounted for 86% of the reduction and indoor-protection information for 14%. Removing multilevel connections left only 191 of 500 journeys feasible within the original route-length limit. These route comparisons identify an avoidable solar cost when existing protection is missing from the information used to choose a route. Making protected routes visible and preserving their connections can reduce sun exposure without large detours.",
+  "arxiv_id": "2611.14959",
+  "authors": [
+    "Lijia Liu",
+    "Yimeng Song"
+  ],
+  "categories": [
+    "cs.CY"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "social",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14959"
+  },
+  "hook": "Shade-aware routes cut direct sun exposure 13.5% in Hong Kong with walks only 2.85% longer",
+  "hook_turn": "with walks only 2.85% longer",
+  "id": "arxiv-2611.14959",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Noon sun exposure cut, 10% detour limit",
+    "unit": "%",
+    "value": "13.5"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A 3D model of Hong Kong Island, combining indoor and outdoor paths, building geometry, LiDAR vegetation and sun position, compared shortest and shade-informed routes for 500 journeys. At noon with a 10% extra-distance limit, direct sun exposure fell 13.5%. Outdoor shade drove most of the gain. These are modeled journeys, not measurements of real walkers.",
+  "tags": [
+    "urban planning",
+    "heat exposure"
+  ],
+  "title": "The hidden solar cost of urban unfamiliarity",
+  "url": "https://arxiv.org/abs/2611.14959",
+  "venue": "arXiv"
+}

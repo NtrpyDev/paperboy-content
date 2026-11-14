@@ -1,0 +1,37 @@
+{
+  "abstract": "In 1997, Alon and Kim proposed an asymptotic edge-coloring bound motivated by a bound on the number of edges in intersecting uniform hypergraphs. The Alon--Kim conjecture asserts that, for fixed integers $k\\ge t\\ge1$ and $\\varepsilon>0$, every $k$-uniform multihypergraph $H$ in which any two distinct edges intersect in at most $t$ vertices satisfies $\\chi'(H)\\le(t-1+\\frac{1}{t}+\\varepsilon)\\Delta(H)$ whenever $\\Delta(H)$ is sufficiently large. In this paper, we prove the Alon--Kim conjecture. Our method combines finite-dimensional convex optimization with probabilistic methods.",
+  "arxiv_id": "2611.13698",
+  "authors": [
+    "Chengshuo Qiao",
+    "Zhijun Lu",
+    "Huimin Song"
+  ],
+  "categories": [
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13698"
+  },
+  "hook": "A 1997 edge-coloring conjecture of Alon and Kim is proved for hypergraphs with small pairwise overlap.",
+  "hook_turn": "for hypergraphs with small pairwise overlap.",
+  "id": "arxiv-2611.13698",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove the Alon-Kim conjecture: for k-uniform multihypergraphs whose edges pairwise share at most t vertices, the edge-chromatic number is at most (t-1+1/t+epsilon) times the maximum degree once that degree is large. The method combines finite-dimensional convex optimization with probabilistic arguments. It is a new preprint and has not been independently checked, and the bound holds only asymptotically.",
+  "tags": [
+    "hypergraphs",
+    "edge coloring"
+  ],
+  "title": "The Proof of the Alon--Kim Conjecture",
+  "url": "https://arxiv.org/abs/2611.13698",
+  "venue": "arXiv"
+}

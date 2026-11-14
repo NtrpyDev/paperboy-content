@@ -1,0 +1,37 @@
+{
+  "abstract": "Learning is a basic form of adaptation that organisms display from neural systems to single cells. In associative learning, the pairing of two stimuli lets one of them evoke the response to the other. Engineering this behavior in a living cell is difficult, because coincidence detection, memory, and conditional readout must be wired into a single regulatory network. Here we build a consortium of five E. coli strains that distributes the operations of associative learning and communicates through one diffusible quorum-sensing signal. The same signal acts as the memory trace. One strain detects the coincidence of the two inputs, a second maintains the memory through positive feedback in the shared medium, a third reads it out on the conditioned stimulus, a fourth reports the unconditioned response, and a fifth erases the memory on command. We show experimentally that the assembled consortium learns the association, since a stimulus that is silent before training evokes a strong response after pairing. Memory is retained through a medium exchange in which both stimuli are removed, and then the conditioned stimulus alone evokes the response. The reporter is not produced without its input. An erase command returns the response to the background. A population model of the consortium accounts for the sequence of responses and gives design rules for writing, retention, and erasure, and a trade-off in storing memory in a shared extracellular signal. Distributing the operations over strains makes each of them separately tunable and testable and provides a route to microbial communities that learn from their history.",
+  "arxiv_id": null,
+  "authors": [
+    "Pla-Mauri, J.",
+    "Sole, R.",
+    "Conde-Pueyo, N."
+  ],
+  "categories": [
+    "synthetic biology"
+  ],
+  "doi": "10.64898/2026.11.09.765282",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/12/2026.11.09.765282.source.xml"
+  },
+  "hook": "Five E. coli strains sharing one signal learned to pair two stimuli, then forgot on command.",
+  "hook_turn": "forgot on command.",
+  "id": "doi-10.64898-2026.11.09.765282",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Engineers split associative learning across five bacterial strains that talk through a single quorum-sensing molecule, which doubles as the memory. After pairing, a stimulus that did nothing before triggered a strong response, and the memory survived a medium swap. Limit: this is a lab culture in a controlled medium, and the design rules come from a population model.",
+  "tags": [
+    "synthetic biology",
+    "memory"
+  ],
+  "title": "Associative Learning and Memory Erasure in a Synthetic Multicellular System",
+  "url": "https://doi.org/10.64898/2026.11.09.765282",
+  "venue": "bioRxiv"
+}

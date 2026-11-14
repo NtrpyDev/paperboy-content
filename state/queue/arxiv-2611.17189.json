@@ -1,0 +1,36 @@
+{
+  "abstract": "For $(x,y)\\in\\mathbb{R}^2$ and $Q\\ge 1$, set $F_Q(x,y)=Q\\min_{1\\le q\\le Q}\\lVert qx\\rVert\\lVert qy\\rVert$, where $q$ ranges over positive integers and $\\lVert\\cdot\\rVert$ denotes distance to the nearest integer. The set on which the uniform Littlewood constant $L=\\limsup_{Q\\to\\infty}F_Q$ is positive has full Hausdorff dimension. We prove that for every fixed $c>0$ the superlevel set $\\{L\\ge c\\}$ has Hausdorff dimension strictly less than two. More precisely, the Lebesgue measure of $\\{(x,y)\\in[0,1]^2:F_Q(x,y)\\ge c\\}$ is $O_c(Q^{-\\kappa(c)})$ for some $\\kappa(c)>0$ and all $Q\\ge 2$. The proof combines large deviations for one diagonal action on the space of unimodular lattices with effective equidistribution of expanding horospheres for another.",
+  "arxiv_id": "2611.17189",
+  "authors": [
+    "Shahriar Mirzadeh"
+  ],
+  "categories": [
+    "math.DS",
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17189"
+  },
+  "hook": "The set of points with uniformly large Littlewood constant has Hausdorff dimension strictly below two.",
+  "hook_turn": "strictly below two.",
+  "id": "arxiv-2611.17189",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Littlewood's conjecture concerns how well two numbers can be approximated by fractions with a shared denominator. The author shows the set where a uniform version of this constant stays at least c has dimension below two, with its measure at scale Q shrinking like a power of Q. The proof joins large deviations for one diagonal flow on lattices with equidistribution of expanding horospheres for another. It does not resolve the conjecture itself.",
+  "tags": [
+    "Diophantine approximation",
+    "dynamical systems"
+  ],
+  "title": "Dimension drop for superlevel sets of the uniform Littlewood constant",
+  "url": "https://arxiv.org/abs/2611.17189",
+  "venue": "arXiv"
+}

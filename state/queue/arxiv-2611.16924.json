@@ -1,0 +1,44 @@
+{
+  "abstract": "Two-dimensional electron gases in terahertz cavities are among the most mature platforms for ultrastrong light--matter coupling, yet their collective response is captured by the linear Hopfield model, which has an exact classical correspondence. We show that the intrinsic band nonparabolicity of the electrons, recently revealed through nonlinear diamagnetism, turns this system into a quantum Kerr oscillator that squeezes terahertz light. Using a non-rotating-wave theory with ultrastrong-coupling-consistent input--output, an ab initio cavity bath, and a self-consistent model of electron heating, we predict output squeezing of 1.8--2.4\\,dB with present GaAs samples in weakly confined cavities with quality factors of order $10^2$, and up to $\\approx9$\\,dB with modest improvements in mobility or cavity frequency. Carrier heating sets limits through a material figure of merit, which yields a simple design rule that the optimal cavity quality factor scales inversely with the ultrastrong-coupling strength.",
+  "arxiv_id": "2611.16924",
+  "authors": [
+    "Dasom Kim",
+    "Junichiro Kono",
+    "Stephen Hughes"
+  ],
+  "categories": [
+    "cond-mat.mes-hall",
+    "quant-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16924"
+  },
+  "hook": "Electrons in a terahertz cavity could squeeze light, using their slightly nonparabolic energy bands.",
+  "hook_turn": "using their slightly nonparabolic energy bands.",
+  "id": "arxiv-2611.16924",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Best-case predicted THz squeezing",
+    "unit": "dB",
+    "value": "~9"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Band nonparabolicity makes the electron gas behave as a quantum Kerr oscillator, and the theory predicts 1.8 to 2.4 dB of squeezing with existing GaAs samples. Better mobility or cavity frequency could reach about 9 dB. Carrier heating limits the effect, and these are predictions from a model, not measurements.",
+  "tags": [
+    "quantum optics",
+    "terahertz",
+    "squeezed light"
+  ],
+  "title": "Squeezed terahertz light from nonlinear diamagnetism in ultrastrongly coupled two-dimensional electrons",
+  "url": "https://arxiv.org/abs/2611.16924",
+  "venue": "arXiv"
+}

@@ -1,0 +1,35 @@
+{
+  "abstract": "We consider polynomial-time computation over arbitrary structures, with unit cost for the primitive operations and relations and with nondeterministic witnesses consisting of arbitrary structure elements. We prove that every finite-signature structure with two distinct available elements and containing a binary operation $*$ and total unary operations $L,R$ such that $L(x*y)=x$ and $R(x*y)=y$ satisfies $P\\ne NP$. The proof encodes an exponentially long computation in one element. An incorrect transition has a polynomial-size binary address, and hence the existence of an error is an $NBP$ problem. Existence of a correct accepting trace belongs to the mixed second level $\\Sigma_2^{S,B}$, with an arbitrary-element existential block followed by a binary universal block. We obtain $EXP\\subseteq\\Sigma_2^{S,B}\\subseteq PH$. A hypothetical equality $P=NP$ would collapse this hierarchy to $P$ and imply $P=EXP$, contradicting a direct deterministic diagonalization over the same structure. A simulation by function graphs extends the obstruction to every jointly injective binary primitive under the same assumptions on equality and available elements. Consequently no unary predicate on Malcev's free binary-tree algebra yields $P=NP$, with or without the projections. In contrast, starting from the author's unary example, we construct five infinite structures with binary operations and $P=NP$. These include an algebra with one binary operation and one constant, an expansion with an associative rectangular-band operation, and an algebra with one binary operation whose every row and column has infinite image.",
+  "arxiv_id": "2611.15773",
+  "authors": [
+    "Mihai Prunescu"
+  ],
+  "categories": [
+    "math.LO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15773"
+  },
+  "hook": "P differs from NP over any structure with a pairing function and projections; other structures have P=NP.",
+  "hook_turn": "other structures have P=NP.",
+  "id": "arxiv-2611.15773",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Over structures with a binary operation and two inverse projections, the author proves P is not NP, and gives five infinite structures where P equals NP. The proof encodes exponentially long computations in one element. It concerns computation over abstract structures, not the classical Turing P versus NP question.",
+  "tags": [
+    "computational complexity",
+    "logic"
+  ],
+  "title": "A negative answer to the final question in \"Les petits cailloux\"",
+  "url": "https://arxiv.org/abs/2611.15773",
+  "venue": "arXiv"
+}

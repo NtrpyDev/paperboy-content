@@ -1,0 +1,50 @@
+{
+  "abstract": "Abstract Immunocompromised adults are at increased risk of severe respiratory syncytial virus (RSV) disease. This multicountry, open-label phase 2b trial (NCT05921903) evaluated the immunogenicity and safety of the AS01 E -adjuvanted RSV prefusion F protein vaccine (adjuvanted RSVPreF3) over 12 months in kidney or lung transplant recipients ≥18 years, randomized 1:1 to receive one ( n = 131) or two doses 30–60 days apart ( n = 130). A control group of non-immunocompromised adults ≥50 years ( n = 125) received a single dose. The primary outcome was the mean geometric increase in RSV-A and RSV-B neutralizing titers one month following a second adjuvanted RSVPreF3 dose relative to the first dose in transplant recipients. Secondary outcomes included assessment of the safety and immunogenicity of adjuvanted RSVPreF3 in transplant recipients compared with the control group. In transplant recipients receiving two doses, neutralizing titers against RSV-A and RSV-B were numerically higher one month post-dose 2 than post-dose 1 (mean geometric increases: 1.34 [95% CI: 1.20, 1.48] for RSV-A [ n = 111] and 1.26 [95% CI: 1.14, 1.40] for RSV-B [ n = 111]). A single dose was immunogenic in transplant recipients, but showed slower and generally lower initial neutralizing responses than in non-immunocompromised controls, specifically in individuals receiving mycophenolate. RSVPreF3-specific CD4 + T-cell frequencies increased after vaccination versus baseline in all groups. Humoral and cell-mediated immune responses remained above baseline for 12 months post-vaccination. Both doses of adjuvanted RSVPreF3 were well tolerated and had a similar and acceptable safety profile. Overall, these results support a favorable benefit-risk profile of adjuvanted RSVPreF3 in kidney and lung transplant recipients.",
+  "arxiv_id": null,
+  "authors": [
+    "Catherine Small",
+    "Deepali Kumar",
+    "Anum Abbas",
+    "Ana Sánchez Fructuoso",
+    "Shigeyoshi Yamanaga",
+    "Virginia Luz Pérez González",
+    "Hristos Karakizlis",
+    "Michael Nissen",
+    "Pyoeng Gyun Choe",
+    "Vera Paloschi",
+    "Steven Chadban",
+    "Hiwot Amare Hailemariam",
+    "Catherine Gerard",
+    "Marie-Pierre David",
+    "Dominique Descamps",
+    "Corinne Vandermeulen",
+    "Kemi Oluwayi",
+    "Veronica Hulstrøm",
+    "On behalf of the RSV OA=ADJ-023 Study Group"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-78584-9",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A second RSV vaccine dose raised antibodies only about 1.3-fold in transplant recipients.",
+  "id": "doi-10.1038-s41467-026-78584-9",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "In a randomized phase 2b trial of 261 kidney or lung transplant recipients, a second dose of the adjuvanted RSV vaccine raised neutralizing titers only modestly over one dose (1.34 for RSV-A, 1.26 for RSV-B). One dose was immunogenic but slower and lower than in healthy older adults, especially with mycophenolate. It measured immune markers and safety, not infections prevented, and was open-label.",
+  "tags": [
+    "RSV vaccine",
+    "transplant"
+  ],
+  "title": "AS01E-adjuvanted RSV pre-F protein vaccine in adults with lung or kidney transplant: a phase 2b randomized trial",
+  "url": "https://doi.org/10.1038/s41467-026-78584-9",
+  "venue": "Nature Communications"
+}

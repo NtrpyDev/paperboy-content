@@ -1,0 +1,47 @@
+{
+  "abstract": "Microbial communities often exhibit apparently complex dynamics driven by myriad interactions among community members and with their environments. Yet, practical modeling and control are often based on a limited number of observables, raising fundamental questions: are these observed dynamics low-dimensional? If so, how does the low dimensionality enable predictions with limited information? Here, we report an emergent simplicity that the temporal dynamics of observable microbial populations can be captured by low-dimensional representations. Using variational autoencoders, we define a critical latent dimension (Ec) that operationally quantifies the smallest latent dimension required for high-fidelity reconstruction of observable microbial dynamics under a specified criterion. Despite the complexity of unobserved background dynamics, we find Ec to be drastically lower than the community's apparent degrees of freedom. Ec scales linearly with the number of observables, providing an empirical principle for determining representation complexity. This principle holds across simulations of pairwise interacting communities, consumer-resource dynamics, spatially distributed microbial patches, and plasmid transfer, experiments with engineered and environment-derived communities, and human microbiomes. Our findings establish a scaling law for microbial community dynamics and demonstrate that low-dimensional representations of observable dynamics retain information useful for selected prediction tasks without direct measurement of the complete community.",
+  "arxiv_id": null,
+  "authors": [
+    "Zhengqing Zhou",
+    "Xiaoli Chen",
+    "Yasa Baig",
+    "Wendy Kehan Wang",
+    "Emrah Şimşek",
+    "Grayson S Hamrick",
+    "Zachary A Holmes",
+    "Zhenjiao Du",
+    "David K Karig",
+    "Lingchong You"
+  ],
+  "categories": [
+    "Humans",
+    "Models, Biological",
+    "Microbiota",
+    "Autoencoder"
+  ],
+  "doi": "10.1073/pnas.2536565123",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Microbial community dynamics fit in a few latent dimensions that scale linearly with observables.",
+  "hook_turn": "that scale linearly with observables.",
+  "id": "doi-10.1073-pnas.2536565123",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Using variational autoencoders, the authors define a critical latent dimension, the smallest needed to reconstruct observed microbial population dynamics. It is far below the community's apparent complexity and grows linearly with the number of observables, in simulations, engineered and environmental communities, and human microbiomes. The scaling is empirical and depends on the chosen reconstruction criterion.",
+  "tags": [
+    "microbial communities",
+    "machine learning"
+  ],
+  "title": "Linear scaling reveals low-dimensional structure in observable microbial dynamics.",
+  "url": "https://doi.org/10.1073/pnas.2536565123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

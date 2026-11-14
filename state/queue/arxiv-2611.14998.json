@@ -1,0 +1,54 @@
+{
+  "abstract": "Supermassive neutron stars ([Formula: see text]) provide stringent constraints on the equation of state of dense matter. We report the discovery of a wide binary system composed of a red giant star and an invisible companion with an orbital period [Formula: see text] and a comparatively low eccentricity [Formula: see text] (with 1σ uncertainty). By combining radial velocity measurements from the Large Sky Area Multi-Object Fiber Spectroscopic Telescope and the Apache Point Observatory Galactic Evolution Experiment (APOGEE) with astrometric data from Gaia DR2 and DR3 catalogs, we derive a Keplerian orbit with an inclination angle [Formula: see text]. The unseen companion has a mass in the range of [Formula: see text] (spanning the full spread of all estimates), with a best-fit value of [Formula: see text]. This potentially places the unseen companion within the mass gap between neutron stars and black holes. Spectral disentangling using high-resolution near-infrared APOGEE spectra shows no absorption features from an additional component, suggesting the presence of a compact object: either a supermassive neutron star or a low-mass black hole. The wide, low-eccentricity orbit is difficult to explain through standard binary evolution channels, pointing to the need for improved theoretical models to account for such systems.",
+  "arxiv_id": "2611.14998",
+  "authors": [
+    "Xinlin Zhao",
+    "Song Wang",
+    "Guang-Yao Xiao",
+    "Meng Sun",
+    "Roberto Soria",
+    "Kyle Akira Rocha",
+    "Seth Goggage",
+    "Pengfei Wang",
+    "Hongliang Yan",
+    "Xuan Mao",
+    "Yang Huang",
+    "Maosheng Xiang",
+    "Shuai Liu",
+    "Dan Qiu",
+    "Meng Zhang",
+    "Xue Li",
+    "Fabo Feng",
+    "Xihong Luo",
+    "Xiaohong Yang",
+    "Jifeng Liu"
+  ],
+  "categories": [
+    "astro-ph.HE",
+    "astro-ph.SR"
+  ],
+  "doi": "10.1126/sciadv.aeg3307",
+  "explain": true,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14998"
+  },
+  "hook": "A red giant's unseen companion may be a supermassive neutron star or a mass-gap black hole",
+  "id": "arxiv-2611.14998",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Radial velocities from LAMOST and APOGEE plus Gaia astrometry give a wide, low-eccentricity orbit for a red giant circling an invisible companion. The companion's mass falls in the gap between neutron stars and black holes, and no light from a second star shows in the infrared spectra. The mass has a wide error range, so its identity as a compact object is likely rather than proven.",
+  "tags": [
+    "neutron stars",
+    "binary stars"
+  ],
+  "title": "Discovery of a likely supermassive neutron star in a remarkably wide binary.",
+  "url": "https://doi.org/10.1126/sciadv.aeg3307",
+  "venue": "Science Advances"
+}

@@ -1,0 +1,49 @@
+{
+  "abstract": "Nuclei in early mammalian embryos undergo epigenetic reprogramming that enables the zygote to develop into a complete organism. Whereas changes in chromatin state during this critical transition period have been extensively studied1-3, changes in the nucleus that houses chromatin remain poorly understood. Here, using direct organelle capture and biophysical manipulation methods, we find that nuclei attain profound softness and plasticity during the two-cell embryonic stage in mice, facilitating major zygotic gene activation. The prominent nuclear deformability is attributable to the rapid clearance of lamin B1 from the nuclear envelope by the autophagy factor LC3. Nuclear stiffening by lamin B1 retention or its overloading results in incomplete activation of zygotic genes and impaired development. However, embryos that maintain nuclear deformability escape from this transcriptional interference. High-resolution microscopy and sequential three-dimensional fluorescence in situ hybridization analyses revealed an accumulation of active RNA polymerase II and coordinated positioning of key genomic loci near the deformable nuclear envelope. An engineered molecular tether that stiffens the nuclei restricts these nuclear activities and suppresses expression of key zygotic gene activation genes. Together, our study identifies a distinct physical nuclear state that embryos acquire at the beginning of life that supports the initiation of the zygotic transcription program.",
+  "arxiv_id": null,
+  "authors": [
+    "Masahito Tanaka",
+    "Rin Sakanoue",
+    "Yasuki Miyagawa",
+    "Kai Otsuka",
+    "Yoshiaki Kobayashi",
+    "Atsushi Takasu",
+    "Ryunosuke Mori",
+    "Naoko Watanabe",
+    "Akihiro Inoue",
+    "Koyo Ikeda",
+    "Yu-Chia Chen",
+    "Aussie Suzuki",
+    "Yasuyuki Ohkawa",
+    "So Maezawa",
+    "Hiroshi Ochiai",
+    "Kei Miyamoto",
+    "Yuta Shimamoto"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41586-026-11240-w",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Mouse embryo nuclei turn soft at the two-cell stage, and that softness helps switch on embryonic genes.",
+  "hook_turn": "that softness helps switch on embryonic genes.",
+  "id": "doi-10.1038-s41586-026-11240-w",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "At the two-cell stage in mice, the autophagy factor LC3 clears lamin B1 from the nuclear envelope, leaving nuclei very deformable. Stiffening the nuclei by keeping lamin B1 or adding an engineered tether blunted zygotic gene activation and impaired development. The work is in mouse embryos, and human relevance is untested.",
+  "tags": [
+    "embryo development",
+    "nucleus"
+  ],
+  "title": "Transient nuclear softening for zygotic gene activation in mice.",
+  "url": "https://doi.org/10.1038/s41586-026-11240-w",
+  "venue": "Nature"
+}

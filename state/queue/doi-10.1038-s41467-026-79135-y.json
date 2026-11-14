@@ -1,0 +1,44 @@
+{
+  "abstract": "Abstract Parasympathetic nervous system activity, vital for restorative sleep, is influenced by vagal sensory afferents, but how these shape brain-body correlates of sleep remains open. Here we combined vagal sensory neuron (VSN) stimulation in the mouse with EEG/EMG, heart rate, brain-body temperature, noradrenergic locus coeruleus (LC) neuron population activity measures and in vitro synaptic physiology to investigate the effects of VSN activation on sleep-wake states. We show that chemogenetic VSN stimulation during the resting phase induced a non-rapid-eye-movement sleep (NREMS)-like state with enriched, but homeostatically regulated, low-frequency (0.75–4 Hz) EEG activity, yet suppressed REMS. Simultaneously, brain-body temperatures dropped while LC activity increased. The gradual recovery towards normal NREMS-REMS-cycles was accelerated by external warming, identifying cooling as key contributing factor. We conclude that VSN activation can promote brain-body correlates as a continuum of normal NREMS while engaging wake-promoting forebrain neuromodulation, revealing a coexistence of classically incompatible sleep- and wake-associated signatures.",
+  "arxiv_id": null,
+  "authors": [
+    "Najma Cherrad",
+    "Georgios Foustoukos",
+    "Laura MJ Fernandez",
+    "Alejandro Osorio-Forero",
+    "Julie Buron",
+    "Nadine Eliasson",
+    "Yann Emmenegger",
+    "Paola Milanese",
+    "João Pedro Ferreira Morais",
+    "Virginie Mansuy-Aubert",
+    "Paul Franken",
+    "Anita Lüthi"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-79135-y",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Stimulating vagal sensory neurons in mice induces a sleep-like state while a wake-linked region stays active",
+  "hook_turn": "while a wake-linked region stays active",
+  "id": "doi-10.1038-s41467-026-79135-y",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Chemogenetic activation of vagal sensory neurons in mice produced non-REM-like sleep with strong slow EEG waves, suppressed REM sleep, and dropped brain and body temperature while locus coeruleus activity rose. Warming sped recovery, pointing to cooling as a factor. All results are in mice with artificial stimulation.",
+  "tags": [
+    "sleep",
+    "vagus nerve"
+  ],
+  "title": "Vagal afferent activation induces a dissociated NREM sleep-like state with wake-related locus coeruleus activity",
+  "url": "https://doi.org/10.1038/s41467-026-79135-y",
+  "venue": "Nature Communications"
+}

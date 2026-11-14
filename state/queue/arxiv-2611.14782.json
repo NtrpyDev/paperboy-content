@@ -1,0 +1,40 @@
+{
+  "abstract": "Bayesian inference weighs competing explanations of noisy data by sampling from a posterior distribution, a task that deterministic hardware performs only by simulating randomness. Probabilistic bits (p-bits) supply this randomness physically, but the few hardware networks of p-bits built so far use inorganic devices, address optimization or learning, and are judged without reference to the spread expected from finite sampling. Here we report a probabilistic computer built from solution-processed conjugated-polymer memristors. Four polymer p-bits, tracked online for drift and coupled in a closed Gibbs-sampling loop, sample competing, degenerate and cooperative posteriors over sixteen states with statistics that fall within the range of ideal p-bits, both in their distribution and in their autocorrelation, without any parameter fitted to the target. This agreement extends to new simulated sensor readings whose outcome was predicted before each run, including readings that point away from the true answer. Reprogrammed in software, the same circuit and controller reproduces the invertible AND gate of earlier p-bit networks, with its temperature fixed in advance rather than fitted. Polymer p-bits thus open a route to printed, large-area probabilistic computers that infer alongside their sensors.",
+  "arxiv_id": "2611.14782",
+  "authors": [
+    "Travis Wanless",
+    "Yuriy Bandera",
+    "Lubomir Kostal",
+    "Stephen H. Foulger"
+  ],
+  "categories": [
+    "cs.ET",
+    "cond-mat.dis-nn",
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14782"
+  },
+  "hook": "Four polymer memristor p-bits sample Bayesian posteriors as well as ideal probabilistic bits.",
+  "id": "arxiv-2611.14782",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A small probabilistic computer made from printable conjugated-polymer memristors samples sixteen-state posteriors with statistics inside the range of ideal p-bits. Predictions made before each run held, and the same circuit reproduced an invertible AND gate. It uses only four p-bits and simulated sensor readings, so scaling is untested.",
+  "tags": [
+    "probabilistic computing",
+    "memristors"
+  ],
+  "title": "Bayesian inference with a polymer probabilistic computer",
+  "url": "https://arxiv.org/abs/2611.14782",
+  "venue": "arXiv"
+}

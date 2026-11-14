@@ -1,0 +1,72 @@
+{
+  "abstract": "Objective To determine whether discontinuing versus continuing angiotensin converting enzyme (ACE) inhibitors or angiotensin receptor blockers (ARBs) on the morning of surgery reduces perioperative hypotension in older patients undergoing non-cardiac surgery. Design Multicentre, randomised, double blind, placebo controlled trial. Setting Five tertiary teaching hospitals in China, November 2020 to December 2023. Participants 2036 older patients (60-80 years) using ACE inhibitors or ARBs for at least two weeks and scheduled for non-cardiac surgery under general anaesthesia. Interventions Patients were randomised to receive their usual ACE inhibitor or ARB or a placebo in identical capsules on the morning of surgery. Main outcome measures The primary outcome was the incidence of perioperative hypotension (mean blood pressure <65 mm Hg or a ≥30% decrease from baseline requiring treatment). Secondary outcomes included duration of hypotension, requirement for a vasopressor, intraoperative fluid volume, postoperative hypotension, and 30 day complications (neurocognitive disorders, major cardiocerebral events) or mortality. Results 2012 patients (mean age 68.8 years; 54.4% male) completed the study: 1004 were included in the antihypertensive group and 1008 in the no antihypertensive group. The incidence of perioperative hypotension was lower in the no antihypertensive group (314/1008, 31.2%) versus antihypertensive group (457/1004, 45.5%): adjusted odds ratio 0.52 (95% confidence interval (CI) 0.43 to 0.63); absolute risk difference -14.4% (95% CI -18.5% to -10.1%); P<0.001. The duration of hypotension and requirement for a vasopressor were both reduced in the no antihypertensive group: adjusted mean difference -1.3 minutes (95% CI -1.8 to -0.8 minutes) and 28.5% v 41.1%; adjusted odds ratio 0.54 (95% CI 0.44 to 0.66). Intraoperative fluid volume, postoperative hypotension, 30 day complications, and mortality did not differ significantly between groups. Conclusions Discontinuing ACE inhibitors or ARBs on the morning of surgery in older patients with hypertension statistically significantly reduced perioperative hypotension and the requirement for vasopressors without increasing 30 day complications or mortality. This simple strategy provides high certainty evidence for preoperative drug management in this patient population. Trial registration Chinese Clinical Trial Registry ChiCTR2000039376.",
+  "arxiv_id": null,
+  "authors": [
+    "Yufan Yang",
+    "Ke Peng",
+    "Jing Zhong",
+    "Jun Zhang",
+    "Xuesheng Liu",
+    "Jianjun Yang",
+    "Linlin Liu",
+    "Jiahui Gu",
+    "Pengfei Sun",
+    "Chen Chen",
+    "Yongqi Yu",
+    "Jingjing Yuan",
+    "Yajuan Zhu",
+    "Hong Liu",
+    "Daqing Ma",
+    "Changhong Miao",
+    "Fuhai Ji"
+  ],
+  "categories": [
+    "Humans",
+    "Hypotension",
+    "Intraoperative Complications",
+    "Postoperative Complications",
+    "Antihypertensive Agents",
+    "Angiotensin-Converting Enzyme Inhibitors",
+    "Surgical Procedures, Operative",
+    "Double-Blind Method",
+    "Aged",
+    "Aged, 80 and over",
+    "Middle Aged",
+    "China",
+    "Female",
+    "Male",
+    "Angiotensin Receptor Antagonists",
+    "Treatment Interruption",
+    "Geriatric Anesthesia"
+  ],
+  "doi": "10.1136/bmj-2026-101087",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Holding ACE inhibitors or ARBs on surgery day cut hypotension from 45.5% to 31.2%.",
+  "hook_turn": "cut hypotension from 45.5% to 31.2%.",
+  "id": "doi-10.1136-bmj-2026-101087",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Absolute risk difference in hypotension",
+    "unit": "%",
+    "value": "-14.4"
+  },
+  "significance": 8,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "In older patients having non-cardiac surgery, skipping the morning dose of blood pressure drugs lowered the rate of dangerous low blood pressure and the need for vasopressors. Researchers randomized 2036 patients to take their usual drug or a placebo capsule. Complications and deaths at 30 days did not differ, but the trial ran at five hospitals in China and only followed patients for 30 days.",
+  "tags": [
+    "perioperative care",
+    "hypertension"
+  ],
+  "title": "Effect of discontinuing antihypertensives on perioperative hypotension in older patients before non-cardiac surgery: multicentre, randomised, double blind, controlled trial.",
+  "url": "https://doi.org/10.1136/bmj-2026-101087",
+  "venue": "BMJ"
+}

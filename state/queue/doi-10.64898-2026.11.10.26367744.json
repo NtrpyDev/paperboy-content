@@ -1,0 +1,45 @@
+{
+  "abstract": "Background: Measles outbreaks are increasing in frequency globally as vaccine coverage decreases. During the 2025-26 Utah-Arizona border outbreak, identifying where and between whom transmission occurred was essential for directing control measures. However, epidemiological data alone are not sufficient to infer transmission patterns. Methods: As part of the local and state-wide outbreak investigation, we conducted amplicon-based whole genome sequencing on residual diagnostic samples from confirmed measles cases collected from June 15, 2025-April 30, 2026. We reconstructed viral dispersal across Utah using Bayesian phylogeographic analyses. We evaluated genetic distance thresholds for identifying recent transmission by comparing single nucleotide polymorphism (SNP)-based genetic clusters with known epidemiologic linkages. We then assessed pairwise exposures associated with genetically supported transmission linkage using logistic regression, accounting for network and spatial dependence between pairs. Findings: We generated 509 high-quality whole measles virus genomes from 913 patients. In 2025, most viral dispersal events (67.9%) originated in Southwest Utah and Mohave County, Arizona, where the first cases were reported. By 2026, most viral spread (60.5%) occurred outside of this area. A threshold of 0 SNPs identified epidemiologically linked pairs of individuals with a sensitivity of 77.4% and specificity of 92.3%. Household membership (odds ratio (OR): 219.10, 95% credible interval (CI): 112.66-325.53), participation in the same sport (OR: 15.19, 95% CI: 9.75-20.63), and attendance at the same school (OR: 51.5, 95% CI: 36.38-66.61) were independently associated with transmission linkage. Increasing distance between households was associated with reduced odds of linkage (OR: 0.46: 95% CI 0.44-0.48). Interpretation: Repeated introductions of measles virus from southwestern Utah seeded transmission elsewhere in Utah, with household, school, and sports exposures contributing to onward transmission. Validated genome-based linkage measures can complement contact tracing by helping public health teams identify likely transmission networks and prioritize investigation when resources are constrained.",
+  "arxiv_id": null,
+  "authors": [
+    "Marye, A.",
+    "Oakeson, K.",
+    "Lan, Y.",
+    "Warren, J. L.",
+    "Francis, D.",
+    "Hicks, L.",
+    "Walter, K."
+  ],
+  "categories": [
+    "infectious diseases"
+  ],
+  "doi": "10.64898/2026.11.10.26367744",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.medrxiv.org/content/early/2026/11/12/2026.11.10.26367744.source.xml"
+  },
+  "hook": "Measles genomes show Utah's outbreak spread from the southwest, through homes, schools and sports.",
+  "id": "doi-10.64898-2026.11.10.26367744",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "High-quality measles virus genomes",
+    "unit": "genomes",
+    "value": "509"
+  },
+  "significance": 6,
+  "source": "medrxiv",
+  "status": "preprint",
+  "summary": "Sequencing 509 viral genomes from 913 patients let the team map spread across Utah and test which contacts linked cases genetically. Early spread came mostly from the southwest, later spread mostly elsewhere, and household and school ties raised linkage odds sharply. Limit: only about half of patients were sequenced, and genetic linkage is not proof of who infected whom.",
+  "tags": [
+    "measles",
+    "genomic epidemiology"
+  ],
+  "title": "Phylogeography and transmission dynamics of the 2025-2026 Utah-Arizona measles outbreak: a retrospective genomic epidemiology study",
+  "url": "https://doi.org/10.64898/2026.11.10.26367744",
+  "venue": "medRxiv"
+}

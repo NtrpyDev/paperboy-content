@@ -1,0 +1,47 @@
+{
+  "abstract": "Severe neutropenia predisposes patients to life-threatening infections, while donor-dependent granulocyte transfusions are limited by availability and variable cell quality. Here, we engineered human induced pluripotent stem cells (iPSCs) to constitutively or inducibly express angiotensin-converting enzyme (ACE) and differentiated them into functional ACE-engineered neutrophils (ACE-iNeu). ACE expression enhanced granulocytic maturation, reactive oxygen species generation, inflammatory cytokine production, and antimicrobial signaling. ACE-iNeu exhibited enhanced bactericidal activity against methicillin-resistant Staphylococcus aureus and multidrug-resistant Pseudomonas aeruginosa. Following adoptive transfer into neutropenic mice, ACE-iNeu significantly reduced circulating and tissue bacterial burdens. Integrated metabolomic and transcriptomic analyses revealed ACE-associated alterations in adenine nucleotide abundance and developmental and inflammatory pathways. Together, these findings establish ACE engineering as a strategy to enhance the production and antimicrobial function of human iPSC-derived neutrophils and support further preclinical development of engineered granulocyte therapies for severe drug-resistant infections.",
+  "arxiv_id": null,
+  "authors": [
+    "Shibata, T.",
+    "Bhat, S. A.",
+    "Saito, S.",
+    "Dar, T. B.",
+    "GC, B.",
+    "Bernstein, E. A.",
+    "Khan, N.",
+    "Sareen, D.",
+    "Goodridge, H. S.",
+    "Tourtellotte, W. G.",
+    "Bernstein, K. E.",
+    "Khan, Z."
+  ],
+  "categories": [
+    "immunology"
+  ],
+  "doi": "10.64898/2026.11.09.765250",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/11/2026.11.09.765250.source.xml"
+  },
+  "hook": "Engineered stem-cell neutrophils kill drug-resistant bacteria better and cut bacterial load in mice.",
+  "hook_turn": "and cut bacterial load in mice.",
+  "id": "doi-10.64898-2026.11.09.765250",
+  "license": "other",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Human stem cells were engineered to express angiotensin-converting enzyme and turned into neutrophils that killed MRSA and multidrug-resistant Pseudomonas more effectively. Given to neutropenic mice, they lowered bacterial burdens in blood and tissue. This is early preclinical work in mice, and safety and scale-up are not addressed.",
+  "tags": [
+    "neutrophils",
+    "stem cells",
+    "antibiotic resistance"
+  ],
+  "title": "ACE-engineered human iPSC-derived neutrophils enhance host defense against multidrug-resistant bacterial infections",
+  "url": "https://doi.org/10.64898/2026.11.09.765250",
+  "venue": "bioRxiv"
+}

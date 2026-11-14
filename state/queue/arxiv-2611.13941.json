@@ -1,0 +1,51 @@
+{
+  "abstract": "Estimating precipitation at the global scale is vital for Earth system science and disaster response, yet observational coverage and measurement precision remain constrained. Existing solutions provide options that trade off desirable traits such as skill, latency, geographical coverage, temporal coverage, and spatial and temporal resolution. We present PARDIG, an artificial intelligence framework based on a spherical graph-mesh transformer architecture that produces near-real-time global precipitation estimates. PARDIG is trained on dense multi-modal inputs, including atmospheric state analyses and multi-spectral geostationary satellite imagery, to predict sparse, high-precision precipitation measurements from spaceborne radar. At inference, the trained model is applied densely across the globe at $0.1^\\circ$ spatial and 15-minute temporal resolution, producing complete near-real-time precipitation fields from 2016 to the present, alongside a historical variant extending the record back to 1999. Evaluation against three independent radar networks (over the US, Europe, and Japan) and against over 36,000 surface stations worldwide shows that PARDIG consistently outperforms IMERG V07 (Final and Early), MSWEP V3, ERA5, and HRES across precipitation thresholds and regions, with the largest improvements at extreme intensities. Case studies of extreme precipitation events demonstrate that PARDIG successfully captures their spatial structure and timing. The improvements also extend to forecasting: WeatherNext 3, a global weather model, produces more skillful precipitation forecasts when trained to predict PARDIG. Both the historical and near-real-time PARDIG datasets are openly available under a CC BY 4.0 license.",
+  "arxiv_id": "2611.13941",
+  "authors": [
+    "Guy Shalev",
+    "Stephan Rasp",
+    "Boris Babenko",
+    "Andrew El-Kadi",
+    "Mohammed Alewi Hassen",
+    "Samier Merchant",
+    "Fred Zyda",
+    "Dominic Masters",
+    "Ferran Alet",
+    "Salva R\\\"uhling Cachay",
+    "Ilan Price",
+    "Akib Uddin",
+    "Nofar Peled Levi",
+    "Ben Gaiarin",
+    "Aaron Bell",
+    "Peter Battaglia",
+    "Alvaro Sanchez-Gonzalez"
+  ],
+  "categories": [
+    "cs.LG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13941"
+  },
+  "hook": "An AI model estimates global rainfall every 15 minutes and beats IMERG, ERA5 and other products.",
+  "hook_turn": "beats IMERG, ERA5 and other products.",
+  "id": "arxiv-2611.13941",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "PARDIG, a graph transformer trained on atmospheric analyses and geostationary imagery to predict spaceborne radar rainfall, gives near-real-time estimates at 0.1 degrees. It beat several standard products against three radar networks and over 36,000 stations, most at extreme intensities. Its training target is radar from space, so gaps in that sparse record can carry through.",
+  "tags": [
+    "precipitation",
+    "weather AI"
+  ],
+  "title": "PARDIG: Global Precipitation Estimates Learned from Sparse Satellite Observations",
+  "url": "https://arxiv.org/abs/2611.13941",
+  "venue": "arXiv"
+}

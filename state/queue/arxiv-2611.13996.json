@@ -1,0 +1,37 @@
+{
+  "abstract": "We give a comprehensive study of Frege's modified election method as a proportional allocation rule and as a dynamical system. The method was introduced by Harrenstein, Lackner and Lackner (2022) as a modification of Frege's original proposal (1918), and it coincides with the greedy algorithm for the chairman assignment problem studied by Coppersmith et al. (2011). We consider several aspects of this method. First, we prove that the harmonic bound on the discrepancy earlier shown to be sharp for time-dependent vote proportions remains sharp for fixed vote proportions; we further quantify the restrictions on votes needed for the discrepancy to come close to this bound. Secondly, the method defines a dynamical system with a piecewise translation which, for almost every vote vector, has a unique compact attractor made up of finitely many polytopes, and every orbit is equidistributed on it, whatever choices are made at ties. Thirdly, for three parties, the dynamics is two-dimensional. We construct the invariant polygons explicitly and give a complete description of the geometry governing their bifurcations as the votes vary in the two-dimensional parameter space; this space is partitioned into a countably infinite number of ``Farey cells'' indexed by reduced fractions in $(0,\\frac12]$, and each of them is further partitioned into a finite number of stability domains, separated by stability walls. In an open Farey cell indexed by a reduced fraction $u/v$, the invariant polygon has $4v+3$ vertices inside each stability domain and $4v+2$ on an internal stability wall. We construct the Farey cells explicitly and determine all stability walls and their endpoints; we also show that stability walls in different Farey cells combine to form a pattern of triangles.",
+  "arxiv_id": "2611.13996",
+  "authors": [
+    "Jean-Pierre Conze",
+    "Svante Janson",
+    "Anders \\\"Oberg"
+  ],
+  "categories": [
+    "math.DS"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13996"
+  },
+  "hook": "Frege's election method has a finite attractor whose polygons follow Farey fractions.",
+  "hook_turn": "has a finite attractor whose polygons follow Farey fractions.",
+  "id": "arxiv-2611.13996",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper analyzes a seat-allocation rule as a dynamical system. It proves the harmonic discrepancy bound stays sharp for fixed vote shares, and for three parties maps the invariant polygons, which have 4v+3 vertices in a cell indexed by u/v. The results cover idealized repeated allocation rather than real elections.",
+  "tags": [
+    "dynamical systems",
+    "proportional representation"
+  ],
+  "title": "Frege's election method: discrepancy, invariant polygons and Farey geometry",
+  "url": "https://arxiv.org/abs/2611.13996",
+  "venue": "arXiv"
+}

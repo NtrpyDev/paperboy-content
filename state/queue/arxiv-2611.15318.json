@@ -1,0 +1,40 @@
+{
+  "abstract": "We study the formation and stability of weak null singularities for solutions to the massive and massless Einstein--Vlasov systems without symmetry assumptions. Extending previous results of Luk in the vacuum setting, we establish the existence of spacetimes arising from characteristic initial data that develop a singular null boundary while remaining extendible with a continuous metric. For both massive and massless particles, the energy-momentum tensor and Ricci curvature remain bounded and extend continuously to the singular boundary. For genuinely singular initial data, the Christoffel symbols in the original double-null coordinates fail to be locally square integrable near the boundary. We introduce new commutator vector fields that avoid both derivative loss and the most singular curvature component. Under additional curvature assumptions, we also prove Lipschitz inextendibility across the singular null boundary.",
+  "arxiv_id": "2611.15318",
+  "authors": [
+    "Dawei Shen",
+    "Yuefeng Song",
+    "Jingbo Wan"
+  ],
+  "categories": [
+    "gr-qc",
+    "math-ph",
+    "math.AP",
+    "math.MP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15318"
+  },
+  "hook": "Einstein-Vlasov spacetimes can form weak null singularities where the metric stays continuous and extendible.",
+  "hook_turn": "where the metric stays continuous and extendible.",
+  "id": "arxiv-2611.15318",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove that matter made of massive or massless particles (Einstein-Vlasov) can develop a singular null boundary without any symmetry assumption, extending Luk's vacuum result. Matter and Ricci curvature stay bounded, yet the metric remains continuously extendible while Christoffel symbols fail to be square integrable. They use new commutator vector fields, and inextendibility is shown only under extra curvature assumptions.",
+  "tags": [
+    "general relativity",
+    "singularities"
+  ],
+  "title": "Weak null singularities for the Einstein--Vlasov system",
+  "url": "https://arxiv.org/abs/2611.15318",
+  "venue": "arXiv"
+}

@@ -1,0 +1,38 @@
+{
+  "abstract": "Abstract The self-labeling protein HaloTag is used to install a wide variety of functional small molecules in cells and living organisms with exquisite specificity with respect to cell type and subcellular localization. HaloTag is a core part of many biotechnology-based tools for sensing, tracking, and manipulating biological systems with a high degree of spatial and temporal control. Due to the limitations of fluorescent proteins and other self-labeling proteins, most of these tools have historically been restricted to a single channel. In this work, we used structure-guided rational design and directed evolution to produce an orthogonal HaloTag protein called OrthoTag which reacts selectively with a modified chloroalkane substrate. OrthoTag retains many of HaloTag’s superior properties, and reaction rate measurements with purified proteins show OrthoTag and its substrate have 109-fold mutual orthogonality to HaloTag with respect to substrate concentration. We demonstrate the application of OrthoTag for multiplexed labeling experiments in mammalian cells with minimal optimization. Going forward, OrthoTag should be straightforward to incorporate into HaloTag-based systems to allow simultaneous measurement or manipulation of two biological targets or processes. The availability of multiple high-performance self-labeling proteins will enable the continued development of new multiplexed biotechnology methods.",
+  "arxiv_id": null,
+  "authors": [
+    "Benjamin J. Goldberg",
+    "Bryan J. Lampkin",
+    "Alexander T. Stead",
+    "Siena L. Stanten",
+    "Patrick Rabe",
+    "Joshua A. Kritzer"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c20679",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "An engineered HaloTag reacts only with its own substrate, allowing two targets to be labeled in cells.",
+  "hook_turn": "allowing two targets to be labeled in cells.",
+  "id": "doi-10.1021-jacs.6c20679",
+  "license": "other",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Using structure-guided design and directed evolution, the team made OrthoTag, a HaloTag variant that reacts with a modified chloroalkane substrate and not with HaloTag's. Reaction rates with purified proteins show strong mutual orthogonality, and the pair labeled two targets in mammalian cells. Performance in whole animals and in many cell types was not shown.",
+  "tags": [
+    "protein engineering",
+    "cell labeling"
+  ],
+  "title": "Design and Evolution of an Orthogonal HaloTag for Multiplexed Labeling in Cells",
+  "url": "https://doi.org/10.1021/jacs.6c20679",
+  "venue": "Journal of the American Chemical Society"
+}

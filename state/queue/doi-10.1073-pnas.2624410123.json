@@ -1,0 +1,60 @@
+{
+  "abstract": "In diffuse large B cell lymphoma (DLBCL), a malignancy derived from germinal center (GC) B cells, somatic hypermutation aberrantly targets glucocorticoid receptor (GR) binding sequences in the super-enhancer (SE) of multiple oncogenes. These events abrogate GR binding and deregulate the expression of the SE-linked gene, suggesting an important role of GR in normal and transformed GC B cells. Using a GC-specific Nr3c1 knockout mouse model and multi-omics analyses in murine and human GC B cells, here we show that, under physiological conditions, GR constitutively localizes to the nucleus, where it transcriptionally modulates signaling pathways implicated in GC homeostasis and plasmablast differentiation in part by antagonizing the repressive function of BCL6 on the plasma cell master regulators IRF4 and PRDM1. While loss of baseline GR activity led to mild GC hyperplasia and impaired plasmacytic differentiation, pharmacologic doses of glucocorticoids, a key component of DLBCL chemo-immunotherapy, were preferentially toxic to GC in a GC B cell-autonomous manner. These findings uncover a physiological role for GR in the GC reaction as well as in promoting plasmablast/plasma cell formation and provide insights into the specific activity of glucocorticoids in the treatment of DLBCL.",
+  "arxiv_id": null,
+  "authors": [
+    "Clarissa Corinaldesi",
+    "Antony B Holmes",
+    "Chuanjiang Yu",
+    "Zeinab Amini-Farsani",
+    "Qiong Shen",
+    "Tongwei Mo",
+    "Eli Grunstein",
+    "Govind Bhagat",
+    "Katia Basso",
+    "Riccardo Dalla-Favera",
+    "Laura Pasqualucci"
+  ],
+  "categories": [
+    "Germinal Center",
+    "B-Lymphocytes",
+    "Plasma Cells",
+    "Animals",
+    "Mice, Knockout",
+    "Humans",
+    "Mice",
+    "Receptors, Glucocorticoid",
+    "Glucocorticoids",
+    "Signal Transduction",
+    "Cell Differentiation",
+    "Interferon Regulatory Factors",
+    "Proto-Oncogene Proteins c-bcl-6",
+    "Lymphoma, Large B-Cell, Diffuse",
+    "Positive Regulatory Domain I-Binding Factor 1",
+    "Interferon Regulatory Factor-4"
+  ],
+  "doi": "10.1073/pnas.2624410123",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "In mice, the glucocorticoid receptor helps B cells become antibody-making plasma cells.",
+  "id": "doi-10.1073-pnas.2624410123",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Deleting the receptor gene only in germinal center B cells caused mild overgrowth of these centers and weaker plasma cell formation. The receptor works partly by opposing BCL6 repression of IRF4 and PRDM1. High-dose glucocorticoids were toxic to these B cells directly. Most evidence is from mouse models, with human cells used in supporting analyses.",
+  "tags": [
+    "B cells",
+    "lymphoma",
+    "glucocorticoids"
+  ],
+  "title": "Physiologic and pharmacologic role of the glucocorticoid receptor in germinal center B cells and plasmacytic differentiation.",
+  "url": "https://doi.org/10.1073/pnas.2624410123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

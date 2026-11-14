@@ -1,0 +1,37 @@
+{
+  "abstract": "Abstract Recent eruptions in the Canary Islands highlight an increase in volcanic activity and provide an exceptional data set to investigate subsurface processes. We present the first 3D seismic attenuation model for the 2011–2012 eruption on El Hierro, using the coda normalization method and a large seismic data set. Our results complement previous 3D velocity models, improving constraints on crustal structure, magma pathways, and intermediate storage zones. The combined interpretation supports a model in which magma ascends from a deep source through structural weaknesses, producing seismic migration patterns linked to eruptive activity. Attenuation anomalies help resolve ambiguities inherent in velocity‐only models, providing a more robust picture of subsurface conditions. These findings offer new insights into magma transport processes and may be extended to interpret recent activity on La Palma and ongoing unrest on Tenerife.",
+  "arxiv_id": null,
+  "authors": [
+    "J. Prudencio",
+    "E. A. Díaz‐Suárez",
+    "J. M. Ibáñez",
+    "L. D’Auria",
+    "A. Cid‐Carretero"
+  ],
+  "categories": [],
+  "doi": "10.1029/2026gl123237",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A first 3D map of seismic waves fading under El Hierro shows magma rose through weak zones.",
+  "hook_turn": "magma rose through weak zones.",
+  "id": "doi-10.1029-2026gl123237",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Researchers built the first 3D model of how seismic waves fade beneath El Hierro, using the coda normalization method on a large earthquake data set. Combined with earlier velocity models, it points to magma rising from depth through structural weak zones. The picture is an inference from one eruption, and extending it to La Palma or Tenerife is untested.",
+  "tags": [
+    "volcanology",
+    "seismic tomography"
+  ],
+  "title": "Seismic Attenuation Tomography of El Hierro: Insights Into Magmatic Processes in the Canary Islands",
+  "url": "https://doi.org/10.1029/2026gl123237",
+  "venue": "Geophysical Research Letters"
+}

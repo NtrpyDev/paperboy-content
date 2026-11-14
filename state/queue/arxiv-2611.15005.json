@@ -1,0 +1,48 @@
+{
+  "abstract": "Compact, high-performance ultra-stable lasers that can operate outside the laboratory remain a long-standing goal. Here we report, to our knowledge, the most compact field-deployable ultra-stable laser, packaged in a standard 2U rack chassis. It is stabilized to a 50 mm-long, 19 mL optical reference cavity with low vibration sensitivity by optoelectronic oscillator (OEO) locking, an approach particularly suited to compact, transportable systems. The laser delivers an integrated linewidth of about 0.42 Hz and a fractional frequency stability of about 5E-15 at 1 s averaging time (about 2.2E-15 at 0.4 s). Measured phase noise approaches the cavity thermal-noise limit below 100 Hz and the theoretical OEO-locking limit from 100 Hz to 100 kHz. The system volume is roughly one quarter of the volume of previously reported integrated, transportable ultra-stable lasers of comparable performance, making it well suited for field applications in time-frequency metrology, quantum technologies, and environmental sensing.",
+  "arxiv_id": "2611.15005",
+  "authors": [
+    "Dongdong Jiao",
+    "Linbo Zhang",
+    "Xue Deng",
+    "Jing Gao",
+    "Yue Gao",
+    "Mengfan Wu",
+    "Qi Zang",
+    "Guanjun Xu",
+    "Tao Liu"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15005"
+  },
+  "hook": "A 2U rack-mounted laser reaches 0.42 Hz linewidth in a quarter of the volume of rivals.",
+  "hook_turn": "a quarter of the volume of rivals.",
+  "id": "arxiv-2611.15005",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Integrated linewidth of the laser",
+    "unit": "Hz",
+    "value": "0.42"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Researchers packaged an ultra-stable laser in a standard 2U rack chassis, locking it to a 50 mm, 19 mL optical cavity with an optoelectronic oscillator. Fractional frequency stability is about 5E-15 at 1 s, with phase noise near the cavity thermal limit below 100 Hz. The volume is about a quarter of comparable transportable lasers. The reported results are performance figures; the abstract does not describe tests under varied field conditions.",
+  "tags": [
+    "ultra-stable lasers",
+    "metrology"
+  ],
+  "title": "A Field-Deployable 2U Ultra-Stable Laser with Sub-Hertz Linewidth Based on Optoelectronic Oscillator Locking",
+  "url": "https://arxiv.org/abs/2611.15005",
+  "venue": "arXiv"
+}

@@ -1,0 +1,45 @@
+{
+  "abstract": "Dysregulated MYC provokes profound changes in cancer gene expression. Although usually considered an E-box-dependent transcription activator, an alternate model is that MYC is a universal amplifier of transcription. Although MYC participates in pause release, its full role in the transcription cycle remains poorly illuminated. MYC also stimulates topoisomerases to resolve DNA topological issues complicating its transactions; how this stimulation is coordinated with its transcriptional role has not been examined. We have developed a system that discriminates between MYC-driven activation versus amplification in any cell. This system enables the interrogation of genes, cofactors, and compounds that execute or modulate MYC activity. Using a combination of biochemical and cellular assays, we reveal dynamic interplay between MYC-driven transcription amplification and DNA supercoiling. Because the early stages of transcription are sensitive to DNA supercoiling, Reducing TOP1 activity 1 either through genetic knockdown or low-dose inhibition, potentiates transcription amplification by MYC. By increasing promoter melting and RNA polymerase loading, negative supercoiling provides the early transcription complexes upon which MYC acts to increase output.",
+  "arxiv_id": null,
+  "authors": [
+    "Rajiv Kumar Jha",
+    "Fedor Kouzine",
+    "Bo Wang",
+    "James D Phelan",
+    "Subhendu K Das",
+    "Brian A Lewis",
+    "David Levens"
+  ],
+  "categories": [
+    "Humans",
+    "DNA Topoisomerases, Type I",
+    "Proto-Oncogene Proteins c-myc",
+    "DNA, Superhelical",
+    "Transcription, Genetic",
+    "Promoter Regions, Genetic"
+  ],
+  "doi": "10.1073/pnas.2602097123",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Lowering TOP1 activity boosts MYC's amplification of transcription by keeping DNA negatively supercoiled.",
+  "id": "doi-10.1073-pnas.2602097123",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "The team built a system that separates MYC's gene-specific activation from its general amplification of transcription. Cutting TOP1 activity by knockdown or low-dose inhibitor increased amplification, because negative supercoiling aids promoter melting and RNA polymerase loading. The evidence comes from biochemical and cell-culture assays, so relevance in tumors is untested.",
+  "tags": [
+    "MYC",
+    "transcription"
+  ],
+  "title": "Dynamic supercoiling sponsors transcription amplification by MYC.",
+  "url": "https://doi.org/10.1073/pnas.2602097123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

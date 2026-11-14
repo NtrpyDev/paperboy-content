@@ -1,0 +1,41 @@
+{
+  "abstract": "Chemotaxis, the ability of cells to detect and respond to chemical gradients, allows them to acquire nutrients, seek hosts, or escape toxins. However, directly measuring bacterial foraging in spatially structured nutrient environments has proven elusive. We developed a new approach to investigate bacterial foraging, on timescales from milliseconds to hours, when exposed to nutrient fluctuations and microscale patchiness mimicking realistic ocean conditions. We generated dynamic, patchy, nutrient landscapes in a large microfluidic arena and simultaneously tracked individual cells of the marine bacterium Vibrio anguillarum . Analyzing single-cell nutrient exposure for tens of thousands of cells revealed that the nutrient exposure and distribution of exposure among bacteria depend strongly on the spatiotemporal characteristics of the patchy landscape. Furthermore, bacterial trajectories revealed a progressive decrease of swimming speed counter-balanced by an increase in chemotactic precision, resulting in stable nutrient exposure over time. This work furthers our understanding of bacterial foraging strategies under ecologically relevant conditions.",
+  "arxiv_id": null,
+  "authors": [
+    "Francesco Carrara",
+    "Douglas R. Brumley",
+    "Andrew M. Hein",
+    "Timothy Cooper",
+    "M. Mehdi Salek",
+    "Johannes Keegstra",
+    "Simon A. Levin",
+    "Roman Stocker"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aea5399",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Marine bacteria swim slower but steer more precisely, keeping food intake steady in patchy water.",
+  "hook_turn": "keeping food intake steady in patchy water.",
+  "id": "doi-10.1126-sciadv.aea5399",
+  "license": "other",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Researchers built shifting nutrient patches in a large microfluidic arena and tracked tens of thousands of Vibrio anguillarum cells. Over time cells slowed down while chemotaxis grew sharper, so nutrient exposure stayed stable. This is one species in a lab arena meant to mimic the ocean.",
+  "tags": [
+    "bacteria",
+    "chemotaxis",
+    "microfluidics"
+  ],
+  "title": "Microscale patchiness controls resource acquisition in populations of foraging bacteria",
+  "url": "https://doi.org/10.1126/sciadv.aea5399",
+  "venue": "Science Advances"
+}

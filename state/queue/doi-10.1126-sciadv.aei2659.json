@@ -1,0 +1,48 @@
+{
+  "abstract": "Macrophages drive atherosclerosis through inflammatory activation programs shaped by metabolic and epigenetic reprogramming. H3K9 methylation enforces heterochromatin states and represses transcription, whereas removal of this histone modification creates transcriptionally permissive chromatin. Here, we identified KDM3A-mediated H3K9 demethylation to enhance chromatin accessibility at interferon (IFN) signaling loci, thereby promoting IFN production and downstream IFN-dependent transcriptional and chemokine responses. In a mouse model of atherosclerosis, hematopoietic Kdm3a deficiency reduces lesion size, necrotic core formation, and neutrophil recruitment. Mechanistically, Kdm3a -deficient macrophages show impaired chemokine secretion and reduced neutrophil recruitment both in vitro and in vivo. In primary human macrophages, KDM3A knockdown suppressed IFN responses; consistently KDM3A-dependent gene signatures were enriched in IFN-inducible macrophages within human atherosclerotic plaques, and computational modeling predicted a shift toward more stable plaque phenotypes upon KDM3A inhibition. Together, these findings establish KDM3A as an epigenetic regulator that sustains IFN-driven macrophage activation and promotes progression of atherosclerosis, nominating KDM3A as a potential target for selectively modulating IFN-dependent inflammation.",
+  "arxiv_id": null,
+  "authors": [
+    "Ricky Siebeler",
+    "Hung-Jen Chen",
+    "Tatyana Kuznetsova",
+    "Annette E. Neele",
+    "Saskia van der Velden",
+    "Marion J. J. Gijbels",
+    "Guillermo R. Griffith",
+    "Cindy P. A. A. van Roomen",
+    "Koen H. M. Prange",
+    "Marieke C. S. Boshuizen",
+    "Tom T. P. Seijkens",
+    "Kaylin C. A. Palm",
+    "Michal Mokry",
+    "Esther Lutgens",
+    "Marten A. Hoeksema",
+    "Menno P. J. de Winther"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aei2659",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Removing KDM3A in blood cells shrinks atherosclerotic plaques in mice.",
+  "id": "doi-10.1126-sciadv.aei2659",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "KDM3A strips H3K9 methyl marks, opening chromatin at interferon genes and boosting inflammatory signaling in macrophages. Mice lacking it in blood cells had smaller lesions, less necrotic core and fewer recruited neutrophils. Human cell knockdown and plaque data agree, but benefit from drugs blocking KDM3A is only predicted by modeling.",
+  "tags": [
+    "atherosclerosis",
+    "epigenetics",
+    "macrophages"
+  ],
+  "title": "H3K9 demethylase KDM3A potentiates interferon signaling and macrophage-driven inflammation in atherosclerosis",
+  "url": "https://doi.org/10.1126/sciadv.aei2659",
+  "venue": "Science Advances"
+}

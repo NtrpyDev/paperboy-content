@@ -1,0 +1,55 @@
+{
+  "abstract": "Ductal carcinoma in situ (DCIS) is the most common preinvasive breast cancer, however our knowledge of the DCIS tumor microenvironment (TME) remains limited. We constructed a comprehensive atlas of the TME in estrogen-receptor positive DCIS using fresh samples collected from normal breast tissues, DCIS and invasive breast cancers. We analyzed 854,911 cells from 159 patients by single cell RNA sequencing and 39 samples by spatial transcriptomics, which identified 9 cell types and 60 cell states. Our data shows remodeling of fibroblasts, vascular and basal cells that encircle the DCIS regions and immunosuppressive ducts that support the growth of the preinvasive cancer cells. This study delineates early alterations in the DCIS TME, including many changes that persist during invasive progression.",
+  "arxiv_id": null,
+  "authors": [
+    "Siyuan He",
+    "Aatish Thennavan",
+    "Runmin Wei",
+    "Shanshan Bai",
+    "Jianzhuo Li",
+    "Chante Bethell",
+    "Emi Sei",
+    "Mitchell Rao",
+    "Tapsi Kumar",
+    "Chenling Tang",
+    "Ivan Marin",
+    "Jessica Montalvan",
+    "Chandandeep Nagi",
+    "Bora Lim",
+    "Savitri Krishnamurthy",
+    "Alastair Thompson",
+    "Nicholas Navin"
+  ],
+  "categories": [],
+  "doi": "10.1126/science.aef4622",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Cells around early breast tumors are remodeled to support them, and the changes persist in invasion.",
+  "hook_turn": "and the changes persist in invasion.",
+  "id": "doi-10.1126-science.aef4622",
+  "license": null,
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Cells profiled by single-cell RNA sequencing",
+    "unit": "cells",
+    "value": "854,911"
+  },
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "A cell atlas of estrogen-receptor positive DCIS shows fibroblasts, vascular cells and basal cells remodeled around the lesions, plus immunosuppressive ducts that support preinvasive cells. It was built from single-cell RNA sequencing of 854,911 cells from 159 patients and spatial transcriptomics on 39 samples. It describes association and cell states, not which changes cause progression to invasive cancer.",
+  "tags": [
+    "breast cancer",
+    "single-cell atlas",
+    "tumor microenvironment"
+  ],
+  "title": "A cellular atlas of the preinvasive breast cancer microenvironment.",
+  "url": "https://doi.org/10.1126/science.aef4622",
+  "venue": "Science"
+}

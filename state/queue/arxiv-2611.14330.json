@@ -1,0 +1,42 @@
+{
+  "abstract": "I search the single-epoch detections of the NOIRLab Source Catalog DR2 (DECam, 2012-2019) for outer Solar System objects. Single-night detections are linked with a bound orbit model, vetted against artefacts, static sources and known objects, and confirmed by forced measurements on at least two new archival nights. The linker recovers 96% of known objects present on four nights in one sky tile, but end-to-end recall is about 7%, limited by cadence, tiling and catalogue incompleteness; no selection function is provided. Of 81 catalogue objects, four are designated; of the other 77, 53 are in evidence class A (multi-opposition, at least nine nights), 12 in class B and 12 in class C (not counted). On exposures never used in a fit, forced photometry detects 41 testable objects at 99% of predicted positions, as for known TNOs, against 6% at control positions; 22 pass a post hoc rule, 19 are inconclusive, none fails. Shifted controls were never confirmed by the archival image search (0 of 11,467) but were in 2.2% of trials by the catalogue precovery behind most scripted confirmations, so its nights alone are not sufficient. For the 65 class A and B candidates, 10-Myr integrations give four candidate L4 Neptune Trojans with 13-19 yr arcs, 21 resonant, 13 detached, nine scattering, two Centaurs and 16 classical objects; a detached class-B candidate has q=48.8 au. No object beyond 80 au was confirmed, which barely constrains Planet Nine. Positions are withheld until designation or 2027 June 30; their digests are published.",
+  "arxiv_id": "2611.14330",
+  "authors": [
+    "Gioele Cerati"
+  ],
+  "categories": [
+    "astro-ph.EP",
+    "astro-ph.IM"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14330"
+  },
+  "hook": "A search of archived DECam data finds 65 outer Solar System candidates, including four Neptune Trojans.",
+  "hook_turn": "including four Neptune Trojans.",
+  "id": "arxiv-2611.14330",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Class A and B outer Solar System candidates",
+    "unit": "candidates",
+    "value": "65"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Linking single-night detections in the NOIRLab catalog and confirming them on other archival nights yielded 65 class A or B candidates. Orbit integrations suggest four are L4 Neptune Trojans, and none beyond 80 au was confirmed, which barely constrains Planet Nine. Overall recall is only about 7% and no selection function is given, so the sample cannot yet support population statistics.",
+  "tags": [
+    "Kuiper belt",
+    "Neptune Trojans",
+    "archival search"
+  ],
+  "title": "An Archival Search for Outer Solar System Objects in the NOIRLab Source Catalog DR2: 65 Candidates, Including Four L4 Neptune Trojans",
+  "url": "https://arxiv.org/abs/2611.14330",
+  "venue": "arXiv"
+}

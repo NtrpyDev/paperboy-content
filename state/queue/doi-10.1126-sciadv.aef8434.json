@@ -1,0 +1,35 @@
+{
+  "abstract": "Particulate contaminants decrease the power output of solar panels and the transparency of windows and are detrimental to microelectronics, where even a single particle can induce a short circuit. Despite substantial research on particle adhesion and self-cleaning, it remains unclear when and how a drop can remove a particle from a surface, thus efficiently cleaning the surface. Here, by combining lattice Boltzmann simulations and confocal microscopy experiments, we show that at least six different scenarios arise from the complex interplay between capillary and friction forces when a drop collides with a particle on a surface. Notably, the capillary force plays a dual role in particle removal: While its tangential component always drives removal, its normal component can also hinder it. We introduce a dimensionless capillary capture parameter that successfully predicts particle removal across a wide range of particle and surface properties. Our results reveal that the design of easy-to-clean surfaces should focus not only on maximizing hydrophobicity but also on minimizing the particle-surface friction.",
+  "arxiv_id": null,
+  "authors": [
+    "Abhinav Naga",
+    "Franziska Sabath",
+    "Doris Vollmer",
+    "Halim Kusumaatmaja"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aef8434",
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Drops clear particles in at least six ways; low particle-surface friction matters, not just water repellency.",
+  "id": "doi-10.1126-sciadv.aef8434",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Lattice Boltzmann simulations and confocal microscopy show that a colliding drop removes a particle through at least six scenarios set by capillary and friction forces. A dimensionless capture parameter predicts removal over many particle and surface types. The tangential capillary force drives removal while the normal component can hinder it. Tests are on model particles and surfaces.",
+  "tags": [
+    "wetting",
+    "self-cleaning surfaces"
+  ],
+  "title": "When and how particles are removed by drops",
+  "url": "https://doi.org/10.1126/sciadv.aef8434",
+  "venue": "Science Advances"
+}

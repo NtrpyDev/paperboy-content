@@ -1,0 +1,42 @@
+{
+  "abstract": "Abstract Many O2-activating mononuclear nonheme iron enzymes require substrate or cofactor/cosubstrate coordination to iron to form the key peroxy-bridged intermediate necessary for catalysis with no net change in the iron redox state. The role of (co)substrate coordination, however, remained unclear. Here, we leverage a pterin-dependent enzyme, tryptophan hydroxylase, for which cosubstrate (pterin) coordination can be experimentally controlled by the absence and presence of substrate, to explicitly determine the role of pterin coordination in O2 binding and peroxo formation. EPR, absorption, circular dichroism, and magnetic circular dichroism spectroscopies on the {FeNO}7 analog of the unobservable {FeO2}8 intermediate without and with pterin coordination demonstrate that pterin coordination induces new absorption bands and enhances NO affinity by 3.6 kcal mol–1 at 277 K. These new bands are pterin-to-iron ligand-to-metal charge-transfer transitions that compensate the electron donation from iron to NO upon NO binding. Extension of our findings on {FeNO}7 to {FeO2}8 evidences that pterin coordination stabilizes O2 binding and facilitates the two-electron transfer from pterin to {FeO2}8 to reduce the transition-state barrier for peroxo formation by 12.7 kcal mol–1, corresponding to a 1010 increase in reaction rate. The electron transfer pathways established herein underscore a unified mechanism for the pterin-dependent, α-ketoglutarate-dependent, extradiol, and intradiol dioxygenase families of mononuclear nonheme iron enzymes through which (co)substrate coordination enhances O2 binding via one-electron transfer within {FeO2}8 and two-electron donation from the (co)substrate (one to bound O2 and one to iron) to generate the peroxo species with no net redox change on the iron.",
+  "arxiv_id": null,
+  "authors": [
+    "Robert R. Gipson",
+    "Ting C. Lin",
+    "Dory E. DeWeese",
+    "David F. Nielsen",
+    "Günther H. J. Peters",
+    "Edward I. Solomon"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c17616",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Pterin binding to iron cuts the barrier for oxygen activation in an enzyme by 12.7 kcal/mol.",
+  "id": "doi-10.1021-jacs.6c17616",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Lower barrier for peroxo formation",
+    "unit": "kcal/mol",
+    "value": "12.7"
+  },
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Using tryptophan hydroxylase, the team compared the enzyme with and without pterin bound, probing a stable nitric oxide analog of the unobservable iron-oxygen intermediate with several spectroscopies. They infer that pterin binding stabilizes O2 binding and speeds peroxo formation roughly ten-billion-fold. The oxygen result is extrapolated from the NO analog, not measured directly.",
+  "tags": [
+    "enzyme mechanism",
+    "bioinorganic chemistry"
+  ],
+  "title": "Role of (Co)substrate Coordination to Iron in Activating Its Two-Electron Reduction of Dioxygen: Mechanism of Pterin Activation in Tryptophan Hydroxylase",
+  "url": "https://doi.org/10.1021/jacs.6c17616",
+  "venue": "Journal of the American Chemical Society"
+}

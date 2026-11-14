@@ -1,0 +1,43 @@
+{
+  "abstract": "Microbial encounters with sinking marine snow regulate organic carbon remineralization, acting as a critical knob in the ocean's biological carbon pump. Yet how the vast diversity of microbes in the open ocean respond to natural chemotactic cues coupling sedimentation-induced flow to microbial encounters in the ocean remains unresolved. Here we report shipboard measurements of microbial motility around freshly collected marine snow under imposed flows spanning ecologically relevant sinking speeds. Via high resolution single cell tracking at sea, we map a highly diverse repertoire of microbial motility, including rapid switching between motile and non-motile states. We identify a chemotactic horizon from measured reorientation towards chemical gradients, defining a spatial region around an aggregate within which chemotactic alignment overcomes flow-induced rotation due to sedimentation. This interplay produces a non-monotonic dependence of encounter rates on aggregate sinking speed, with a peak at 14.4 m/day followed by a sharp decline beyond 78.1 m/day, with a tracer-like regime at high effective sinking speeds. We incorporate the measured encounter rates into a kinetic transport equation in position-velocity phase space, with an effective nonlinear damping arising from velocity-dependent remineralization. The resulting particle dynamics reveal a threshold-induced separatrix dividing overdamped and ballistic microbial populations, leading to velocity segregation. Our study connects direct measurements of microbial motility and sedimentation-induced flow to the emergent phase-space for fate of marine snow in the biological pump, establishing a quantitative multiscale framework for investigating ocean carbon export.",
+  "arxiv_id": "2611.13165",
+  "authors": [
+    "Rahul Chajwa",
+    "Manu Prakash"
+  ],
+  "categories": [
+    "physics.bio-ph",
+    "cond-mat.soft",
+    "physics.ao-ph"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13165"
+  },
+  "hook": "At sea, microbe encounters with sinking marine snow peak at 14.4 m/day, then fall sharply past 78.1 m/day.",
+  "hook_turn": "then fall sharply past 78.1 m/day.",
+  "id": "arxiv-2611.13165",
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Sinking speed at peak microbe encounters",
+    "unit": "m/day",
+    "value": "14.4"
+  },
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Researchers tracked single microbial cells around fresh marine snow on a ship under imposed flows, and found that chemical-gradient steering only works within a region near the aggregate. This makes encounter rates peak at an intermediate sinking speed. The data come from limited samples at sea and feed a theoretical model whose predictions for carbon export are not tested directly.",
+  "tags": [
+    "marine microbes",
+    "carbon cycle"
+  ],
+  "title": "Chemotactic Horizons Regulate Threshold Dynamics in the Biological Carbon Pump",
+  "url": "https://arxiv.org/abs/2611.13165",
+  "venue": "arXiv"
+}

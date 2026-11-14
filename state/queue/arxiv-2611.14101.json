@@ -1,0 +1,39 @@
+{
+  "abstract": "Whether a lightly doped Mott insulator on the square lattice supports robust $d$-wave superconductivity remains a central question in strongly correlated physics and in the microscopic theory of cuprate superconductivity. Experiments and numerical studies reveal a pronounced particle-hole asymmetry, pointing to a delicate competition among $d$-wave superconductivity, pair-density wave (PDW), stripe, charge-density wave (CDW), and antiferromagnetic correlations. Here we combine large-scale DMRG and finite-size PEPS to study the square-lattice $t$-$J$ model at low doping, $\\delta \\leq 0.1$, while tuning the next-nearest-neighbor hopping $t'$ from the electron-like ($t'>0$) to the hole-like ($t'<0$) regime. The electron-like side supports robust, nearly uniform $d$-wave pairing, whereas decreasing $t'$ induces a period-two plaquette modulation and ultimately produces, on the hole-like side, a charge-dominated state with a strongly suppressed static pairing amplitude. DMRG calculations on open strips and squares, together with PEPS calculations on open squares up to $16\\times16$ sites, support this evolution. On squares with $C_4$-symmetric Hamiltonians, both methods find that the pair correlations of the hole-like state select the plaquette momenta $(\\pi,0)$ and $(0,\\pi)$ and decay within a few lattice spacings, while the dominant charge-density modulation forms a bidirectional checkerboard whose period extrapolates to about $4a_0$, close to that observed in lightly doped Bi-2201. These observations establish a fluctuating plaquette PDW in the lightly doped hole-like regime, in which local pairs carry finite momentum but lack phase coherence. Our results firmly establish particle-hole asymmetry as a central organizing principle for competing pairing tendencies in the lightly doped $t$-$J$ model.",
+  "arxiv_id": "2611.14101",
+  "authors": [
+    "Hao-Xin Wang",
+    "Zheng-Yuan Yue",
+    "Wen-Yuan Liu",
+    "Zheng-Cheng Gu"
+  ],
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con",
+    "physics.comp-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14101"
+  },
+  "hook": "In simulation, hole-like doping kills d-wave pairing and leaves a fluctuating pair-density wave.",
+  "id": "arxiv-2611.14101",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Large DMRG and PEPS calculations on the t-J model at doping up to 0.1 show uniform d-wave pairing on the electron-like side but a charge-dominated state with short-range pair correlations on the hole-like side, with a checkerboard period near 4 lattice spacings. The conclusions rest on finite clusters up to 16 by 16 sites and a model, not a real cuprate.",
+  "tags": [
+    "cuprate superconductivity",
+    "Mott insulators"
+  ],
+  "title": "Particle-hole asymmetry and a fluctuating pair-density-wave state in a lightly doped Mott insulator on the square lattice",
+  "url": "https://arxiv.org/abs/2611.14101",
+  "venue": "arXiv"
+}

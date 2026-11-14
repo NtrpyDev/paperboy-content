@@ -1,0 +1,45 @@
+{
+  "abstract": "Abstract Organic S(VI) fluorides have garnered substantial interest for covalent drug discovery and chemoproteomics due to their ambient stability and unique electrophilic reactivity. Sulfuryl fluoride (SO2F2) is the ideal reagent for the synthesis of various S(VI)–F moieties, yet it is a toxic greenhouse gas, often making it incompatible with laboratory settings. Developing a strategy for handling SO2F2 that is amenable to high-throughput reaction discovery would enhance its utility in the laboratory without necessitating specialized equipment or extensive safety measures. Herein, we report a strategy to safely store reactive SO2F2 within a metal–organic framework (MOF) for its facile application to the synthesis of electrophilic, bioactive molecules. The solid SO2F2–Mg2(dobdc) reagent can be stored for at least five months with minimal gas loss due to the strong yet reversible interaction between SO2F2 and Mg2+ centers in the MOF, as confirmed by single-crystal X-ray diffraction. Using this reagent, we prepare a range of drug-like arylfluorosulfates, primary and secondary acyclic sulfamoyl fluorides, saturated N-heterocyclic sulfamoyl fluorides, and N-heteroarene sulfamoyl fluorides, the last of which cannot be accessed using sulfonium salt alternatives to SO2F2 due to the requirement for strongly basic conditions. These findings represent the first experimental study of SO2F2 adsorption within a MOF and the first use of MOFs for late-stage fluorosulfurylation, paving the way toward a general approach to carefully handling dangerous, reactive gases as solid reagents.",
+  "arxiv_id": null,
+  "authors": [
+    "Emily E. Stacy",
+    "Paige L. Burch",
+    "Joharimanitra Randrianandraina",
+    "Marissa A. Fontaine",
+    "Mary C. Eaton",
+    "Jaehwan Kim",
+    "Lida Aeindartehran",
+    "Akash K. Ball",
+    "Miguel I. Gonzalez",
+    "Heather J. Kulik",
+    "Tomče Runčevski",
+    "Mikail E. Abbasov",
+    "Jung-Hoon Lee",
+    "Phillip J. Milner"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c21875",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A metal-organic framework stores toxic sulfuryl fluoride gas as a solid reagent for at least five months.",
+  "id": "doi-10.1021-jacs.6c21875",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Sulfuryl fluoride is a toxic greenhouse gas that makes a useful reagent hard to handle. Magnesium ions in a porous framework hold it reversibly, confirmed by X-ray diffraction, and the solid was used to make drug-like fluorosulfates and sulfamoyl fluorides. The scope is a set of lab syntheses, and the reagent's loading capacity and scale-up are not described.",
+  "tags": [
+    "metal-organic frameworks",
+    "fluorination"
+  ],
+  "title": "Late-Stage Fluorosulfurylation Using Sulfuryl Fluoride Bound within a Metal–Organic Framework",
+  "url": "https://doi.org/10.1021/jacs.6c21875",
+  "venue": "Journal of the American Chemical Society"
+}

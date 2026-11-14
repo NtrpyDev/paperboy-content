@@ -1,0 +1,35 @@
+{
+  "abstract": "Karp and Lipton proved that if $NP\\subseteq P/poly$, then $PH$ collapses. A long line of work pushed the collapse to smaller classes. In particular, Chakaravarthy and Roy obtained two such collapses, to (apparently) incomparable classes $O_2^P$ and $P^{prMA}$. We united them earlier by a collapse to the input-oblivious version $P^{prOMA}$ of $P^{prMA}$, which is contained in both; and, jointly with Williams, to a slightly smaller class. Two other deepest known collapses are to $ZPP^{ONP}$ (following from K\\\"obler and Watanabe) and to $OL_2^P$ (proved in this paper). We unite the three collapses by a collapse to a class contained in all of them. We use a three-stage computational model OGTD (oblivious generator-tester-decoder): a polynomial-time generator with an oracle computes an advice string from $1^n$, a tester certifies it, and a polynomial-time decoder uses it (it is the only one that sees the actual input). Let $OM$ be the class of OGTD languages defined by a restricted version of $prOMA$ as the generator's oracle, by a co-$ONP$ tester, and a $P$ decoder. We show that it is contained in the three collapse classes above and prove that $PH$ collapses to $OM$ under $NP\\subseteq P/poly$. The collapse also holds for an unambiguous version of $OM$. All these input-oblivious collapse classes lie in $P^{prSBP}$, and so do even the non-input-oblivious versions $P^{prMA}$, $L_2^P$ and $S_2^P$: we prove that $P^{prS_2^P}\\subseteq P^{prSBP}$. This strengthens the containment $S_2^P\\subseteq P^{prAM}$ of Chakaravarthy and Roy and our earlier containment $L_2^P\\subseteq P^{prSBP}$. The proof unites the Goldreich-Wigderson-type procedure of Chakaravarthy and Roy with our earlier approximate-counting technique. Its input-oblivious counterpart concerns $O_2^P$, the first collapse class of Chakaravarthy and Roy: every language in $O_2^P$ has polynomial-size circuits constructible in $FP^{prSBP}$.",
+  "arxiv_id": "2611.16096",
+  "authors": [
+    "Edward A. Hirsch",
+    "Ilya Volkovich"
+  ],
+  "categories": [
+    "cs.CC"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16096"
+  },
+  "hook": "If NP has small circuits, the polynomial hierarchy collapses to an even smaller class",
+  "id": "arxiv-2611.16096",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper unifies several known Karp-Lipton style collapses by showing that the polynomial hierarchy falls to one class contained in all three earlier collapse classes, assuming NP has polynomial-size circuits. It also proves that P with a prS2P oracle lies inside P with a prSBP oracle. This is a refinement within complexity theory, and the assumption it rests on is widely believed false.",
+  "tags": [
+    "complexity theory",
+    "Karp-Lipton"
+  ],
+  "title": "The Ultimate Karp-Lipton Collapse",
+  "url": "https://arxiv.org/abs/2611.16096",
+  "venue": "arXiv"
+}

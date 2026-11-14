@@ -1,0 +1,46 @@
+{
+  "abstract": "We present a cosmological radiation-magnetohydrodynamics (RMHD) zoom-in simulation of $56$ Population III stars using FORGE'd in FIRE. Our simulation combines a cosmological initial condition centered on an isolated ultra-faint galaxy ($M_{\\mathrm{halo}} \\sim 10^9 M_\\odot$ at $z=0$) with individual-star formation and feedback physics, reaching a maximum mass resolution of $\\sim 10^{-2} M_\\odot$ and spatial resolution of $\\sim 10^{-3} \\mathrm{pc}$. We follow continued star formation for just over $500$ Myr, from $z \\sim 16$ to $z \\sim 7$, substantially longer than what has been achieved before, and track star formation across five distinct minihalos. From our stellar population, we self-consistently resolve an emergent stellar initial mass function (IMF) and find $\\alpha = 1.9$ for $dN/dM \\propto M^{-\\alpha}$ at $M_{\\star} \\gtrsim 2.2 M_{\\odot}$. Additionally, we form both single and multiple stellar systems, including binaries and higher-order multiples, as well as stars with masses below $1 M_{\\odot}$. At early times, the stellar mass distribution is more top-heavy, with a high-mass slope of $\\alpha\\sim1.4-1.5$, similar to previous Pop. III simulations, and steepens as star formation continues. This suggests that differences between our final IMF and previous studies may partly reflect the much longer evolution followed here, approximately five orders of magnitude longer than in several previous Pop. III sink-particle simulations. The first star-forming minihalo, which hosts the most massive stars in our simulation, has a shallower IMF slope of $\\alpha\\approx 1$, while later-forming minihalos produce lower maximum stellar masses in lower-density parent clouds.",
+  "arxiv_id": "2611.08598",
+  "authors": [
+    "Yasmine J. Meziani",
+    "Philip F. Hopkins",
+    "Pratik J. Gandhi",
+    "Claude-Andr\\'e Faucher-Gigu\\`ere",
+    "Michael Y. Grudi\\'c",
+    "Shivan Khullar",
+    "Vasilii Pustovoit"
+  ],
+  "categories": [
+    "astro-ph.GA",
+    "astro-ph.SR"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.08598"
+  },
+  "hook": "In simulation, 56 first-generation stars give a mass slope of 1.9 that steepens over time",
+  "id": "arxiv-2611.08598",
+  "license": "cc-by",
+  "published": "2026-11-05",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Pop III IMF high-mass slope alpha",
+    "unit": "",
+    "value": "1.9"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A simulation follows 56 Population III stars across five minihalos for about 500 million years, much longer than earlier runs. The high-mass slope of the stellar mass distribution starts at 1.4 to 1.5 and steepens to 1.9, and it also forms binaries and stars below one solar mass. It is a single simulation of one galaxy, so the result depends on its physics assumptions.",
+  "tags": [
+    "first stars",
+    "star formation"
+  ],
+  "title": "FORGE'd in the Early Universe II: Constraining the Pop III Initial Mass Function",
+  "url": "https://arxiv.org/abs/2611.08598",
+  "venue": "arXiv"
+}

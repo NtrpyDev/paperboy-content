@@ -1,0 +1,36 @@
+{
+  "abstract": "We exploit two-dimensional dual polyhedra to study triangulated $3$-spheres and nuclei. First, we show that the long-standing open problem of whether the number of triangulated $3$-spheres is exponentially bounded is equivalent to the corresponding problem for one-vertex generalized triangulations, and hence also for special spines of the $3$-ball. This also establishes an equivalent counting problem for nuclei. Second, we investigate properties of nuclei, including their dual polyhedra. We also prove that every nontrivial nucleus contains a tetrahedron with six interior edges, identify the unique vertex-minimal nontrivial nucleus with $11$ vertices and $35$ tetrahedra, and construct nuclei whose dual graphs have genus growing linearly with the number of tetrahedra.",
+  "arxiv_id": "2611.16518",
+  "authors": [
+    "Bergfinnur Durhuus",
+    "Marta Pavelka"
+  ],
+  "categories": [
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16518"
+  },
+  "hook": "Whether 3-sphere triangulations grow exponentially is equivalent to a simpler counting problem.",
+  "hook_turn": "equivalent to a simpler counting problem.",
+  "id": "arxiv-2611.16518",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The long-open question of whether triangulated 3-spheres are exponentially bounded in number is shown to be the same as the question for one-vertex generalized triangulations and for special spines of the 3-ball. The authors also prove that every nontrivial nucleus has a tetrahedron with six interior edges and find the smallest one, with 11 vertices. The main question itself stays unresolved.",
+  "tags": [
+    "triangulations",
+    "topology"
+  ],
+  "title": "Counting Triangulated 3-Spheres, Nuclei, and Polyhedra",
+  "url": "https://arxiv.org/abs/2611.16518",
+  "venue": "arXiv"
+}

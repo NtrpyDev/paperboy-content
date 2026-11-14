@@ -1,0 +1,39 @@
+{
+  "abstract": "People increasingly ask AI chatbots for advice, yet large language models (LLMs) are sycophantic, overconfident, and can amplify human cognitive biases. In this article, we investigate how people perceive advice from humans versus LLMs and whether AI advice reshapes incentive-compatible donation decisions. Using Carrier, a new experimental platform, we designed an experiment where participants made a donation decision after discussing it with an AI chatbot advisor, another human, or receiving no advice. Participants judged LLM advisors to be significantly more rational, trustworthy, convincing, and sycophantic than human advisors. Analysis of chatlogs showed that LLMs were more engaged than human advisors: they shared more facts and more often stated their opinion and justified their recommendations. Despite this, donation decisions did not vary across conditions.",
+  "arxiv_id": "2611.16667",
+  "authors": [
+    "Maximilian Maier",
+    "Tsz Kwan Emmy Wong",
+    "Jiahao Eric Yang",
+    "Falk Lieder",
+    "Vanessa Cheung"
+  ],
+  "categories": [
+    "cs.HC"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "social",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16667"
+  },
+  "hook": "People rate AI advisors more rational and trustworthy than humans, yet donations stay the same.",
+  "hook_turn": "yet donations stay the same.",
+  "id": "arxiv-2611.16667",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Participants discussed a donation with an AI chatbot, another person, or nobody, then decided how much to give. They rated the chatbot as more rational, trustworthy, convincing and sycophantic, and it argued more, but donations did not differ across conditions. This is one experiment with one decision type.",
+  "tags": [
+    "AI advice",
+    "decision making"
+  ],
+  "title": "People prefer AI to human advice in multi-turn conversations but neither changes incentivised behaviour",
+  "url": "https://arxiv.org/abs/2611.16667",
+  "venue": "arXiv"
+}

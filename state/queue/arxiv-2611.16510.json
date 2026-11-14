@@ -1,0 +1,39 @@
+{
+  "abstract": "This paper describes the contents of the Euclid First Data Release (DR1), together with the set of papers that document the data-processing and the data products. DR1 consists of two parts: first `DR1-Foundation', releasing images, spectra, and catalogues in November 2026. Second, the shear measurements and the `Level~3' products required for cosmological analyses will be added in June 2027 to complete the full DR1. This data set contains around a billion catalogued objects, mainly from the Euclid Wide Survey (1975\\,deg$^2$) and the Euclid Deep Fields (77\\,deg$^2$)",
+  "arxiv_id": "2611.16510",
+  "authors": [
+    "Euclid Collaboration: Herve Aussel"
+  ],
+  "categories": [
+    "astro-ph.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16510"
+  },
+  "hook": "Euclid's first data release covers about a billion catalogued objects over 1975 square degrees.",
+  "id": "arxiv-2611.16510",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Euclid Wide Survey area",
+    "unit": "square degrees",
+    "value": "1975"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "This overview describes the first public Euclid release, with images, spectra, and catalogues arriving in November 2026. It combines the Wide Survey and the Deep Fields. The cosmology-grade shear measurements and Level 3 products are not included yet and will follow in June 2027, so the release is only partly complete.",
+  "tags": [
+    "Euclid",
+    "sky survey"
+  ],
+  "title": "Euclid First Data Release 1 (DR1) - Data release overview",
+  "url": "https://arxiv.org/abs/2611.16510",
+  "venue": "arXiv"
+}

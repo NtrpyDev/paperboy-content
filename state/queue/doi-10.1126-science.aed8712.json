@@ -1,0 +1,63 @@
+{
+  "abstract": "Microvascular anastomosis, the surgical suturing of small-caliber blood vessels, is technically demanding, time-consuming, and prone to failure from complications such as thrombosis. Existing adhesives are ineffective in the dynamic, wet surgical field, particularly for the limited cross-sectional interface of blood vessels. We present an integrated microneedle-interlocking adhesive system (iMAS) bioinspired by plant root anchoring. This platform combines a hydrophobic polymeric matrix with tetrahedral microneedles, creating robust, three-dimensional bonding for rapid, secure anastomosis. An embedded artificial intelligence (AI)-assisted wireless sensor enables continuous, real-time monitoring of vascular hemodynamics and cardiac graft health, facilitating predictive identification of complications such as stenosis and transplant rejection. In rat models, iMAS reduced procedural time by 78% and suppressed neointimal hyperplasia. iMAS streamlines microvascular anastomosis and enables proactive graft monitoring in transplantation.",
+  "arxiv_id": null,
+  "authors": [
+    "Fangchao Xue",
+    "Shanlan Zhao",
+    "Hao Tian",
+    "Lang Li",
+    "Xinrong Xu",
+    "Yixiang Lu",
+    "Kaige Xu",
+    "Lang He",
+    "Yueying Wang",
+    "Zhaojing Ba",
+    "Yumei Que",
+    "Di Liu",
+    "Yuxin Xing",
+    "Yang Su",
+    "Malcolm Xing",
+    "Wen Zeng"
+  ],
+  "categories": [
+    "Animals",
+    "Rats",
+    "Anastomosis, Surgical",
+    "Heart Transplantation",
+    "Microsurgery",
+    "Graft Rejection",
+    "Microvessels",
+    "Neointima",
+    "Sutureless Surgical Procedures"
+  ],
+  "doi": "10.1126/science.aed8712",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A microneedle adhesive joins tiny blood vessels without stitches and cuts surgery time by 78% in rats.",
+  "hook_turn": "cuts surgery time by 78% in rats.",
+  "id": "doi-10.1126-science.aed8712",
+  "license": null,
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Shorter procedure time in rats",
+    "unit": "percent",
+    "value": "78"
+  },
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "A root-inspired patch with tetrahedral microneedles in a water-repelling matrix bonds small vessels, and an embedded AI-assisted wireless sensor monitors blood flow and graft health. In rats it shortened the procedure and reduced neointimal overgrowth. It was tested only in rats, and long-term safety in larger animals or people is unknown.",
+  "tags": [
+    "bioadhesives",
+    "microsurgery"
+  ],
+  "title": "AI-monitored bioadhesive for sutureless microvascular anastomosis.",
+  "url": "https://doi.org/10.1126/science.aed8712",
+  "venue": "Science"
+}

@@ -1,0 +1,36 @@
+{
+  "abstract": "The development of \"transition metal-like\" reactivity using earth-abundant p-block elements is one of the most prominent and challenging goals of contemporary main group chemistry. This difficulty is exemplified by the key, catalytically relevant bond-forming step of reductive elimination which, while often facile for transition metals, is very difficult to achieve for most main group elements. Efforts to bridge this gap have typically focused on delicate tailoring of electronic structure, supporting ligands, and coordination geometry, a task that is conceptually difficult and synthetically demanding. In this study, we demonstrate an alternative approach. We show that photocatalytic reductive elimination from an already well-known P(V) complex can be achieved rapidly and under mild conditions, via a transient oxidation strategy analogous to \"oxidatively induced reductive elimination\". This concept has previously been applied only to transition metal complexes but is now extended to the field of main group chemistry. These results demonstrate a simple, easily accessible, but potentially very powerful new strategy for 'turbocharging' transition metal-like reactivity at a main group center. Thus, they provide a valuable new tool for the ongoing pursuit of transition metal-like catalysis using main group elements.",
+  "arxiv_id": null,
+  "authors": [
+    "Matthew P Mundy",
+    "Péter R Nagy",
+    "Imre Pápai",
+    "Daniel J Scott"
+  ],
+  "categories": [],
+  "doi": "10.1002/anie.9244932",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Light drives reductive elimination at a phosphorus center, a step usually left to transition metals.",
+  "hook_turn": "a step usually left to transition metals.",
+  "id": "doi-10.1002-anie.9244932",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Chemists showed that a known P(V) complex undergoes reductive elimination quickly under mild photocatalytic conditions, using a transient oxidation trick borrowed from transition metal chemistry. This hints that cheap main group elements could mimic metal catalysts. It demonstrates one complex, not a full catalytic cycle.",
+  "tags": [
+    "main group chemistry",
+    "photocatalysis"
+  ],
+  "title": "Photocatalytic Reductive Elimination From a Main Group Center.",
+  "url": "https://doi.org/10.1002/anie.9244932",
+  "venue": "Angewandte Chemie International Edition"
+}

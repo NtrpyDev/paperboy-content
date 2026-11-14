@@ -1,0 +1,45 @@
+{
+  "abstract": "Continuous spin particles (CSPs) are massless particles characterized by a dimensionful spin scale, $\\rho$, which, when non-zero, changes their helicity under Lorentz boosts. Since CSPs reduce to ordinary particles when $\\rho \\rightarrow 0$, the photon or graviton could be CSPs and only appear to behave as ordinary particles due to a small value of $\\rho$. Therefore, it is important to determine what value of $\\rho$ is experimentally allowed. Recent work has shown that the physical effects of CSPs scale as powers of $\\rho/\\omega$ when $\\rho \\ll \\omega$, where $\\omega$ is a frequency scale, making low-frequency probes particularly beneficial for highlighting these phenomena. In this paper we use pulsar timing arrays to set constraints on the spin scale of the continuous spin graviton. Pulsar timing arrays are uniquely suited for this application as they have exceptional sensitivity to low, nanohertz frequency gravitational waves, as demonstrated by their recent evidence for a stochastic gravitational wave background. Using standard Bayesian data analysis techniques, we find that the NANOGrav 15-year data set constrains the graviton spin scale to $\\rho_\\text{g} < 1.23 \\times 10^{-23} \\, \\text{eV} $ at the 95% credible level.",
+  "arxiv_id": "2611.14613",
+  "authors": [
+    "Chinmay Ambasht",
+    "Olivia Bitcon",
+    "Tanner Trickle",
+    "the NANOGrav Collaboration"
+  ],
+  "categories": [
+    "hep-ph",
+    "astro-ph.CO",
+    "gr-qc"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14613"
+  },
+  "hook": "Pulsar timing caps a possible graviton spin scale at 1.23 x 10^-23 eV.",
+  "id": "arxiv-2611.14613",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "exponent": -23,
+    "label": "Graviton spin scale limit, 95% credible",
+    "unit": "eV",
+    "value": "<1.23"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Continuous spin particles would have a spin scale rho that mixes helicities, which could hide in the graviton. Applying Bayesian analysis to the NANOGrav 15-year pulsar timing data, the authors bound the graviton's spin scale below 1.23 x 10^-23 eV at 95% credibility. The limit assumes the background signal is gravitational waves, whose origin is still being established.",
+  "tags": [
+    "gravitons",
+    "pulsar timing"
+  ],
+  "title": "The NANOGrav 15-year data set: A Limit on Continuous Spin Gravitons",
+  "url": "https://arxiv.org/abs/2611.14613",
+  "venue": "arXiv"
+}

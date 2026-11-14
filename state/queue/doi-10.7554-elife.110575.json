@@ -1,0 +1,46 @@
+{
+  "abstract": "The vast collection of human-specific traits-such as our unique morphology, cognition, behavior, and diseases-has long been attributed to gene expression divergence between us and our closest living relatives, chimpanzees. Theory suggests that changes to cis-regulatory elements such as promoters and enhancers may drive evolutionary adaptation, and DNA methylation is a key factor in transcriptional cis-regulation. However, we still lack an understanding of (1) how species-specific methylation patterns arise; (2) their downstream effects; and (3) whether they are a common target of natural selection. In this study, we investigated these three questions. By combining a novel hypothesis testing framework with DNA methylation data from six human and chimpanzee cell types, as well as fused interspecies hybrid cells, we disentangled cis- vs. trans-acting methylation divergence across the genome. Across cell types, we found that methylation divergence is primarily driven in cis, which can be linked in some cases to nearby sequence variants such as CpG gains and losses. Although less common, regions with trans-acting methylation divergence were enriched for specific transcription factor (TF) binding motifs, suggesting a role of TFs such as FOXM1 in these differences. Having established these causes of methylation divergence, we then examined the functional consequences of differential methylation. Although methylation lacks a consistent relationship with transcription, we observed that associations between methylation and gene expression are stronger for genes with cis-regulatory divergence. Moreover, we identified lineage-specific selection shaping promoter methylation at the level of entire pathways, including those associated with human-specific traits such as speech, cognition, and susceptibility to infection with hepatitis C. Collectively, our findings provide a mechanistic framework suggesting that DNA methylation may occupy a key position, mediating the effects of both cis- and trans-acting factors on transcriptional networks, including those contributing to human-specific traits.",
+  "arxiv_id": null,
+  "authors": [
+    "Zhenzhen Ma",
+    "Alexander L Starr",
+    "David Gokhman",
+    "Hunter B Fraser"
+  ],
+  "categories": [
+    "Animals",
+    "Humans",
+    "Pan troglodytes",
+    "Evolution, Molecular",
+    "DNA Methylation",
+    "Gene Expression Regulation",
+    "CpG Islands",
+    "Promoter Regions, Genetic",
+    "Selection, Genetic"
+  ],
+  "doi": "10.7554/elife.110575",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Human and chimpanzee DNA methylation differences arise mostly from nearby DNA changes, not distant factors.",
+  "hook_turn": "not distant factors.",
+  "id": "doi-10.7554-elife.110575",
+  "license": null,
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Using methylation data from six cell types and human-chimp hybrid cells, the authors separated local (cis) from distant (trans) causes and found cis dominates. They also report signs of selection on promoter methylation in pathways tied to speech and cognition. The selection claims are statistical inferences from cell lines, not direct tests of function.",
+  "tags": [
+    "DNA methylation",
+    "human evolution"
+  ],
+  "title": "Cis-regulation and natural selection in the evolution of human DNA methylation.",
+  "url": "https://doi.org/10.7554/elife.110575",
+  "venue": "eLife"
+}

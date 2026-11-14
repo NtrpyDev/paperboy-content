@@ -1,0 +1,39 @@
+{
+  "abstract": "Climbing plants use circumnutation, a rhythmic exploratory movement of the shoot apex, to locate supports.1,2,3,4,5 Although neighboring plants can alter this movement before physical contact, the underlying mechanisms remain unknown.6,7,8,9 Here, we combined three-dimensional kinematic tracking and real-time volatilomic profiling in Pisum sativum to investigate the temporal association between volatile emissions and circumnutation. Seven volatile-associated m/z features showed transient increases before peak circumnutation velocity in plants growing with a conspecific, a pattern absent in isolated plants. Neighbor presence also increased apex velocity, acceleration, path length, and explored area. Wavelet coherence analysis revealed stronger temporal coordination between real neighboring pairs than between randomly paired individuals. Neighboring plants additionally exhibited faster shoot growth and increased chlorophyll content in upper leaves. Together, these findings link volatile emission dynamics with exploratory movement and reveal coordinated behavioral and physiological responses to neighboring plants. This work establishes a framework for investigating the temporal organization of plant-plant interactions while highlighting the need for experiments to determine whether volatile cues causally influence movement.",
+  "arxiv_id": null,
+  "authors": [
+    "Bianca Bonato",
+    "Valentina Simonetti",
+    "Sara Avesani",
+    "Silvia Guerra",
+    "Gabriela Gjinaj",
+    "Laura Ravazzolo",
+    "Marco Dadda",
+    "Umberto Castiello"
+  ],
+  "categories": [],
+  "doi": "10.1016/j.cub.2026.10.050",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Climbing pea plants release volatile compounds shortly before their shoot tips speed up near a neighbor.",
+  "id": "doi-10.1016-j.cub.2026.10.050",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Researchers tracked pea shoot tips in 3D while measuring airborne chemicals in real time. Seven chemical signals rose just before peak shoot speed when a neighbor was present, and real neighbor pairs moved in more coordinated rhythm than random pairs. This shows association only; the authors note that causation by the volatiles is not shown.",
+  "tags": [
+    "plant behavior",
+    "plant communication"
+  ],
+  "title": "Volatile emission dynamics are temporally associated with neighbor-modulated movement in climbing plants.",
+  "url": "https://doi.org/10.1016/j.cub.2026.10.050",
+  "venue": "Current Biology"
+}

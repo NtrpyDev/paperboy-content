@@ -1,0 +1,42 @@
+{
+  "abstract": "Stellar magnetic activity is known to decrease as stars age, but the underlying physical mechanism for this decline remains a key question. Does this evolution occur because individual starspots become magnetically weaker (a change in quality), or because the total area covered by spots diminishes (a change in quantity)? We address this question by synthesizing results from two recent studies that leverage starspot transit mapping of Kepler and CoRoT targets. First, we show that the magnetic field strength of starspots remains consistently high, on a saturation plateau of approximately 3500 G, regardless of stellar age or rotation period. This suggests that the intrinsic quality of spots does not significantly evolve. Second, we demonstrate a strong anticorrelation between starspot area coverage and stellar age, with young stars exhibiting large filling factors (up to 29%) that decrease sharply over time. Our combined results provide compelling evidence that the evolution of stellar magnetic activity is primarily driven by a change in the quantity of magnetic flux emerging on the surface, not by a change in the intrinsic strength of the spots themselves. These findings have direct implications for refining stellar dynamo models and improving age-dating techniques.",
+  "arxiv_id": "2611.15726",
+  "authors": [
+    "Fabian Menezes",
+    "Adriana Valio",
+    "Alexandre Araujo"
+  ],
+  "categories": [
+    "astro-ph.SR"
+  ],
+  "doi": "10.1017/S174392132610725X",
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15726"
+  },
+  "hook": "Starspots stay about 3500 G at every age; stars grow quiet as spots cover less area.",
+  "hook_turn": "as spots cover less area.",
+  "id": "arxiv-2611.15726",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Starspot field strength plateau",
+    "unit": "gauss",
+    "value": "~3500"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Magnetic activity declines with stellar age because spots cover less of the star, not because each spot weakens. Combining two starspot transit-mapping studies of Kepler and CoRoT stars, spot field strength sits on a plateau near 3500 G while filling factors fall from up to 29%. This is a synthesis of earlier results on a limited star sample.",
+  "tags": [
+    "starspots",
+    "stellar magnetism"
+  ],
+  "title": "Unraveling the Magnetic Fields of Starspots with Transit Mapping",
+  "url": "https://arxiv.org/abs/2611.15726",
+  "venue": "arXiv"
+}

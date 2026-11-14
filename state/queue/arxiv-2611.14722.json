@@ -1,0 +1,36 @@
+{
+  "abstract": "We show that cyclic fatigue can occur in a system whose elements behave elastically up to an irreversible failure threshold, without plasticity, friction, or any time-dependent process. The model represents a weak interface between two elastic bodies loaded in shear. Under sufficiently large cyclic loading below the static failure threshold, a pre-existing flaw advances progressively, by a few lattice spacings per cycle. Two conditions are needed for this behavior: each bond fails more easily under one sense of the shear than the opposite, and the shear must be reversed during the cycle by an amount large enough to break bonds that have not yet failed. The model thus identifies the minimal conditions for an intrinsic, plasticity-free fatigue mechanism. Such conditions may be met at interfaces and weak planes subjected to strongly reversed shear, as in fretting, rolling contact, and reversed torsion, or in cyclic shear of cemented granular materials.",
+  "arxiv_id": "2611.14722",
+  "authors": [
+    "E. A. Jagla"
+  ],
+  "categories": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14722"
+  },
+  "hook": "A model shows an interface can fatigue under cyclic shear without any plasticity or friction.",
+  "hook_turn": "without any plasticity or friction.",
+  "id": "arxiv-2611.14722",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Fatigue usually needs plasticity or time-dependent effects, but this model of a weak interface between elastic bodies cracks anyway. A flaw advances a few lattice spacings per cycle when bonds fail more easily in one shear direction and the shear reverses enough to break intact bonds. It is a minimal numerical model, and no experiment tests it.",
+  "tags": [
+    "fatigue",
+    "fracture"
+  ],
+  "title": "Fatigue crack growth without plasticity under cyclically reversed shear",
+  "url": "https://arxiv.org/abs/2611.14722",
+  "venue": "arXiv"
+}

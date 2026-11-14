@@ -1,0 +1,54 @@
+{
+  "abstract": "Gaia-4b is the first confirmed exoplanet discovered with Gaia astrometry, based on its identification as a possible exoplanet in the solution in Gaia Data Release 3 and subsequent confirmation with radial velocity. In this work we present a \\texttt{python} framework called \\texttt{pyGaiafits} that can jointly analyze astrometric time series and radial velocities. We use this to combine the precise along-scan astrometric time series for Gaia-4 from the Gaia DR4 pre-release with 44 radial velocities (RVs) obtained over three years from four independent spectrographs (HPF, HARPS-N, NEID, and FIES). By jointly fitting these two complementary datasets that collectively span a 12-year baseline ($\\sim$7 orbital periods of Gaia-4b), we refine the system parameters and determine the true mass of Gaia-4b to be $10.70\\pm0.32$~$M_J$. Critically, we do not find significant evidence for the long-term quadratic RV trend previously reported in the literature, recovering $\\ddot{\\gamma} = 5.5^{+8.3}_{-6.7}\\;\\mathrm{m\\,s^{-1}\\,yr^{-2}}$ consistent with zero. We discuss how this discrepancy likely arises from a degeneracy between orbital period and long-term trends when RVs span only $\\sim$1.5 orbital cycles --- a degeneracy that is broken by anchoring the ephemeris with early Gaia astrometry.",
+  "arxiv_id": "2611.15537",
+  "authors": [
+    "Shubham Kanodia",
+    "Suvrath Mahadevan",
+    "Gudmundur Stefansson",
+    "Domenico Barbato",
+    "Joe P. Ninan",
+    "William D. Cochran",
+    "Rachel B. Fernandes",
+    "Caleb I. Canas",
+    "Andrea S.J. Lin",
+    "Leonardo A. Paredes",
+    "Matteo Pinamonti",
+    "Paul Robertson",
+    "Christian Schwab",
+    "Alessandro Sozzetti"
+  ],
+  "categories": [
+    "astro-ph.EP",
+    "astro-ph.IM"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15537"
+  },
+  "hook": "Gaia-4b weighs 10.7 Jupiter masses; its reported velocity trend vanishes.",
+  "hook_turn": "its reported velocity trend vanishes.",
+  "id": "arxiv-2611.15537",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "True mass of Gaia-4b",
+    "unit": "Jupiter masses",
+    "value": "10.70"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Combining Gaia astrometry with 44 radial velocities from four spectrographs over a 12-year span gives the planet a true mass of 10.70 Jupiter masses. A long-term acceleration claimed earlier is consistent with zero, likely an artifact of covering only about 1.5 orbits. The astrometry comes from a Gaia DR4 pre-release.",
+  "tags": [
+    "exoplanets",
+    "Gaia"
+  ],
+  "title": "A Joint Study of Epoch Astrometry and Radial Velocities of Gaia-4b",
+  "url": "https://arxiv.org/abs/2611.15537",
+  "venue": "arXiv"
+}

@@ -1,0 +1,37 @@
+{
+  "abstract": "Metastatic melanoma cells are cannibalistic, engulfing living and dead lymphocytes, but the molecular mechanisms that drive this behavior, including how they recognize their targets, are unknown. RAC is a Rho family GTPase that plays a key role in F-actin dynamics. RAC1P29S is a hyperactivating driver mutation that is common in melanoma where it promotes proliferation, motility, and therapy-resistance. Here we show that RAC1P29S melanoma cells engulf more Jurkat T cells than an isogenic RAC1WT revertant line. Live imaging captured lamellipodial dynamics and whole-cell engulfment in real time. An inhibitor screen across RAC1P29S and RAC1WT patient-derived lines showed that cannibalism requires the phosphatidylserine receptor MERTK. A RAC1P29S line lacking detectable MERTK was not cannibalistic, indicating that RAC1 hyperactivity amplifies a specific, receptor-mediated response. RAC1P29S lines are sensitive to RAC and Arp2/3 inhibition. We propose a \"grip and gulp\" model in which MERTK provides the grip and Arp2/3-driven branched actin the gulp.",
+  "arxiv_id": null,
+  "authors": [
+    "Penfield, L.",
+    "Nano, M.",
+    "Montell, D."
+  ],
+  "categories": [
+    "cell biology"
+  ],
+  "doi": "10.64898/2026.11.11.766025",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/13/2026.11.11.766025.source.xml"
+  },
+  "hook": "Melanoma cells with hyperactive RAC1 eat T cells using the MERTK receptor.",
+  "hook_turn": "using the MERTK receptor.",
+  "id": "doi-10.64898-2026.11.11.766025",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Melanoma cells carrying the RAC1 P29S mutation engulfed more T cells than matched normal-RAC1 cells, and an inhibitor screen showed the receptor MERTK is required. A line without MERTK did not do it. Experiments used cultured cells and Jurkat T cells, so the behavior in patients is unconfirmed.",
+  "tags": [
+    "melanoma",
+    "cancer cell biology"
+  ],
+  "title": "MERTK and RAC1P29S Drive Melanoma Cannibalism of T cells",
+  "url": "https://doi.org/10.64898/2026.11.11.766025",
+  "venue": "bioRxiv"
+}

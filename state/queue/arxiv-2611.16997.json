@@ -1,0 +1,37 @@
+{
+  "abstract": "We construct an outer function in the classical Dirichlet space whose radial zero set has logarithmic capacity zero, but whose polynomial multiples do not approximate the constant function $1$. This disproves the Brown--Shields conjecture. The proof rests on two approximation theorems for canonical generators of invariant subspaces. The first shows that every proper outer canonical generator can be approximated in the Dirichlet norm by canonical generators associated with singular inner functions determined by finite positive atomic measures. The second shows that each fixed finite-atomic canonical generator can be recovered as a strong Dirichlet limit of outer canonical generators whose radial zero sets have arbitrarily small logarithmic capacity. We then combine these approximations using two techniques: a complete metric that controls boundary logarithms and a nested-ball construction that preserves outerness and noncyclicity while ensuring that the radial zero set is polar. In fact, we show that every proper outer canonical generator can be approximated arbitrarily closely by such counterexamples, both in the Dirichlet norm and in the $L^1$ norm of their boundary logarithms.",
+  "arxiv_id": "2611.16997",
+  "authors": [
+    "Bonan Chen",
+    "Xiang Fang",
+    "Feng Guo"
+  ],
+  "categories": [
+    "math.FA"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16997"
+  },
+  "hook": "A Dirichlet-space function with a vanishing-capacity zero set is still non-cyclic, disproving Brown-Shields.",
+  "hook_turn": "disproving Brown-Shields.",
+  "id": "arxiv-2611.16997",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The Brown-Shields conjecture linked how small a function's boundary zero set is to whether polynomial multiples can approximate the constant 1. The authors build an outer function whose radial zero set has logarithmic capacity zero yet fails this test. They do it by approximating canonical generators with atomic examples. It is a pure existence result, and the conjecture is specific to the Dirichlet space.",
+  "tags": [
+    "functional analysis",
+    "dirichlet space"
+  ],
+  "title": "The Brown--Shields Conjecture: Two Approximation Theorems and a Counterexample",
+  "url": "https://arxiv.org/abs/2611.16997",
+  "venue": "arXiv"
+}

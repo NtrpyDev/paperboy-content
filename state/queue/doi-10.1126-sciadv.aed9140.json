@@ -1,0 +1,39 @@
+{
+  "abstract": "Rehabilitation is an effective and reliable approach for promoting motor recovery after stroke. However, its efficacy decreases during the transition from the subacute to the chronic phase after stroke, posing a major barrier to complete functional recovery. This limited efficacy during the chronic phase is believed to result from declining neural plasticity. However, the molecular and cellular mechanisms regulating neural plasticity and its temporal changes after stroke remain unclear. To address this gap, we established a focal ischemic stroke mouse model that allows causal interrogation of the mechanisms responsible for the reduced efficacy of rehabilitation in the chronic phase. Using this model, we identified Lynx1, an endogenous negative allosteric modulator of nicotinic acetylcholine receptors, as a negative regulator of post-stroke neural plasticity. Lynx1 expression in layer 5 pyramidal neurons was transiently down-regulated and returned to normal levels in the peri-infarct area. Longitudinal intravital imaging revealed that Lynx1 suppression promoted synaptic clustering with increased dendritic spine turnover in the peri-infarct area, an emerging structural basis for memory formation. As anticipated, Lynx1 suppression improved spontaneous motor recovery and the efficacy of rehabilitation in the chronic phase after stroke. Furthermore, we developed a Lynx1 -targeting antisense oligonucleotide and found that its administration during the chronic phase after stroke enhanced the efficacy of rehabilitation. These findings suggest that dendritic spine dynamics in the peri-infarct area are a key determinant of rehabilitation responsiveness through the regulation of clustered spine formation and that Lynx1 may represent a promising therapeutic target for augmenting dendritic plasticity after stroke.",
+  "arxiv_id": null,
+  "authors": [
+    "Toru Nakanishi",
+    "Takahide Itokazu",
+    "Hiroshi Tsujioka",
+    "Nao Shibuya",
+    "Hirofumi Morishita",
+    "Toshihide Yamashita"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aed9140",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Turning down Lynx1 in mice restored rehabilitation gains in the chronic phase after stroke.",
+  "hook_turn": "in the chronic phase after stroke.",
+  "id": "doi-10.1126-sciadv.aed9140",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Lynx1 suppresses plasticity near the stroke damage. Lowering it increased dendritic spine turnover and improved motor recovery, and an antisense drug given late boosted rehabilitation. All results are in mice, so a benefit for human patients is unproven.",
+  "tags": [
+    "stroke",
+    "neural plasticity",
+    "rehabilitation"
+  ],
+  "title": "Lynx1 suppression reopens the window for effective rehabilitation after stroke in mice",
+  "url": "https://doi.org/10.1126/sciadv.aed9140",
+  "venue": "Science Advances"
+}

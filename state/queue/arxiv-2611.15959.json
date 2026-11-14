@@ -1,0 +1,52 @@
+{
+  "abstract": "The newly discovered trans-Neptunian object, 2026 ED138, is a strong dwarf planet candidate detected by the Vera C. Rubin Observatory. Despite its high intrinsic brightness, it evaded detection by previous sky surveys as it hid near crowded Galactic disk fields. Here, we present an analysis of precovery observations of 2026 ED138 in archival data from the Optical Gravitational Lensing Experiment (OGLE). We identify 102 reliable detections of the object as it moved across the dense regions of the Galactic plane and bulge between 2011 and 2024. We provide precise astrometric and photometric measurements of the object. Modeling its phase curve yields absolute magnitudes of H_I = 2.224 +/- 0.034 mag and H_V = 3.154 +/- 0.035 mag. Period analysis of the phase-angle-corrected light curve reveals a candidate rotation period of 1.18077 days and its 1-day alias 0.54066 days, although a low signal-to-noise ratio renders these periodicities tentative.",
+  "arxiv_id": "2611.15959",
+  "authors": [
+    "P. Mr\\'oz",
+    "A. Udalski",
+    "I. Soszy\\'nski",
+    "M.K. Szyma\\'nski",
+    "P. Pietrukowicz",
+    "R. Poleski",
+    "J. Skowron",
+    "K. Ulaczyk",
+    "M. Gromadzki",
+    "K. Rybicki",
+    "P. Iwanek",
+    "M. Wrona",
+    "M.J. Mr\\'oz"
+  ],
+  "categories": [
+    "astro-ph.EP",
+    "astro-ph.IM"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15959"
+  },
+  "hook": "Archive data from 2011 to 2024 reveal a dwarf planet candidate hidden in the Milky Way's dense star fields.",
+  "id": "arxiv-2611.15959",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Reliable OGLE detections of 2026 ED138",
+    "unit": "detections",
+    "value": "102"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Old OGLE survey images contain 102 detections of the new Rubin-found object 2026 ED138, which earlier surveys missed because it sat in crowded Galactic fields. These give precise positions and brightness, and an absolute magnitude of H_V = 3.154. A rotation period of 1.18077 days is a candidate only, since the signal is weak.",
+  "tags": [
+    "trans-neptunian objects",
+    "dwarf planets"
+  ],
+  "title": "OGLE Pre-discovery Observations of the Dwarf Planet Candidate 2026 ED138",
+  "url": "https://arxiv.org/abs/2611.15959",
+  "venue": "arXiv"
+}

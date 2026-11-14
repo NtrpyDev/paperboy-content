@@ -1,0 +1,42 @@
+{
+  "abstract": "Frequency-dependent radio time delays have been measured in Sgr A* light curves, with higher-frequency emission generally leading lower-frequency emission. These lags have been interpreted in terms of an organized jet-like outflow, expanding plasma components, or magnetic-flux eruptions, although their origin and recurrence remain uncertain. We aim to search for and quantify frequency-dependent radio time delays in a new high-cadence Karl G. Jansky Very Large Array (VLA) observation of Sgr A*. Using the improved broad 12-37 GHz frequency coverage, we measured the timing of the dominant variability feature and compared the resulting lag-wavelength slope with previous measurements. Sgr A* was observed with the VLA on 28 May 2022 in the Ku, K, and Ka bands over a 6-hour track. We extracted both band-averaged and 2 GHz subband light curves and measured the delays using a peak-time method and a locally normalized cross-correlation function. The light curves show one broad variability feature, with the maximum occurring progressively later at lower observing frequencies. Both timing methods recover a positive lag-wavelength relation, with a slope of order 40 min/cm. This value agrees with time lag results reported over more than 15 years from the first VLA observations at 22-43 GHz to later multifrequency VLA and ALMA campaigns. The sign and magnitude of the estimated delay are consistent with outward propagation through an optically thick synchrotron-emitting region. The recurrence of comparable delays over almost two decades suggests that frequency-dependent radio lags are a persistent feature of Sgr A* variability. Broadband, multi-epoch VLA monitoring of Sgr A* provides a useful probe of its radio variability, but robust lag measurements require high cadence and improved (u,v) coverage of both Sgr A* and the surrounding extended emission such as by combining different VLA configurations.",
+  "arxiv_id": "2611.15864",
+  "authors": [
+    "Noemi La Bella",
+    "Heino Falcke",
+    "Christiaan Brinkerink",
+    "Jesse Vos"
+  ],
+  "categories": [
+    "astro-ph.HE"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15864"
+  },
+  "hook": "Sgr A* radio flares peak later at lower frequencies, with a delay slope near 40 min/cm.",
+  "id": "arxiv-2611.15864",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Lag-wavelength slope in Sgr A* radio flare",
+    "unit": "min/cm",
+    "value": "~40"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A 6-hour VLA observation at 12 to 37 GHz shows one broad flare that peaks progressively later at lower frequencies. Two timing methods agree on a lag of order 40 min/cm, matching measurements from the past 15 years, which points to outward motion through an optically thick region. It rests on a single observation with one flare and limited coverage.",
+  "tags": [
+    "Sgr A*",
+    "radio astronomy"
+  ],
+  "title": "Frequency-dependent time delays in Sgr A* from a broadband VLA observation",
+  "url": "https://arxiv.org/abs/2611.15864",
+  "venue": "arXiv"
+}

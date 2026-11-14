@@ -1,0 +1,35 @@
+{
+  "abstract": "Let $\\mathcal A$ and $\\mathcal B$ be nonempty families of $k$-subsets of $\\{1,\\ldots,n\\}$ such that $|A\\cap B|\\ge t$ for all $A\\in\\mathcal A$ and $B\\in\\mathcal B$, and suppose that each family has fewer than $t$ common elements. For $k\\ge t+2\\ge4$ and $n\\ge(t+1)(k-t+1)$, we prove \\[ |\\mathcal A||\\mathcal B|\\le\\max\\{h_t(n,k)^2,b_t(n,k)^2\\}, \\] where \\[ h_t(n,k)=\\binom{n-t}{k-t}-\\binom{n-k-1}{k-t}+t,\\quad b_t(n,k)=(t+2)\\binom{n-t-2}{k-t-1}+\\binom{n-t-2}{k-t-2}. \\] The bound is sharp, and we characterize all extremal pairs, whose families have equal sizes but need not coincide. The proof combines clique lifts, exchanges of generating families and a density inequality for cross-intersecting uniform layers. This gives a product version of the Hilton--Milner--Frankl theorem throughout the Erd\\H{o}s--Ko--Rado range. In particular, it answers a question of Wen and Lv on whether a threshold of order $kt$ suffices for the sharp product bound.",
+  "arxiv_id": "2611.15327",
+  "authors": [
+    "Biao Wu",
+    "Huajun Zhang"
+  ],
+  "categories": [
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15327"
+  },
+  "hook": "The largest product of two cross-intersecting set families is pinned down exactly, for a wide range of sizes.",
+  "id": "arxiv-2611.15327",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper proves a sharp upper bound on the product of the sizes of two families of k-element sets that always overlap in at least t elements, when neither family shares a common core. It also describes every extremal pair. The proof uses exchange arguments and a density inequality. The result is pure combinatorics and needs k at least t+2 and n large enough.",
+  "tags": [
+    "extremal combinatorics",
+    "intersecting families"
+  ],
+  "title": "The maximum product of nontrivial cross $t$-intersecting families",
+  "url": "https://arxiv.org/abs/2611.15327",
+  "venue": "arXiv"
+}

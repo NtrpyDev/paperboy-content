@@ -1,0 +1,37 @@
+{
+  "abstract": "Geroprotective interventions are often assessed by extension of lifespan in ad libitum-fed mice. Increased lifespan could therefore reflect rescue of adverse phenotypes of unhealthy controls. We analysed body weight and survival for 33,780 mice in the Interventions Testing Program (ITP) to test whether treatment effects varied with body weight. In males, each added standard deviation of attained adult weight made treatment 6% more favourable (HR 0.94), more apparent for interventions that lowered body weight (HR 0.90). Median lifespan increase rose from 6.2% in mice in the lightest quartile to 20.2% in the heaviest pre-dosing weight quartile among those experiments, mainly because control survival declined more steeply with weight than that of the intervention group. The effect of body weight was consistent across 13 of 14 compounds and reflected weight attained during adulthood rather than in early life. Weight-dependence of intervention effects was weak in ITP females, possibly because median survival of controls exceeded that of every sampled non-ITP female control group. Amelioration of weight-associated risk is therefore implicated as a major contributor to lifespan increases relative to heavy, short-lived controls. The geroprotective effects of these interventions may thus be less apparent in metabolically healthier mice or humans.",
+  "arxiv_id": null,
+  "authors": [
+    "Bouvet, P.-E.",
+    "Partridge, L."
+  ],
+  "categories": [
+    "physiology"
+  ],
+  "doi": "10.64898/2026.11.10.765234",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/11/2026.11.10.765234.source.xml"
+  },
+  "hook": "Lifespan drugs in mice look strongest in heavy males, partly because heavy controls die early.",
+  "hook_turn": "partly because heavy controls die early.",
+  "id": "doi-10.64898-2026.11.10.765234",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Across 33,780 mice in the Interventions Testing Program, treatment gains in males grew with body weight, as heavier controls lost survival faster. Median lifespan gain rose from 6.2% in the lightest quartile to 20.2% in the heaviest. The effect was weak in females, and results are from mice and may not carry over to healthy humans.",
+  "tags": [
+    "aging",
+    "lifespan",
+    "mice"
+  ],
+  "title": "Body weight modifies the efficacy of lifespan-extending interventions in ad libitum-fed mice",
+  "url": "https://doi.org/10.64898/2026.11.10.765234",
+  "venue": "bioRxiv"
+}

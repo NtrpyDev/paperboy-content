@@ -1,0 +1,37 @@
+{
+  "abstract": "Abstract Chromium-catalyzed asymmetric Nozaki–Hiyama–Kishi (NHK) reaction is a powerful tool for constructing synthetically valuable enantioenriched homoallylic alcohols and allenols. However, catalytic asymmetric NHK-type coupling of allylic or propargylic C–O electrophiles remains largely underdeveloped. Herein, we report a photomediated chromium-catalyzed deoxygenative coupling of activated allylic and propargylic alcohols with aldehydes, enabling the synthesis of a variety of chiral homoallylic alcohols with wide structural diversity and allenols. The reactions were performed under mild conditions, and a wide range of synthetically useful functional groups was found to be well tolerated. Importantly, this method provides a straightforward way for the construction of homoallylic alcohols bearing a chiral quaternary carbon center with high ee and dr. Furthermore, stereodivergent access to all four homoallylic alcohol stereoisomers is realized through orthogonal combinations of Z/E-configured allylic alcohols and R/S-configured ligands. Combined experimental and computational mechanistic studies provided insight into the key catalytic intermediate and the origin of stereocontrol.",
+  "arxiv_id": null,
+  "authors": [
+    "Zhong-Xian Li",
+    "Jia-Cheng Wu",
+    "Jun-Jie Yang",
+    "Ying Li",
+    "Sheng-Ye Zhang",
+    "Jun Zhu"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c17367",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Light and chromium couple allylic alcohols to aldehydes, giving any of four stereoisomers on demand.",
+  "id": "doi-10.1021-jacs.6c17367",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "A photomediated chromium catalyst removes the oxygen from activated allylic and propargylic alcohols and joins them to aldehydes, making chiral homoallylic alcohols and allenols. Switching alkene geometry and ligand handedness selects each of four stereoisomers. Scope is limited to activated alcohols, and yields are not given in the abstract.",
+  "tags": [
+    "asymmetric catalysis",
+    "stereoselective synthesis"
+  ],
+  "title": "Photomediated Chromium-Catalyzed Regio-, Diastereo-, and Enantioselective Deoxygenative Coupling of Activated Allylic and Propargylic Alcohols with Aldehydes",
+  "url": "https://doi.org/10.1021/jacs.6c17367",
+  "venue": "Journal of the American Chemical Society"
+}

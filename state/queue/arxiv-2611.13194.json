@@ -1,0 +1,37 @@
+{
+  "abstract": "Many decisions rest on expert panels whose members have ties to some candidates, and favoritism is hard to tell from shared taste or better information. Using a rich dataset from figure skating, we find evidence of a strategic compatriot premium and a targeted penalty on the compatriot's close rivals. The premium falls along a randomly drawn start order and, before 2022/23, rises when close rivals have their own judges on the panel. The penalty grows with the compatriot's placement chances and fades once she is out of contention. A counterfactual analysis shows that these biases can shape close competitions.",
+  "arxiv_id": "2611.13194",
+  "authors": [
+    "Jialin Liu",
+    "Shu Shen"
+  ],
+  "categories": [
+    "econ.GN",
+    "q-fin.EC"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "social",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13194"
+  },
+  "hook": "Figure skating judges favor skaters from their own country and mark down that skater's close rivals.",
+  "hook_turn": "mark down that skater's close rivals.",
+  "id": "arxiv-2611.13194",
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Analyzing a large figure skating dataset, the authors find judges give compatriots a premium and penalize the compatriot's near rivals, more so when the rivals have judges of their own. The penalty fades when the compatriot is out of contention. Observational data cannot fully exclude differences in taste or information, and the findings cover one sport.",
+  "tags": [
+    "judging bias",
+    "economics"
+  ],
+  "title": "Taste or Strategy? Nationalistic Bias and Competitor Penalties in Figure Skating Judging",
+  "url": "https://arxiv.org/abs/2611.13194",
+  "venue": "arXiv"
+}

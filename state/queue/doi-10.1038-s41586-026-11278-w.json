@@ -1,0 +1,38 @@
+{
+  "abstract": "The global transition towards sustainable energy systems has identified tidal power as a uniquely predictable and substantial renewable energy resource1. However, the highly unsteady sea environment subjects turbines to severe hydrodynamic loads, greatly increasing capital and maintenance costs2,3. Large-scale state-of-the-art turbines at present rely on complex, expensive active pitch systems to mitigate these fluctuations. Here we present a reliable, passive alternative: flexible rubber blades featuring chordwise trailing-edge deformation. We experimentally demonstrate that these flexible blades achieve an equivalent total energy yield over simulated tidal cycles compared with rigid blades with active pitch control, while mitigating high-frequency fatigue-inducing load fluctuations by up to one-third. This passive load regulation arises from aeroelastic deformation that flattens blade camber under load, enabling structural robustness without added mechanical complexity. These findings suggest that chordwise-flexible blades can enhance the durability and performance of tidal turbines, offering a promising pathway towards more reliable and cost-effective tidal energy generation.",
+  "arxiv_id": null,
+  "authors": [
+    "Zhehong Zhang",
+    "Junchen Tan",
+    "Eric-Carin Neba",
+    "Sylvain Morival",
+    "Kuba Frankowski",
+    "Bertrand Daval",
+    "Ignazio Maria Viola"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41586-026-11278-w",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Flexible rubber blades match pitch-controlled tidal turbines in yield and cut fatigue loads up to a third.",
+  "id": "doi-10.1038-s41586-026-11278-w",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Rubber blades that bend at the trailing edge flatten under load, easing force swings without active pitch control. In lab tests over simulated tidal cycles, they gave equal energy yield to rigid actively pitched blades and up to one-third lower high-frequency loads. Results come from small-scale experiments, not a sea deployment.",
+  "tags": [
+    "tidal energy",
+    "turbine blades"
+  ],
+  "title": "Flexible rubber blades for tidal turbines.",
+  "url": "https://doi.org/10.1038/s41586-026-11278-w",
+  "venue": "Nature"
+}

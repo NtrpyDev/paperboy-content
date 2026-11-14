@@ -1,0 +1,61 @@
+{
+  "abstract": "The Hayabusa2 sample-return capsule entered the atmosphere over South Australia on 5 December 2020 at 12 km/s. A slitless spectral video, taken from the ground with a hand-tracked consumer camera, shows the capsule alone from 80 to 49 km. In the first ten seconds of heating the shock layer emits the CN violet system, the CH A-X band and the C$_2$ Swan bands, the latter for the first time in remote observations of a capsule entry. C$_2$ ($T_{\\rm rot}\\approx9200$ K, $T_{\\rm vib}\\approx7800$ K) and CN (about 7000 K) are far hotter than the surface. C$_2$ and CH disappear while the heat flux is still rising and CN persists, which we relate to the early pyrolysis of the carbon-phenolic ablator and to the changing boundary-layer chemistry. The colour temperature of the heat shield rises from 2720 to 3080 K, in agreement with airborne results. The radiated energy is one to two orders of magnitude below that of natural fireballs, because the light comes from the hot surface rather than from ablation vapour. A faint persistent train lights up about 1 s after the passage and fades within a few seconds, probably chemiluminescence in the cooling wake.",
+  "arxiv_id": "2611.16291",
+  "authors": [
+    "Shinsuke Abe",
+    "Hadrien A. R. Devillepoix",
+    "Eleanor K. Sansom",
+    "Masa-yuki Yamamoto",
+    "Satoshi Tanaka",
+    "Yoshiaki Ishihara",
+    "Kazuhisa Fujita",
+    "Makoto Yoshikawa",
+    "Martin C. Towner",
+    "Martin Cup\\'ak",
+    "Kei-ichi Okuyama",
+    "Takumi Ogawa",
+    "Amane Uda",
+    "Satoshi Nozawa",
+    "Yoshihiro Hiramatsu",
+    "Taichi Kawamura",
+    "Norihisa Segawa",
+    "Yoshihiro Kakinami",
+    "Andrew Cool",
+    "Geoffrey Bonning",
+    "Hirohide Demura"
+  ],
+  "categories": [
+    "astro-ph.EP",
+    "astro-ph.IM",
+    "physics.space-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16291"
+  },
+  "hook": "A hand-tracked camera caught C2 Swan emission from Hayabusa2's capsule re-entry for the first time.",
+  "id": "arxiv-2611.16291",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "C2 rotational temperature in shock layer",
+    "unit": "K",
+    "value": "~9200"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A slitless spectral video from the ground shows the capsule's shock layer glowing with CN, CH, and C2 bands during entry at 12 km/s. C2 and CN are far hotter than the heat shield surface, and the light output is one to two orders of magnitude below natural fireballs. It covers one entry, and the explanation via ablator pyrolysis is an interpretation.",
+  "tags": [
+    "atmospheric entry",
+    "Hayabusa2"
+  ],
+  "title": "C$_2$ Swan, CH and CN emission, surface temperature and luminous efficiency of the Hayabusa2 sample-return capsule from ground-based spectroscopy",
+  "url": "https://arxiv.org/abs/2611.16291",
+  "venue": "arXiv"
+}

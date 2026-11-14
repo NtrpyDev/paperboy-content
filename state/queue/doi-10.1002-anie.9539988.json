@@ -1,0 +1,42 @@
+{
+  "abstract": "Optimizing the performance of metal oxide catalysts centers upon the ability to engineer crystal facets to elicit improved activity and selectivity. Here, we advance the structure-performance relationships in MgO catalysts exposing {100}, stepped {100}, and {111} facets using oxidative coupling of methane as a benchmark reaction to probe surface-sensitive chemistries. The transient catalytic behavior of the structurally robust {111}-faceted MgO octahedra consistently outperforms their conventional counterparts over a range of reaction conditions. Kinetic analysis, operando Raman spectroscopy, and ab initio calculations indicate that surface-bound molecular oxygen on MgO{111} assists methane C-H activation and contributes to enhanced C2+ formation, while the transient behavior is attributed to its consumption during reaction. Facile oxidative regeneration replenishes these species and restores the initial reactive state, enabling sustained reaction-regeneration cycling. These findings show a distinctive catalytic function of MgO{111} surfaces as dynamic molecular oxygen reservoirs, underscoring the advantages of engineering metal oxides with well-designed surface structures.",
+  "arxiv_id": null,
+  "authors": [
+    "Han Chang Kwon",
+    "Riccardo Colombo",
+    "Mariano D Susman",
+    "Matteo Ferri",
+    "Hien N Pham",
+    "David H West",
+    "Sivadinarayana Chinta",
+    "Abhaya K Datye",
+    "Chiara Negri",
+    "Matteo Maestri",
+    "Jeffrey D Rimer"
+  ],
+  "categories": [],
+  "doi": "10.1002/anie.9539988",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "MgO crystal faces of one shape store molecular oxygen that helps break methane's C-H bonds.",
+  "id": "doi-10.1002-anie.9539988",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Magnesium oxide octahedra exposing {111} faces beat conventional MgO in turning methane into larger hydrocarbons. Kinetics, operando Raman spectroscopy, and quantum calculations point to oxygen molecules held on the surface that are used up during reaction and refilled by oxidation. The mechanism rests partly on calculations, and the test reaction is one benchmark.",
+  "tags": [
+    "catalysis",
+    "methane conversion"
+  ],
+  "title": "MgO Facets as Regenerable Molecular Oxygen Reservoirs in Oxidative Coupling of Methane.",
+  "url": "https://doi.org/10.1002/anie.9539988",
+  "venue": "Angewandte Chemie International Edition"
+}

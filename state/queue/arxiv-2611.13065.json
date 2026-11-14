@@ -1,0 +1,44 @@
+{
+  "abstract": "We take a first step toward a broader study of classical combinatorial optimization problems through the maximum subdeterminants of their standard integer programming formulations, yielding new positive results for several famous (NP-hard) problems. An integer matrix is totally $\\Delta$-modular if every square submatrix has determinant of absolute value at most $\\Delta$. For every fixed $\\Delta$, it has been known that maximum clique, maximum stable set, and minimum vertex cover can be solved in polynomial time on instances for which the coefficient matrix of the natural formulation is totally $\\Delta$-modular. We extend this list by showing that the same holds for many other problems, including the weighted versions of maximum cut, the traveling salesman problem, feedback vertex set, odd cycle transversal, dominating set, max 2-sat, induced matching, and cluster vertex deletion, as well as for $k$-colorability and graph isomorphism. Our proofs reveal several new ways in which bounded subdeterminants impose combinatorial structure: they bound the size or maximum degree of the input graph, bound packings of cycles and other obstructions, or yield decompositions into tractable graph classes such as forests, chordal graphs, graphs of bounded treewidth, and graphs of bounded linear mim-width.",
+  "arxiv_id": "2611.13065",
+  "authors": [
+    "Samuel Fiorini",
+    "J. Pascal Gollin",
+    "Tony Huynh",
+    "Simon Keil",
+    "O-joung Kwon",
+    "Sang-il Oum",
+    "Roohani Sharma",
+    "Stefan Weltge"
+  ],
+  "categories": [
+    "cs.DS",
+    "cs.DM",
+    "math.CO",
+    "math.OC"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13065"
+  },
+  "hook": "Bounded subdeterminants make many NP-hard problems, from max cut to TSP, solvable in polynomial time.",
+  "id": "arxiv-2611.13065",
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For integer programs whose constraint matrices have bounded subdeterminants, the authors show many famous hard problems become tractable, extending known results for clique and stable set. The proofs show such bounds force graphs into simple structures like bounded treewidth. The result holds only for instances whose standard formulation has a fixed bound.",
+  "tags": [
+    "combinatorial optimization",
+    "complexity"
+  ],
+  "title": "Combinatorial optimization with bounded subdeterminants",
+  "url": "https://arxiv.org/abs/2611.13065",
+  "venue": "arXiv"
+}

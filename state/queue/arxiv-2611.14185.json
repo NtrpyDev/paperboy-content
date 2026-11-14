@@ -1,0 +1,52 @@
+{
+  "abstract": "Several unconventional superconducting phases have been discovered in the vicinity of metamagnetism in the heavy-fermion paramagnet UTe$_2$ under magnetic field. To describe the mechanism of magnetic-field-induced superconductivity, a challenge is to characterize the quantum critical magnetic properties at the metamagnetic transition. In this work, we investigate the thermodynamic properties of UTe$_2$ under magnetic fields up to 60~T applied in the crystallographic $\\mathbf{b}-\\mathbf{c}$ plane. Magnetization and magnetostriction experiments have been performed under magnetic fields tilted by an angle $\\theta\\lesssim42^\\circ$ from $\\mathbf{b}$ toward $\\mathbf{c}$. They support that a quantum critical endpoint at the field angle $\\theta_{QCEP}\\simeq(70\\pm10)^\\circ$ and magnetic field $\\mu_0H_{QCEP}\\simeq(75\\pm10)$~T terminates the metamagnetic transition line. A pseudo-gap in the magnetic susceptibility is related with the metamagnetic transition observed in magnetic fields for $\\theta<\\theta_{QCEP}$. The possible relation between the quantum critical endpoint and the development of magnetic-field-induced superconductivity is discussed.",
+  "arxiv_id": "2611.14185",
+  "authors": [
+    "M. Gen",
+    "K. Somesh",
+    "A. Miyake",
+    "D. Li",
+    "Z. Yang",
+    "A. Miyata",
+    "Y. Kohama",
+    "M. Kondo",
+    "M. Tokunaga",
+    "D. Aoki",
+    "W. Knafo"
+  ],
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14185"
+  },
+  "hook": "Magnetization data point to a quantum critical endpoint near 75 tesla ending UTe2's metamagnetic transition.",
+  "hook_turn": "ending UTe2's metamagnetic transition.",
+  "id": "arxiv-2611.14185",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Field of the quantum critical endpoint in UTe2",
+    "unit": "tesla",
+    "value": "75"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Magnetization and magnetostriction measurements on UTe2 in pulsed fields up to 60 T, tilted in the b-c plane, suggest the metamagnetic transition line ends at a quantum critical endpoint near 75 T and 70 degrees from b. A pseudo-gap in susceptibility accompanies the transition. The endpoint lies above the measured field range, so it is extrapolated, and its link to field-induced superconductivity is only discussed.",
+  "tags": [
+    "superconductivity",
+    "UTe2",
+    "quantum criticality"
+  ],
+  "title": "Thermodynamic signatures of a nearby quantum critical endpoint in UTe$_2$ under intense magnetic field",
+  "url": "https://arxiv.org/abs/2611.14185",
+  "venue": "arXiv"
+}

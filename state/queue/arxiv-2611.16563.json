@@ -1,0 +1,36 @@
+{
+  "abstract": "Qudits, which generalize qubits to $d$ levels, store more information per circuit element than qubits. As with qubits, however, their sensitivity to noise must be overcome before they can be used for fault-tolerant quantum computing. Here we show that, by exploiting the second harmonic of the current--phase relation, a superconducting loop of three Josephson junctions can host qutrits strongly protected against relaxation, while dephasing limits their coherence. When the second harmonic is positive, a simple loop with a small asymmetry between the junctions provides a tunable, symmetry-protected qutrit. When it is negative, a protected qutrit can be realized by adding a small symmetry-breaking term, such as a weak Josephson diode effect. The two designs involve different trade-offs: the first has an exact charge selection rule, whereas the second is nearly insensitive to charge noise and its quasiparticle errors can be corrected. The preferable choice therefore depends on the materials used. Both require a sizable second harmonic to begin with, and we identify altermagnetic Josephson junctions as a candidate platform. Finally, microscopic calculations show that a gate voltage selects the sign of the second harmonic in these junctions, although gate-voltage noise then becomes the leading source of dephasing. These findings establish the sign of the second harmonic as a design principle for protected superconducting qudits.",
+  "arxiv_id": "2611.16563",
+  "authors": [
+    "Hamed Vakili"
+  ],
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mes-hall",
+    "quant-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16563"
+  },
+  "hook": "A three-junction superconducting loop can host qutrits protected from relaxation, in theory.",
+  "id": "arxiv-2611.16563",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Calculations show that a loop of three Josephson junctions can encode a three-level quantum unit shielded from energy loss, using the second harmonic of the current-phase relation. Designs differ by the sign of that harmonic, and altermagnetic junctions are proposed as a platform. This is theory only, it needs a large second harmonic, and dephasing remains the limit, with gate-voltage noise as the main source.",
+  "tags": [
+    "superconducting qudits",
+    "Josephson junctions"
+  ],
+  "title": "Noise-Protected Superconducting Qudits from Higher-Harmonic Josephson Junctions",
+  "url": "https://arxiv.org/abs/2611.16563",
+  "venue": "arXiv"
+}

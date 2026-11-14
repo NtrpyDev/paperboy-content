@@ -1,0 +1,38 @@
+{
+  "abstract": "We prove that every finite quotient of a finite covolume Kleinian group $G$ can be realized by a surface subgroup. More precisely, given an epimorphism from $G$ onto a finite group $F$, there exists a surface subgroup that maps surjectively onto $F$. As a consequence, the union of the surface subgroups is dense in $G$ with respect to the profinite topology. We also apply this result to obtain more examples of atoroidal surface bundles with signature zero in the construction of Kent--Leininger.",
+  "arxiv_id": "2611.13458",
+  "authors": [
+    "Jean-Fran\\c{c}ois Lafont",
+    "Zhenghao Rao",
+    "Hongbin Sun"
+  ],
+  "categories": [
+    "math.GT",
+    "math.GR"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13458"
+  },
+  "hook": "Every finite quotient of a finite-volume hyperbolic 3-manifold group is realized by a surface subgroup",
+  "hook_turn": "is realized by a surface subgroup",
+  "id": "arxiv-2611.13458",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove that for a finite covolume Kleinian group, any surjection onto a finite group can be achieved by a surface subgroup. So surface subgroups are dense in the group's profinite topology. They also use this to build more atoroidal surface bundles with signature zero. The result is a theoretical existence proof with no explicit construction in the abstract.",
+  "tags": [
+    "kleinian groups",
+    "geometric group theory"
+  ],
+  "title": "Surface subgroups with prescribed finite quotients",
+  "url": "https://arxiv.org/abs/2611.13458",
+  "venue": "arXiv"
+}

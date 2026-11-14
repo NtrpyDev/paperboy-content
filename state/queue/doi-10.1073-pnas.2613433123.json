@@ -1,0 +1,47 @@
+{
+  "abstract": "The electron transport chain is a signaling hub for hydrogen sulfide (H2S) that serves both as a respiratory substrate and an inhibitor. While acute sulfide toxicity is well characterized, cellular adaptations to chronic H2S, particularly microbially-derived sulfide exposure in colon, is poorly understood. We report that chronic, low-level H2S exposure (4 to 20 µM) drives robust carbon sequestration in lipid droplets (LD) across several human cell lines, driven by a coordinated remodeling of redox and nucleotide metabolism. Specifically, H2S-induced reductive shifts in nicotinamide adenine dinucleotide (NAD) and coenzyme Q (CoQ) pools are accompanied by glycerol-3-phosphate accumulation and cytidine triphosphate (CTP) depletion. Lipidomic analysis reveals increased neutral lipid synthesis and triacylglyceride accumulation concomitant with decreased CTP-dependent synthesis of membrane phospholipids. Mitochondrial expression of a water-generating NADH oxidase attenuates LD accumulation and spatially confines the origin of H2S-induced reductive stress signaling to this compartment. Interestingly, LD abundance increases even after H2S withdrawal, continuing over 48 h, during which time the reductively-shifted NAD and CoQ pools slowly reoxidize. Inhibition of fatty acid synthesis during sulfide exposure impairs cellular recovery of respiration. These findings establish an active role for LDs in stress response and reveal that lipid biogenesis is a strategy for countering H2S-induced redox imbalance. The sulfide-LD-redox axis uncovered in this study has implications for understanding how gut-derived H2S, shaped by diet and microbiome, can influence metabolic health.",
+  "arxiv_id": null,
+  "authors": [
+    "David A Hanna",
+    "Roshan Kumar",
+    "Yuanyuan Ji",
+    "Harrison K A Wong",
+    "Costas A Lyssiotis",
+    "Jace W Jones",
+    "Ruma Banerjee"
+  ],
+  "categories": [
+    "Mitochondria",
+    "Humans",
+    "Hydrogen Sulfide",
+    "Ubiquinone",
+    "NAD",
+    "Oxidation-Reduction",
+    "Lipid Droplets"
+  ],
+  "doi": "10.1073/pnas.2613433123",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Low-level hydrogen sulfide makes human cells store carbon in lipid droplets to ease redox stress.",
+  "hook_turn": "to ease redox stress.",
+  "id": "doi-10.1073-pnas.2613433123",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Chronic low-level hydrogen sulfide pushed several human cell lines into a reduced redox state and shifted metabolism toward storing fat in lipid droplets. Blocking fatty acid synthesis hampered recovery of respiration. The work used cultured cell lines, so effects on gut or whole-body metabolism are not shown.",
+  "tags": [
+    "hydrogen sulfide",
+    "lipid metabolism"
+  ],
+  "title": "Lipid droplets buffer hydrogen sulfide-induced redox imbalance.",
+  "url": "https://doi.org/10.1073/pnas.2613433123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

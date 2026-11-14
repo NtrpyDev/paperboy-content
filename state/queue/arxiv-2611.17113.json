@@ -1,0 +1,37 @@
+{
+  "abstract": "We study quasi-isometry classes of automorphism groups of K3 surfaces using Sierpi\\'nski spaces. We introduce K3 surfaces of Sierpi\\'nski type and prove that their limit sets are round Sierpi\\'nski spaces. For such K3 surfaces, the quasi-isometry class of the automorphism group is equivalent to the rational isometry class of the N\\'eron--Severi lattice together with its integral roots. As an application of this rigidity, we construct infinitely many quasi-isometry classes of hyperbolic automorphism groups in Picard rank 4. This reveals a new phenomenon in Picard rank 4, sharply contrasting with the finiteness of quasi-isometry classes in Picard ranks at most 3 and at least 6.",
+  "arxiv_id": "2611.17113",
+  "authors": [
+    "Kohei Kikuta"
+  ],
+  "categories": [
+    "math.AG",
+    "math.GR",
+    "math.GT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17113"
+  },
+  "hook": "Infinitely many distinct quasi-isometry classes of K3 surface automorphism groups exist in Picard rank 4.",
+  "hook_turn": "exist in Picard rank 4.",
+  "id": "arxiv-2611.17113",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For K3 surfaces whose limit sets are round Sierpinski spaces, the large-scale shape of the automorphism group is fixed by the rational isometry class of a lattice plus its integral roots. Using this rigidity, the author builds infinitely many inequivalent hyperbolic groups in Picard rank 4. That contrasts with finitely many classes in ranks at most 3 and at least 6. The result covers only the special Sierpinski type.",
+  "tags": [
+    "K3 surfaces",
+    "geometric group theory"
+  ],
+  "title": "Quasi-isometry classes of automorphism groups of K3 surfaces via Sierpi\\'nski spaces",
+  "url": "https://arxiv.org/abs/2611.17113",
+  "venue": "arXiv"
+}

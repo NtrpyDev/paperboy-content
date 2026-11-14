@@ -1,0 +1,48 @@
+{
+  "abstract": "Abstract Four-electron iodine redox chemistry offers a high theoretical specific energy of ~1324 Wh kgI −1 , yet its practical realization is fundamentally limited by the conflicting demands of rapid I 0 /I + oxidation, effective suppression of iodine shuttling, and stabilization of highly reactive I + species. Here we report a redox-active, Lewis acid/base-tunable phthalimide that resolves these constraints through a single-molecule polarity-switching mechanism. Upon electrochemical oxidation, electrophilic phthalimide δ+ strongly interacts with nucleophilic iodine and polyiodide species, concurrently suppressing polyiodide shuttling and promoting their conversion to I + . The consecutively generated phthalimide δ− acts as a nucleophilic stabilizer for the resulting I + species. This electrochemically driven polarity switching of phthalimide enables flexible four-electron Li-I 2 pouch cells that deliver ~400 mAh gI −1 capacity, a specific energy exceeding 1200 Wh kgI −1 , a high cathode-level specific energy ( ~ 883.4 Wh kg(cathode) −1 ), and stable cycling over 1000 cycles. The successful integration of these cells into wearable wireless charging and motion-sensing systems demonstrates the potential of polarity-switchable iodine chemistry for next-generation flexible energy-storage devices.",
+  "arxiv_id": null,
+  "authors": [
+    "Lei Huang",
+    "Zhehan Yi",
+    "Tao Xiao",
+    "Jin-Lin Yang",
+    "Zefang Yang",
+    "Yiren Cheng",
+    "Shixing Yuan",
+    "Wulong Li",
+    "Long Chen",
+    "Xuhui Zhou",
+    "Hong Jin Fan",
+    "Lei Wei"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-79413-9",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A switchable phthalimide lets lithium-iodine pouch cells store over 1200 Wh per kg of iodine.",
+  "id": "doi-10.1038-s41467-026-79413-9",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Specific energy of Li-I2 pouch cell",
+    "unit": "Wh per kg iodine",
+    "value": ">1200"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "A phthalimide additive flips between electron-poor and electron-rich states during charging, trapping iodine species and stabilizing the reactive I+ form. Flexible pouch cells using it kept stable cycling over 1000 cycles. The headline energy is per mass of iodine, and the cathode-level figure is 883.4 Wh per kg.",
+  "tags": [
+    "batteries",
+    "iodine"
+  ],
+  "title": "Switchable nucleophile-electrophile chemistry enables functional four-electron Li-I2 batteries",
+  "url": "https://doi.org/10.1038/s41467-026-79413-9",
+  "venue": "Nature Communications"
+}

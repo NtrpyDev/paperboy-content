@@ -1,0 +1,40 @@
+{
+  "abstract": "A suppression of the baryonic $\\Lambda(1520)$ resonance yield relative to the $\\Lambda$ ground state by $0.589 \\pm 0.015^{\\rm stat} \\pm 0.086^{\\rm syst}$ is observed in central relative to peripheral Pb-Pb collisions, with a significance of $6.8\\sigma$. The $\\Lambda(1520)$ production at midrapidity is measured in six centrality classes in Pb-Pb collisions for the first time at $\\sqrt{s_{\\rm NN}} = 5.02$ TeV with ALICE. The $\\Lambda(1520)$ is a sensitive probe of late-stage hadronic interactions since its lifetime is comparable to that of the hadronic phase in heavy-ion collisions at the LHC. Statistical hadronization model calculations, predicting yields at chemical freeze-out, overestimate the measured ratio. The transverse-momentum spectra and the centrality dependence of the suppression are reproduced by the MUSIC hydrodynamic model only when coupled to the SMASH hadronic transport afterburner, which implements rescattering and regeneration in the late hadronic stage. The measurement, which represents the first observation of resonance suppression within a single collision system, provides a stringent test of the late-stage dynamics and evidence that hadronic interactions substantially modify reconstructible resonance yield.",
+  "arxiv_id": "2611.17010",
+  "authors": [
+    "ALICE Collaboration"
+  ],
+  "categories": [
+    "nucl-ex"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17010"
+  },
+  "hook": "Lambda(1520) particles are suppressed in central Pb-Pb collisions, pointing to a late hadronic phase.",
+  "hook_turn": "pointing to a late hadronic phase.",
+  "id": "arxiv-2611.17010",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Significance of Lambda(1520) suppression",
+    "unit": "sigma",
+    "value": "6.8"
+  },
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "ALICE measured the short-lived Lambda(1520) in six centrality classes of Pb-Pb collisions at 5.02 TeV. Relative to peripheral collisions, its yield per Lambda is suppressed in central ones at 6.8 sigma, matching a model with a hadronic rescattering stage. The interpretation depends on that model, and the statistical hadronization model alone overestimates the ratio.",
+  "tags": [
+    "heavy-ion collisions",
+    "quark-gluon plasma"
+  ],
+  "title": "Observation of the $\\Lambda(1520)$ suppression in Pb-Pb collisions at $\\sqrt{s_{\\rm NN}} = 5.02$ TeV",
+  "url": "https://arxiv.org/abs/2611.17010",
+  "venue": "arXiv"
+}

@@ -1,0 +1,40 @@
+{
+  "abstract": "The coercivity conjecture for nonlocal energies asks whether uniform ellipticity implies $H^s$-coercivity for symmetric nonlocal kernels of order $2s$, with $0<s<1$. We show that the conjecture fails whenever $n>2s$ for every $s \\in (0,1)$ and $n \\geq 1$, even for smooth compactly supported test functions; for $n=1$ and $s>1/2$, we show that it holds. The construction also gives bounded discontinuous weak solutions in $H^s_{\\rm loc}$ to nonlocal equations in divergence form with kernels in this class. Despite the failure, we show that the conjecture holds for several important classes of kernels. We establish a general local coercivity criterion based on annular cancellation, which applies in particular to kernels satisfying both divergence- and nondivergence-form symmetry. The criterion also allows us to treat kernels comparable to stable kernels with bounded measurable coefficients, as well as non-cutoff Boltzmann kernels under a geometric nonconcentration assumption. As an application, we obtain a short and self-contained proof of the Gressman--Strain anisotropic coercivity estimate. Furthermore, by combining our new criterion with existing regularity results, we obtain H\\\"older estimates under ellipticity and cancellation assumptions.",
+  "arxiv_id": "2611.16682",
+  "authors": [
+    "Linus Behn",
+    "Roberto Colombo",
+    "Xavier Fern\\'andez-Real",
+    "Florian Grube",
+    "Harsh Prasad",
+    "Xavier Ros-Oton"
+  ],
+  "categories": [
+    "math.AP"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16682"
+  },
+  "hook": "The nonlocal coercivity conjecture is false in general, yet holds for several key kernel classes.",
+  "hook_turn": "yet holds for several key kernel classes.",
+  "id": "arxiv-2611.16682",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors build counterexamples showing that uniform ellipticity does not force H^s coercivity whenever n > 2s, and the same construction gives discontinuous weak solutions. They then prove the claim for several important kernel classes using an annular cancellation criterion, which also gives a short proof of a known anisotropic estimate. The positive results need extra assumptions on the kernels.",
+  "tags": [
+    "nonlocal equations",
+    "PDE"
+  ],
+  "title": "The coercivity conjecture for nonlocal energies",
+  "url": "https://arxiv.org/abs/2611.16682",
+  "venue": "arXiv"
+}

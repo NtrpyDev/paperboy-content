@@ -1,0 +1,39 @@
+{
+  "abstract": "We construct the largest $r$-flower-free system of $k$-uniform sets for $k=3, r=4$ where every element of the ground set $G$ is used at least once. The goal is to maximize $|G|$, also called the span. We define $\\mathrm{sp}(k, r)$ to be the maximum $|G|$ for such a system. We show that $\\mathrm{sp}(3, 4) = 39$, which yields an improved upper bound $f(3, 4) \\leq 130$, improving upon the Erd\\H{o}s--Rado bound of $f(3, 4) \\leq 162$.",
+  "arxiv_id": "2611.13495",
+  "authors": [
+    "Kyle Wood"
+  ],
+  "categories": [
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13495"
+  },
+  "hook": "The largest ground set for 4-sunflower-free triple systems is 39, tightening a bound from 162 to 130",
+  "hook_turn": "tightening a bound from 162 to 130",
+  "id": "arxiv-2611.13495",
+  "license": "cc-by-sa",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Maximum span, 3-uniform 4-flower-free systems",
+    "value": "39"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For systems of 3-element sets with no 4-petal sunflower, the paper shows the maximum ground-set size (span) is exactly 39. This lowers the upper bound f(3,4) from the Erdos-Rado value of 162 to 130. It settles only the case k=3, r=4.",
+  "tags": [
+    "extremal combinatorics",
+    "sunflowers"
+  ],
+  "title": "The Largest Ground Set for Sunflower-Free Systems",
+  "url": "https://arxiv.org/abs/2611.13495",
+  "venue": "arXiv"
+}

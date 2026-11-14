@@ -1,0 +1,38 @@
+{
+  "abstract": "How the expression dynamics of cell fate transcription factors relate to emerging cell identities is not well understood. The axolotl limb is a powerful model for investigating the acquisition of cell fate: during development, the limb mesenchyme differentiates into multiple cell types; during regeneration, missing cell types are reconstituted. Here, we investigate the expression of SOX9, a transcription factor widely regarded as a ''master regulator'' of cartilage cell fate. By genetically fate mapping Sox9-expressing cells during development, we found that they give rise to two populations: cells that retain Sox9 expression and become cartilage or perichondrial cells, and cells that extinguish Sox9 expression and acquire alternative identities, such as dermal or interstitial fibroblasts. These populations differ in their contributions to regeneration: cells that retained Sox9 expression contribute little to skeletal regeneration, while cells that downregulated Sox9 contribute extensively, can reinitiate Sox9 expression and form new cartilage. We found that transiently Sox9-expressing cells are also present during early limb regeneration. Together, our findings link sustained or transient expression of a cartilage ''master regulator'' to distinct cell fates and subsequent contributions to skeletal regeneration.",
+  "arxiv_id": null,
+  "authors": [
+    "Bozkurt, M. N.",
+    "Otsuki, L.",
+    "Tanaka, E. M."
+  ],
+  "categories": [
+    "developmental biology"
+  ],
+  "doi": "10.64898/2026.11.10.765670",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/12/2026.11.10.765670.source.xml"
+  },
+  "hook": "Axolotl limb cells that switch off the cartilage gene Sox9 contribute most to skeletal regeneration",
+  "hook_turn": "contribute most to skeletal regeneration",
+  "id": "doi-10.64898-2026.11.10.765670",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Fate mapping of Sox9-expressing cells in axolotl limbs showed some keep Sox9 and become cartilage, while others turn it off and become fibroblasts. After limb loss, cells that had turned Sox9 off contributed far more to skeletal regeneration and could switch it back on. The work is in one species, and the molecular control of the switch is not resolved.",
+  "tags": [
+    "regeneration",
+    "axolotl",
+    "cell fate"
+  ],
+  "title": "Reversible expression of a cartilage 'master regulator' during axolotl limb development and regeneration",
+  "url": "https://doi.org/10.64898/2026.11.10.765670",
+  "venue": "bioRxiv"
+}

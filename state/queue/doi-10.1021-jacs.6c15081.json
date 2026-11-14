@@ -1,0 +1,40 @@
+{
+  "abstract": "Abstract The search for selective anion receptors that can function in water is a longstanding challenge in supramolecular chemistry, motivated by anions’ fundamental roles (and potential applications) in biological, environmental, and industrial processes. Here, we incorporate halogen and hydrogen bond donors into an easy-to-prepare organic cage molecule and demonstrate that this can bind anions at either or both of a halogen-bonding pocket and hydrogen-bonding pockets depending on the nature of the anions and the solvent. The halogen-bonding pocket comprising six bromopyridinium donors is a potent host for iodide anions and can selectively bind this guest in water as strongly as biological iodide binders (Ka = 43,000 M–1 measured by 1H NMR spectroscopy) with the exclusion of other halide anions. In DMSO/water mixtures, the hydrogen-bonding pockets are able to recognize chloride anions, resulting in the formation of mixed anion iodide/chloride complexes with an iodide bound in the center of the cage and chlorides in the peripheral binding sites. This demonstrates the exquisite selectivity afforded by halogen-bonding systems and reveals a general route to a range of supramolecular anion hosts that bind multiple guests in different locations.",
+  "arxiv_id": null,
+  "authors": [
+    "Bailee R. Smith",
+    "Rosemary J. Goodwin",
+    "Nicholas G. White"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c15081",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A cage molecule binds iodide in water as tightly as biological binders, ignoring other halides.",
+  "hook_turn": "ignoring other halides.",
+  "id": "doi-10.1021-jacs.6c15081",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Iodide binding constant in water",
+    "unit": "M-1",
+    "value": "43,000"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "An organic cage with halogen-bond and hydrogen-bond pockets binds iodide at its center and chloride at the edges in DMSO/water mixtures. Binding strength was measured by NMR. Selectivity in pure water was shown for halides only.",
+  "tags": [
+    "supramolecular chemistry",
+    "anion binding"
+  ],
+  "title": "Simultaneous Selective Recognition of Two Different Anions within a Hydrogen/Halogen-Bonding Cage",
+  "url": "https://doi.org/10.1021/jacs.6c15081",
+  "venue": "Journal of the American Chemical Society"
+}

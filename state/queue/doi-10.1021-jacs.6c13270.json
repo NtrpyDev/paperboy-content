@@ -1,0 +1,36 @@
+{
+  "abstract": "Abstract Three-dimensional porous electrodes, such as those in membrane electrode assemblies, are widely employed in electrochemical devices due to their high surface area and achievable current density. The heterogeneous internal structure of the porous electrode microenvironment engenders local concentration gradients owing to mass transport constraints. Localized microenvironments with properties distinct from those of the bulk solution are especially prevalent for electrocatalytic reactions that produce or consume protons, as local basic or acidic environments may significantly influence the energy efficiency and selectivity of proton-coupled electron transfer reactions that are necessary for small-molecule activation. Here, we develop an operando method employing polymer-bound fluorescent sensors (PFS) to directly quantify local pH and the internal proton gradient in a porous electrode for the oxygen evolution reaction catalyzed by IrOx supported on indium-tin oxide (ITO). The PFS uncovers notable pH gradients within a 3-μm-thick layer of the OER electrode in unbuffered electrolyte, even at low current density. Proton transport dynamics were found to be influenced significantly by the proton adsorption properties of the ITO support, revealing a previously unrecognized role of the oxide support in modifying the local pH gradient. The PFS method should prove useful in the study and evaluation of electrochemical devices, including fuel cells, bipolar and other ion-conducting membranes, and electrolyzers.",
+  "arxiv_id": null,
+  "authors": [
+    "Zhifei Yan",
+    "Daniel M. Loh",
+    "Rui Sun",
+    "Daniel G. Nocera"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c13270",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Fluorescent sensors show sharp pH gradients inside a working water-splitting electrode, even at low current.",
+  "hook_turn": "even at low current.",
+  "id": "doi-10.1021-jacs.6c13270",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Polymer-bound fluorescent sensors measured local pH during the oxygen evolution reaction inside a 3-micrometer IrOx/ITO electrode layer. They found notable gradients in unbuffered electrolyte, shaped by how the ITO support adsorbs protons. The result covers one electrode type in unbuffered conditions, not real devices.",
+  "tags": [
+    "electrochemistry",
+    "water splitting"
+  ],
+  "title": "Operando pH Measurements of OER within a Porous Oxygen-Evolving Electrode",
+  "url": "https://doi.org/10.1021/jacs.6c13270",
+  "venue": "Journal of the American Chemical Society"
+}

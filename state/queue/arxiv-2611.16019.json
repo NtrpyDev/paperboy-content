@@ -1,0 +1,54 @@
+{
+  "abstract": "We report the discovery of ZTF J2229+1928, a detached and eclipsing DA double white dwarf binary in a 23-minute orbit. The system was identified in a GPU-accelerated search of ZTF photometry and confirmed through follow-up observations with the high speed imager proto-Lightspeed on the 6.5-meter Magellan Clay telescope. Combining the proto-Lightspeed eclipse model with mass-radius relations gives component radii and masses of $R_1 = 0.0146^{+0.0009}_{-0.0008} \\, R_\\odot$, $R_2 = 0.0186^{+0.0010}_{-0.0008} \\, R_\\odot$, and $M_1 = 0.49^{+0.08}_{-0.07} \\, M_\\odot$, $M_2 = 0.37^{+0.06}_{-0.05} \\, M_\\odot$. Fitting the Keck/LRIS spectra gives component temperatures of approximately $11,100$ K and $8,200$ K, and scaling this model to the broadband spectral energy distribution gives a distance of $\\sim965$ pc. Its short orbital period places it firmly in the millihertz gravitational-wave regime, and we estimate an expected signal-to-noise ratio $\\mathrm{SNR} \\approx 5.3$ with the upcoming LISA mission over its nominal four-year duration. ZTF J2229+1928 thus adds to the small but growing sample of eclipsing ultracompact binaries that will serve as important sources for future space-based gravitational-wave observatories.",
+  "arxiv_id": "2611.16019",
+  "authors": [
+    "Viktoriia Voitiuk",
+    "Aaron Householder",
+    "Kevin B. Burdge",
+    "Christopher Layden",
+    "Joheen Chakraborty",
+    "Emma T. Chickles",
+    "Jack Dinsmore",
+    "Gabor Furesz",
+    "Juliana Garc\\'ia-Mej\\'ia",
+    "Aurora Y. Kesseli",
+    "Geoffrey Mo",
+    "David Osip",
+    "Andrew Vanderburg",
+    "Yapeng Zhang"
+  ],
+  "categories": [
+    "astro-ph.SR",
+    "astro-ph.HE"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16019"
+  },
+  "hook": "Two white dwarfs orbit every 23 minutes and eclipse. LISA should detect them.",
+  "hook_turn": "LISA should detect them.",
+  "id": "arxiv-2611.16019",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Orbital period of eclipsing white dwarf pair",
+    "unit": "minutes",
+    "value": "23"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "ZTF J2229+1928 is a pair of white dwarfs that eclipse each other in a 23-minute orbit, found in a GPU search of ZTF survey data and confirmed with fast imaging on a 6.5-meter telescope. Eclipse modeling gives masses near 0.49 and 0.37 solar masses and a distance of about 965 pc. The predicted LISA signal-to-noise of about 5.3 is a modest detection and depends on the mass estimates.",
+  "tags": [
+    "white dwarfs",
+    "gravitational waves"
+  ],
+  "title": "ZTF J2229+1928: A 23 Minute Eclipsing Double White Dwarf Binary",
+  "url": "https://arxiv.org/abs/2611.16019",
+  "venue": "arXiv"
+}

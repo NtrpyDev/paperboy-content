@@ -1,0 +1,39 @@
+{
+  "abstract": "Let $0<\\gamma_1\\leq \\gamma_2\\leq \\cdots$ be the ordinates of the non-trivial zeros $\\rho_n$ of the Riemann zeta function in the upper half-plane, counted with multiplicity. Selberg proved unconditionally that there exists $\\lambda_0<1$ such that a positive proportion of the zeros $\\rho_n$ satisfy $\\gamma_{n+1}-\\gamma_n\\leq 2\\pi \\lambda_0/\\log \\gamma_n$. Simoni\\v{c}, Trudgian and Turnage-Butterbaugh were the first to obtain an explicit value in Selberg's theorem, showing that $\\lambda_0=1- 10^{-3\\cdot 10^{13}}$ is admissible. This was considerably improved by Zhao who showed that $\\lambda_0= 1-2.36\\cdot 10^{-6}$ is admissible. In this paper, we use a different approach, based on an unconditional variant of Montgomery's pair correlation method, to obtain a substantial improvement of these results, showing unconditionally that $\\lambda_0=0.7892<4/5$ is admissible.",
+  "arxiv_id": "2611.14486",
+  "authors": [
+    "Youness Lamzouri"
+  ],
+  "categories": [
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14486"
+  },
+  "hook": "A positive share of zeta zeros sit closer than 0.7892 of the average spacing, proven unconditionally.",
+  "hook_turn": "proven unconditionally.",
+  "id": "arxiv-2611.14486",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Proven constant for small zeta zero gaps",
+    "value": "0.7892"
+  },
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Selberg showed that many consecutive zeros of the Riemann zeta function lie closer than the average spacing, without giving a value. Earlier explicit values were barely below 1, and this work lowers the constant to 0.7892 using an unconditional variant of Montgomery's pair correlation method. It does not rely on the Riemann Hypothesis. The result says only that a positive proportion of gaps are this small, not how large that proportion is.",
+  "tags": [
+    "Riemann zeta",
+    "number theory"
+  ],
+  "title": "The distribution of small gaps between zeros of the Riemann zeta function",
+  "url": "https://arxiv.org/abs/2611.14486",
+  "venue": "arXiv"
+}

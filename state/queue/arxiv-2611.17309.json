@@ -1,0 +1,42 @@
+{
+  "abstract": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to train, and use many parameters and FLOPs to solve simple puzzles. Descent on an energy not only mitigates these issues but also offers advantages: built-in early stopping, compute that adapts to problem difficulty, fast training without differentiating through a solver, and interpretable weights that learn the constraints of the puzzle. Here we demonstrate this with a learned version of Hopfield & Tank's energy from the 80s, which we term CRAM, solves 99.996% of Sudoku-Extreme and 100% of Maze-Unique test puzzles after 42 ms and 132 ms of training on one GPU, at least 1,000x faster than looped models on these tasks. CRAM also matches baseline looped models at their highest accuracy on Sudoku-Extreme using at least 282x fewer inference FLOPs. Our work suggests two things. First, that energies are an extremely promising direction for training reasoning from data. Second, a caution against using trivially solvable benchmarks like Sudoku and Maze to test the scalability of looped reasoning techniques.",
+  "arxiv_id": "2611.17309",
+  "authors": [
+    "Benjamin Hoover",
+    "Hugh Blayney",
+    "James C. R. Whittington"
+  ],
+  "categories": [
+    "cs.AI",
+    "cs.LG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17309"
+  },
+  "hook": "A learned 1980s-style energy model solves Sudoku-Extreme with 1,000x faster training than looped models.",
+  "id": "arxiv-2611.17309",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Sudoku-Extreme test puzzles solved",
+    "unit": "percent",
+    "value": "99.996"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Training a learned version of the Hopfield and Tank energy, called CRAM, solves nearly all Sudoku-Extreme and all Maze-Unique test puzzles. It trains at least 1,000x faster and uses at least 282x fewer inference FLOPs than looped baselines. The authors argue this shows Sudoku and Maze are too easy to test how looped reasoning scales, so the result says little about harder tasks.",
+  "tags": [
+    "reasoning",
+    "energy-based models"
+  ],
+  "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+  "url": "https://arxiv.org/abs/2611.17309",
+  "venue": "arXiv"
+}

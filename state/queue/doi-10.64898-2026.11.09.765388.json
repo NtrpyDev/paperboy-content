@@ -1,0 +1,47 @@
+{
+  "abstract": "Cross-amplitude modulation (xAM) is a commonly used pulse sequence for non-destructive, quasi-artifact-free detection of gas-vesicle (GV) contrast agents, but it has so far been limited to two-dimensional cross-sections acquired with one-dimensional linear arrays. We present the first implementation of xAM on a fully sampled two-dimensional matrix array, extending the half-aperture split of conventional xAM to a family of 2D sub-aperture partitions on a 32x32-element Vermon probe (7.81 MHz, 300 m element pitch). Angular spectrum simulations compared three primary bisections (X-axis, Y-axis, and diagonal (D1,D2)), and the selected Y-split was tested experimentally in GV-loaded tissue-mimicking phantoms. We also simulated an electronic asymmetric-angle sweep as an alternative to the robotic translation used in the experiments, and measured contrast through an ex vivo mouse skull. The non-emissive regions between the elevation panels of the Vermon probe accounted for most of the simulated differences among partitions, through both the continuity of the aperture parallel to the bisector plane and the side-lobe structure. At a 6 degree steering angle, the Y-split gave a contrast-to-tissue ratio (CTR) of ~29 dB for single frames and ~49 dB with 100-frame averaging without the skull, and a contrast-to-noise ratio (CNR) of ~8 dB for single frames and ~12 dB with 100-frame averaging through the skull, where the inclusion remained resolvable. These results give design rules for xAM on matrix arrays. The through-skull result comes from a single ex vivo specimen, and in vivo work is the next step toward non-invasive, longitudinal, three-dimensional monitoring of GV-labeled glioblastoma and other targets of nonlinear contrast agents.",
+  "arxiv_id": null,
+  "authors": [
+    "Weitz, A. S.",
+    "Belgharbi, H.",
+    "Sode, M.",
+    "Jones-Sinnott, R. M.",
+    "Nayak, R.",
+    "Fochtman, T.",
+    "Shapiro, M. G.",
+    "Dayton, P. A.",
+    "Pinton, G. F."
+  ],
+  "categories": [
+    "bioengineering"
+  ],
+  "doi": "10.64898/2026.11.09.765388",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/12/2026.11.09.765388.source.xml"
+  },
+  "hook": "Gas-vesicle ultrasound contrast was imaged in 3D with a matrix array, even through a mouse skull.",
+  "id": "doi-10.64898-2026.11.09.765388",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Contrast-to-tissue ratio, 100-frame average",
+    "unit": "dB",
+    "value": "~49"
+  },
+  "significance": 5,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "The team adapted a nonlinear ultrasound sequence, cross-amplitude modulation, to a 32x32 matrix probe and compared ways of splitting the aperture in simulation. The best split was tested in tissue-mimicking phantoms and through one ex vivo mouse skull. Limit: the skull result comes from a single specimen and nothing was done in living animals.",
+  "tags": [
+    "ultrasound imaging",
+    "gas vesicles"
+  ],
+  "title": "Volumetric Cross-Amplitude Modulation (VxAM) for Transcranial Gas Vesicle Imaging",
+  "url": "https://doi.org/10.64898/2026.11.09.765388",
+  "venue": "bioRxiv"
+}

@@ -1,0 +1,42 @@
+{
+  "abstract": "Carbon nanotubes (CNTs) are prime nanofluidic conduits and nanopores for studying matter under extreme confinement. Since most synthesis routes yield CNTs with closed ends, opening and filling strategies are required to access their interior for fluid and ion transport, whereas studies of the encapsulated species themselves may additionally require sealing to prevent their escape in dry or vacuum environments. Capacitively coupled local anodic oxidation (LAO) in an atomic force microscope (AFM) has been shown to cut individual CNTs at predefined positions, but whether cutting induces opening, filling, or sealing has remained unclear. Using spatially resolved micro-Raman spectroscopy, we find that LAO cutting surprisingly produces filled CNT segments that remain sealed under dry Ar atmosphere for weeks. The magnitudes of the blueshift and broadening of the innermost-wall radial breathing-like mode are consistent with water filling, pointing to the water meniscus condensed between the AFM tip and the substrate as the source of CNT filling during cutting. High-vacuum annealing at 140 {\\deg}C releases the encapsulated species from some, but not all, segments, indicating a thermally surmountable barrier rather than re-formed end caps. This one-step cut-fill-seal capability offers a route to diameter-resolved studies of nanoconfined water and aqueous solutions, and to zeptoliter-scale sample delivery for vacuum-based analytical techniques.",
+  "arxiv_id": "2611.15567",
+  "authors": [
+    "Ruiqing Zang",
+    "Jianan Xiao",
+    "Jacob Bair",
+    "Ian Wang",
+    "Chuyue Peng",
+    "Matthias Kuehne"
+  ],
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15567"
+  },
+  "hook": "Cutting a carbon nanotube with an AFM tip also fills it with water and seals it.",
+  "hook_turn": "fills it with water and seals it.",
+  "id": "arxiv-2611.15567",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Raman spectroscopy shows that cutting nanotubes with an atomic force microscope tip yields filled segments that stay sealed for weeks in dry argon. The spectral shifts fit water, likely from the meniscus between tip and surface. Water is inferred from Raman signatures, not imaged directly, and heating released the contents from only some segments.",
+  "tags": [
+    "carbon nanotubes",
+    "nanofluidics"
+  ],
+  "title": "Filling and Sealing Carbon Nanotubes by Local Anodic Oxidation",
+  "url": "https://arxiv.org/abs/2611.15567",
+  "venue": "arXiv"
+}

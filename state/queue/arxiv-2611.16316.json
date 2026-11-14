@@ -1,0 +1,45 @@
+{
+  "abstract": "The thorium anion ($\\mathrm{Th}^{-}$) has been proposed as a candidate for laser cooling of negative ions. However, previous theoretical and experimental results exhibit significant discrepancies in both the excitation energies and lifetimes. Here we revisit the bound-state structure and transition properties of $\\mathrm{Th}^{-}$ using two independent ab initio approaches. The two calculations agree well and improve agreement with measured excitation energies and lifetimes. Based on the present level structure, we reassign several observed levels and show that the previously proposed $^4F^e_{3/2}\\leftrightarrow{}^2S^o_{1/2}$ cooling transition is not closed and requires two repumping lasers. We therefore propose an alternative cooling scheme based on the $^4F^e_{3/2}\\leftrightarrow{}^4F^o_{3/2}$ transition, which requires only one repumping laser and has a transition rate approximately five times larger ($A\\approx1.1\\times10^5$ s$^{-1}$), the fastest reported bound--bound E1 transition in atomic anions to date.",
+  "arxiv_id": "2611.16316",
+  "authors": [
+    "Shaowei Tian",
+    "Chaofan Shi",
+    "Ran Si",
+    "Chuangang Ning",
+    "Chongyang Chen"
+  ],
+  "categories": [
+    "physics.atom-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16316"
+  },
+  "hook": "A faster laser-cooling route for the thorium anion needs one repump laser, not two.",
+  "hook_turn": "not two.",
+  "id": "arxiv-2611.16316",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "exponent": 5,
+    "label": "Rate of proposed Th- cooling transition",
+    "unit": "per second",
+    "value": "~1.1"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Two independent ab initio calculations agree on the level structure of the thorium anion and show that the previously proposed cooling transition is not closed. The authors propose another transition that needs one repumping laser and is about five times faster. Everything is computed; no cooling has been demonstrated.",
+  "tags": [
+    "laser cooling",
+    "negative ions"
+  ],
+  "title": "Laser cooling of $\\mathrm{Th}^{-}$: Revised bound-state structure and a more efficient cooling scheme",
+  "url": "https://arxiv.org/abs/2611.16316",
+  "venue": "arXiv"
+}

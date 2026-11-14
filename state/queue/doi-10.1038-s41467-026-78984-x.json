@@ -1,0 +1,39 @@
+{
+  "abstract": "Abstract Single-atom waveguide-QED systems have emerged as a leading platform for demonstrating non-linear optics in the few-photon regime. Devices with such non-linear behavior are necessary for developing deterministic gates for photonic quantum computing. Artificial atoms coupled to nanophotonic or superconducting waveguides can be used to engineer highly efficient light-matter interfaces for such non-linear interactions, where every photon in the system interacts with the quantum emitter. However, it has been a challenge to access the reflection port of the waveguide due to the inability of rejecting stray electromagnetic fields that do not interact with the artificial atom. Here, we show coherent reflection of single photons from a semiconductor quantum dot strongly coupled to the fundamental waveguide mode of a nanowire. We utilize the tapered end of the nanowire for ideal mode-matching in a vertical geometry, enabled by the extinction technique developed. This mode-matching allows for efficient transfer of photons from the input to the reflection port while having all interacted with the quantum dot. Such a high-efficiency scalable photonic platform opens up applications in few-photon quantum nonlinear optics and has been proposed for creating key resource states for universal photon-based quantum computing.",
+  "arxiv_id": null,
+  "authors": [
+    "Tarun Patel",
+    "Matteo Pennacchietti",
+    "Sayan Gangopadhyay",
+    "Dan Dalacu",
+    "Philip J. Poole",
+    "Stephen Hughes",
+    "Michael E. Reimer"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-78984-x",
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A quantum dot in a nanowire reflects single photons coherently, opening the reflection port.",
+  "hook_turn": "opening the reflection port.",
+  "id": "doi-10.1038-s41467-026-78984-x",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Photons sent along a nanowire were coherently reflected by a semiconductor quantum dot strongly coupled to the wire's mode. A tapered end gives mode matching, and an extinction technique removes stray light so the reflected photons have all interacted with the dot. This is a device demonstration, not yet a quantum gate.",
+  "tags": [
+    "quantum optics",
+    "quantum dots"
+  ],
+  "title": "Single photon reflection from a quantum dot in a waveguide",
+  "url": "https://doi.org/10.1038/s41467-026-78984-x",
+  "venue": "Nature Communications"
+}

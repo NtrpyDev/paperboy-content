@@ -1,0 +1,39 @@
+{
+  "abstract": "The discovery of high-temperature superconductivity in single layer FeSe epitaxially grown on SrTiO3(001) substrates has instigated extensive debate over whether its pairing symmetry is conventional sign-preserving s-wave or unconventional sign-changing. Here we probe the pairing state for single layer FeSe/SrTiO3 grown by molecular beam epitaxy using scanning tunneling microscopy/spectroscopy. We observe robust in-gap bound states induced by non-magnetic Fe-vacancy defects within the Fe-plane, which exhibit strong spatial electron-hole asymmetry with two-fold symmetry in hole states and four-fold in electron states. The bound states exhibit no energy shift or splitting under an applied magnetic field, consistent with a sign-changing order parameter.",
+  "arxiv_id": "2611.16679",
+  "authors": [
+    "Huimin Zhang",
+    "Zhuozhi Ge",
+    "Michael Weinert",
+    "Lian Li"
+  ],
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mtrl-sci"
+  ],
+  "doi": "10.1038/s42005-020-0351-1",
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16679"
+  },
+  "hook": "Defects in single-layer FeSe show bound states that ignore magnetic fields, pointing to sign-changing pairing.",
+  "hook_turn": "pointing to sign-changing pairing.",
+  "id": "arxiv-2611.16679",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Tunneling microscopy of single-layer FeSe on SrTiO3 found in-gap bound states around non-magnetic Fe vacancies. The states do not shift or split in a magnetic field, which fits a pairing order parameter that changes sign. This is indirect evidence: it is consistent with sign-changing pairing but does not rule out every alternative.",
+  "tags": [
+    "superconductivity",
+    "FeSe"
+  ],
+  "title": "Sign changing pairing in single layer FeSe/SrTiO3 revealed by nonmagnetic impurity bound states",
+  "url": "https://arxiv.org/abs/2611.16679",
+  "venue": "arXiv"
+}

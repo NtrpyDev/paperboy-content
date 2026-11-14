@@ -1,0 +1,34 @@
+{
+  "abstract": "```text Let $\\beta_1^T(r)$ be the number of holes, that is, the first Betti number, of the Wiener sausage of radius $r$ of a planar Brownian motion run up to time $T$. We prove that $\\mathbb{E}[\\beta_1^T(r)]$ is of order $T/(r^2(\\log T)^2)$ as $T\\to\\infty$, for each fixed $r>0$, which completes the lower bound obtained in a companion paper from a law for the inradii of the cavities of the path. We also identify which parts of the complement of the path contribute at leading order. At unit time and radius $\\varepsilon$, the holes lying in the unbounded component of the complement have expected number $O(\\varepsilon^{-2+\\theta_0})$ for an absolute $\\theta_0>0$, whereas the additional holes created when a cavity fragments under erosion have expected number of exact order $\\varepsilon^{-2}(\\log(1/\\varepsilon))^{-2}$. In particular the one-pocket constant of the lower bound is strictly improved. The upper bound is obtained by pricing the contact configurations that pin near-critical pockets along the two independent arms of the path from a deterministic time, each arm contributing one factor $1/\\log(1/\\varepsilon)$. The outer estimate combines a stratified form of this first-moment bound with a packing argument near the frontier of the path, and the splitting lower bound forces a dumbbell-shaped cavity by a local construction followed by two logarithmic avoidance probabilities. The upper bound and the two structural estimates use no limit theorem for the shapes of cavities; the shape law enters only through the lower bound of the companion paper. ```",
+  "arxiv_id": "2611.14500",
+  "authors": [
+    "Tristan Guillaume"
+  ],
+  "categories": [
+    "math.PR"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14500"
+  },
+  "hook": "A planar Brownian path's thickened trail has about T/(r^2 (log T)^2) holes on average.",
+  "id": "arxiv-2611.14500",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For a Brownian path in the plane thickened by radius r and run to time T, the expected number of holes grows like T divided by r^2 times (log T)^2. The proof gives a matching upper bound and also separates holes in the unbounded part of the complement from those created when cavities split. It builds on a companion paper for the lower bound, and the result gives the order of growth, not an exact constant.",
+  "tags": [
+    "Brownian motion",
+    "probability"
+  ],
+  "title": "The expected number of holes of the planar Wiener sausage",
+  "url": "https://arxiv.org/abs/2611.14500",
+  "venue": "arXiv"
+}

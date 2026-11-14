@@ -1,0 +1,37 @@
+{
+  "abstract": "We prove Motohashi's conjecture on primes of the form $u^2+v^2+1$, with Iwaniec's corrected constant. Let $b$ denote the characteristic function of the positive integers representable as a sum of two squares. Then, as $x\\to\\infty$, \\[ \\sum_{p\\le x}b(p-1) =\\kappa\\Spr\\frac{x}{(\\log x)^{3/2}} +O\\!\\left(\\frac{x}{(\\log x)^{3/2}\\sqrt{\\log\\log x}}\\right), \\] where $\\kappa$ is the Landau--Ramanujan constant and $\\Spr=\\prod_{p\\equiv3\\,({\\rm mod}\\,4)}\\bigl(1-1/(p(p-1))\\bigr)$. The proof combines auxiliary prime factors with a mean square estimate for bilinear sums. We obtain the minor arc bound through harmonic switching and high moments, replacing arithmetic divisibility conditions by independent projective lines. We remove the auxiliary weights using Selberg's sieve.",
+  "arxiv_id": "2611.12467",
+  "authors": [
+    "Yujiao Jiang",
+    "Yuk-Kam Lau",
+    "Guangshi L\\\"u"
+  ],
+  "categories": [
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.12467"
+  },
+  "hook": "Primes of the form u^2+v^2+1 are counted with an asymptotic formula, proving Motohashi's conjecture.",
+  "hook_turn": "proving Motohashi's conjecture.",
+  "id": "arxiv-2611.12467",
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove an asymptotic count of primes p for which p-1 is a sum of two squares, confirming a conjecture of Motohashi with Iwaniec's corrected constant. The proof uses auxiliary prime factors, a mean square bound for bilinear sums, a minor arc estimate, and Selberg's sieve. The error term saves only a factor of the square root of log log x.",
+  "tags": [
+    "analytic number theory",
+    "prime numbers"
+  ],
+  "title": "An asymptotic formula for primes of the form $u^2+v^2+1$",
+  "url": "https://arxiv.org/abs/2611.12467",
+  "venue": "arXiv"
+}

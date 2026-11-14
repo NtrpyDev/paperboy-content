@@ -1,0 +1,53 @@
+{
+  "abstract": "Background Rapid weight loss, as induced by GLP-1 receptor agonists, is accompanied by pronounced muscle loss. GDF8 (myostatin) and activin A (ActA), acting via ActRIIA/B receptors, are negative regulators of muscle mass. The aim of this study was to evaluate the effect of antibodies blocking GDF8 (trevogrumab) and ActA (garetosmab) on semaglutide-induced weight and muscle loss. Methods COURAGE is a two-part, phase 2, double-blind, placebo-controlled, randomised trial. This multicentre (60 sites), US-based trial enrolled participants aged 18-80 years with obesity (BMI ≥30 kg/m2). In part A, participants were treated for 26 weeks with semaglutide (titrated to 2·4 mg subcutaneously weekly) in addition to a randomly assigned (1:1:1:1) concomitant treatment: placebo, trevogrumab 200 mg, trevogrumab 400 mg, or trevogrumab 400 mg and garetosmab 10 mg/kg. Trevogrumab was administered subcutaneously weekly and garetosmab was administered intravenously every 4 weeks. Part A also included a subsequent semaglutide withdrawal period, at which point participants (randomly assigned at baseline 1:1 within each group) received either trevogrumab 400 mg or placebo for an additional 26 weeks. In part B, participants were treated with semaglutide for 52 weeks and randomly assigned (1:2:2) to concomitant treatment with placebo, trevogrumab 25 mg, or trevogrumab 75 mg. Groups were stratified according to sex, BMI (<35 kg/m2vs ≥35 kg/m2), and participation in an exploratory MRI substudy assessing thigh muscle volume. Study participants, the principal investigators, and study site personnel were masked to all randomisation assignments throughout the study. Primary endpoints were percent change in lean mass, fat mass, and bodyweight from baseline to week 26 (part A) or week 52 (part B). Efficacy and safety analyses were done in all randomly assigned participants who received at least one dose of a study drug (efficacy, as randomly assigned; safety, as treated). COURAGE is registered with ClinicalTrials.gov, NCT06299098, and is currently active, not recruiting. Findings 975 participants were enrolled between June 21, 2024, and April 14, 2025. Mean age was 49·0 years (SD 13·2) and mean BMI was 36·7 kg/m2 (SD 5·0); 627 (64%) of 975 participants were female and 348 (36%) were male. In part A (n=605, of whom n=599 received at least one dose of study drug), a substantial decrease in lean mass was observed in the semaglutide plus placebo group at week 26 (-6·6% [95% CI -7·4 to -5·7]); the estimated treatment difference (ETD) versus semaglutide plus placebo was +3·1% (95% CI 1·9 to 4·3) with semaglutide plus trevogrumab 200 mg, +2·7% (1·5 to 4·0) with semaglutide plus trevogrumab 400 mg, and +4·5% (3·1 to 5·9) with semaglutide plus trevogrumab 400 mg plus garetosmab 10 mg/kg. In part B (n=376), lean mass percent change from baseline to week 52 for semaglutide plus placebo was -7·3% (-8·8 to -5·8); the ETD versus semaglutide plus placebo was +1·5% (-0·3 to 3·3) for semaglutide plus trevogrumab 25 mg, and +3·1% (1·3 to 4·9) for semaglutide plus trevogrumab 75 mg. Change from baseline in fat mass in part A was -15·6% (-17·4 to -13·9) in the semaglutide plus placebo group; the ETD was significant in the semaglutide plus trevogrumab 400 mg group (-3·4% [-5·9 to -0·9]) and the semaglutide plus trevogrumab 400 mg plus garetosmab 10 mg/kg group (-11·7% [-14·4 to -9·0]) in part A. No other groups in part A nor any in part B had significantly different changes in fat mass compared with semaglutide plus placebo. Percent change in bodyweight in part A was -10·6 (-11·6 to -9·7) in the semaglutide plus placebo group; the ETD was significant for the semaglutide plus trevogrumab 400 mg plus garetosmab 10 mg/kg group (-2·7 [-4·1 to -1·2]). No other groups in part A nor any in part B had significantly different changes in bodyweight compared with semaglutide plus placebo. Semaglutide plus trevogrumab (25 mg, 75 mg, 200 mg, or 400 mg) was generally well tolerated with a safety profile similar to semaglutide plus placebo; however, semaglutide plus trevogrumab 400 mg plus garetosmab 10 mg/kg had a high incidence of serious adverse events (14 [9%] of 149) and treatment discontinuations (48 [32%] of 149). Gastrointestinal adverse events were the most commonly reported, and they occurred with similar incidence across treatment groups. Muscle spasms occurred more frequently in the semaglutide plus trevogrumab 400 mg plus garetosmab 10 mg/kg group (61 [41%] of 149) compared with the semaglutide plus trevogrumab 200 mg or 400 mg groups (23 [8%] of 299) and semaglutide plus placebo groups (seven [5%] of 151). Most adverse events were mild to moderate in severity. Two deaths occurred during the study, both in the semaglutide plus trevogrumab 400 mg plus garetosmab 10 mg/kg group; a causal association between treatment and these events was not identified. Interpretation This study establishes proof of concept for GDF8 inhibition by trevogrumab alone as a generally well tolerated strategy to preserve lean mass during GLP-1 receptor agonist-induced weight loss. Although the addition of ActA inhibition by garetosmab further improved body composition and weight loss, the combination did not have favourable safety and tolerability. Further study is required to understand whether improved body composition during weight loss might preserve physical function and overall metabolic health. Funding Regeneron Pharmaceuticals, Inc.",
+  "arxiv_id": null,
+  "authors": [
+    "Ofri Mosenzon",
+    "Julio Rosenstock",
+    "José G Raya",
+    "Joseph S Grimsby",
+    "Roberto A Calle",
+    "Kevin Cannon",
+    "Amina Z Haggag",
+    "Harold Bays",
+    "Neena Sarkar",
+    "Alison Templeton",
+    "Michelle Fanous",
+    "Jennifer Lighter",
+    "Andrea Vavere",
+    "George D Yancopoulos",
+    "Boaz Hirshberg",
+    "COURAGE Trial Investigators"
+  ],
+  "categories": [],
+  "doi": "10.1016/s0140-6736(26)01953-7",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "An antibody blocking myostatin eased muscle loss on semaglutide; adding a second antibody raised safety flags.",
+  "id": "doi-10.1016-s0140-6736-26-01953-7",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Adults with obesity enrolled in COURAGE trial",
+    "unit": "participants",
+    "value": "975"
+  },
+  "significance": 7,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "In a phase 2 randomized trial of adults with obesity taking semaglutide, trevogrumab reduced the loss of lean mass versus placebo, for example +3.1% at 200 mg after 26 weeks. Adding garetosmab did better still but caused more serious adverse events and dropouts, and two deaths occurred in that group. It remains unknown whether keeping muscle improves physical function.",
+  "tags": [
+    "GLP-1 drugs",
+    "muscle loss",
+    "clinical trial"
+  ],
+  "title": "Trevogrumab (anti-GDF8) with or without garetosmab (anti-activin A) for prevention of muscle loss during semaglutide-induced weight reduction in people with obesity (COURAGE): a two-part, phase 2, double-blind, placebo-controlled, randomised trial.",
+  "url": "https://doi.org/10.1016/s0140-6736(26)01953-7",
+  "venue": "The Lancet"
+}

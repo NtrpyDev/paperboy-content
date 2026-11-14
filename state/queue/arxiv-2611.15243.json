@@ -1,0 +1,37 @@
+{
+  "abstract": "We prove the P\\'olya--Szeg\\H{o} buckling conjecture in dimensions $2\\le n\\le47$: among open sets of prescribed finite volume, a ball minimizes the first clamped buckling eigenvalue. More precisely, we establish the sharp comparison $\\Lambda_1\\left(\\Omega\\right)\\ge \\left(j_{n/2,1}/j_{n/2-1,1}\\right)^2 \\lambda_1^{\\mathrm D}\\left(\\Omega\\right)$, where $\\lambda_1^{\\mathrm D}$ is the first Dirichlet eigenvalue and $j_{\\nu,1}$ is the first positive zero of the Bessel function $J_\\nu$ of the first kind. The proof extends a radial calibration to all Hessian directions; positive coefficient expansions and logarithmically convex Laplace integrals control the resulting matrix. A Lipschitz construction handles sign changes and arbitrary boundaries. Equality in the volume bound holds precisely for balls modulo sets of zero $H^2$ capacity. We prove that this calibration fails in every dimension $n\\ge48$.",
+  "arxiv_id": "2611.15243",
+  "authors": [
+    "Guowei Dai",
+    "Yingxin Sun",
+    "Yong Zhang"
+  ],
+  "categories": [
+    "math.SP"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15243"
+  },
+  "hook": "A ball has the lowest buckling eigenvalue among shapes of equal volume, proved for dimensions 2 to 47.",
+  "hook_turn": "proved for dimensions 2 to 47.",
+  "id": "arxiv-2611.15243",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 8,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove the Polya-Szego buckling conjecture: among regions of fixed volume, a ball has the smallest first buckling eigenvalue, which measures how easily a clamped plate buckles. They compare it with the first Dirichlet eigenvalue using a calibration argument that works in every Hessian direction. The method provably fails in dimension 48 and above, so higher dimensions stay open.",
+  "tags": [
+    "spectral geometry",
+    "buckling"
+  ],
+  "title": "The P\\'{o}lya--Szeg\\H{o} buckling conjecture in dimensions two through forty-seven",
+  "url": "https://arxiv.org/abs/2611.15243",
+  "venue": "arXiv"
+}

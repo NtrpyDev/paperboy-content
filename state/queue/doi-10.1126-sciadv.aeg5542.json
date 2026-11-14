@@ -1,0 +1,48 @@
+{
+  "abstract": "Ketogenic diets (KDs) have demonstrated both pro- and anti-inflammatory effects; however, the mechanisms underlying divergent outcomes on a KD are unclear. Here, we show that a KD promotes the accumulation of proinflammatory macrophages in multiple mouse tissues, using immunoblotting, immunohistochemistry, single-cell immunofluorescence multiplex staining, flow cytometry, and RNA sequencing. In both murine and human macrophage tissue cultures, we demonstrate that long-chain saturated fatty acids (LC-SFAs) promote M1-like polarization, while no effect was observed with medium-chain fatty acids or unsaturated fatty acids. Metabolomics analysis of primary macrophages from mice on a KD revealed enrichment for proinflammatory ceramides and hexosylceramides. Transcriptomics showed multiple up-regulated proinflammatory pathways, including inflammasome activation and cyclic guanosine 5′-monophosphate–adenosine 5′-monophosphate synthase (cGAS)–stimulator of interferon genes (STING) signaling. Myeloid-lineage specific Sting knockout mice demonstrated that cGAS-STING is required for the observed proinflammatory effects of a KD. These data suggest that elevated LC-SFA on a KD may induce proinflammatory macrophage accumulation in multiple tissues, a finding with potential clinical implications.",
+  "arxiv_id": null,
+  "authors": [
+    "Sung-Jen Wei",
+    "Joseph Schell",
+    "Maiko Sezaki",
+    "Agne Baseviciene",
+    "Wei Qian",
+    "Wan Hsi Chen",
+    "Rolando Trevino",
+    "Prethish Sreenivas",
+    "Estrella Sandra Chocron",
+    "Haiyan Jiang",
+    "Felix F. Dong",
+    "Jenny Chang",
+    "Alia Nazarullah",
+    "Gang Huang",
+    "Erin Munkácsy",
+    "Nobuo Horikoshi",
+    "David Gius"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aeg5542",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "In mice, a ketogenic diet builds up inflammatory macrophages through saturated fats and cGAS-STING.",
+  "id": "doi-10.1126-sciadv.aeg5542",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Mice on a ketogenic diet accumulated proinflammatory macrophages in several tissues. Long-chain saturated fatty acids drove this in mouse and human cell cultures, and myeloid-specific Sting knockout mice showed that cGAS-STING signaling is required. The work is in mice and cultured cells, so effects in people on ketogenic diets are unproven.",
+  "tags": [
+    "ketogenic diet",
+    "inflammation"
+  ],
+  "title": "Ketogenic diets induce proinflammatory macrophage accumulation through long-chain saturated fatty acids driving cGAS-STING signaling",
+  "url": "https://doi.org/10.1126/sciadv.aeg5542",
+  "venue": "Science Advances"
+}

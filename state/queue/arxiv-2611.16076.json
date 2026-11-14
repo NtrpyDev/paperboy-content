@@ -1,0 +1,35 @@
+{
+  "abstract": "Max-Cut was shown NP-hard on interval graphs by Adhikary, Bose, Mukherjee, and Roy (SoCG 2021). The best previously known approximation ratio for this class, due to Ahn, DeHaan, Kim, and Lee (APPROX 2025), exceeded the Goemans--Williamson ratio of about $0.878$ by only $10^{-34}$. We give a deterministic efficient polynomial-time approximation scheme (EPTAS): for every $\\varepsilon\\in(0,1)$, a $(1-\\varepsilon)$-approximate cut of an unweighted $n$-vertex interval graph can be found in time $2^{O(\\varepsilon^{-2}\\log^3(2/\\varepsilon))}n^2$. The same guarantee and running time hold for Max-Bisection. An FPTAS is impossible unless $\\mathrm{P}=\\mathrm{NP}$. Our algorithm rests on a structural theorem: every interval graph with $m$ edges can be turned into an interval graph of clique-width $O(\\varepsilon^{-2}\\log^2(2/\\varepsilon))$ by deleting at most $\\varepsilon m$ edges. The construction combines endpoint-rank coordinates, length-dependent rounding, and a shifted dyadic hierarchy. Intervals intersecting cell boundaries at their own scales are isolated at small total edge cost; the interactions of remaining long intervals with smaller subproblems can be summarized by counts. The structural theorem also yields a randomized EPTAS via Lampis's scheme for bounded clique-width; our direct dynamic program is deterministic and handles Max-Bisection. Finally, for every $\\varepsilon>0$, it is NP-hard to approximate Max-Cut within $84/85+\\varepsilon$ on unweighted chordal graphs, which contain interval graphs. Thus an approximation scheme for Max-Cut on chordal graphs would imply $\\mathrm{P}=\\mathrm{NP}$.",
+  "arxiv_id": "2611.16076",
+  "authors": [
+    "Hani Ahmadzadeh",
+    "Morteza Alimi"
+  ],
+  "categories": [
+    "cs.DS"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16076"
+  },
+  "hook": "Max-Cut on interval graphs can be approximated to any desired accuracy in polynomial time",
+  "id": "arxiv-2611.16076",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors give a deterministic approximation scheme for Max-Cut and Max-Bisection on interval graphs, running in time quadratic in the number of vertices for fixed accuracy. It works by deleting a few edges to leave a graph of small clique-width. The running time grows steeply as the error shrinks, and the same task on chordal graphs is shown NP-hard to approximate beyond 84/85.",
+  "tags": [
+    "approximation algorithms",
+    "graph algorithms"
+  ],
+  "title": "An EPTAS for Max-Cut on Interval Graphs",
+  "url": "https://arxiv.org/abs/2611.16076",
+  "venue": "arXiv"
+}

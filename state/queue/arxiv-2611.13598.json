@@ -1,0 +1,34 @@
+{
+  "abstract": "For Schwartz functions $f_1,f_2$ on $\\mathbb{R}$, define the bilinear Hilbert transform by $$ \\mathbf{BHT}(f_1,f_2)(x) =\\operatorname{p.v.}\\int_{\\mathbb{R}} f_1(x-t)f_2(x+t)\\,\\frac{dt}{t}. $$ We prove the weak-type estimate $$ \\left\\|\\mathbf{BHT}(f_1,f_2)\\right\\|_{L^{2/3,\\infty}} \\lesssim_{p_1,p_2} \\|f_1\\|_{p_1}\\|f_2\\|_{p_2} $$ for $1<p_1,p_2<2$ with $1/p_1+1/p_2=3/2$. The key ingredient is a new local supremum estimate for packet sums, which we use to establish the forest estimate.",
+  "arxiv_id": "2611.13598",
+  "authors": [
+    "Bingyang Hu"
+  ],
+  "categories": [
+    "math.CA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13598"
+  },
+  "hook": "The bilinear Hilbert transform obeys a weak-type bound at the L^{2/3} endpoint",
+  "id": "arxiv-2611.13598",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For two functions on the real line, the paper proves a weak-type L^{2/3} estimate for the bilinear Hilbert transform when both input exponents lie between 1 and 2 and sum reciprocally to 3/2. The key is a new local supremum estimate for packet sums, used to get the forest estimate. The bound is weak-type only, not strong-type.",
+  "tags": [
+    "harmonic analysis",
+    "bilinear operators"
+  ],
+  "title": "Weak $L^{2/3}$ bounds for the bilinear Hilbert transform",
+  "url": "https://arxiv.org/abs/2611.13598",
+  "venue": "arXiv"
+}

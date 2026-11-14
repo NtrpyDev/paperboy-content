@@ -1,0 +1,47 @@
+{
+  "abstract": "T centres in silicon combine an optical transition in the telecom O-band with a long-lived electron and nuclear spin in a photonics- and CMOS-compatible host. However, weak emission of photons in the zero-phonon line (ZPL) makes measurements slow. Cavities can increase the ZPL photon emission, but high-Q cavities require individual tuning to the T centre wavelength, hindering statistical understanding of T centre properties. Here, we overcome this limitation by developing low-Q confocally-addressable cavities. We create an array of 400 cavities, detuned $0.0\\pm 1.1$ nm from the T centre, with an average quality factor of $298\\pm 78$. The combination of high accuracy and moderate quality factors removes the need for individual tuning. The array yields a median T centre signal increase of $6.5\\times$, corresponding to a $42\\times$ measurement speedup. Studying the cavity statistics enables new measurements: comparing to a Monte Carlo simulation we infer a T centre density in the sample of $4.2^{+1.3}_{-0.8}~\\mathrm{\\mu m^{-2}}$, without relying on an estimate for the setup collection efficiency.",
+  "arxiv_id": "2611.15412",
+  "authors": [
+    "Christian F. Primavera",
+    "Matteo Pirro",
+    "Elena Volkova",
+    "Joan Mascar\\'o Rossell\\'o",
+    "Cas C.P.E. Hoppenbrouwers",
+    "Bram Zijlstra",
+    "Ronald Hanson",
+    "Carlos Errando-Herranz"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15412"
+  },
+  "hook": "400 untuned cavities make silicon T centres 42 times faster to measure.",
+  "hook_turn": "42 times faster to measure.",
+  "id": "arxiv-2611.15412",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Measurement speedup from cavity array",
+    "unit": "times",
+    "value": "42"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "T centres are defects in silicon that emit telecom light and hold spin, but they glow weakly. The team etched 400 low-quality-factor cavities that match the T centre wavelength without individual tuning, boosting the median signal 6.5 times. Comparing with a simulation gives a defect density of about 4.2 per square micrometer. That density depends on the simulation model, and the study covers one sample.",
+  "tags": [
+    "quantum defects",
+    "silicon photonics"
+  ],
+  "title": "Large-scale characterisation of silicon T centres with tuning-free broadband cavities",
+  "url": "https://arxiv.org/abs/2611.15412",
+  "venue": "arXiv"
+}

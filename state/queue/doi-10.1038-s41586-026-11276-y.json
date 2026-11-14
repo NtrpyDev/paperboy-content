@@ -1,0 +1,37 @@
+{
+  "abstract": "Eukaryotic genomes are exposed to numerous sources of DNA damage that impede replication. Only a decade ago, repriming by the primase-polymerase PRIMPOL was identified as a pathway that enables cells to tolerate DNA damage1-4. However, the molecular mechanism that underlies repriming remains poorly understood, and it is unclear how PRIMPOL is precisely targeted to stalled forks, where along single-stranded DNA PRIMPOL binds and how PRIMPOL is regulated to minimize error-prone DNA synthesis. Here, to dissect the molecular basis of repriming, we perform real-time single-molecule imaging in nuclear extracts that recapitulate genome maintenance. We directly visualize how stalled forks restart through repriming. We show that PRIMPOL is recruited to stalled forks through an interaction with the replicative helicase CDC45-MCM2-7-GINS (CMG). This facilitates primer handover from PRIMPOL to the high-fidelity polymerase ε, minimizing mutagenic DNA synthesis. At near-physiological concentrations, PRIMPOL reprimes leading strands in a CMG-dependent manner and polymerase ε extends those primers. This primary mode of repriming does not require DNA damage checkpoint signalling. PRIMPOL overexpression and checkpoint activation promote a secondary mode of repriming, whereby PRIMPOL restarts DNA synthesis far from CMG and polymerase δ extends those primers. Our data reveal a simple yet effective mechanism that directs PRIMPOL's activity to stalled forks awaiting restart, and suggest a strategy to inhibit the repriming pathway.",
+  "arxiv_id": null,
+  "authors": [
+    "Jinho Park",
+    "Luke D Lynch",
+    "Elena Blanco-Romero",
+    "Roberto Masdemont-Maestro",
+    "Juan Méndez",
+    "Gheorghe Chistol"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41586-026-11276-y",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Single-molecule movies show PRIMPOL restarts stalled DNA copying by docking on the CMG helicase.",
+  "id": "doi-10.1038-s41586-026-11276-y",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "When DNA copying stalls, PRIMPOL can lay down a new primer so replication resumes. Real-time single-molecule imaging in nuclear extracts showed PRIMPOL is recruited by the CMG helicase and hands the primer to polymerase ε, limiting errors. This was done in cell extracts, not intact cells.",
+  "tags": [
+    "DNA replication",
+    "DNA damage"
+  ],
+  "title": "The molecular basis of replication fork restart via repriming by PRIMPOL.",
+  "url": "https://doi.org/10.1038/s41586-026-11276-y",
+  "venue": "Nature"
+}

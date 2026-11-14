@@ -1,0 +1,41 @@
+{
+  "abstract": "**Background:** Evidence supporting sodium-glucose cotransporter-2 (SGLT2) inhibitor use in stage 5 chronic kidney disease (CKD) remains limited because major randomized trials have largely excluded this population. We evaluated associations between SGLT2 inhibitor use and cardiovascular and kidney outcomes in patients with stage 5 CKD. **Methods:** We systematically searched PubMed, Scopus, Cochrane CENTRAL, and Google Scholar through April 10, 2026. Studies comparing SGLT2 inhibitors with nonuse or other glucose-lowering therapies were eligible. Hazard ratios (HRs) were pooled using random-effects models, and risk of bias was assessed using ROBINS-I. Certainty of evidence was assessed using GRADE. **Results:** Five observational cohorts met inclusion criteria, of which three contributed to the meta-analysis, comprising 57,156 participants, including 28,559 SGLT2 inhibitor users. SGLT2 inhibitor use was associated with fewer heart failure hospitalizations (HR 0.78; 95% CI 0.72-0.85) and acute myocardial infarctions (HR 0.64; 95% CI 0.56-0.72). Associations with all-cause mortality (HR 0.84; 95% CI 0.58-1.21) and dialysis initiation (HR 0.63; 95% CI 0.30-1.33) were not statistically significant. In analyses restricted to treatment-initiation cohorts, the association with fewer heart failure hospitalizations persisted, whereas the myocardial infarction association was no longer significant. Certainty of evidence was low or very low across outcomes. **Conclusions:** Observational evidence suggests potential cardiovascular benefits of SGLT2 inhibitors in stage 5 CKD, particularly fewer heart failure hospitalizations. Effects on mortality, dialysis initiation, and myocardial infarction remain uncertain. Dedicated randomized trials are needed to establish efficacy and safety in this population.",
+  "arxiv_id": null,
+  "authors": [
+    "Ahmed, H. M.",
+    "Rehman, U. u.",
+    "Owais, M."
+  ],
+  "categories": [
+    "cardiovascular medicine"
+  ],
+  "doi": "10.64898/2026.11.12.26367903",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.medrxiv.org/content/early/2026/11/13/2026.11.12.26367903.source.xml"
+  },
+  "hook": "Observational data link SGLT2 inhibitors in stage 5 kidney disease to fewer heart failure admissions.",
+  "hook_turn": "to fewer heart failure admissions.",
+  "id": "doi-10.64898-2026.11.12.26367903",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Hazard ratio, heart failure hospitalization",
+    "value": "0.78"
+  },
+  "significance": 5,
+  "source": "medrxiv",
+  "status": "preprint",
+  "summary": "A meta-analysis of three observational cohorts, 57,156 people, found SGLT2 inhibitor users had fewer heart failure hospitalizations. Effects on death and dialysis were unclear. Evidence certainty was low or very low, and observational data cannot rule out confounding, so randomized trials are needed.",
+  "tags": [
+    "kidney disease",
+    "SGLT2 inhibitors"
+  ],
+  "title": "SGLT2 Inhibitors in Stage 5 Chronic Kidney Disease: A Systematic Review and Meta-analysis of Cardiovascular and Kidney Outcomes",
+  "url": "https://doi.org/10.64898/2026.11.12.26367903",
+  "venue": "medRxiv"
+}

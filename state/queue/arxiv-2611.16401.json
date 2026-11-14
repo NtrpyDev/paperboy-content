@@ -1,0 +1,36 @@
+{
+  "abstract": "The Leggett-Garg (LG) inequalities were formulated for testing the incompatibility between the classical worldview of macrorealism and quantum theory. By analogy with the Tsirelson bound for Bell inequalities, the maximal quantum violation of LG inequalities is commonly referred to as the temporal Tsirelson bound (TTB). Nevertheless, several studies have claimed that, unlike the Tsirelson bound, the TTB can be exceeded within quantum theory. In particular, by employing degeneracy-breaking measurement in [\\href{ https://doi.org/10.1103/PhysRevLett.113.050401}{Phys. Rev. Lett. \\textbf{113}, 050401 (2014)}] and by using the superposition of unitaries in [\\href{https://doi.org/10.1103/vydp-9qqq}{Phys. Rev. Lett. \\textbf{135}, 220202 (2025)}], it is argued that the TTB can be violated. In this work, we critically examine the reasoning underlying these purported TTB violations and show that the corresponding arguments suffer from conceptual shortcomings. We further show that once these conceptual issues are addressed appropriately, the macrorealist bound of LG inequality reaches the algebraic maximum, and hence no violation of the TTB is obtained. In particular, we demonstrate that the proposed TTB violations rely on frameworks that go beyond the standard LG framework, and therefore are of no relevance for testing the incompatibility between macrorealism and quantum theory.",
+  "arxiv_id": "2611.16401",
+  "authors": [
+    "Akarshit Baranwal",
+    "Vishnu Purushothaman",
+    "A.K. Pan"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "doi": "10.1103/xtdq-bt2f",
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16401"
+  },
+  "hook": "Claimed violations of the temporal Tsirelson bound rely on setups outside the Leggett-Garg framework.",
+  "id": "arxiv-2611.16401",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Earlier papers argued quantum theory can exceed the temporal Tsirelson bound of Leggett-Garg inequalities. The authors re-examine two such claims and argue they contain conceptual flaws; fixed, the macrorealist bound reaches the algebraic maximum and no violation remains. It is a conceptual argument, so its force depends on accepting their definition of the standard framework.",
+  "tags": [
+    "quantum foundations",
+    "Leggett-Garg inequality"
+  ],
+  "title": "Probing the extreme quantum violation of the Leggett-Garg inequality",
+  "url": "https://arxiv.org/abs/2611.16401",
+  "venue": "arXiv"
+}

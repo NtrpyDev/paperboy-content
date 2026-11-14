@@ -1,0 +1,39 @@
+{
+  "abstract": "Abstract Proteins often assemble as higher order complexes, underlying a diversity of molecular structures and biological functions. The emergence of protein-protein interactions between binding partners is generally considered to be the primary driver of oligomerization. However, ligand binding has also been demonstrated to affect higher-order assembly, though this phenomenon is not widely considered as a primary driver of oligomerization. Here, we describe the mechanism by which different rubisco oligomeric states are induced via ligand binding. By expanding the phylogenetic sampling of a unique clade of rubisco, we discover a range of oligomeric responses to ligand binding across the phylogeny and identify the structural features responsible for shifts in the oligomeric state that ultimately provide a path to evolving new quaternary structures. Here, we identify a ligand-dependent mechanism giving rise to new protein assemblies, in contrast with the typical process of evolving new protein-protein interfaces directly. Our findings describe a means by which binding and entrenchment of a ligand enables an increase in structural complexity.",
+  "arxiv_id": null,
+  "authors": [
+    "Albert K. Liu",
+    "Benjamin Kaeser",
+    "Jose H. Pereira",
+    "Leah J. Taylor-Kearney",
+    "Michal Hammel",
+    "Eva Nogales",
+    "Paul D. Adams",
+    "Patrick M. Shih"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-79451-3",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A bound ligand, not new protein contacts, drives rubisco into larger higher-order assemblies.",
+  "id": "doi-10.1038-s41467-026-79451-3",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "By sampling a rubisco clade across its family tree, the authors found varied ligand-induced oligomer states and pinned down the structural features that cause the shifts. This offers a route to new quaternary structure without evolving new protein-protein interfaces. It covers one clade of rubisco, so the generality to other proteins is open.",
+  "tags": [
+    "rubisco",
+    "protein evolution"
+  ],
+  "title": "Structural basis of ligand-mediated transition to higher-order rubisco assemblies",
+  "url": "https://doi.org/10.1038/s41467-026-79451-3",
+  "venue": "Nature Communications"
+}

@@ -1,0 +1,37 @@
+{
+  "abstract": "We find the correct order of magnitude for the number of $n\\leq x$ having at least $r$ divisors in the interval $(y,2y]$, uniformly in a wide range of the parameters $x,y,r$.",
+  "arxiv_id": "2611.15534",
+  "authors": [
+    "Kevin Ford",
+    "Mikhail R. Gabdullin",
+    "Kyle Pratt"
+  ],
+  "categories": [
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15534"
+  },
+  "hook": "Integers with many divisors in a short range are now counted to the correct order of magnitude.",
+  "hook_turn": "to the correct order of magnitude.",
+  "id": "arxiv-2611.15534",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors find the right order of magnitude for how many integers up to x have at least r divisors between y and 2y. The result holds across a wide range of x, y and r. It is an order-of-magnitude bound, not an exact asymptotic.",
+  "tags": [
+    "number theory",
+    "divisors"
+  ],
+  "title": "Integers with many divisors in a dyadic interval",
+  "url": "https://arxiv.org/abs/2611.15534",
+  "venue": "arXiv"
+}

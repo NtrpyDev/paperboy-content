@@ -1,0 +1,38 @@
+{
+  "abstract": "For a nonzero polynomial $P(x)\\in\\mathbb{Z}[x]$ with $P(0)=0$, let $W(P(x);4)$ denote the least integer $N$ such that every four coloring of $[N]$ contains distinct integers $u,v$ of the same color with $v-u=P(d)$ for some integer $d$. The best known general upper bounds for polynomial van der Waerden numbers are primitive recursive but remain enormous compared with the few known exact values. In this paper we determine the exact four color polynomial van der Waerden numbers for \\[ \\begin{gathered} x^2+x,\\quad 2x^2+x,\\quad 3x^2+x,\\\\ x^2+7x,\\quad 2x^2+7x,\\quad 3x^2+7x,\\\\ x^2+9x,\\quad 2x^2+9x,\\quad 3x^2+11x. \\end{gathered} \\] We derive upper bounds using combinatorial proofs and lower bounds using constructions of explicit colorings of $[N]$ found using the alternative computing inspired method of simulated annealing. More generally, we also prove that the four color polynomial van der Waerden numbers for the entire family of nonzero polynomials $ex^2+fx$ grow only linearly in the magnitude of their coefficients \\[ W(ex^2+fx;4)=\\Theta(|e|+|f|). \\]",
+  "arxiv_id": "2611.14913",
+  "authors": [
+    "Ishan Kumthekar",
+    "William Gasarch",
+    "William Regli",
+    "Ian Whitehouse"
+  ],
+  "categories": [
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14913"
+  },
+  "hook": "Exact four-color polynomial van der Waerden numbers found for nine quadratics, growing only linearly overall",
+  "hook_turn": "growing only linearly overall",
+  "id": "arxiv-2611.14913",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors pin down exact values of four-color polynomial van der Waerden numbers for nine specific quadratics and show the whole family grows linearly in the coefficients. Upper bounds come from combinatorial proofs, and lower bounds come from explicit colorings found by simulated annealing. The exact values cover only the nine listed polynomials.",
+  "tags": [
+    "Ramsey theory",
+    "van der Waerden numbers"
+  ],
+  "title": "Exact Values and Bounds for Four Color Quadratic Polynomial van der Waerden Numbers",
+  "url": "https://arxiv.org/abs/2611.14913",
+  "venue": "arXiv"
+}

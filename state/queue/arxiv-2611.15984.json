@@ -1,0 +1,46 @@
+{
+  "abstract": "Spin and charge fluctuations are key for understanding the properties of materials with strongly correlated electrons, but their coupling to the atomic crystal lattice is often assumed to be weak and perturbative. In this work, we demonstrate that at tricritical points (TCPs), that are associated with electronic correlations, a coupling to crystal elasticity is generically non-perturbative. It will modify the tricritical universality class leading to elastic tricriticality, characterized by a compressibility that diverges in a universal manner with the correlation length. To test this scenario experimentally, we use single crystals of EuPd$_2$(Si$_{1-x}$Ge$_x$)$_2$, where, depending on $x$ and pressure, magnetic order collapses due to strong valence fluctuations. First, we confirm the presence of a TCP for $x \\approx 0.1$ by using complementary probes, in particular, measurements of relative length changes under control of temperature and He-gas pressure. Second, by studying the elastic response, we uncover clear signatures of elastic tricriticality, notably a drastically enhanced compressibility.",
+  "arxiv_id": "2611.15984",
+  "authors": [
+    "Yassine Agarmani",
+    "Arif Ata",
+    "Lars Franke",
+    "Jan Zimmermann",
+    "Ulrich Tutsch",
+    "Marius Peters",
+    "Michelle Ocker",
+    "Kristin Kliemt",
+    "Cornelius Krellner",
+    "Bernd Wolf",
+    "Markus Garst",
+    "Michael Lang"
+  ],
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "doi": "10.1073/pnas.2614506123",
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15984"
+  },
+  "hook": "A magnet's collapse point makes its crystal lattice far softer than expected.",
+  "hook_turn": "far softer than expected.",
+  "id": "arxiv-2611.15984",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Theory predicts that at a tricritical point the coupling between electronic fluctuations and the crystal lattice is strong, making compressibility diverge. In EuPd2(Si,Ge)2 crystals near x of 0.1, length-change measurements under pressure and temperature show a tricritical point and sharply enhanced compressibility. The evidence comes from one compound family.",
+  "tags": [
+    "tricritical points",
+    "correlated electrons"
+  ],
+  "title": "Elastic tricriticality at the collapse of magnetic order in a valence fluctuating Eu-based compound",
+  "url": "https://arxiv.org/abs/2611.15984",
+  "venue": "arXiv"
+}

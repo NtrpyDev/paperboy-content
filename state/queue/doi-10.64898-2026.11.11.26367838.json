@@ -1,0 +1,40 @@
+{
+  "abstract": "Cholera is considered a paradigm for climate-sensitive diseases, yet its relation with El Nino Southern Oscillation (ENSO), the dominant mode of interannual climate variability, remains poorly quantified in Africa where most cholera deaths occur. Using 15 years of surveillance data across 30 African countries and novel statistical and simulation frameworks, we identify five geographically coherent ENSO-cholera teleconnection groups, each characterized by distinct directions, strengths and timing of effects on outbreak occurrence, duration and incidence. For the unfolding major El Nino of 2026-27, we project two- to five-fold greater cholera burden in Eastern and Horn of Africa than under ENSO-neutral conditions. These findings identify immediate priorities for anticipatory action and establish a dynamic framework for attributing burden for outbreak-prone diseases to climate variability.",
+  "arxiv_id": null,
+  "authors": [
+    "Perez-Saez, J.",
+    "Lee, E. C.",
+    "Zheng, Q.",
+    "Kamadjeu, R.",
+    "Zaitchik, B. F.",
+    "Azman, A. S."
+  ],
+  "categories": [
+    "epidemiology"
+  ],
+  "doi": "10.64898/2026.11.11.26367838",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.medrxiv.org/content/early/2026/11/12/2026.11.11.26367838.source.xml"
+  },
+  "hook": "El Nino shifts cholera risk across Africa, and the 2026-27 event may bring two to five times more in the east",
+  "hook_turn": "may bring two to five times more in the east",
+  "id": "doi-10.64898-2026.11.11.26367838",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "medrxiv",
+  "status": "preprint",
+  "summary": "Fifteen years of surveillance data from 30 African countries revealed five regions where El Nino affects cholera outbreaks in distinct ways. Applying those patterns to the 2026-27 El Nino, the authors project two to five times the usual cholera burden in Eastern Africa and the Horn. The projection depends on statistical models and on a forecast event that is still unfolding.",
+  "tags": [
+    "cholera",
+    "climate and health"
+  ],
+  "title": "El Nino Southern Oscillation shapes cholera in Africa",
+  "url": "https://doi.org/10.64898/2026.11.11.26367838",
+  "venue": "medRxiv"
+}

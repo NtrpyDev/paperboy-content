@@ -1,0 +1,43 @@
+{
+  "abstract": "Sulfide-based anode-free solid-state batteries (AFSSBs) offer high energy density and improved safety, but their practical implementation is hindered by parasitic reactions between freshly plated lithium (Li) and sulfide solid electrolytes. These reactions continuously consume the limited cathode-derived Li inventory, increase interfacial impedance, and promote nonuniform Li plating and stripping. Here, sodium bis(fluorosulfonyl)imide (NaFSI) is incorporated into Li 5.4 PS 4.4 Cl 1.6 (LPSC) to kinetically program interphase evolution. Heat treatment initially generates a NaF/LiF-rich interphase on the LPSC surface. This fluoride-rich region chemically stabilizes the interface and suppresses direct LPSC reduction. During the early cycles, the outermost region progressively evolves into a LiF/Li 3 N-rich layer, while the NaF-containing phase becomes buried beneath the Li-rich surface region, producing a time-evolved compositional gradient. Although NaF provides effective chemical passivation, its poor Li + conductivity can impede interfacial ion transport. The subsequent formation of Li 3 N-rich domains, which exhibit substantially higher Li + conductivity than NaF, provides more favorable transport pathways, homogenizes interfacial Li + flux, and promotes uniform Li plating and stripping. This time-evolved gradient interphase therefore combines early-stage chemical stabilization and Li conservation with improved long-term ion transport kinetics, suppressing impedance growth, localized inactive Li accumulation, and filamentary shorting. Consequently, the AFSSB using the NaFSI-modified LPSC interlayer retains 77.6% of its capacity after 500 cycles at 0.2 C, whereas the cell with bare LPSC retains only 32.1% after 100 cycles. These findings establish temporally programmed gradient interphases as a general strategy for conserving active Li and stabilizing sulfide-based AFSSBs.",
+  "arxiv_id": null,
+  "authors": [
+    "Jiwei Wang",
+    "Man Chen",
+    "Mengting Ye",
+    "Xiaolin Guo",
+    "Dehang Li",
+    "Hui Wang",
+    "Hongli Zhu"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.ael0210",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A sodium salt layer lets anode-free solid-state cells keep 77.6% capacity after 500 cycles.",
+  "id": "doi-10.1126-sciadv.ael0210",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Capacity kept after 500 cycles at 0.2 C",
+    "unit": "percent",
+    "value": "77.6"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Adding a sodium salt to a sulfide electrolyte creates a surface layer that first protects the electrolyte, then turns into a layer that carries lithium ions better. This reduced side reactions and uneven lithium plating in anode-free cells. Cells kept 77.6% of capacity after 500 cycles versus 32.1% after 100 for untreated ones, but these are small lab cells at one rate.",
+  "tags": [
+    "solid-state batteries",
+    "lithium"
+  ],
+  "title": "Time-evolved hetero-alkali interphases enable long-life sulfide-based anode-free solid-state batteries",
+  "url": "https://doi.org/10.1126/sciadv.ael0210",
+  "venue": "Science Advances"
+}

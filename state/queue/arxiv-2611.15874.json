@@ -1,0 +1,45 @@
+{
+  "abstract": "Atom interferometers are sensitive to oscillations of the masses and transition frequencies of atoms, which can be induced by axion dark matter. The main limitation is the sensitivity to gravity gradient noise (GGN). We propose a dual-species atom interferometry sequence that provides a suppression of GGN by up to three orders of magnitude and a sensitivity enhancement via the mass difference of the two atoms. We show that, under realistic experimental assumptions, a 10m-baseline dual-species atom interferometer is more sensitive to the axion gluon coupling than a 100m single-species gradiometer. Including a comprehensive noise analysis, we demonstrate that the Very Long Baseline Atom Interferometer (VLBAI) in Hannover with a baseline of 10m can probe the axion decay constant at levels almost competitive with leading laboratory constraints. The proposed 100m-baseline Atom Interferometer CERN Experiment (AICE) can extend this sensitivity by up to two orders of magnitude, surpassing laboratory constraints for axion masses of $10^{-19}\\;\\text{eV}/c^2 \\lesssim m_a \\lesssim 3\\times10^{-15}\\;\\text{eV}/c^2$.",
+  "arxiv_id": "2611.15874",
+  "authors": [
+    "Maike Reckermann",
+    "John Carlton",
+    "Michael Werner",
+    "Agnese Mariotti",
+    "Guillermo A. Perez-Lobato",
+    "Nathaniel Sherrill",
+    "Naceur Gaaloul",
+    "Dennis Schlippert",
+    "Elina Fuchs"
+  ],
+  "categories": [
+    "hep-ph",
+    "astro-ph.CO",
+    "hep-ex",
+    "physics.atom-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15874"
+  },
+  "hook": "A dual-species atom interferometer could cut gravity-gradient noise by up to three orders of magnitude.",
+  "id": "arxiv-2611.15874",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper proposes pairing two atomic species in one interferometer to cancel gravity gradient noise and gain sensitivity from their mass difference. A 10 m instrument would beat a 100 m single-species one in sensitivity to axion-gluon coupling, and the 100 m CERN design could surpass laboratory limits for some masses. These are projections under assumed noise models, not a measurement.",
+  "tags": [
+    "axion dark matter",
+    "atom interferometry"
+  ],
+  "title": "Dual-species atom interferometry for axion dark matter",
+  "url": "https://arxiv.org/abs/2611.15874",
+  "venue": "arXiv"
+}

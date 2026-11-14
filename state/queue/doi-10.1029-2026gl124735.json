@@ -1,0 +1,42 @@
+{
+  "abstract": "Abstract Bomb cyclones (BCs) are rapidly intensifying extratropical cyclones (ETCs) that pose wintertime hazards. Current low‐resolution climate models underestimate their frequency by ∼30%, causing substantial uncertainties in future projections. Using the high‐resolution Community Earth System Model (HR‐CESM), with 0.25° atmospheric and 0.1° eddy‐permitting ocean resolution, we show that the bias is largely reduced with improved representation of wind structure, upward motion and precipitation. Under the Representative Concentration Pathway 8.5 scenario, BC frequency decreases while wind speed and precipitation intensify. Although the IPCC AR6 reports generally small changes in future ETC wind speed with medium confidence, BCs show a significant intensification. HR‐CESM projects BC precipitation enhancement reaching ∼14.8% K −1 near the cyclone center, a super‐Clausius‐Clapeyron response, whereas HighResMIP and low‐resolution CMIP6 generally show response at or below this scaling. Moisture increases remain close to thermodynamic expectations, while strengthened ascent drives the super‐Clausius‐Clapeyron response in HR‐CESM.",
+  "arxiv_id": null,
+  "authors": [
+    "Zhili Tang",
+    "Xiaohui Ma",
+    "Lixin Wu",
+    "Shenghui Zhou",
+    "Hong Wang",
+    "Baiping Wang"
+  ],
+  "categories": [],
+  "doi": "10.1029/2026gl124735",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A high-resolution climate model fixes the bomb cyclone undercount and projects fewer, wetter, windier storms.",
+  "id": "doi-10.1029-2026gl124735",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Cyclone-center precipitation rise per kelvin",
+    "unit": "% per K",
+    "value": "~14.8"
+  },
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "A 0.25-degree coupled climate model reduces the roughly 30% undercount of bomb cyclones seen in coarse models. Under a high-emission scenario they become less frequent but stronger, with rain near the center rising faster than basic moisture physics predicts because of stronger ascent. Results come from one model and one scenario.",
+  "tags": [
+    "bomb cyclones",
+    "climate projection"
+  ],
+  "title": "Improved Simulation and Projection of Northern Hemisphere Bomb Cyclones in a High‐Resolution Coupled Climate Model",
+  "url": "https://doi.org/10.1029/2026gl124735",
+  "venue": "Geophysical Research Letters"
+}

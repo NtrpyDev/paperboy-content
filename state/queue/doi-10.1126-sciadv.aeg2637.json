@@ -1,0 +1,35 @@
+{
+  "abstract": "Large-scale circulation waviness shapes day-to-day weather and extremes. During 1989 to 2011, Northern Hemisphere midlatitudes experienced a pronounced increase in wintertime waviness, coinciding with rapid Arctic warming and more frequent cold-air outbreaks. While Arctic amplification was hypothesized to cause this trend via jet weakening, subsequent studies have failed to support this mechanism, leaving the origin unresolved. Here, using large-ensemble simulations, statistical analyses, and dynamical diagnostics, we demonstrate that variability in sea surface temperature and sea ice accounts for approximately half (48.7 to 63.3%) of the observed increase. A positive phase shift of the Atlantic Multidecadal Oscillation (AMO) is the prominent driver, enhancing waviness across northern Eurasia, the northwest Pacific, and the North Atlantic. A concurrent negative Interdecadal Pacific Oscillation shift partially offsets the AMO-driven anomalies in the northwest Pacific. Projections indicate that internal variability will outweigh model differences as the main source of near-term uncertainty. These results refine attribution of recent winter waviness changes and identify an AMO-linked source of predictability for long-term shifts in midlatitude extremes.",
+  "arxiv_id": null,
+  "authors": [
+    "Weiming Ma",
+    "Hailong Wang",
+    "Sandro W. Lubis",
+    "Gang Chen"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aeg2637",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Ocean and sea-ice variability explains about half the 1989 to 2011 rise in winter circulation waviness.",
+  "id": "doi-10.1126-sciadv.aeg2637",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Large-ensemble climate simulations and diagnostics attribute 48.7 to 63.3% of the observed increase in wintertime waviness to sea surface temperature and sea ice variability. A shift of the Atlantic Multidecadal Oscillation to its positive phase is the main driver, partly offset by the Pacific. The result depends on model fidelity, and about half of the trend remains unexplained.",
+  "tags": [
+    "atmospheric circulation",
+    "climate variability"
+  ],
+  "title": "Increases in Northern Hemisphere winter circulation waviness over 1989 to 2011 driven by decadal oceanic variability",
+  "url": "https://doi.org/10.1126/sciadv.aeg2637",
+  "venue": "Science Advances"
+}

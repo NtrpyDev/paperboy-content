@@ -1,0 +1,48 @@
+{
+  "abstract": "Abstract The Origin Recognition Complex (ORC) recruits Mini-Chromosome Maintenance (MCM) hexamers to initiate eukaryotic DNA replication. While yeast ORC binds specific DNA motifs, human ORC binds sequence-agnostically nucleosome-depleted promoter regions. Here, using a mutant yeast model that recapitulates the human ORC binding landscape, we demonstrate that pervasive and unscheduled ORC binding at promoters in the compact yeast genome generates R-loop associated transcription-replication conflicts and disrupts gene expression across thousands of genes. Unexpectedly, we also uncover that substituting endogenous gene promoters with a replication origin sequence maintains robust transcription. We reveal that this intrinsic, promoter-like function relies on the ability of origins to form a nucleosome-depleted region (NDR) encoded within the origin’s sequence composition. However, origin-substituted loci reposition the +1 nucleosome which drives the transcription machinery to select alternative transcription start sites (TSSs). Thus, origins and promoters share an intrinsic chromatin structure-controlled ability to drive transcription initiation. Together, our results show that origin licensing in compact genomes relies on sequence-specific, coupled origin licensing to insulate transcription from the replication machinery.",
+  "arxiv_id": null,
+  "authors": [
+    "Clare S. K. Lee",
+    "Maxime Lalonde",
+    "Tobias Straub",
+    "Myriam Zheng",
+    "Elizabeth Márquez-Gómez",
+    "Melina Riepl",
+    "Bozhao Dong",
+    "Ioannis Tsirkas",
+    "Atiqa Sajid",
+    "Marcel Werner",
+    "Ana Janeva",
+    "Xanthoula Karypidou",
+    "Antonio Scialdone",
+    "Kurt M. Schmoller",
+    "Benoit Palancade",
+    "Bik Kwoon Tye",
+    "Stephan Hamperl"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-79167-4",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Replication origins can work as promoters in yeast, and stray ORC binding disrupts gene expression",
+  "id": "doi-10.1038-s41467-026-79167-4",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "In a yeast mutant that binds DNA like human ORC does, widespread ORC at promoters caused R-loop-linked clashes between transcription and replication. Replacing promoters with an origin sequence still drove transcription through a nucleosome-free region, though start sites shifted. Findings are from budding yeast and may not transfer to human cells.",
+  "tags": [
+    "dna replication",
+    "transcription"
+  ],
+  "title": "Humanized yeast ORC drives R-loop dependent transcription-replication conflicts and global gene dysregulation",
+  "url": "https://doi.org/10.1038/s41467-026-79167-4",
+  "venue": "Nature Communications"
+}

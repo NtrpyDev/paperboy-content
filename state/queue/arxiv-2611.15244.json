@@ -1,0 +1,36 @@
+{
+  "abstract": "We study the areas of the cells determined by an arrangement $\\mathcal{A}$ of $n$ distinct great circles on the unit sphere, with no three concurrent. Let $m(\\mathcal{A})$ and $M(\\mathcal{A})$ denote the smallest and largest cell areas, respectively. Our first result is the bound \\[ m(\\mathcal{A})\\le \\frac{C_*+O(n^{-3/4})}{n^2}, \\qquad C_*=7.0666071493\\ldots , \\] where the implied constant is absolute. This improves the coefficient $\\pi^2$ obtained from classical polygonal perimeter estimates. We also prove that $M(\\mathcal{A})/m(\\mathcal{A})>13$ for all sufficiently large $n$, improving the bound $7.43$ of L.~Fejes T\\'oth. The main tool is a perimeter inequality for planar polygons which takes account of their exterior angles. We combine this with a positive semidefinite kernel on the sphere and use gnomonic projection to obtain bounds for spherical cells.",
+  "arxiv_id": "2611.15244",
+  "authors": [
+    "Krishnendu Bhowmick"
+  ],
+  "categories": [
+    "math.CO",
+    "math.MG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15244"
+  },
+  "hook": "In any arrangement of n great circles, some cell has area at most about 7.07 over n squared.",
+  "hook_turn": "some cell has area at most about 7.07 over n squared.",
+  "id": "arxiv-2611.15244",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For n great circles on a sphere with no three meeting at a point, the smallest cell area is bounded by roughly 7.0666 divided by n squared, improving the older constant pi squared. The largest cell is also shown to exceed 13 times the smallest for large n. The proof uses a new perimeter inequality for polygons and a positive semidefinite kernel; the bounds are upper limits and not shown to be tight.",
+  "tags": [
+    "discrete geometry",
+    "spherical geometry"
+  ],
+  "title": "Small cells in great-circle arrangements",
+  "url": "https://arxiv.org/abs/2611.15244",
+  "venue": "arXiv"
+}

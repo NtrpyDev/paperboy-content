@@ -1,0 +1,56 @@
+{
+  "abstract": "Gout flare is driven by hyperuricemia (HUA) and inflammatory responses to monosodium urate (MSU) crystals, yet single time-point serum uric acid (UA) measurements cannot capture the biochemical dynamics preceding flare onset or explain the timing of severe pain manifestation. Here, we present a skin-attachable interstitial fluid (ISF)-based electrochemical sensing platform for time-resolved, minimally invasive UA monitoring in a controlled, induced mouse model of gout flare-associated inflammation and pain. The platform integrates an enzyme-based UA sensor, a thin insertion electrode, and battery-free near-field communication (NFC), enabling time-resolved in vivo tracking of ISF UA dynamics. By establishing disease-stage-specific models comprising HUA, MSU-only inflammation, and gouty arthritis flare (GA flare) conditions, we separately examined metabolic and inflammatory contributions to flare-associated UA dynamics. Time-resolved ISF monitoring revealed that the GA flare group exhibited pronounced UA fluctuation patterns that were not reproduced by either condition alone. The peak timing of UA dynamics was temporally decoupled from pain-related behavioral responses, indicating that flare-associated pain onset cannot be explained by a single UA concentration. A machine learning framework using ISF UA time-series features identified predictive information preceding peak pain, whereas analyses using earlier events defined by sustained decreases in paw withdrawal threshold showed lower and event-definition-dependent performance. These findings establish time-resolved ISF UA monitoring as a framework for resolving flare-associated biochemical dynamics and evaluating subsequent pain progression in an induced mouse model.",
+  "arxiv_id": null,
+  "authors": [
+    "Dayeon Kim",
+    "Yeon-Mi Hong",
+    "Hayoung Song",
+    "Joonho Paek",
+    "Jihui Lee",
+    "Dongwook Lee",
+    "Min-Gyo Jeong",
+    "Jayoung Kim",
+    "Jang-Ung Park"
+  ],
+  "categories": [
+    "Extracellular Fluid",
+    "Animals",
+    "Mice, Inbred C57BL",
+    "Mice",
+    "Gout",
+    "Arthritis, Gouty",
+    "Pain",
+    "Hyperuricemia",
+    "Disease Models, Animal",
+    "Inflammation",
+    "Uric Acid",
+    "Biosensing Techniques",
+    "Male",
+    "Wearable Electronic Devices"
+  ],
+  "doi": "10.1073/pnas.2622418123",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A skin-worn sensor tracked uric acid in gouty mice. Its peak did not line up with pain.",
+  "hook_turn": "Its peak did not line up with pain.",
+  "id": "doi-10.1073-pnas.2622418123",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "A battery-free patch with a thin needle electrode read uric acid in fluid under the skin of mice with induced gout. Uric acid swings in flare mice differed from those with high uric acid or crystals alone, and peaked at a different time than pain behavior. A machine learning model found some predictive signal before peak pain, but it was weaker for earlier pain events. All results come from induced mouse models.",
+  "tags": [
+    "wearable sensors",
+    "gout"
+  ],
+  "title": "Wearable interstitial fluid sensing of time-resolved uric acid for early prediction of flare-associated pain in an induced mouse model.",
+  "url": "https://doi.org/10.1073/pnas.2622418123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

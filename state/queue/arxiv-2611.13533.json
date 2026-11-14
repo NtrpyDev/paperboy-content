@@ -1,0 +1,36 @@
+{
+  "abstract": "We prove that, in every dimension $n\\ge150$, the one-dimensional projections of the uniform distribution on a cube have the largest differential entropy in directions with equal coordinate magnitudes. This establishes the conjecture of Eskenazis, Nayar, and Tkocz in these dimensions.",
+  "arxiv_id": "2611.13533",
+  "authors": [
+    "Zhekai Pang"
+  ],
+  "categories": [
+    "math.PR"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13533"
+  },
+  "hook": "Cube projections have maximal entropy along the diagonal-like directions, proved for dimensions 150 and up",
+  "hook_turn": "proved for dimensions 150 and up",
+  "id": "arxiv-2611.13533",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper proves that when a uniform cube is projected onto a line, the result is most spread out (highest differential entropy) when all coordinates of the direction have equal size. This settles a conjecture of Eskenazis, Nayar, and Tkocz, but only for dimensions n of at least 150. Lower dimensions remain open.",
+  "tags": [
+    "probability",
+    "entropy",
+    "convex geometry"
+  ],
+  "title": "Entropy maximization for cube projections",
+  "url": "https://arxiv.org/abs/2611.13533",
+  "venue": "arXiv"
+}

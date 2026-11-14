@@ -1,0 +1,45 @@
+{
+  "abstract": "Tumour cells evade detection and elimination by the immune system through a suite of adaptations1, including the repression of antigen presentation, which is required for the recognition of tumour cells by CD8+ T cells. Mitochondria have emerged as targets for enhancing antitumour immunity; however, the extensive mitochondrial proteome has remained largely unstudied for its ability to modulate immune responses. Here we show that defects in the mitochondrial protein import machinery promote tumour immunogenicity and synergize with immune checkpoint blockade treatment in melanoma models. Mitochondrial protein import perturbation, specifically through depletion of the TIM23 import complex subunit TIMM50, enhances tumour immunogenicity through a pathway involving mitochondrial DNA escape, cGAS-STING pathway activation and interferon-β (IFNβ) secretion. Secreted IFNβ signals through the type I IFN receptor to activate the JAK-STAT pathway, resulting in increased antigen presentation on MHC class I complexes. Mitochondrial DNA escape in Timm50-depleted cells is linked to the formation of mitochondrial-derived vesicles. Depletion of SNX9 and RAB9, involved in mitochondrial-derived vesicle formation2, suppresses mitochondrial DNA-dependent type I IFN production and signalling. By disrupting mitochondrial proteostasis and membrane architecture, defective protein import in Timm50-depleted cells drives the immune phenotype. This study shows that mitochondrial protein import inhibition causes tumour immunogenicity, including sensitization to immune checkpoint blockade, by promoting mitochondrial DNA escape and IFNβ-driven MHC class I antigen presentation.",
+  "arxiv_id": null,
+  "authors": [
+    "Thomas D Jackson",
+    "Jonathan M Palozzi",
+    "Christopher D McGann",
+    "Tevis Vitale",
+    "Ruth Choa",
+    "Hieu H M Nguyen",
+    "Joao A Paulo",
+    "Pedro Latorre-Muro",
+    "Jonathan G Van Vranken",
+    "Matthew Ravichandran",
+    "Bingsen Zhang",
+    "Manisha Yadav",
+    "Steven P Gygi",
+    "Pere Puigserver"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41586-026-11249-1",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Blocking mitochondrial protein import makes melanoma cells easier for T cells to spot, in mouse models.",
+  "id": "doi-10.1038-s41586-026-11249-1",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Depleting the import subunit TIMM50 lets mitochondrial DNA escape, which triggers cGAS-STING signaling, interferon-beta release and more MHC class I antigen presentation. It also boosted immune checkpoint blockade in melanoma models. Evidence is from cell lines and mouse models, not patients.",
+  "tags": [
+    "cancer immunology",
+    "mitochondria"
+  ],
+  "title": "Mitochondrial protein import defects enhance tumour immunogenicity.",
+  "url": "https://doi.org/10.1038/s41586-026-11249-1",
+  "venue": "Nature"
+}

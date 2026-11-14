@@ -1,0 +1,35 @@
+{
+  "abstract": "Erd\\H{o}s, Graham, Montgomery, Rothschild, Spencer, and Straus conjectured that for each non-equilateral triangle $\\operatorname{T}$, every 2-coloring of the plane contains a congruent copy of $\\operatorname{T}$ with monochromatic vertex set. We confirm this conjecture for triangles with a ratio $\\sqrt{7/3}$ between two side lengths. We further prove that every coloring of the plane, regardless of the number of colors used, contains congruent copies of 36 specific triangles with monochromatic or rainbow vertex sets, partially answering a question of Geh\\'er, Sagdeev, and T\\'oth. Both these results were obtained by considering finite configurations on the triangular lattice.",
+  "arxiv_id": "2611.13066",
+  "authors": [
+    "Till Rauch-M\\\"uller",
+    "Arsenii Sagdeev"
+  ],
+  "categories": [
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13066"
+  },
+  "hook": "Every 2-coloring of the plane contains a monochromatic triangle with side ratio sqrt(7/3).",
+  "id": "arxiv-2611.13066",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A 1970s conjecture says any 2-coloring of the plane holds a same-colored copy of any non-equilateral triangle. The authors prove it for triangles with a side ratio of sqrt(7/3), by checking finite configurations on the triangular lattice. They also find monochromatic or rainbow copies of 36 triangles for any number of colors. The full conjecture remains open.",
+  "tags": [
+    "Ramsey theory",
+    "discrete geometry"
+  ],
+  "title": "Monochromatic or rainbow triangles in the triangular lattice",
+  "url": "https://arxiv.org/abs/2611.13066",
+  "venue": "arXiv"
+}

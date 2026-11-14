@@ -1,0 +1,47 @@
+{
+  "abstract": "Materials, at their essence, are networks defined by homogeneity: uniform bonds, fixed thicknesses and discrete length scales. Mechanical metamaterials, while representing structurally more diverse microstructures, remain defined by the homogeneity of their unit cells, pore sizes or repeating features1,2. In contrast, as network science has revealed, real-world and biological systems-from the Internet to the brain-derive their function from broad, multiscale variability in connectivity and link length3-6. Here we introduce scale-rich metamaterials, a design framework that embeds network heterogeneity into mechanical metamaterials, achieving orders-of-magnitude heterogeneity in ligament lengths, thicknesses and connectivity. Governed by only two parameters, scale-rich networks span orders of magnitude in structural features, overcoming previous constraints in metamaterial design. Translating these network models into physically realizable materials, we use simulations and experiments to show that scale-rich metamaterials exhibit properties inaccessible to traditional single-scale systems, including highly tunable elastic anisotropy, delocalized nonlinear deformation with high energy absorption, enhanced energy dissipation under dynamic loading and programmable elastic-wave control. This network-based framework establishes a minimal and universal model for engineering multifunctional materials whose mechanical behaviour emerges directly from scale diversity, and also opens avenues of enquiry for network science itself.",
+  "arxiv_id": null,
+  "authors": [
+    "Csaba Both",
+    "Andrew Yen-Jong Chen",
+    "Ting-Ting Gao",
+    "Niek Mooij",
+    "Mohammad Charara",
+    "Jayna Wadhwa",
+    "Carlos M Portela",
+    "Albert-László Barabási"
+  ],
+  "categories": [
+    "Animals",
+    "Polymers",
+    "Biocompatible Materials",
+    "Anisotropy",
+    "Elasticity",
+    "Engineering",
+    "Wings, Animal"
+  ],
+  "doi": "10.1038/s41586-026-11191-2",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Networks with wildly varied strut lengths and thicknesses yield metamaterials with new mechanical behavior.",
+  "id": "doi-10.1038-s41586-026-11191-2",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Borrowing from network science, the authors designed metamaterials whose ligament lengths, thicknesses and connectivity vary over orders of magnitude, controlled by two parameters. Simulations and experiments show tunable anisotropy, high energy absorption and programmable elastic-wave control. Tested samples are small lab specimens, so scaling to real parts is open.",
+  "tags": [
+    "metamaterials",
+    "network science"
+  ],
+  "title": "Scale-rich network-based metamaterials.",
+  "url": "https://doi.org/10.1038/s41586-026-11191-2",
+  "venue": "Nature"
+}

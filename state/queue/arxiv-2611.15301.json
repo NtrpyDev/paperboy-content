@@ -1,0 +1,43 @@
+{
+  "abstract": "The Magellanic Stream (MS) is a gaseous structure extending over $150^\\circ$ across the sky, likely formed through interactions between the Large and Small Magellanic Clouds (LMC and SMC) as they fell into the Milky Way (MW). Its predicted stellar counterpart would provide a collisionless record of these interactions, but few candidate members have been identified. To expand this sample, we constructed a catalog of 87,763 distant K-giant candidates using DELVE DR2 and VHS DR5 photometry and Gaia DR3 astrometry, and analyzed VLT and Magellan spectra of 51 targets along the trailing MS. Combining radial velocities, spectrophotometric distances, and proper motions, we identify five new MS candidates at 58--95 kpc. Their metallicities are consistent with the outskirts of the SMC, while orbit integrations in a time-dependent MW--LMC--SMC potential support a possible Magellanic origin. Combined with previously identified candidates, these stars span a substantially broader range of Magellanic latitude than predicted by existing models, suggesting an extended debris field rather than a narrow stream. The candidates also lie predominantly closer than the simulated debris. More recent, less eccentric SMC orbits may help explain this distance discrepancy, although new simulations are required to test their implications for the stellar debris, along with larger spectroscopic samples.",
+  "arxiv_id": "2611.15301",
+  "authors": [
+    "Manuel Cavieres",
+    "Jes\\'us Torres",
+    "Camila Navarrete",
+    "Himansh Rathore",
+    "Julio Chanam\\'e",
+    "Gurtina Besla",
+    "Nicol\\'as Garavito-Camargo",
+    "A. Katherina Vivas"
+  ],
+  "categories": [
+    "astro-ph.GA",
+    "astro-ph.SR"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15301"
+  },
+  "hook": "Five distant giant stars may belong to a debris field from the Magellanic Clouds, wider than models predict.",
+  "hook_turn": "wider than models predict.",
+  "id": "arxiv-2611.15301",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Searching a catalog of 87,763 K-giant candidates and taking spectra of 51, the team finds five stars at 58 to 95 kpc that likely trace the Magellanic Stream. Together with earlier candidates they spread over a wider area, and lie closer, than simulations predict. Membership rests on velocities, distances, and orbit models, and the sample is small.",
+  "tags": [
+    "Magellanic Stream",
+    "galactic halo"
+  ],
+  "title": "The Distant Milky Way Halo from the Southern Hemisphere: Spatially broad and closer stellar debris associated to the Magellanic Stream",
+  "url": "https://arxiv.org/abs/2611.15301",
+  "venue": "arXiv"
+}

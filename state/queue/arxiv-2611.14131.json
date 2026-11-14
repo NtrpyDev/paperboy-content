@@ -1,0 +1,36 @@
+{
+  "abstract": "A classical question in Euclidean Ramsey theory, posed by Erd\\H{o}s, Graham, Montgomery, Rothschild, Spencer, and Straus, asks which finite configurations $X\\subset\\mathbb E^2$ must appear in blue under every red--blue coloring of the plane having no red pair of points distance one apart. For $m \\ge 2$, let $\\ell_m$ denote the line of $m$ points with consecutive points distance one apart. Tsaturian showed that $\\ell_5$ is unavoidable; we improve this to $\\ell_7$. Additionally, we show that in every three-coloring of the plane in which two colors contain no $\\ell_2$, the third color must contain an $\\ell_3$. To conclude our discussion on lines, we prove several related results on two-colorings of higher-dimensional Euclidean spaces where both colors avoid longer lines. Our methods also extend to other point configurations. In any two-coloring of the plane in which one color contains no $\\ell_2$, we show that the other color must contain both a regular pentagon of side length one and a unit square together with its center. We also prove that every two-coloring of three-dimensional space contains either a monochromatic unit square or a monochromatic noncoplanar tetrahedron with four edges of length one and two of length $\\sqrt{2}$. Our proofs combine Sz\\'ekely's averaging inequalities for distance-avoiding sets with the Fourier-analytic and linear-programming methods of de Oliveira Filho and Vallentin, together with a theorem on rotation-invariant measures from OpenAI's recent work on the Hadwiger-Nelson problem.",
+  "arxiv_id": "2611.14131",
+  "authors": [
+    "Ryan Hoff",
+    "Gary Hu",
+    "Yumo Liu"
+  ],
+  "categories": [
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14131"
+  },
+  "hook": "Any red-blue plane coloring with no red unit pair must contain a blue line of seven unit-spaced points.",
+  "id": "arxiv-2611.14131",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "This improves the earlier bound of five points. The proof combines averaging inequalities for distance-avoiding sets with Fourier and linear-programming bounds, and also gives results on other configurations such as a regular pentagon. The seven-point bound is probably not tight.",
+  "tags": [
+    "Euclidean Ramsey theory",
+    "combinatorics"
+  ],
+  "title": "Euclidean Ramsey Theory for Lines and Finite Configurations",
+  "url": "https://arxiv.org/abs/2611.14131",
+  "venue": "arXiv"
+}

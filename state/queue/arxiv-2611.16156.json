@@ -1,0 +1,37 @@
+{
+  "abstract": "We prove that for any sufficiently large odd integer $s$, there exist at least \\[ 2.78 \\, \\sqrt{\\frac{s \\log\\log s}{\\log s}} \\] irrational values among $\\zeta(3), \\zeta(5), \\dots, \\zeta(s)$, where $\\zeta$ is the Riemann zeta function. This improves on the best known estimate by a constant factor times $\\sqrt{ \\log\\log s}$. The proof combines the elimination technique and an arithmetic lemma of Fischler--Sprang--Zudilin, the hypergeometric constructions of Lai--Yu, and the Hankel determinant method that appeared in the proof that $\\zeta(5)$ is irrational posted by Fauzan on September 17, 2026.",
+  "arxiv_id": "2611.16156",
+  "authors": [
+    "St\\'ephane Fischler",
+    "Li Lai",
+    "Johannes Sprang",
+    "Wadim Zudilin"
+  ],
+  "categories": [
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16156"
+  },
+  "hook": "Proved: more odd zeta values must be irrational, improving the count by a sqrt(log log s) factor.",
+  "id": "arxiv-2611.16156",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For large odd s, the authors show at least 2.78 sqrt(s loglog s / log s) of the values zeta(3) through zeta(s) are irrational, beating the previous bound by a slowly growing factor. The proof merges earlier elimination, hypergeometric and Hankel determinant methods. It still cannot identify which values are irrational.",
+  "tags": [
+    "number theory",
+    "zeta values"
+  ],
+  "title": "Many more odd zeta values are irrational",
+  "url": "https://arxiv.org/abs/2611.16156",
+  "venue": "arXiv"
+}

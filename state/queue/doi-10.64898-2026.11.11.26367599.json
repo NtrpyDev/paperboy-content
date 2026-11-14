@@ -1,0 +1,44 @@
+{
+  "abstract": "BACKGROUND: Active case finding (ACF) in India screens large populations to find few cases. AI-NETRA predicts neighbourhood-level tuberculosis (TB) risk from routine notification data and generates field microplans. OBJECTIVE: To compare the yield and efficiency of AI-guided and standard ACF, and frontline acceptability. DESIGN: Prospective quasi-experimental evaluation in four TB Units of Pune district, comparing two-week AI-guided sweeps (April to May 2026) with the routine campaign in the same units (December 2024 to January 2025). Primary endpoint: bacteriologically confirmed pulmonary TB per persons screened; secondary: all-forms yield, presumptive yield, referral precision, number needed to screen (NNS) and cost per case. Acceptability: 16 focus groups (n=100) and a survey of 101 ASHAs. RESULTS: AI-guided teams screened 66,095 people and confirmed 10 pulmonary cases, against 9 among 177,322 in the standard campaign (rate ratio 2.98, 95% CI 1.09 to 8.29); NNS was 6,610 versus 19,702 and cost per case 66% lower. All-forms detection did not differ (15 versus 32; RR 1.26, 95% CI 0.63 to 2.39); the standard campaign had mobile X-ray. 96% of ASHAs reported finding the same presumptive cases while screening fewer people. CONCLUSION: Geospatial targeting raised confirmed yield per person and lowered NNS; total detection did not differ. A concurrent, like-for-like trial is warranted.",
+  "arxiv_id": null,
+  "authors": [
+    "Rao, U.",
+    "Pawar, R.",
+    "Beri, A.",
+    "Chadha, S.",
+    "Vashistha, H.",
+    "Das, M."
+  ],
+  "categories": [
+    "public and global health"
+  ],
+  "doi": "10.64898/2026.11.11.26367599",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.medrxiv.org/content/early/2026/11/12/2026.11.11.26367599.source.xml"
+  },
+  "hook": "AI-guided TB screening in Pune found about three times more confirmed cases per person screened",
+  "hook_turn": "per person screened",
+  "id": "doi-10.64898-2026.11.11.26367599",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Confirmed TB yield ratio, AI-guided vs routine",
+    "value": "2.98"
+  },
+  "significance": 5,
+  "source": "medrxiv",
+  "status": "preprint",
+  "summary": "A model predicted neighborhood TB risk from notification data to direct two-week screening sweeps in four units. It confirmed 10 pulmonary cases among 66,095 people versus 9 among 177,322 in an earlier routine campaign, at 66% lower cost per case. Comparison was to a different time period, and total detection of all TB forms did not differ.",
+  "tags": [
+    "tuberculosis",
+    "public health"
+  ],
+  "title": "Geospatial AI targeting of tuberculosis active case finding in Pune, India: a quasi-experimental evaluation",
+  "url": "https://doi.org/10.64898/2026.11.11.26367599",
+  "venue": "medRxiv"
+}

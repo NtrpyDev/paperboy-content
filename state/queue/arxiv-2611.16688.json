@@ -1,0 +1,36 @@
+{
+  "abstract": "We provide a method to construct a real-analytic ideal MHD equilibrium $(B,p)$ in a solid toroidal domain $\\Omega\\subset\\mathbb{R}^{3}$, with $B$ tangential to the boundary $\\partial\\Omega$. The regular pressure level sets foliate $\\Omega\\setminus\\Gamma$ by nested tori surrounding a magnetic axis $\\Gamma$, with $\\nabla p\\neq0$ away from the axis. We construct an example where the magnetic field is nonvanishing on $\\Omega$, and the rotational transform equals 2 on every regular pressure surface. The equilibrium has a trivial Euclidean symmetry group. It is non-isolated in the sense that it belongs to a real-analytic one-parameter family connecting it to an axisymmetric equilibrium. The toroidal domain, magnetic field and pressure vary smoothly along this family. Under the MHD--Euler correspondence, the construction also yields a real-analytic steady incompressible Euler flow with a nonconstant Bernoulli function. This constructively disproves one formulation of Grad's conjecture by exhibiting a smooth toroidal MHD equilibrium with nested pressure surfaces whose Euclidean symmetry group is trivial.",
+  "arxiv_id": "2611.16688",
+  "authors": [
+    "Kooper de Lacy",
+    "Naoki Sato"
+  ],
+  "categories": [
+    "math.AP"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16688"
+  },
+  "hook": "A plasma equilibrium with no symmetry at all is built, disproving one form of Grad's conjecture.",
+  "hook_turn": "disproving one form of Grad's conjecture.",
+  "id": "arxiv-2611.16688",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors construct a real-analytic ideal MHD equilibrium in a solid torus with nested pressure surfaces and a trivial symmetry group, and it connects smoothly to an axisymmetric one. Through the MHD-Euler correspondence it also gives a steady Euler flow. This is a mathematical existence result for one formulation of the conjecture, not a design for a fusion device.",
+  "tags": [
+    "plasma equilibria",
+    "Grad conjecture"
+  ],
+  "title": "An Analytic Toroidal MHD Equilibrium with Trivial Euclidean Symmetry Group",
+  "url": "https://arxiv.org/abs/2611.16688",
+  "venue": "arXiv"
+}

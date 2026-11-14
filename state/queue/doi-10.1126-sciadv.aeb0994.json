@@ -1,0 +1,34 @@
+{
+  "abstract": "Marine net primary production is expected to be affected by climate change. Although remote sensing offers broad spatial and temporal coverage, it is limited to surface observations and cannot capture subsurface variability. Autonomous profiling floats provide critical depth-resolved measurements that help bridge this gap. Here, we use data from the biogeochemical-Argo array to estimate basin-scale change in net primary production using the carbon-based production algorithm. We find statistically significant negative trends across the Atlantic and Southern Oceans and positive trends in the Pacific Ocean. These changes, if occurring in response to climate forcing, raise concern due to the key role of phytoplankton productivity in sustaining marine ecosystems. These trends typically agree in direction and magnitude with those from satellites. Our findings highlight the value of the biogeochemical-Argo array in detecting change in ocean productivity, demonstrating its potential for sustained monitoring. These results underscore the need for integrated observing systems to capture the full extent of changing marine productivity.",
+  "arxiv_id": null,
+  "authors": [
+    "Thomas J Ryan-Keogh",
+    "Sandy J Thomalla"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aeb0994",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Ocean plant production is falling in the Atlantic and Southern Oceans and rising in the Pacific.",
+  "hook_turn": "and rising in the Pacific.",
+  "id": "doi-10.1126-sciadv.aeb0994",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Depth-resolved data from robotic biogeochemical-Argo floats were fed into a carbon-based production algorithm to estimate net primary production across ocean basins. The trends mostly match satellite estimates in direction and size. Whether they reflect climate forcing is not established, and the float record is short.",
+  "tags": [
+    "ocean productivity",
+    "climate change"
+  ],
+  "title": "Basin-scale changes in net primary production from the biogeochemical-Argo array.",
+  "url": "https://doi.org/10.1126/sciadv.aeb0994",
+  "venue": "Science Advances"
+}

@@ -1,0 +1,36 @@
+{
+  "abstract": "In the Traveling Salesman Problem, a route must visit all customers and return to its starting point while minimizing its total length. The Minimum Latency Problem, also known as the Traveling Repairman Problem, instead minimizes the sum of the times at which customers are first visited. We give a deterministic polynomial-time approximation scheme for the weighted Euclidean Minimum Latency Problem in every fixed dimension, with arbitrary nonnegative customer weights. Our proof restricts the form of a solution in three steps, each with a controlled increase in cost. First, a decomposition based on Sitters' method assigns customers to phases that start and end at the root. Second, within each phase, we divide the route into a constant number of blocks and charge each customer at the end of its assigned block. The resulting objective is a nonnegative linear combination of block lengths. Third, we add an auxiliary dimension and use a fixed Minkowski norm to close each block path into a tour. Arora's closed-tour estimate then gives paths that cross the boundaries of a common dissection only at designated portals and a bounded number of times per face. A dynamic program optimizes the restricted objective, and projecting its paths back to the original space gives the final route. Rounding weights and coordinates keeps the state space polynomial.",
+  "arxiv_id": "2611.15425",
+  "authors": [
+    "Daniel Skachkov",
+    "Yuriy Dorn"
+  ],
+  "categories": [
+    "cs.DS",
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15425"
+  },
+  "hook": "Routes that minimize total customer waiting time can now be approximated to any accuracy in polynomial time.",
+  "id": "arxiv-2611.15425",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The Minimum Latency Problem asks for a route that minimizes the sum of times at which customers are first reached. The authors give a deterministic polynomial-time approximation scheme for weighted customers in any fixed dimension, by restricting routes to a structured form and solving it with dynamic programming. It is a theoretical result, and the running time grows steeply with the accuracy and the dimension.",
+  "tags": [
+    "approximation algorithms",
+    "routing"
+  ],
+  "title": "A polynomial-time approximation scheme for the weighted Euclidean Minimum Latency Problem in fixed dimension",
+  "url": "https://arxiv.org/abs/2611.15425",
+  "venue": "arXiv"
+}

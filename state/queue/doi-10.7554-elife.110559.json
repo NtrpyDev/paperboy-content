@@ -1,0 +1,55 @@
+{
+  "abstract": "During times of environmental stress, many animals enter torpor: a reversible protective physiological state typically characterised by reductions in core temperature, heart rate, and oxygen consumption. Species that naturally enter this hypothermic and hypometabolic state are tolerant of ischaemia-reperfusion injury. Consequently, there is a growing interest in utilising aspects of torpor for clinical applications such as protection from stroke or myocardial infarction. It is currently unknown, however, whether a torpor-like state is protective in animals that do not naturally enter torpor. Using viral vector-mediated chemogenetic activation of the medial preoptic area of the hypothalamus, we induced synthetic torpor in the rat, a species that does not naturally enter torpor. We demonstrate this state is cardioprotective in an ex vivo ischaemia-reperfusion injury model with an ~40% reduction in infarct size. Synthetic torpor-induced cardioprotection of the normothermic, isolated heart is not dependent on prior hypothermia in vivo. Phosphoproteomic analysis of cardiac tissue indicates that the protective effects of synthetic torpor may be mediated by parallel activation of cell survival and stress tolerance pathways and inhibition of cell death pathways. These findings provide important insights into the mechanisms of organ protective effects of synthetic torpor states with implications for future clinical translation in humans.",
+  "arxiv_id": null,
+  "authors": [
+    "Megan Elley",
+    "Ludovico Taddei",
+    "Muzammil Ali Khan",
+    "Una R Wilcox",
+    "Timna Hitrec",
+    "Martin Lewis",
+    "Anthony E Pickering",
+    "Michael Ambler"
+  ],
+  "categories": [
+    "Heart",
+    "Animals",
+    "Rats",
+    "Reperfusion Injury",
+    "Disease Models, Animal",
+    "Male",
+    "Torpor",
+    "Chemogenetics"
+  ],
+  "doi": "10.7554/elife.110559",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Induced torpor in rats, which never hibernate, cut heart attack damage by about 40% in isolated hearts.",
+  "hook_turn": "cut heart attack damage by about 40% in isolated hearts.",
+  "id": "doi-10.7554-elife.110559",
+  "license": null,
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Infarct size reduction, ex vivo rat heart",
+    "unit": "%",
+    "value": "~40"
+  },
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Chemogenetic activation of the hypothalamic preoptic area put rats into a torpor-like state, and their hearts later showed a smaller infarct after simulated ischemia and reperfusion. Protection did not depend on prior body cooling, and phosphoproteomics pointed to survival pathways. The test was on isolated rat hearts, so benefit in living animals or people is unshown.",
+  "tags": [
+    "torpor",
+    "heart attack",
+    "cardioprotection"
+  ],
+  "title": "Synthetic torpor in the rat protects the heart from ischaemia-reperfusion injury.",
+  "url": "https://doi.org/10.7554/elife.110559",
+  "venue": "eLife"
+}

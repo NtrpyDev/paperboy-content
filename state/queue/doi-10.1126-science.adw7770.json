@@ -1,0 +1,53 @@
+{
+  "abstract": "The star β Pictoris is orbited by a dusty debris disk, within which planet formation is occurring. The outer disk is sufficiently far from the star that volatile molecules are expected to freeze into solid ices. We observed the β Pictoris disk in the near-infrared using the James Webb Space Telescope. The spectrum shows features due to amorphous water ice (<7% crystallinity) and carbon dioxide (CO2) ice in both the 12CO2 and 13CO2 isotopologues. We infer that the CO2 ice is intimately mixed with the water ice at a ratio of 1:10. This implies that the ices formed in cold conditions, likely in the interstellar medium. Frequent collisions within the debris disk are required to explain the observed uniform distribution of icy dust grains.",
+  "arxiv_id": null,
+  "authors": [
+    "S K Betti",
+    "C H Chen",
+    "C Xie",
+    "K Worthen",
+    "S Brittain",
+    "J Najita",
+    "I Rebollido",
+    "T Beck",
+    "B T Bolin",
+    "D Hines",
+    "C Ingebretsen",
+    "C Lisse",
+    "M D Perrin",
+    "L Pueyo",
+    "I Wong",
+    "C Stark"
+  ],
+  "categories": [],
+  "doi": "10.1126/science.adw7770",
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Webb finds CO2 ice mixed into amorphous water ice around beta Pictoris, a relic of cold space.",
+  "hook_turn": "a relic of cold space.",
+  "id": "doi-10.1126-science.adw7770",
+  "license": null,
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Water ice crystallinity, beta Pictoris disk",
+    "unit": "percent",
+    "value": "<7"
+  },
+  "significance": 7,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Near-infrared Webb spectra of the star's debris disk show amorphous water ice and CO2 ice, including the rarer carbon-13 form, mixed at about 1 to 10. That mixing points to ice that formed cold, likely in interstellar space. The ice origin is inferred from spectra of one disk, not seen directly.",
+  "tags": [
+    "debris disks",
+    "JWST"
+  ],
+  "title": "Carbon dioxide and amorphous water ices in the debris disk around β Pictoris.",
+  "url": "https://doi.org/10.1126/science.adw7770",
+  "venue": "Science"
+}

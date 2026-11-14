@@ -1,0 +1,44 @@
+{
+  "abstract": "Abstract Measuring temperature in the upper atmosphere is important for spacecraft operations, debris mitigation and space climate, but remains challenging above about 500 km due to limited observational techniques. Here, we report temperature profile observations of metastable helium (He*) from 500 to 700 km by a He* fluorescence LiDAR in Danzhou, China. The system employs a three‐wavelength laser near 1,083 nm with large‐aperture telescope array and superconducting nanowire single‐photon detectors, enabling high‐sensitivity detection of extremely weak fluorescence signals. The retrieved profiles showed broadly consistent altitude‐dependent variations with nearby incoherent scatter radar ion temperature observations, although the comparison is qualitative because the instruments measure different physical quantities. This technique provides a promising observational tool for investigating neutral–ionosphere coupling and offers valuable support for space weather research, orbit prediction, and atmospheric environment monitoring across diverse space applications.",
+  "arxiv_id": null,
+  "authors": [
+    "Hang Zhou",
+    "Zhaofeng Wang",
+    "Zhenwei Liu",
+    "Jinru Cheng",
+    "Jiangtao Li",
+    "Chaomei Wu",
+    "Chuan Huang",
+    "Chen Liang",
+    "Tingdi Chen",
+    "Weilong Luo",
+    "Chong Wang",
+    "Ruocan Zhao",
+    "Xianghui Xue"
+  ],
+  "categories": [],
+  "doi": "10.1029/2026gl126859",
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A helium fluorescence lidar measured upper-atmosphere temperature at 500 to 700 km altitude.",
+  "id": "doi-10.1029-2026gl126859",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "A laser system in Danzhou, China, reads the faint glow of metastable helium to get temperature profiles where few tools work. It uses three-wavelength 1,083 nm light, a telescope array, and single-photon detectors. Profiles only loosely agree with radar ion temperatures, and the authors call that comparison qualitative since the instruments measure different things.",
+  "tags": [
+    "upper atmosphere",
+    "lidar"
+  ],
+  "title": "Temperature Measurements up to 700 km Using Metastable Helium Fluorescence LiDAR",
+  "url": "https://doi.org/10.1029/2026gl126859",
+  "venue": "Geophysical Research Letters"
+}

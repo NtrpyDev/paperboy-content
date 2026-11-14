@@ -1,0 +1,72 @@
+{
+  "abstract": "We present the first reverberation mapping (RM) measurements in the COSMOS field included in the SDSS-V Black Hole Mapper Reverberation Mapping Project. Using $\\sim$6 months of plate-based spectroscopy (from late 2020 to mid-2021) and accompanying ZTF+DECam \\emph{gri}-band photometric light curves, we analyze the variability of over 250 active galactic nuclei (AGNs) out to $z \\sim 3$. We successfully recover reliable $\\lesssim$ 200d time lags for 22 AGNs ($z \\lesssim 2.5$) in H$\\alpha$, H$\\beta$, MgII, or CIV, using a combination of multiple lag detection methods and significance tests. Our measurements are consistent with the radius-luminosity relations from recent large-scale RM programs, providing measured masses of $10^{7-9} M_{\\odot}$ for these AGNs. These results and upcoming long-baseline SDSS-V spectroscopy lay the groundwork for large-sample AGN studies in conjunction with other facilities covering the COSMOS field, including the Vera C. Rubin Observatory and Roman Space Telescope.",
+  "arxiv_id": "2611.15166",
+  "authors": [
+    "Zachary Stone",
+    "Yue Shen",
+    "Scott F. Anderson",
+    "Roberto Assef",
+    "Franz E. Bauer",
+    "W. N. Brandt",
+    "Joel R. Brownstein",
+    "Megan C. Davis",
+    "Jason Dexter",
+    "Tom Dwelly",
+    "Xiaohui Fan",
+    "Catherine J. Grier",
+    "Norman A. Grogin",
+    "P. B. Hall",
+    "Lorena Hern\\'andez-Garc\\'ia",
+    "Keith Horne",
+    "Yasaman Homayouni",
+    "Anton M. Koekemoer",
+    "Dhanesh Krishnarao",
+    "Jennifer Li",
+    "Diego Mardones-Soto",
+    "Mary Loli Mart\\'inez-Aldama",
+    "Knox Long",
+    "Sean Morrison",
+    "Leonardo Olivares Latorre",
+    "Theodore Pena",
+    "B. M. Peterson",
+    "Donald P. Schneider",
+    "Benny Trakhtenbrot",
+    "Matthew J. Temple",
+    "Jonathan R. Trump",
+    "Qian Yang"
+  ],
+  "categories": [
+    "astro-ph.GA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15166"
+  },
+  "hook": "Black hole masses measured for 22 distant active galaxies in the COSMOS field from light echoes.",
+  "hook_turn": "from light echoes.",
+  "id": "arxiv-2611.15166",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Active galaxies with reliable time lags",
+    "unit": "AGNs",
+    "value": "22"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Using about six months of SDSS-V spectra plus ZTF and DECam light curves for over 250 active galactic nuclei, the team recovered reliable time lags for 22. The lags match known radius-luminosity relations and give black hole masses of 10^7 to 10^9 solar masses. The six-month baseline limits detection to short lags and a small fraction of the sample.",
+  "tags": [
+    "reverberation mapping",
+    "black holes",
+    "active galactic nuclei"
+  ],
+  "title": "The SDSS-V Black Hole Mapper Reverberation Mapping Project: Short Lags in the COSMOS Field",
+  "url": "https://arxiv.org/abs/2611.15166",
+  "venue": "arXiv"
+}

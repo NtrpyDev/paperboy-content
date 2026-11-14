@@ -1,0 +1,44 @@
+{
+  "abstract": "Protein ubiquitylation regulates numerous cellular processes, but difficulties in generating site-specifically ubiquitylated proteins limit our understanding of individual modification events. In cells, ubiquitylation is mediated by an E1-E2-E3 enzyme cascade, with substrate recognition largely determined by more than 600 human E3 ligases, making it challenging to redirect ubiquitin transfer to a chosen lysine. Here we use RFdiffusion3 to design ubiquitin ligases from scratch that use a cysteine-based catalytic triad to conjugate an activated ubiquitin donor to a selected lysine in a chosen target substrate. Of 48 tested designs, 35 ubiquitylated a model peptide, with the most active ligases achieving near-quantitative ubiquitin transfer. We next challenged the approach with the homotrimeric sliding clamp proliferating cell nuclear antigen (PCNA), whose ubiquitylation at lysine (K) 164 governs DNA damage tolerance while displaying 45 off-target lysines for ubiquitination. Screening of 48 designs delivered a site-selective ligase. Incorporation of a single activity-increasing substitution and coupling to E1-dependent donor activation resulted in 90% conversion from unactivated ubiquitin, delivering higher rates and superior selectivity compared to a natural promiscuous E2. Using this cascade, we transferred di-, tri- and tetraubiquitin chains of defined length to PCNA K164 through a native isopeptide bond. These results establish de novo enzyme design as a route towards programmable, site-specific protein ubiquitylation. That a single de novo designed protein can bind both an activated ubiquitin donor and a globular target, and use a proficient catalytic machinery to selectively transfer ubiquitin to one lysine among 45, illustrates the level of functional complexity now within reach of de novo enzyme design.",
+  "arxiv_id": null,
+  "authors": [
+    "Salike, S.",
+    "Gantz, M.",
+    "Fottner, M.",
+    "Fluegel, T.",
+    "Moroz, S. S.",
+    "Hunt, A. C.",
+    "Groll, M.",
+    "Hilvert, D.",
+    "Lang, K.",
+    "Baker, D."
+  ],
+  "categories": [
+    "biochemistry"
+  ],
+  "doi": "10.64898/2026.11.08.765184",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/11/2026.11.08.765184.source.xml"
+  },
+  "hook": "Designed enzymes attach ubiquitin to one chosen lysine among 45 on the protein PCNA.",
+  "hook_turn": "attach ubiquitin to one chosen lysine among 45 on the protein PCNA.",
+  "id": "doi-10.64898-2026.11.08.765184",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Using RFdiffusion3, the team built ligases from scratch that transfer ubiquitin to a chosen lysine; 35 of 48 designs worked on a model peptide. A tuned design modified PCNA at K164 with better selectivity than a natural E2 and added chains of defined length. The work is in test tubes with purified proteins, and cells were not tested.",
+  "tags": [
+    "protein design",
+    "ubiquitin"
+  ],
+  "title": "De novo design of ligases for programmable site-specific protein ubiquitylation",
+  "url": "https://doi.org/10.64898/2026.11.08.765184",
+  "venue": "bioRxiv"
+}

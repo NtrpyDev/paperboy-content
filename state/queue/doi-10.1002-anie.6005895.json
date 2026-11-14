@@ -1,0 +1,46 @@
+{
+  "abstract": "Per- and polyfluoroalkyl substances (PFAS) are persistent contaminants found globally in water, soil, and food, raising widespread public concern because of their high toxicity and the risks they pose to the environment and human health. Although considerable efforts have been devoted over the past decades to developing materials for PFAS removal from water, lowering PFAS to regulation-compliant concentrations remains a formidable challenge. Here, we report covalent organic frameworks (COFs) engineered through a geometry-specific strategy for PFAS capture from water. This approach installs peapod-shaped pairs of closely spaced quaternary ammonium cationic sites, generating cooperative binding pockets that maximize electrostatic interactions with PFAS. The frameworks display ultrafast uptake kinetics, exceptional capture efficiency across ten different PFAS, ultralow equilibrium concentrations, robust regenerability, and cycling stability. Notably, the resulting COF reduces the perfluorooctanoic acid concentration from 1000 to 3.85 ng L-1 in batch systems within 10 min and decrease to as low as 0.82 ng L-1 under flow operations, both surpassing the state-of-the-art materials. These findings establish COFs as a powerful platform for programming pore environments and open an avenue toward unparalleled porous materials for PFAS removal and water treatment.",
+  "arxiv_id": null,
+  "authors": [
+    "Wei Wang",
+    "Haipei Shao",
+    "Guotao Xiao",
+    "Xingyao Ye",
+    "Mingchao Zhang",
+    "Ming Lin",
+    "Delin Qi",
+    "Donglin Jiang"
+  ],
+  "categories": [],
+  "doi": "10.1002/anie.6005895",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A cationic covalent organic framework cuts PFOA in water from 1000 to 3.85 ng/L in 10 minutes.",
+  "hook_turn": "in 10 minutes.",
+  "id": "doi-10.1002-anie.6005895",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "PFOA left after 10 min, from 1000 ng/L",
+    "unit": "ng/L",
+    "value": "3.85"
+  },
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "The framework places pairs of closely spaced quaternary ammonium sites in its pores so they grip PFAS together. It captured ten different PFAS and stayed effective over repeated use, reaching 0.82 ng/L in flow. Tests were on spiked water, so performance in real contaminated water remains to be shown.",
+  "tags": [
+    "PFAS",
+    "water treatment",
+    "porous materials"
+  ],
+  "title": "Covalent Organic Frameworks for Exceptional Removal of PFAS From Water.",
+  "url": "https://doi.org/10.1002/anie.6005895",
+  "venue": "Angewandte Chemie International Edition"
+}

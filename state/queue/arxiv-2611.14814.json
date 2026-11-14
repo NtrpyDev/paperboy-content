@@ -1,0 +1,40 @@
+{
+  "abstract": "Readers can move their eyes through a page but retain little of its meaning when their minds wander. We tested whether word properties still guide their eyes during these lapses. We analyzed public eye-tracking and electroencephalography (EEG) data from 44 adults who read articles. They marked the text read during each lapse they noticed. We linked these spans to the sentences needed for later comprehension questions. Word frequency, length and surprisal still predicted which words readers skipped and how long they looked at them. Compared with on-task reading, these effects met equivalence bounds of $\\pm$10% for skipping and $\\pm$20% for gaze duration. Readers spent 14.6% longer on words during lapses. Yet readers answered less accurately when lapses covered sentences needed for a later question. The adjusted difference was 25.7 percentage points for lapses covering all versus none of these sentences. The fixation-related EEG response was 42.7% smaller during lapses. At left posterior-lateral sensor P7, the median increase in alpha power was 10.0%. Occipital sensor Oz showed no reliable increase. These results suggest that word properties can guide the eyes while readers fail to form or retain a useful representation of the text.",
+  "arxiv_id": "2611.14814",
+  "authors": [
+    "Anirudh Natarajan",
+    "Paul Sajda"
+  ],
+  "categories": [
+    "q-bio.NC"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14814"
+  },
+  "hook": "Eyes still follow word frequency and length during mind-wandering, but comprehension drops.",
+  "id": "arxiv-2611.14814",
+  "license": "cc-by-nc-sa",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Accuracy drop when lapses cover needed text",
+    "unit": "percentage points",
+    "value": "25.7"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "In public eye-tracking and EEG data from 44 adults, word frequency, length and surprisal still predicted skipping and gaze time during self-reported lapses. Yet answers were 25.7 percentage points less accurate when lapses covered all the needed sentences. Lapses were self-marked, and this is a reanalysis of existing data.",
+  "tags": [
+    "mind wandering",
+    "reading"
+  ],
+  "title": "Mind-wandering preserves word-level coupling while disrupting comprehension",
+  "url": "https://arxiv.org/abs/2611.14814",
+  "venue": "arXiv"
+}

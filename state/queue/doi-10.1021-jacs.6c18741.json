@@ -1,0 +1,45 @@
+{
+  "abstract": "Abstract Lithium–air batteries suffer from moisture-induced parasitic reactions and electrolyte evaporation in ambient air. A fundamental challenge is the “micro-size inversion” paradox, where H2O (0.275 nm) is smaller than O2 (0.346 nm), rendering conventional size-based sieving ineffective. Here, we report a composite membrane composed of polydimethylsiloxane and fluorinated vinyl-functionalized covalent organic framework (COF-VF) to break this selectivity barrier. By grafting 1H,1H,2H,2H-perfluorodecyl groups onto a vinyl-functionalized covalent organic framework (COF-V), we establish a surface-chemistry-driven sieving mechanism. This design creates a molecular-level hydrogen-bond-repellent barrier that specifically inhibits polar H2O penetration while maintaining high nonpolar O2 flux, effectively decoupling the permeability-hydrophobicity trade-off. Molecular dynamics simulations corroborate this mechanism, demonstrating that the COF-VF exhibits significantly reduced adsorption affinity toward H2O compared to the pristine COF-V. In 40% RH ambient air, the battery equipped with this membrane delivers a discharge capacity of 3596 mAh g–1 and sustains cycling for 2700 h (270 cycles), a 10.8-fold improvement over unprotected cells. Advanced characterizations via DRT and DEMS confirm that the membrane promotes reversible Li2O2 formation and significantly suppresses LiOH accumulation. This work provides a multiscale strategy for molecular-level selective separation in practical energy storage.",
+  "arxiv_id": null,
+  "authors": [
+    "Yiwen Liu",
+    "Xiaoya Zhao",
+    "Zhang Wen",
+    "Bingxuan Du",
+    "Yu Shi",
+    "Lunjie Qin",
+    "Wei Li",
+    "Haoshen Zhou",
+    "Ping He"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c18741",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A fluorinated membrane blocks water but passes oxygen, so lithium-air cells run 2700 hours in humid air.",
+  "id": "doi-10.1021-jacs.6c18741",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Cycling time in 40% humidity air",
+    "unit": "hours",
+    "value": "2700"
+  },
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "A polydimethylsiloxane membrane with a fluorine-grafted covalent organic framework repels polar water while letting nonpolar oxygen through, even though water is the smaller molecule. Cells in 40% humidity cycled 10.8 times longer than unprotected cells. Water exclusion was supported by simulation, and tests were lab-scale cells.",
+  "tags": [
+    "lithium-air batteries",
+    "membranes"
+  ],
+  "title": "Breaking the “Micro-Size Inversion” Paradox via a Surface-Chemistry-Driven Molecular Sieving Membrane for Ambient Lithium–Air Batteries",
+  "url": "https://doi.org/10.1021/jacs.6c18741",
+  "venue": "Journal of the American Chemical Society"
+}

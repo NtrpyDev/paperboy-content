@@ -1,0 +1,34 @@
+{
+  "abstract": "The quantum switch applies two operations in a coherent superposition of their causal orders and is a simple example of indefinite causal order. No quantum circuit that uses each operation once in a definite order can even describe it, yet photonic experiments have demonstrated its physical realization. We ask how many calls to the black-box operations a quantum computer in the circuit model needs to reproduce the switch. If one of the black boxes is known to be unitary, three calls suffice. For general channels on a $d$-dimensional system, we prove three results. In all three, circuits may use classical feed-forward and unlimited ancillary quantum memory. First, no finite number of calls suffices for exact simulation in the worst case. Second, approximation to any fixed error below $1/2$, measured in half the diamond norm, requires $\\Omega(d^{1/4})$ calls, exponential in the number of qubits. Third, an ordinary circuit can require exponentially many calls to obtain a single bit that the switch extracts with a few uses. We consider a device whose actual noise is dephasing in a fixed unknown basis and test it against a theoretical depolarizing model. The two channels have the same entanglement and average gate fidelities, so these figures alone do not distinguish them. At fixed noise strength, the quantum switch tells them apart with a number of device uses independent of $d$, whereas the circuit model requires $\\Omega(d^{1/16})$ calls. Noise characterization is needed for quantum error correction, and this gives a provable query advantage of the switch in a task relevant to practical quantum computing. We invite future work that extends such advantages to more practical computing tasks.",
+  "arxiv_id": "2611.16229",
+  "authors": [
+    "Dantong Li"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16229"
+  },
+  "hook": "A quantum computer using ordinary circuits needs exponentially many calls to simulate the quantum switch.",
+  "id": "arxiv-2611.16229",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Even with feed-forward and unlimited memory, ordinary circuits cannot exactly simulate the quantum switch with finitely many calls, and approximating it needs at least d^(1/4) calls. The switch also tells two noise types apart with a number of uses independent of d. These are query-complexity results, not a hardware demonstration.",
+  "tags": [
+    "quantum switch",
+    "quantum computing"
+  ],
+  "title": "Infinite or indefinite: the query cost of simulating the quantum switch",
+  "url": "https://arxiv.org/abs/2611.16229",
+  "venue": "arXiv"
+}

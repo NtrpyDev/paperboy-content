@@ -1,0 +1,35 @@
+{
+  "abstract": "Let $L_1,\\dots,L_k\\in \\mathbb Z[x,y]$ be a system of linear polynomials whose homogeneous parts are pairwise linearly independent. Let $K=\\mathbb Q(\\alpha)$ be an imaginary quadratic field. Utilizing the higher order Fourier analysis machinery of Green and Sawhney in their breakthrough work on the Gaussian prime conjecture, we show that if there are no local obstructions, then there are infinitely many $(x,y)\\in \\mathbb Z$ such that $L_1(x,y),\\dots,L_k(x,y),$ and $N_{K/\\mathbb Q}(x+y\\alpha)$ are simultaneously prime. We further establish an asymptotic formula which matches the prediction by the multivariate Bateman-Horn conjecture. We present two arithmetic applications of this prime counting result. First, we show that the Brauer--Manin obstruction is the only obstruction to weak approximation on a new family of varieties, including diagonal conic bundles all of whose degenerate fibres are defined over $\\mathbb Q$ except one fibre that may be defined over an imaginary quadratic field. Second, we construct elliptic curves over $\\mathbb Q$ with infinitely many quadratic twists of rank exactly two.",
+  "arxiv_id": "2611.16062",
+  "authors": [
+    "Niven Achenjang",
+    "Katharine Woo"
+  ],
+  "categories": [
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16062"
+  },
+  "hook": "Linear forms and an imaginary quadratic norm are shown to be prime together infinitely often",
+  "id": "arxiv-2611.16062",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Using the higher order Fourier analysis of Green and Sawhney, the paper shows that certain linear polynomials and a quadratic norm form take prime values simultaneously, with an asymptotic count matching the Bateman-Horn prediction. This yields a Brauer-Manin result for a new family of varieties and elliptic curves with infinitely many rank two quadratic twists. The result requires no local obstructions and covers only imaginary quadratic fields.",
+  "tags": [
+    "number theory",
+    "prime numbers"
+  ],
+  "title": "Prime values of linear forms and a quadratic form: one proof and two arithmetic applications",
+  "url": "https://arxiv.org/abs/2611.16062",
+  "venue": "arXiv"
+}

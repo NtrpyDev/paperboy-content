@@ -1,0 +1,48 @@
+{
+  "abstract": "BRCA2-mutated prostate cancer is an aggressive, genomically unstable subtype, yet how this genomic instability influences tumor immunity remains undefined. We developed an isogenic, immunocompetent model of Brca2-deficient prostate cancer in which BRCA2 loss activated the cGAS/STING pathway and a type I interferon response across multiple cellular compartments, paradoxically leading to an overall immunosuppressed tumor microenvironment. Within this microenvironment, tumor-associated macrophages were interferon-responsive and expressed the CCR8 ligand Ccl8, and there was enrichment of immunosuppressive CCR8 regulatory T cells (Treg). Anti-PD-1 monotherapy was ineffective and instead reinforced this immunosuppressive circuit, leading to expansion of CCR8 Tregs. However, depletion of CCR8 regulatory T cells overcame resistance to checkpoint blockade. Analysis of human BRCA2-mutated prostate cancer showed elevated CCR8 expression, supporting the translational relevance of the CCR8 Treg axis as a potential therapeutic target in a disease largely refractory to immunotherapy.",
+  "arxiv_id": null,
+  "authors": [
+    "Rickman, K. A.",
+    "Sun, I. Q.",
+    "Parameswaran, R.",
+    "Zhu, X.",
+    "Cai, E. Y.",
+    "Rossi, V.",
+    "Ziper, N.",
+    "Song, H.",
+    "Thai, C.",
+    "Li, Y.",
+    "Diolaiti, M. E.",
+    "Huang, F. W.",
+    "Vasudevan, H. N.",
+    "Ashworth, A."
+  ],
+  "categories": [
+    "cancer biology"
+  ],
+  "doi": "10.64898/2026.11.11.765808",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/12/2026.11.11.765808.source.xml"
+  },
+  "hook": "Removing CCR8 regulatory T cells lets checkpoint blockade work in BRCA2-deficient prostate tumors in mice.",
+  "hook_turn": "lets checkpoint blockade work in BRCA2-deficient prostate tumors in mice.",
+  "id": "doi-10.64898-2026.11.11.765808",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "BRCA2 loss switches on an interferon alarm in prostate tumors, yet the tumor environment ends up immunosuppressed, with macrophages recruiting CCR8 regulatory T cells. Anti-PD-1 alone failed and expanded these cells, while depleting them restored response. Evidence comes from a mouse model, with only expression data from human tumors supporting relevance.",
+  "tags": [
+    "prostate cancer",
+    "immunotherapy"
+  ],
+  "title": "CCR8⁺ regulatory T cell depletion overcomes immune checkpoint blockade resistance in BRCA2-deficient prostate cancer",
+  "url": "https://doi.org/10.64898/2026.11.11.765808",
+  "venue": "bioRxiv"
+}

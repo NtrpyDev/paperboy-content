@@ -1,0 +1,43 @@
+{
+  "abstract": "A 35.6\\,deg$^2$ field of Euclid Data Release~1 that covers part of the corona and tidal tails of the young (100--130\\,Myr) nearby (234\\,pc) open cluster Blanco~1 is presented. We select 22 ultracool dwarfs from Euclid photometry and slitless spectra, and measure proper motions over a median baseline of 13\\,yr by combining Euclid astrometry with VIKING, KiDS and Rubin positions. Ten objects are comoving late-M and L dwarf candidates with membership probabilities of at least 0.5 under two field models. Nine of them are typed from their Euclid spectra, and the tenth is a candidate only if its colour-based type is adopted. Brown dwarf evolutionary models give masses of 0.03--0.06\\,$M_\\odot$ for the cluster age. The substellar population is about twice that predicted by a lognormal mass function scaled to the cluster's Gaia members. The remaining 12 objects are classified as late-M, L and T dwarfs with low probability of membership in the cluster. Using the Euclid sample to calibrate a search over 246\\,deg$^2$ of VIKING and KiDS photometry and motions, we identify 60 ultracool candidates, with about seven expected by chance. In the core region of Blanco 1 archival Subaru Hyper Suprime-Cam images and motions over 2011--2025 yield 35 candidates of types M7 or later, at least 20 of which are kinematic members at 95\\% confidence. These results extend the spectroscopic sequence of Blanco 1 into the L-type brown dwarfs and the list of candidate members over the outskirts and tidal tails of the cluster.",
+  "arxiv_id": "2611.15740",
+  "authors": [
+    "Eduardo L. Mart\\'in",
+    "Ramarao Tata",
+    "Marusa Zerjal",
+    "Javier Olivares Romero",
+    "Nafise Sedighi",
+    "Styliani Tsilia",
+    "Nicolas Lodieu",
+    "Nikola Vitas"
+  ],
+  "categories": [
+    "astro-ph.SR",
+    "astro-ph.GA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15740"
+  },
+  "hook": "Euclid finds ten likely brown dwarfs in the Blanco 1 cluster, about twice the expected number.",
+  "hook_turn": "about twice the expected number.",
+  "id": "arxiv-2611.15740",
+  "license": "cc0",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Ten late-M and L dwarfs are candidate members of the young Blanco 1 cluster, with masses of 0.03 to 0.06 solar masses. Euclid photometry, slitless spectra and proper motions over about 13 years picked them out, and the count exceeds a lognormal mass function prediction. Membership is probabilistic and unconfirmed.",
+  "tags": [
+    "brown dwarfs",
+    "open clusters"
+  ],
+  "title": "Euclid DR1 Legacy Science on Ultracool Dwarfs: Brown Dwarfs in the Blanco 1 Open Cluster",
+  "url": "https://arxiv.org/abs/2611.15740",
+  "venue": "arXiv"
+}

@@ -1,0 +1,41 @@
+{
+  "abstract": "In the \\textsc{Max-Min Allocation} problem, a set of indivisible items are to be assigned to a set of players and the goal is to maximize the minimum value among all players. A much studied special case, the \\textsc{Santa Claus} problem, assumes that an item has a fixed utility but a player is only interested in a subset of items. The main technique for designing approximation algorithms for \\textsc{Santa Claus} is the configuration LP, introduced by the Bansal and Sviridenko. A long line of research has progressively improved the upper bound of the integrality gap, mostly relying on the combinatorial arguments of Haxell for finding perfect matchings in certain hypergraphs. Remarkably, a recent paper of Haxell and Szab\\'o (SODA '23) introduced a novel topology-based analysis, by which they are able to obtain the current best upper bound of $3.534$. In this work, we adapt the approach of Haxell and Szab\\'o to analyze the integrality gap. The main new ingredient in our adaptation is that we stop the process of \"edge explosions\" in a graph used by Haxell and Szab\\'o when it becomes too costly. This early termination of explosions, combined with a new lower bound on a topological connectivity parameter based on a theorem of Aharoni, Berger, and Meshulam, allows us to improve the integrality gap to $3.4$. Our analysis has the additional advantage of being simpler.",
+  "arxiv_id": "2611.15392",
+  "authors": [
+    "Kimon Boehmer",
+    "Chien-Chung Huang"
+  ],
+  "categories": [
+    "cs.DS",
+    "cs.DM"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15392"
+  },
+  "hook": "The Santa Claus fair-allocation integrality gap is cut from 3.534 to 3.4 with a simpler topological proof.",
+  "hook_turn": "with a simpler topological proof.",
+  "id": "arxiv-2611.15392",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Integrality gap bound, Santa Claus",
+    "value": "3.4"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper lowers the proven upper bound on the configuration LP integrality gap for the Santa Claus problem. It adapts a topological method of Haxell and Szabo, stopping edge explosions early and using a connectivity bound from Aharoni, Berger and Meshulam. This is an upper bound on the gap, not a proven tight value.",
+  "tags": [
+    "approximation algorithms",
+    "fair allocation"
+  ],
+  "title": "Integrality Gap of 3.4 for Santa Claus: A Topology-based Analysis",
+  "url": "https://arxiv.org/abs/2611.15392",
+  "venue": "arXiv"
+}

@@ -1,0 +1,43 @@
+{
+  "abstract": "Abstract Engineering single-atom catalysts has predominantly focused on tailoring the primary coordination sphere, whereas whether distinct coordination spheres can be endowed with independent catalytic functions remains largely unexplored. Here, we demonstrate the functional specialization of coordination spheres by constructing a phosphorus-modified Ni–N2O2 single-atom catalyst for site-selective C–H deuteration. Advanced spectroscopic characterizations and theoretical calculations show that phosphorus is incorporated outside the preserved primary Ni–N2O2 coordination environment and support an O-linked phosphorus environment as a preferential second-sphere motif. This architecture decouples substrate recognition from catalytic activation. Specifically, second-sphere phosphorus selectively recognizes and anchors the amino group of haloanilines to dictate deuteration site selectivity, whereas the preserved primary Ni–N2O2 coordination sphere promotes H2 activation and undergoes H2-assisted regeneration following D2O-induced hydroxylation, facilitated by P–O–Ni electronic communication, thereby sustaining efficient catalytic turnover. Consequently, the catalyst achieves highly site-selective C–H deuteration of chloro-, bromo-, and iodoanilines using H2 and D2O while completely preserving carbon–halogen bonds, whereas the phosphorus-free analogue exhibits negligible activity. This work identifies the structural origin and catalytic function of second-sphere phosphorus and establishes functional specialization of coordination spheres as a general design principle for independently programming substrate recognition and catalytic turnover in single-atom catalysis.",
+  "arxiv_id": null,
+  "authors": [
+    "Jie Chen",
+    "Wengang Liu",
+    "Auttaphon Chachvalvutikul",
+    "Mohammad M. Jaffar",
+    "Wenze Liu",
+    "Pengyu Du",
+    "Longyue Hu",
+    "Xinshui Lei",
+    "Haifeng Qi",
+    "Xin Tu",
+    "Yujing Ren",
+    "Yong Qin"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c17938",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Phosphorus placed outside a nickel atom's first shell steers where deuterium lands on haloanilines.",
+  "id": "doi-10.1021-jacs.6c17938",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "A nickel single-atom catalyst with phosphorus in its second coordination sphere anchors the amino group of haloanilines, so deuterium from D2O and H2 goes to specific sites while carbon-halogen bonds survive. The phosphorus-free version is nearly inactive. The evidence is spectroscopy and calculation on one catalyst family and one substrate class.",
+  "tags": [
+    "single-atom catalysis",
+    "isotope labeling"
+  ],
+  "title": "Functional Specialization of Coordination Spheres Enables Site-Selective Aromatic C–H Isotope Exchange in Ni Single-Atom Catalysts",
+  "url": "https://doi.org/10.1021/jacs.6c17938",
+  "venue": "Journal of the American Chemical Society"
+}

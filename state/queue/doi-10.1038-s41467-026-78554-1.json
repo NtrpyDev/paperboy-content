@@ -1,0 +1,45 @@
+{
+  "abstract": "Abstract The use of poly(ADP-ribose) polymerase inhibitors (PARPi) has proven largely successful in targeting BRCA1/2 -mutated tumours. However, the emergence of PARPi-resistant disease can reduce the efficacy of this treatment, posing significant challenges in the clinic. Here, we use multiple models of BRCA1 -/- cells and patient-derived xenografts (PDXs) that have been treated with PARPi until they no longer responded to the drug, to characterise genomic and transcriptomic alterations specific to PARPi resistance. We find that abrogation of TP53BP1 expression occurs spontaneously during prolonged PARPi treatment, alongside TP53BP1 genomic deletions and promoter methylation. Additionally, innate immune response genes, including ISG15 and factors of the ISGylation machinery are upregulated in PARPi-resistant cells and tumours. We demonstrate that ISG15 inhibition re-sensitises PARPi-resistant cells to the drug and, conversely, that ISG15 overexpression in BRCA1 -/- cells promotes PARPi resistance. Mechanistically, BRCA1 -/- PARPi-resistant cells rely on ISG15 for replication fork progression and restart of stalled forks and for DNA double-strand break (DSB) repair via homologous recombination (HR). Our results indicate that complex ISG15 interactions with DNA replication/repair factors can drive PARPi resistance in BRCA1-deficient cancer cells and that targeting ISG15 has the potential to overcome PARPi resistance.",
+  "arxiv_id": null,
+  "authors": [
+    "Rebecca A. Dagg",
+    "Teressa Paulsen",
+    "Birbal Prasad",
+    "Giuliana De Gregoriis",
+    "Yuri Seung",
+    "Florian J. Groelly",
+    "Simeon D. Draganov",
+    "Flaminia Pedretti",
+    "Andrea Herencia-Ropero",
+    "Violeta Serra",
+    "Adán Pinto-Fernández",
+    "Madalena Tarsounas"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-78554-1",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Cancer cells resistant to PARP inhibitors lean on ISG15, and blocking it restores drug sensitivity.",
+  "hook_turn": "and blocking it restores drug sensitivity.",
+  "id": "doi-10.1038-s41467-026-78554-1",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "In BRCA1-deficient cells and patient-derived tumor grafts, long PARP inhibitor treatment led to loss of TP53BP1 and higher ISG15. Silencing ISG15 made resistant cells respond again, and overexpressing it caused resistance, apparently by helping DNA replication and repair. The evidence is from cell lines and mouse grafts, not patients.",
+  "tags": [
+    "PARP inhibitors",
+    "drug resistance",
+    "cancer"
+  ],
+  "title": "ISG15 promotes PARP inhibitor resistance in BRCA1-deficient cells by facilitating DNA replication and repair",
+  "url": "https://doi.org/10.1038/s41467-026-78554-1",
+  "venue": "Nature Communications"
+}

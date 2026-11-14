@@ -1,0 +1,42 @@
+{
+  "abstract": "Animals recognize visual objects and respond to them appropriately to survive. This process is thought to unfold in stages: the visual scene is first deconstructed into constituent features, which are then reconstructed into representations of object identity and relayed to motor circuits. Here we define a neural circuit in Drosophila that underlies the visual recognition of a natural predator, the parasitoid wasp, and orchestrates defence. We found that flies exhibit a repertoire of directed defensive actions structured by the wasp's position within the fly's field of view. Expression of these behaviours is driven by visual detection of a conspicuous morphological cue -- the wasp's elongated antennae. A small subset of lobula columnar (LC) visual projection neuron types are required for defence and are activated by constituent visual features of the wasp. Three LC types respond selectively to the wasp's antennae, and relay this information to LC9, which sums antennal- and body-feature signals to form a composite representation of the wasp. Spatial filtering of this representation onto a descending premotor pathway translates the wasp's location in visual space into directed defence. Feature combination followed by spatial filtering may constitute a general mechanism for coupling object identity to context-appropriate action.",
+  "arxiv_id": null,
+  "authors": [
+    "Denagamage, S.",
+    "Foltz, M.",
+    "Dalstein, V. M.",
+    "Behnia, R.",
+    "Card, G. M.",
+    "Axel, R.",
+    "Cury, K. M."
+  ],
+  "categories": [
+    "neuroscience"
+  ],
+  "doi": "10.64898/2026.11.09.765114",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/11/2026.11.09.765114.source.xml"
+  },
+  "hook": "Flies recognize a predator wasp by its antennae, then aim their defense at where it is.",
+  "hook_turn": "then aim their defense at where it is.",
+  "id": "doi-10.64898-2026.11.09.765114",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Fruit flies identify parasitoid wasps mainly from the wasp's long antennae. Three visual neuron types detect the antennae and feed a fourth, LC9, which combines antenna and body signals, and a motor pathway turns the wasp's position into directed defense. The work is a bioRxiv preprint in one fly species under lab conditions.",
+  "tags": [
+    "drosophila",
+    "vision",
+    "defensive behavior"
+  ],
+  "title": "Visual object recognition in the fly: the internal representation of a predator drives defensive behaviour",
+  "url": "https://doi.org/10.64898/2026.11.09.765114",
+  "venue": "bioRxiv"
+}

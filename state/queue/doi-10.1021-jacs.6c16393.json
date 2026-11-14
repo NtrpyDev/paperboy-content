@@ -1,0 +1,39 @@
+{
+  "abstract": "Abstract The synthesis, characterization, and catalytic polymerization results of an unprecedented double-tethered metallacyclobutadiene complex (4) are discussed. Complex 4 is active for the polymerization of acetylenes. Complex 4 polymerizes tert-butylacetylene to form cyclic poly(tert-butylacetylene). Evidence for a cyclic polymer topology comes from size exclusion chromatography (SEC) and intrinsic viscosity (η) measurements. This unusual reactivity of complex 4 toward a tert-alkylacetylene is attributed to its fluxional behavior, which arises from the double tethering of an yne-ol proligand (2) that facilitates monomer access and catalytic turnover. The preliminary scope of this complex design is demonstrated through modification of the yne-ol proligand, which afforded two additional double-tethered metallacyclobutadiene complexes 10 and 11 that are also catalytically active for polymerization.",
+  "arxiv_id": null,
+  "authors": [
+    "Vishal Chakravorty",
+    "Courtney M. Sever",
+    "Sayanil Ghosh",
+    "Palak Rakesh",
+    "Cody W. Daneluik",
+    "Ion Ghiviriga",
+    "Adam S. Veige"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c16393",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A flexible metal catalyst polymerizes tert-butylacetylene into rings instead of chains.",
+  "hook_turn": "into rings instead of chains.",
+  "id": "doi-10.1021-jacs.6c16393",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "A new metallacyclobutadiene complex, held by two tethers, polymerizes acetylenes and gives cyclic poly(tert-butylacetylene). Ring shape is inferred from size exclusion chromatography and viscosity, not direct imaging. Only two additional variants were tried.",
+  "tags": [
+    "polymer chemistry",
+    "catalysis"
+  ],
+  "title": "A Double-Tethered Metallacyclobutadiene Catalyst for Cyclic Polymer Synthesis",
+  "url": "https://doi.org/10.1021/jacs.6c16393",
+  "venue": "Journal of the American Chemical Society"
+}

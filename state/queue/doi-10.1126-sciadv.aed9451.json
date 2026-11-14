@@ -1,0 +1,45 @@
+{
+  "abstract": "The anti-Stokes shift, a critical parameter reflecting the conversion of low-energy photons into high-energy photons, has been constrained by energy losses inherent to multi-step energy transfer processes. Here, we have demonstrated quantum dot–based photon upconversion under 1208-nanometer illumination (below the silicon bandgap, ∼1107 nanometer) and achieved unprecedented anti-Stokes shifts of 1.21 and 1.26 electron volt, which exceed the energy of a single excitation photon (1.03 electron volt). This breakthrough partially arose from the ideal energy cascade between quantum dots and ligands (NKU-0), coupled with nearly energy-lossless triplet fusion of the annihilators. Furthermore, we have found that the ground-state thermal vibrations of tetracene derivatives can promote the population of electrons to high vibrational states, which facilitated the endothermic triplet energy transfer from the ligand to the annihilator, thereby substantially enlarging the anti-Stokes shift. These findings present a feasible design route toward NIR-II–excitable photon upconversion with large anti-Stokes shifts by precisely tailoring quantum dot–based sensitizers and annihilator units, which promotes the efficient exploitation of low-energy photons in chemistry, materials science, and photonics.",
+  "arxiv_id": null,
+  "authors": [
+    "Lin-Han Jiang",
+    "Ran Li",
+    "Ying-Ze Li",
+    "Dong-Xue Guo",
+    "Yun-Rong Li",
+    "Junxue Liu",
+    "Ling Huang",
+    "Dai-Wen Pang"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aed9451",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Quantum dots upconvert 1208-nm light, gaining more energy than one photon carries.",
+  "hook_turn": "gaining more energy than one photon carries.",
+  "id": "doi-10.1126-sciadv.aed9451",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Anti-Stokes shift, quantum dot upconversion",
+    "unit": "electron volts",
+    "value": "1.26"
+  },
+  "significance": 7,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Quantum dot sensitizers paired with tetracene-based annihilators converted 1208-nm infrared light, below the silicon bandgap, into higher-energy light. The anti-Stokes shifts reached 1.21 and 1.26 eV, larger than the 1.03 eV excitation photon. The authors credit a well-matched energy cascade and heat-assisted triplet energy transfer. Efficiency and practical device performance are not given in the abstract.",
+  "tags": [
+    "photon upconversion",
+    "quantum dots"
+  ],
+  "title": "Molecular thermal vibration assisted 1208-nm excitable photon upconversion with large anti-Stokes shifts",
+  "url": "https://doi.org/10.1126/sciadv.aed9451",
+  "venue": "Science Advances"
+}

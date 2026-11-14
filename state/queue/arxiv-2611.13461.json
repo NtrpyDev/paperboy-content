@@ -1,0 +1,35 @@
+{
+  "abstract": "We prove the conjecture of Chien, Nakazato, and Meng that the numerical range of a finite complex matrix has constant width $d$ if and only if it is a closed disk of radius $d/2$, with a singleton allowed when $d=0$. For $d>0$, the characteristic polynomial of the associated Hermitian pencil and its translate by $d$ have a nonconstant common divisor over $\\mathbb{C}(\\zeta)$. At points on the unit circle where the factorization can be evaluated, every root of the common divisor equals the smallest eigenvalue. A coefficient of the divisor thus gives a rational formula for that eigenvalue. The characteristic equation forces this rational function to be a Laurent polynomial with exponents in $\\{-1,0,1\\}$. Antipodal symmetry then makes the midpoint of the extreme eigenvalues a first harmonic, giving the support function of a disk. We also obtain the corresponding quadratic factor of the Kippenhahn polynomial.",
+  "arxiv_id": "2611.13461",
+  "authors": [
+    "Muyan Jiang"
+  ],
+  "categories": [
+    "math.FA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13461"
+  },
+  "hook": "A matrix numerical range of constant width must be a disk, settling a conjecture",
+  "hook_turn": "settling a conjecture",
+  "id": "arxiv-2611.13461",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper proves a conjecture of Chien, Nakazato, and Meng: the numerical range of a finite complex matrix has constant width only if it is a disk. The proof factors the characteristic polynomial of a Hermitian pencil and shows the support function is a first harmonic. It applies to finite matrices only, not operators on infinite-dimensional spaces.",
+  "tags": [
+    "matrix theory",
+    "numerical range"
+  ],
+  "title": "A proof of the constant-width numerical range conjecture",
+  "url": "https://arxiv.org/abs/2611.13461",
+  "venue": "arXiv"
+}

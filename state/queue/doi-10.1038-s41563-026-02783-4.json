@@ -1,0 +1,63 @@
+{
+  "abstract": "The design of atomically precise catalysts requires strategies that regulate their electronic and structural dynamics under operating conditions. While conventional doping can effectively tune bulk materials, it translates poorly to single-atom catalysts (SACs), in which isolated atoms lack extended coordination and are prone to oxidative instability. Here we design atomically dispersed Ru-O-Cr motifs that enable oxidation damping during acidic oxygen evolution. In situ X-ray absorption spectroscopy shows attenuated Ru oxidation synchronized with anticorrelated and partially reversible Cr redox evolution, consistent with proximity-dependent redox coupling. This buffered redox response is accompanied by bounded and partially reversible changes in the local metal-oxygen coordination environment. These coupled dynamics support proximity-coupled Ru-O-Cr redox units, enabling a 55.7-fold increased resistance against oxidation-induced Ru dissolution compared with conventional SACs. In proton exchange membrane water electrolysis, catalysts incorporating proximal Ru-O-Cr configurations exhibit degradation rates that are 6.8-fold and 14.4-fold lower than those of Ru SACs and commercial RuO2, respectively, at 1 A cm-2. These results suggest proximal oxidation damping as a potential design principle for stabilizing atomically precise electrocatalysts.",
+  "arxiv_id": null,
+  "authors": [
+    "Tengyu Chen",
+    "Kaiwen Wang",
+    "Lu Xia",
+    "Wulyu Jiang",
+    "Bruna Ferreira Gomes",
+    "Linlin Yang",
+    "Kaiqi Zhao",
+    "Hao Huang",
+    "Carlos M S Lobo",
+    "Ranit Ram",
+    "Junmei Chen",
+    "Ren He",
+    "Alba Garzón Manjón",
+    "Kapil Gupta",
+    "Zhouhao Zhu",
+    "Marinos Dimitropoulos",
+    "Viktoria Golovanova",
+    "Laís Gimenes Vernasqui",
+    "Sven Hörnig",
+    "Prathama Haldar",
+    "Bárbara Polesso",
+    "Aparna M Das",
+    "Sunil Kadam",
+    "Andreu Cabot",
+    "Jordi Arbiol",
+    "F Pelayo García de Arquer"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41563-026-02783-4",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Placing chromium beside single ruthenium atoms makes an acid water-splitting catalyst far more stable.",
+  "hook_turn": "far more stable.",
+  "id": "doi-10.1038-s41563-026-02783-4",
+  "license": null,
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Resistance to Ru dissolution vs. SACs",
+    "unit": "fold",
+    "value": "55.7"
+  },
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Atomically dispersed Ru-O-Cr units damp ruthenium oxidation during acidic oxygen evolution, as in situ X-ray absorption shows. In membrane electrolyzers at 1 A per cm2, degradation is 6.8 times lower than for Ru single-atom catalysts. Long-term durability beyond the tests reported is not established.",
+  "tags": [
+    "electrocatalysis",
+    "water electrolysis"
+  ],
+  "title": "Proximal redox coupling enables oxidation damping for stable water electrolysis.",
+  "url": "https://doi.org/10.1038/s41563-026-02783-4",
+  "venue": "Nature Materials"
+}

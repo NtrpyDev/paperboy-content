@@ -1,0 +1,47 @@
+{
+  "abstract": "Nitrate pollution is widely perceived as a signature of human inputs. Here we show, with machine-learning reconstructed global maps, that climate aridity is also a dominant driver, systematically elevating nitrate concentrations across land-use gradients and creating unexpected hotspots beyond major agricultural and urban centers. Across ~2.9 million river segments worldwide, nitrate concentrations exceed ecological and health thresholds across ~33 and 2% of global land area, affecting ~5.6 billion (73%) and 0.5 billion (6%) people, respectively. Ecological threshold exceedance occurs mostly in headwaters, and about half of the health threshold exceedance occurs in middle-income countries and sparsely populated landscapes. These findings cast nitrate pollution as an aridity-amplified risk, suggesting that aridification may increase nitrate exposure even without additional human inputs. They call for regulatory standards that reflect risks across broad concentration ranges.",
+  "arxiv_id": null,
+  "authors": [
+    "Kayalvizhi Sadayappan",
+    "Li Li"
+  ],
+  "categories": [
+    "Humans",
+    "Nitrates",
+    "Water Pollutants, Chemical",
+    "Climate",
+    "Rivers",
+    "Droughts"
+  ],
+  "doi": "10.1126/science.aeg2366",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Dry climates raise river nitrate without extra pollution, exposing 5.6 billion people to ecological risk.",
+  "hook_turn": "exposing 5.6 billion people to ecological risk.",
+  "id": "doi-10.1126-science.aeg2366",
+  "license": null,
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Population above ecological nitrate threshold",
+    "unit": "percent of people",
+    "value": "73"
+  },
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Machine-learning maps of about 2.9 million river segments show aridity is a dominant driver of nitrate, creating hotspots away from farms and cities. Nitrate exceeds ecological thresholds on about 33% of land, affecting about 5.6 billion people, and health thresholds on 2%. The maps are model reconstructions from sparse monitoring data, so local values carry uncertainty.",
+  "tags": [
+    "nitrate pollution",
+    "aridity",
+    "water quality"
+  ],
+  "title": "Climate aridity amplifies global riverine nitrate beyond human inputs.",
+  "url": "https://doi.org/10.1126/science.aeg2366",
+  "venue": "Science"
+}

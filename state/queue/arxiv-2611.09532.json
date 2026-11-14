@@ -1,0 +1,34 @@
+{
+  "abstract": "Let $\\mathcal{E}$ be a vector bundle of rank $n\\geq 2$ over a smooth projective curve $C$ over $\\mathbb{C}$. We prove that $\\omega_{\\mathbb{P}_C(\\mathcal{E})}\\otimes\\mathcal{L}_1\\otimes\\dots\\otimes\\mathcal{L}_k$ is very ample for arbitrary ample line bundles $\\mathcal{L}_i$ on ${\\mathbb{P}_C(\\mathcal{E})}$ when $k\\geq n+2$.",
+  "arxiv_id": "2611.09532",
+  "authors": [
+    "Kevin Dao"
+  ],
+  "categories": [
+    "math.AG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.09532"
+  },
+  "hook": "Canonical bundle plus n+2 ample bundles is very ample on P^(n-1)-bundles over curves",
+  "id": "arxiv-2611.09532",
+  "license": "cc-by",
+  "published": "2026-11-06",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A conjecture of Fujita predicts when a canonical bundle twisted by ample line bundles is very ample. The author proves it for projective bundles of rank n over a smooth complex curve once at least n+2 ample bundles are added. The result covers only this family of spaces, not general varieties.",
+  "tags": [
+    "algebraic geometry",
+    "ampleness"
+  ],
+  "title": "Fujita's Very Ampleness Conjecture for $\\mathbb{P}^{n-1}$-Bundles over Curves",
+  "url": "https://arxiv.org/abs/2611.09532",
+  "venue": "arXiv"
+}

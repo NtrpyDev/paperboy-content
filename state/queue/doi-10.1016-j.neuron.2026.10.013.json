@@ -1,0 +1,42 @@
+{
+  "abstract": "AMPA receptors (AMPARs) mediate fast excitatory synaptic transmission and are essential for neuronal development and brain function. We investigated the role of a recurrent AMPAR GluA1 variant (GRIA1 p.A636T) identified in individuals with autism spectrum disorder (ASD) and intellectual disability (ID). Using a Gria1-A636T knock-in mouse model, we show that this variant is sufficient to produce core ASD/ID-like behaviors and cause selective hippocampal vulnerability characterized by progressive dendritic atrophy and neuronal loss. Despite a reduction in GluA1-containing complexes, synaptic AMPARs exhibit hyperexcitability and fail to transition from calcium-permeable to calcium-impermeable AMPARs during development, resulting in persistent excitotoxicity. To explore potential therapeutic interventions, we developed an allele-specific antisense oligonucleotide (ASO) to selectively silence the mutant transcript. A single neonatal ASO dose prevents hippocampal pathology and rescues behavioral deficits. These findings define a mechanism of developmental excitotoxicity driven by a GRIA1 gain-of-function channelopathy and support RNA-targeted precision therapy for AMPAR-related neurodevelopmental disorders.",
+  "arxiv_id": null,
+  "authors": [
+    "Chih-Ming Chen",
+    "Yu-Min Huang",
+    "Chih-Ching Chung",
+    "Richard C Johnson",
+    "Cheng-Ya Tsai",
+    "Yu-Han Chen",
+    "Han L Tan",
+    "Fu-Yun Hsiao",
+    "Richard L Huganir",
+    "Shu-Ling Chiu"
+  ],
+  "categories": [],
+  "doi": "10.1016/j.neuron.2026.10.013",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "One neonatal dose of a gene-silencing drug rescued autism-linked deficits in GRIA1 mutant mice.",
+  "id": "doi-10.1016-j.neuron.2026.10.013",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Mice carrying the autism and intellectual disability variant GRIA1 A636T showed autism-like behavior and progressive hippocampal damage from excess calcium-permeable AMPA receptor activity. A single allele-specific antisense oligonucleotide at birth prevented the damage and rescued behavior. This is a mouse model, and the drug was given before symptoms began.",
+  "tags": [
+    "autism",
+    "AMPA receptors",
+    "antisense therapy"
+  ],
+  "title": "Antisense oligonucleotide silencing rescues neurodevelopmental deficits in AMPA receptor gain-of-function mice.",
+  "url": "https://doi.org/10.1016/j.neuron.2026.10.013",
+  "venue": "Neuron"
+}

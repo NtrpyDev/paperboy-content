@@ -1,0 +1,48 @@
+{
+  "abstract": "Islet encapsulation has been pursued for decades as a potential immunosuppression-free transplantation strategy to treat type 1 diabetes (T1D). The encapsulation device protects islets from immune cell-contact mediated killing, but it also prevents vascular penetration and intra-islet vascularization, leading to poor mass transfer and islet central necrosis. In healthy pancreas, islets with sizes > ~40 m are vascularized while non-islet endocrine cell clusters below ~40 m exist without internal capillaries. Here, we developed scalable and reproducible engineered endocrine objects (EEOs) as small as ~47 m by mesh-induced fragmentation of native islets, followed by a recovery culture. Under hypoxic culture condition (1% O2 for 24 hours), EEOs showed enhanced viability of >90%, compared to 49% for the native islet control. With a flat, thin (0.5-mm-thick) alginate-based macroencapsulation device, rat EEOs at a marginal dose of 300 islet equivalents (IEQ) achieved glycemic control for over 5 weeks in the challenging, hypoxic subcutaneous space of immunocompetent diabetic mice. The engrafted mice displayed near-physiological glycemic profiles upon glucose challenge, and the retrieved EEOs showed enhanced viability with significantly reduced central necrosis compared with native islets. Overall, engineering hypoxia-resistance into cellular products mitigates intrinsic constraints of encapsulation devices, offering a promising strategy for convenient, immunosuppression-free subcutaneous islet transplantation.",
+  "arxiv_id": null,
+  "authors": [
+    "Wang, K.",
+    "Okada, K.",
+    "Jin, M.",
+    "Deng, J.",
+    "Wang, B.",
+    "Flanders, J. A.",
+    "Tran, P. L.",
+    "Lee, M.",
+    "Ma, M."
+  ],
+  "categories": [
+    "bioengineering"
+  ],
+  "doi": "10.64898/2026.11.10.765512",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/12/2026.11.10.765512.source.xml"
+  },
+  "hook": "Fragmenting islets into tiny clusters let them survive low oxygen and control diabetic mice for 5+ weeks",
+  "hook_turn": "control diabetic mice for 5+ weeks",
+  "id": "doi-10.64898-2026.11.10.765512",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Cluster viability after 24 h at 1% oxygen",
+    "unit": "%",
+    "value": ">90"
+  },
+  "significance": 6,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Cutting pancreatic islets into clusters of about 47 micrometers through a mesh removed the need for internal blood vessels. Inside a thin alginate device under the skin, rat clusters controlled blood sugar in diabetic mice for over 5 weeks, with less dead tissue at the core. The test was short, in mice, with rat cells, so durability and human relevance remain open.",
+  "tags": [
+    "type 1 diabetes",
+    "islet transplantation"
+  ],
+  "title": "Engineered endocrine objects tolerate hypoxia in macroencapsulation devices and enable subcutaneous engraftment in diabetic mice",
+  "url": "https://doi.org/10.64898/2026.11.10.765512",
+  "venue": "bioRxiv"
+}

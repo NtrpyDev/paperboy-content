@@ -1,0 +1,36 @@
+{
+  "abstract": "The $q$-permanent $P_q$ of an $n\\times n$ matrix weights the term of each permutation $\\sigma$ by $q^{\\inv(\\sigma)}$, where $\\inv(\\sigma)$ is the number of inversions of $\\sigma$. It interpolates between the determinant ($q=-1$) and the permanent ($q=1$). Extending a conjecture of Bapat on $[-1,1]$, it was conjectured in 2010 that the $q$-permanent of every non-diagonal real symmetric positive definite matrix is strictly increasing on an interval $(\\varepsilon,+\\infty)$ with $\\varepsilon<-1$. In this note, we disprove this conjecture. An explicit real symmetric positive definite integer matrix of order five, whose $q$-permanent has only nine nonzero terms, satisfies $P_{14}(A)>P_{15}(A)$. A sparse family shows that for every real $r>1$ some real symmetric positive definite matrix has a $q$-permanent with negative derivative at $q=r$. The counterexamples can be chosen to be correlation matrices without zero entries or, separately, to have integer entries. We also show that the smallest order of a counterexample is four, and that matrices supported on three coordinates separated by identity blocks fail much closer to $q=1$: in order five already near $q=1.7$, and in order $O(1/(r-1))$ at any prescribed $q=r>1$.",
+  "arxiv_id": "2611.14694",
+  "authors": [
+    "Carlos M. da Fonseca",
+    "Dev D. Goyal"
+  ],
+  "categories": [
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14694"
+  },
+  "hook": "A 2010 conjecture on the q-permanent is false: a five-by-five integer matrix breaks it.",
+  "hook_turn": "a five-by-five integer matrix breaks it.",
+  "id": "arxiv-2611.14694",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The q-permanent blends the determinant and permanent, and a 2010 conjecture said it keeps increasing past q = 1 for positive definite symmetric matrices. The authors give an explicit order-five integer matrix with nine nonzero terms where the value drops between q = 14 and 15, then show the smallest counterexample has order four. These are counterexamples, so they disprove the conjecture without saying which matrices do behave.",
+  "tags": [
+    "matrix theory",
+    "combinatorics"
+  ],
+  "title": "Real positive definite counterexamples to a monotonicity conjecture for the $q$-permanent",
+  "url": "https://arxiv.org/abs/2611.14694",
+  "venue": "arXiv"
+}

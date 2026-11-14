@@ -1,0 +1,43 @@
+{
+  "abstract": "Inferring the three-dimensional configuration of a flexible optical fiber from a single accessible end remains a fundamental challenge in photonic sensing. Existing approaches typically require specialised multicore fibers, coherent interferometry, or distributed spectral encoding. Here, we demonstrate a fundamentally different sensing paradigm in which fiber geometry is reconstructed from the spatiotemporal dynamics of returning single photons. Using a laser-engineered multimode fiber interrogated by a time-resolved 32x32 single-photon avalanche diode array, we show that fiber deformation imprints unique signatures onto the distribution and arrival time of back-reflected photons. We map these high-dimensional photon-return states onto a low-dimensional geometric manifold, enabling continuous bend-angle estimation and reconstruction of previously unseen two- and three-dimensional shapes from measurements acquired entirely at the proximal fiber end. Measurements show a median pixel-wise signal-to-noise ratio of approximately 26 dB and below 1% repeatability variation. Our results establish multimode single-photon dynamics as an information-rich channel for distributed geometric sensing, introducing a new framework for single-ended fiber shape reconstruction and minimally invasive photonic navigation.",
+  "arxiv_id": "2611.16717",
+  "authors": [
+    "Harikumar K Chandrasekharan",
+    "Saba N. Khan",
+    "Muhammad Afnan Ansari",
+    "Robert R. Thomson"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16717"
+  },
+  "hook": "Single photons returning from one end of a fiber reveal its 3D shape.",
+  "hook_turn": "reveal its 3D shape.",
+  "id": "arxiv-2611.16717",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Median pixel-wise signal-to-noise ratio",
+    "unit": "dB",
+    "value": "~26"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A laser-engineered multimode fiber was probed with a 32x32 time-resolved single-photon detector array, and bending changes where and when photons come back. The authors map these patterns to a low-dimensional shape space and reconstruct unseen 2D and 3D shapes from the near end alone. Tests used a lab setup and a limited set of shapes.",
+  "tags": [
+    "fiber sensing",
+    "single photons"
+  ],
+  "title": "Optical fiber shape sensing using picosecond spatiotemporal single-photon reflectometry",
+  "url": "https://arxiv.org/abs/2611.16717",
+  "venue": "arXiv"
+}

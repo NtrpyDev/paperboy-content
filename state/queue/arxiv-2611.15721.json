@@ -1,0 +1,38 @@
+{
+  "abstract": "Highly spinning binary black holes exhibit complex inspiral dynamics and offer a powerful opportunity to probe gravity in a stronger-field and more dynamical regime than non-spinning binaries. Gravitational-wave signals from such systems enable stringent parameterized tests of deviations from the source dynamics predicted by general relativity. We show that highly spinning, mass-asymmetric binaries can provide enhanced sensitivity to deviations entering at higher post-Newtonian orders, which remain comparatively poorly constrained. Using NR simulations from the SXS catalog, we first recover the injected signals within general relativity using $\\texttt{IMRPhenomXPHM-SpinTaylor}$, $\\texttt{IMRPhenomXPNR}$, and $\\texttt{SEOBNRv5PHM}$, finding model-dependent biases in the inferred masses, spins, and spin orientations. We then analyze the same signals with the $\\texttt{IMRPhenomXPHM}$-based inspiral parameterized test of general relativity framework, TIGER, and find that these waveform-systematic biases can lead to apparent deviations from general relativity, which become significant for loud signals. Our results highlight that highly spinning binaries offer powerful tests of higher-order post-Newtonian deviations, but waveform inaccuracies can lead to false signs of new physics.",
+  "arxiv_id": "2611.15721",
+  "authors": [
+    "Soumen Roy",
+    "Maria Haney",
+    "Justin Janquart"
+  ],
+  "categories": [
+    "gr-qc",
+    "astro-ph.IM"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15721"
+  },
+  "hook": "Waveform errors in highly spinning black hole mergers can fake deviations from general relativity.",
+  "hook_turn": "can fake deviations from general relativity.",
+  "id": "arxiv-2611.15721",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Highly spinning, lopsided black hole binaries can test gravity at higher post-Newtonian orders, but imperfect waveform models bias the fitted masses and spins. Analyzing numerical-relativity simulations with the TIGER test, the authors find these biases produce apparent violations of relativity for loud signals. The study uses injected simulations, not detected events.",
+  "tags": [
+    "gravitational waves",
+    "tests of general relativity"
+  ],
+  "title": "Highly spinning binary black holes: promise and pitfalls for parameterized tests of general relativity",
+  "url": "https://arxiv.org/abs/2611.15721",
+  "venue": "arXiv"
+}

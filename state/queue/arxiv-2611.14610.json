@@ -1,0 +1,39 @@
+{
+  "abstract": "It is well-known that in the merger of a black-hole binary with spins aligned with the orbital angular momentum, the spin of the final black hole always increases with the spin of the components. We show that this very intuitive behavior is violated in black hole--neutron star binaries, where the spin of the final black hole actually decreases as the spin of the neutron star increases. Using a large set of binaries with different spins and mass ratios, we identify the mechanism behind this surprising result in the nonlinear dynamics of the tidal disruption, which drives a substantial loss of angular momentum via dynamical ejecta, in some cases comparable to that radiated via gravitational waves. Our results highlight that the spin evolution of stellar-mass black holes involved in binary mergers is different from what normally assumed, far more complex, and interesting.",
+  "arxiv_id": "2611.14610",
+  "authors": [
+    "Filippo Camilloni",
+    "Konrad Topolski",
+    "Keneth Miler",
+    "Luciano Rezzolla"
+  ],
+  "categories": [
+    "gr-qc",
+    "astro-ph.HE"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14610"
+  },
+  "hook": "A faster-spinning neutron star leaves a slower-spinning black hole after merging with one.",
+  "hook_turn": "leaves a slower-spinning black hole after merging with one.",
+  "id": "arxiv-2611.14610",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For aligned spins in black hole and neutron star mergers, the final black hole spins less as the neutron star spins faster, unlike black hole pairs. Simulations across spins and mass ratios trace this to tidal disruption throwing out ejecta that carries away angular momentum, sometimes as much as gravitational waves. These are numerical simulations with limited coverage of neutron star physics.",
+  "tags": [
+    "black hole mergers",
+    "neutron stars"
+  ],
+  "title": "Spins do not add: why rotating stars do not help spin-up black holes in binaries",
+  "url": "https://arxiv.org/abs/2611.14610",
+  "venue": "arXiv"
+}

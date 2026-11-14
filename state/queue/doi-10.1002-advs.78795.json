@@ -1,0 +1,46 @@
+{
+  "abstract": "Chronic obstructive pulmonary disease (COPD) is a devastating condition characterized by airflow limitation, inflammation, and structural lung damage. Metabolic dysregulation is recognized as a critical feature, but the key metabolic drivers remain unclear. This study identifies transaldolase1 (TALDO1) as a previously unrecognized metabolic regulator in cigarette smoke (CS)-induced COPD pathogenesis. TALDO1 is markedly upregulated in airway epithelial cells by CS exposure. Elevated TALDO1 promotes mitochondrial dysfunction, whereas its genetic knockdown attenuates CS-induced lung function decline and pulmonary inflammation. Mechanistically, TALDO1 activation redirects tryptophan metabolism toward the kynurenine pathway, leading to L-kynurenine accumulation. Genetic or pharmacological inhibition of this pathway significantly alleviates mitochondrial damage, while L-kynurenine supplementation exacerbates injury. Treatment with the IDO inhibitor Epacadostat ameliorates CS-induced lung impairment and inflammation in vivo. These findings define a TALDO1-kynurenine-mitochondrial injury axis linking airway epithelial metabolic reprogramming to COPD, providing translational evidence for targeting this pathway as a therapeutic strategy.",
+  "arxiv_id": null,
+  "authors": [
+    "Wenjing Wang",
+    "Mindan Wu",
+    "Yuanlan Yang",
+    "Zemin Chen",
+    "Jiawei Yan",
+    "Xuan Jin",
+    "Yachao Cui",
+    "Feng Zhang",
+    "Haiqing Li",
+    "Wensheng Chen",
+    "Yumin Zhou",
+    "Leqing Zhu",
+    "Wei Tu",
+    "Pixin Ran"
+  ],
+  "categories": [],
+  "doi": "10.1002/advs.78795",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "europepmc",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13753984/fullTextXML"
+  },
+  "hook": "A TALDO1-kynurenine pathway drives smoke-induced lung injury in COPD models; blocking it helps",
+  "hook_turn": "blocking it helps",
+  "id": "doi-10.1002-advs.78795",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "In cigarette smoke models, the enzyme TALDO1 rises in airway cells and pushes tryptophan toward kynurenine, which damages mitochondria. Knocking down TALDO1 or inhibiting the pathway with Epacadostat reduced lung function decline and inflammation. The evidence comes from cell and animal models, and benefit in people with COPD is untested.",
+  "tags": [
+    "COPD",
+    "metabolism"
+  ],
+  "title": "Targeting Kynurenine Synthesis Attenuated Cigarette Smoke-Induced COPD-Like Lung Injury Driven by TALDO1-Mediated Metabolic Reprogramming.",
+  "url": "https://europepmc.org/articles/PMC13753984",
+  "venue": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+}

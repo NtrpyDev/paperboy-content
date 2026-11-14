@@ -1,0 +1,42 @@
+{
+  "abstract": "Nitrous acid (HONO) is an important source of hydroxyl radicals (•OH). •OH drives ozone and aerosol formation, affecting air quality, health, and climate. Elevated HONO concentrations have been observed in biomass burning (BB) plumes. However, the mechanism remains unclear, hindering parameterization and quantification of the impacts. Here, we conducted flow tube experiments with BB aerosol samples and proxies to investigate renoxification, a process that converts nitrate into HONO and NOx (NO and NO2). Our results reveal that renoxification in BB aerosol is enhanced by brown carbon (BrC) through electron transfer to nitrate as an alternative to surface-enhanced nitrate photolysis. We develop parameterization to assess the potential global impacts of BrC-enhanced renoxification, which suggests that BrC enhances surface-level HONO production by up to one order of magnitude in BB-affected regions, with surface HONO production exceeding 1 part per trillion per hour in regions with high aerosol nitrate. These impacts are expected to worsen as BB intensifies in a warming climate.",
+  "arxiv_id": null,
+  "authors": [
+    "Fengxia Bao",
+    "Lucia Iezzi",
+    "Wenjie Wang",
+    "Arianna Tronconi",
+    "Yanfang Chen",
+    "Therese S Carter",
+    "Colette L Heald",
+    "Kaspar Rudolf Dällenbach",
+    "David M Bell",
+    "Markus Ammann"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aeg9077",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Brown carbon in smoke particles speeds nitrous acid formation, by up to tenfold in a global estimate.",
+  "hook_turn": "by up to tenfold in a global estimate.",
+  "id": "doi-10.1126-sciadv.aeg9077",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Light-absorbing brown carbon in biomass burning aerosol passes electrons to nitrate, converting it into nitrous acid, a precursor of the hydroxyl radical that drives ozone and aerosol formation. Flow tube experiments on smoke samples and proxies revealed this, and a parameterization scaled it up. The global impact figures are model estimates built from lab measurements, not field observations.",
+  "tags": [
+    "atmospheric chemistry",
+    "wildfire smoke"
+  ],
+  "title": "Brown carbon in biomass burning aerosol enhances HONO production.",
+  "url": "https://doi.org/10.1126/sciadv.aeg9077",
+  "venue": "Science Advances"
+}

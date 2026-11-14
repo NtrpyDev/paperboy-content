@@ -1,0 +1,43 @@
+{
+  "abstract": "Given a finite field $\\mathbb F_q$, we say that a set $A\\subseteq \\mathbb F^n_q$ is an $(r,c)$ subspace evasive set if and only if for any affine subspace $U\\subseteq \\mathbb F^n_q$ with bounded dimension $\\dim(U)\\leq r$, the intersection size $|A\\cap U|$ is at most $c$. The probabilistic method shows the existence of $(r,c)$ subspace evasive sets with $|A| = q^{(1-\\epsilon) n}$ with $c = O(r/\\epsilon)$. However, the best explicit constructions by Dvir--Lovett (STOC 2012) and Ben-Aroya--Shinkar (CJTCS 2013) have $c$ growing as an exponential function of $r$. Here, we give an explicit construction of such subspace evasive set that achieves the intersection bound $c=O(\\min(r\\log(r/\\epsilon)/\\epsilon, r^2/\\epsilon))$ when both $r$ and $1/\\epsilon$ are constants. Our approach is simple and the key idea is to compose subspace design codes (Guruswami-Xing, STOC 2013) with a suitably chosen ``local'' subspace evasive set. As a corollary, we give the first construction of an explicit (strongly) capacity-achieving list-recoverable code with nearly optimal list size, circumventing all previously-known barriers to construction.",
+  "arxiv_id": "2611.14909",
+  "authors": [
+    "Joshua Brakensiek",
+    "Yeyuan Chen",
+    "Mahdi Cheraghchi",
+    "Rohan Goyal",
+    "Venkatesan Guruswami",
+    "Aaron Putterman",
+    "Zihan Zhang"
+  ],
+  "categories": [
+    "cs.DM",
+    "cs.IT",
+    "math.CO",
+    "math.IT"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14909"
+  },
+  "hook": "Explicit subspace evasive sets cut the intersection bound from exponential in r to polynomial",
+  "id": "arxiv-2611.14909",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A subspace evasive set is a large set of points that meets every low-dimensional flat in only a few points. The authors build such sets explicitly by composing subspace design codes with a small local evasive set, getting bounds close to what random sets achieve, where earlier explicit work was exponential. A corollary gives capacity-achieving list-recoverable codes with near-optimal list size. The bound holds when the dimension and 1/epsilon are constants.",
+  "tags": [
+    "coding theory",
+    "pseudorandomness"
+  ],
+  "title": "Explicit Subspace Evasive Sets via Subspace Designs",
+  "url": "https://arxiv.org/abs/2611.14909",
+  "venue": "arXiv"
+}

@@ -1,0 +1,38 @@
+{
+  "abstract": "Pertechnetate is central to nuclear waste management (99 TcO4 -) and nuclear medicine (99m TcO4 -), yet its selective capture from saline media at ultratrace concentrations remains an unsolved challenge. Here we show that bambusuril macrocycles binds 99 TcO4 - in water with micromolar affinity, forming well-defined host-guest complexes. Immobilization of bambusuril on silica translates this molecular recognition into efficient solid-phase extraction, enhancing binding under highly competitive conditions of seawater and medicinal generator eluents. The resulting material quantitatively captures 99 TcO4 - from saline solutions at femtomolar concentrations and enables direct elution of preconcentrated 99 TcO4 - using commercial nuclear medicine kit formulations. These findings establish bambusuril-based materials as the first supramolecular platform for ultratrace pertechnetate capture from highly competitive saline media, bridging molecular recognition with applications in nuclear medicine and environmental remediation.",
+  "arxiv_id": null,
+  "authors": [
+    "Michaela Šusterová",
+    "Guilhem Claude",
+    "Susanne M Rupf",
+    "Evgeny A Kataev",
+    "Ulrich Abram",
+    "Vladimír Šindelář"
+  ],
+  "categories": [],
+  "doi": "10.1002/anie.4074668",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A silica-bound macrocycle captures pertechnetate from seawater at femtomolar levels.",
+  "hook_turn": "at femtomolar levels.",
+  "id": "doi-10.1002-anie.4074668",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Bambusuril macrocycles bind pertechnetate (99TcO4-) in water, and anchoring them on silica gives a material that pulls it out of seawater and generator eluents. The captured pertechnetate can be eluted with commercial nuclear medicine kit formulations. Tests used lab solutions, not real waste streams or patient preparations.",
+  "tags": [
+    "nuclear waste",
+    "supramolecular chemistry"
+  ],
+  "title": "Quantitative Pertechnetate Capture by a Bambusuril-based Material: From Seawater Decontamination to Radiopharmaceutical Solutions.",
+  "url": "https://doi.org/10.1002/anie.4074668",
+  "venue": "Angewandte Chemie International Edition"
+}

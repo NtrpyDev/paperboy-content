@@ -1,0 +1,50 @@
+{
+  "abstract": "Alzheimer’s disease (AD) exhibits region- and cell-type–specific vulnerability, yet the underlying regulatory mechanisms remain poorly defined. We performed integrated single-nucleus RNA-seq and ATAC-seq of human hippocampus to resolve gene regulatory architecture in AD. By linking chromatin accessibility to transcription, we identified more than 1000 disease-associated cis-regulatory interactions, highlighting coordinated epigenomic-transcriptomic remodeling. Excitatory cornu ammonis (EX.CA) neurons exhibited disproportionate regulatory disruption, characterized by increased chromatin accessibility coupled to activation of apoptosis-related gene programs, whereas dentate gyrus (EX.DG) neurons remained comparatively resistant. In glial cells, regulatory network inference revealed activation of transcription factor modules centered on SPI1/KLF4 in microglia and STAT3 in astrocytes, defining epigenetic programs that are highly associated with inflammatory and metabolic state transitions. Comparative evaluation with the prefrontal cortex uncovered conserved inflammatory activation alongside region-specific immune regulatory divergence, indicating spatially distinct microglial responses. Furthermore, cross-species integration demonstrated that a substantial fraction of AD-associated regulatory elements are human-specific, with AD-risk variants enriched in microglial cis-regulatory elements at loci including BIN1 and APOE . Together, these results provide a mechanistic framework linking chromatin remodeling to cell-type–specific dysfunction and reveal human-specific regulatory architecture as a crucial factor to AD vulnerability and translational limitation.",
+  "arxiv_id": null,
+  "authors": [
+    "Quyuan Tao",
+    "Ting Luo",
+    "Pan Wang",
+    "Maorui Jiang",
+    "Zilin Lai",
+    "Bufan Jin",
+    "Yuyang Liu",
+    "Youzhe He",
+    "Yanrong Wei",
+    "Yue Gao",
+    "Langjian Zhu",
+    "Heyang Du",
+    "Lifang Wang",
+    "Yujie Peng",
+    "Yong Hou",
+    "Shiping Liu",
+    "Longqi Liu",
+    "Jing Zhang",
+    "Lei Han"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aee4760",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "In Alzheimer's hippocampus, CA neurons show disrupted gene regulation while dentate gyrus neurons resist.",
+  "id": "doi-10.1126-sciadv.aee4760",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Joint single-nucleus RNA and chromatin-accessibility profiling of human hippocampus found over 1000 disease-linked regulatory interactions. Excitatory CA neurons showed the most disruption, with microglia and astrocytes showing distinct transcription factor programs, and many risk elements were human-specific. The data are from postmortem tissue, so they show association rather than proof of cause.",
+  "tags": [
+    "Alzheimer's disease",
+    "epigenomics"
+  ],
+  "title": "Single-nucleus multiomic profiling uncovers epigenetic dysregulation driving hippocampal vulnerability in Alzheimer’s disease",
+  "url": "https://doi.org/10.1126/sciadv.aee4760",
+  "venue": "Science Advances"
+}

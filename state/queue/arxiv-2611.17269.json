@@ -1,0 +1,38 @@
+{
+  "abstract": "We construct smooth isometric embeddings of closed surfaces of positive genus in Euclidean 3-space which are tight, i.e., have minimal total positive curvature, but are not congruent. These embeddings agree outside a compact subset of the region of negative curvature, and enclose different volumes. Thus the rigidity theorem of Alexandrov for analytic tight surfaces does not hold in the smooth category, which settles problems of Nirenberg and Banchoff-Kuhnel.",
+  "arxiv_id": "2611.17269",
+  "authors": [
+    "Mohammad Ghomi",
+    "Hongda Qiu",
+    "Matteo Raffaelli",
+    "Yuetong Zhang"
+  ],
+  "categories": [
+    "math.DG",
+    "math.AP"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17269"
+  },
+  "hook": "Smooth tight surfaces can be isometric yet not congruent, so Alexandrov rigidity fails outside analytic ones",
+  "id": "arxiv-2611.17269",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors construct smooth closed surfaces of positive genus in 3-space that are tight, have minimal total positive curvature, and are isometric but not congruent, enclosing different volumes. Alexandrov's rigidity theorem holds for analytic surfaces, so it fails for smooth ones. This settles problems posed by Nirenberg and by Banchoff and Kuhnel.",
+  "tags": [
+    "differential geometry",
+    "tight surfaces"
+  ],
+  "title": "Nonrigidity of smooth tight surfaces",
+  "url": "https://arxiv.org/abs/2611.17269",
+  "venue": "arXiv"
+}

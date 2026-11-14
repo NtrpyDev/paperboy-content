@@ -1,0 +1,36 @@
+{
+  "abstract": "We prove that for almost all additive Diophantine inequalities of degree $k$ in at least $k+1$ variables the expected asymptotic formula for the density of solutions holds true. This improves the result of Br\\\"udern and Dietmann \\cite{BD}.",
+  "arxiv_id": "2611.14865",
+  "authors": [
+    "Yu-Chen Sun",
+    "Xuanzhe Wang",
+    "Lilu Zhao"
+  ],
+  "categories": [
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14865"
+  },
+  "hook": "For almost all Diophantine inequalities of degree k in k+1 variables, the expected solution count holds.",
+  "id": "arxiv-2611.14865",
+  "license": "cc0",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove that for almost all additive Diophantine inequalities of degree k with at least k+1 variables, solutions are counted by the expected asymptotic formula. This sharpens a result of Brudern and Dietmann. The statement is about almost all inequalities, so it does not settle any specific one.",
+  "tags": [
+    "number theory",
+    "Diophantine inequalities"
+  ],
+  "title": "Random Diophantine inequalities in few variables",
+  "url": "https://arxiv.org/abs/2611.14865",
+  "venue": "arXiv"
+}

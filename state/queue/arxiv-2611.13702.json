@@ -1,0 +1,35 @@
+{
+  "abstract": "For a Hamiltonian system with one degree of freedom whose parameters are varied slowly around a closed loop, with slowness $\\delta$, we study the minimal action $\\beta_\\delta$ of the resulting time-periodic system and its convex conjugate, Mather's $\\alpha$-function $\\alpha_\\delta$, both normalized per unit time. The cycle map of such a system is an area-preserving map of the cylinder which in general is not integrable. We prove that $\\beta_\\delta(\\rho)$ and $\\alpha_\\delta(c)$ have asymptotic expansions in $\\delta$ to every finite order, locally uniformly in the rotational regime of the frozen systems, and we identify the coefficients geometrically. The zeroth coefficient of $\\alpha_\\delta$ is the average of the frozen effective Hamiltonians, as shown by Evans and Gomes. The first coefficient is the classical Berry phase: at fixed rotation number $\\rho$, the first Taylor coefficient of $\\beta_\\delta(\\rho)$ is, modulo periods, Weinstein's Berry phase of the loop of frozen invariant curves of the class whose averaged frozen frequency is $\\rho$, each curve weighted by its Mather measure. In particular, the minimal action selects the weighting in Weinstein's construction. The Hannay angle, the derivative of the Berry phase, governs the rotation numbers of all minimizing measures, including those supported on Aubry--Mather sets of the cycle map, where no invariant curve exists; and the intervals of classes on which a rotation number is locked have length $O(\\delta^\\infty)$. Since the expansions concern exact convex functions, no adiabatic approximation is involved. A transformation rule under loops of point transformations explains why the Berry phase is defined only modulo $2\\pi c\\mathbb{Z}$. Linear oscillators, treated by the same method, recover Berry's formula for the generalized harmonic oscillator and show that the expansions are asymptotic only.",
+  "arxiv_id": "2611.13702",
+  "authors": [
+    "Karl Friedrich Siburg"
+  ],
+  "categories": [
+    "math.DS"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13702"
+  },
+  "hook": "The Berry phase shows up as the first correction to the minimal action of slowly varying Hamiltonian systems.",
+  "hook_turn": "of slowly varying Hamiltonian systems.",
+  "id": "arxiv-2611.13702",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For a one-degree-of-freedom Hamiltonian system whose parameters change slowly around a loop, the minimal action and Mather's alpha-function have asymptotic expansions in the slowness. The first coefficient is Weinstein's classical Berry phase, and its derivative, the Hannay angle, governs the rotation numbers. The expansions are only asymptotic, and the result covers one degree of freedom.",
+  "tags": [
+    "Hamiltonian systems",
+    "Berry phase"
+  ],
+  "title": "Berry phase and Hannay angle as Taylor coefficients of the minimal action",
+  "url": "https://arxiv.org/abs/2611.13702",
+  "venue": "arXiv"
+}

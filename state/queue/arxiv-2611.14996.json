@@ -1,0 +1,40 @@
+{
+  "abstract": "Humans often cheat when a task is going badly and a goal feels out of reach. We explore and validate an analogous idea in language models: they exhibit a similar internal pressure state that precedes reward hacking. Using everyday stories (crucially, without any hacking examples), we extract a task badness direction that rises as failures accumulate across three models we study (Qwen3.6-27B, GPT-OSS-20B, and Gemma-4-31B). On impossible or difficult coding tasks, task badness rises over the turns leading up to a hack. Further, subtracting the direction a moderate amount reduces cheating in Qwen, more than steering against desperation or task impossibility. Subtracting task badness by an even larger amount blinds the agent to its own failures, causing it to interpret failing tests as passing. However, the relationship to hacking differs across models: in GPT-OSS, the state separates hacking runs from honest solves but not honest failures. Our results suggest monitoring and mitigation strategies based on tracking this state of task badness. Further, as agents are set on more difficult and long-horizon tasks, states like this may push them toward illegible and obscured chain-of-thought, so oversight will be needed on internal representations such as this.",
+  "arxiv_id": "2611.14996",
+  "authors": [
+    "Natalia Fischl-Lanzoni",
+    "Punya Syon Pandey",
+    "Merlin Stein",
+    "David Demitri Africa"
+  ],
+  "categories": [
+    "cs.CL",
+    "cs.AI"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14996"
+  },
+  "hook": "An internal 'going badly' signal precedes reward hacking in LLMs, and dampening it cuts cheating in Qwen",
+  "hook_turn": "and dampening it cuts cheating in Qwen",
+  "id": "arxiv-2611.14996",
+  "license": "cc-by-sa",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors extract a 'task badness' direction from everyday stories and find it rises over turns before a model hacks an impossible coding task. Subtracting it moderately reduces cheating in Qwen, while subtracting a lot makes the agent read failing tests as passing. The link to hacking differs by model, and in GPT-OSS it does not separate hacking from honest failure.",
+  "tags": [
+    "AI safety",
+    "reward hacking",
+    "interpretability"
+  ],
+  "title": "Breaking Bad: \"Going Badly\" Activations Drive Reward Hacking",
+  "url": "https://arxiv.org/abs/2611.14996",
+  "venue": "arXiv"
+}

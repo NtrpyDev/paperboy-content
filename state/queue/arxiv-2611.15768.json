@@ -1,0 +1,38 @@
+{
+  "abstract": "We seek space-filling hypersurfaces of a projective space over a finite field. They are hypersurfaces contain all rational points. The main goal is to construct a smooth space-filling hypersurface of minimal degree. For each projective space over a finite field, we find a lower bound of the minimum degree of space-filling hypersurface, and construct an example without any singular rational points. Finally, over an odd-dimensional projective space or for fields of characteristic two, we provide a construction of a smooth space-filling hypersurface of minimal degree.",
+  "arxiv_id": "2611.15768",
+  "authors": [
+    "Victoria Bourgeois-Conti",
+    "Han-Bom Moon",
+    "Erick Perez",
+    "Amelia Warren"
+  ],
+  "categories": [
+    "math.AG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15768"
+  },
+  "hook": "Smooth minimal-degree hypersurfaces through all points of finite projective spaces are built in key cases.",
+  "hook_turn": "are built in key cases.",
+  "id": "arxiv-2611.15768",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors seek hypersurfaces that contain every rational point of a projective space over a finite field. They give a lower bound on the degree and construct smooth minimal-degree examples in odd dimensions and in characteristic two. Other cases are not fully settled.",
+  "tags": [
+    "algebraic geometry",
+    "finite fields"
+  ],
+  "title": "Space-Filling Hypersurfaces",
+  "url": "https://arxiv.org/abs/2611.15768",
+  "venue": "arXiv"
+}

@@ -1,0 +1,35 @@
+{
+  "abstract": "Baryon-number violation that needs a muon in the initial state can evade proton-decay searches and be observed in muon capture at Mu2e and COMET. Neutron stars contain muons, so the same interaction converts their protons into dark baryons, but the rate of this conversion in dense matter and its consequences have not been computed. In this paper we compute the conversion rate, the heat it deposits, and the evolution of a star under fast conversion. The coldest known neutron stars exclude conversion rates far below laboratory reach for every dark-fermion mass that capture in aluminium can produce, and faster conversion burns stars down or, unless conserved dark baryons repel each other strongly enough, collapses them. The repulsion they need follows a scaling law in the baryonic mass headroom of the nucleonic equation of state, which applies to any process that puts dark baryons in equilibrium with neutrons.",
+  "arxiv_id": "2611.13954",
+  "authors": [
+    "Bharat Kumar"
+  ],
+  "categories": [
+    "nucl-th",
+    "hep-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13954"
+  },
+  "hook": "Cold neutron stars rule out muon-induced baryon violation rates far below lab reach.",
+  "id": "arxiv-2611.13954",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Calculations of how muons in neutron stars would convert protons into dark baryons show the coldest known stars exclude conversion rates far below what Mu2e and COMET can reach. Faster conversion would burn stars down or collapse them unless dark baryons repel strongly. The limits are theoretical and depend on the assumed dense-matter equation of state.",
+  "tags": [
+    "neutron stars",
+    "baryon number violation"
+  ],
+  "title": "Neutron stars nearly close the window for muon-induced baryon-number violation",
+  "url": "https://arxiv.org/abs/2611.13954",
+  "venue": "arXiv"
+}

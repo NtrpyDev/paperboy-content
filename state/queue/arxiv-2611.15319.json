@@ -1,0 +1,36 @@
+{
+  "abstract": "On the Fermat quartic K3 surface and the Fermat quintic threefold, we construct K\\\"ahler metrics from explicit rational polynomial potentials and bound their differences from the Ricci-flat metrics in integral tensor norms. For specified compact families of smooth quartic and quintic hypersurfaces near the Fermat hypersurfaces, we give a terminating algorithm that constructs polynomial K\\\"ahler metrics with prescribed pointwise bounds on their differences from the Ricci-flat metrics and on their Ricci forms. The resulting metrics converge to the Ricci-flat metrics in every $C^r$ norm, uniformly in the parameter.",
+  "arxiv_id": "2611.15319",
+  "authors": [
+    "Kefeng Liu",
+    "Liangdi Zhang"
+  ],
+  "categories": [
+    "math.DG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15319"
+  },
+  "hook": "Explicit polynomial metrics approximate the Ricci-flat metrics on a quartic K3 surface and quintic threefold.",
+  "hook_turn": "approximate the Ricci-flat metrics on a quartic K3 surface and quintic threefold.",
+  "id": "arxiv-2611.15319",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "On the Fermat quartic K3 surface and Fermat quintic threefold, the authors construct Kahler metrics from explicit rational polynomial potentials and bound their distance from the true Ricci-flat metrics. A terminating algorithm extends this to nearby smooth hypersurfaces, with convergence in every C^r norm. It applies to specified compact families near Fermat, not to all quartics or quintics.",
+  "tags": [
+    "Calabi-Yau",
+    "differential geometry"
+  ],
+  "title": "Polynomial approximations to Calabi--Yau metrics on quartic K3 surfaces and quintic threefolds",
+  "url": "https://arxiv.org/abs/2611.15319",
+  "venue": "arXiv"
+}

@@ -1,0 +1,37 @@
+{
+  "abstract": "For $d>0$, let $\\mathcal{T}_d$ be the triangular lattice with minimum distance $d$. We study for which $d$ the set $\\mathcal{T}_d$ can be covered by closed unit disks with pairwise disjoint interiors, a question left open by Phetmak, Nuntasombat and Fakcharoenphol for $2-\\sqrt3\\le d<2/\\sqrt{37}$ and on several gaps between their constructions. Writing $\\mathcal{N}(d)$ for the largest number of points of $\\mathcal{T}_d$ in a closed unit disk, we show that $\\mathcal{T}_d$ cannot be covered whenever $\\mathcal{N}(d)<4/d^2$, and we determine this set of spacings exactly as a union of fifteen intervals; combined with their constructions, this shows that coverability is not monotone in $d$. At the right endpoints $d=2/\\sqrt k$ of these intervals the density bound is attained, and we show that such a spacing is coverable if and only if $k$ is the norm of an Eisenstein integer. We also give two new coverings, at $d=1/\\sqrt{13}$ and $d=2/\\sqrt{21}$, in which the disks form a hexagonal packing. Consequently, together with an earlier result of Okayama, Kiyomi and Uehara, the smallest coverable spacing $d_{\\min}$ exists and satisfies $2/\\sqrt{55}<d_{\\min}\\le1/\\sqrt{13}$, which answers a question of Phetmak, Nuntasombat and Fakcharoenphol.",
+  "arxiv_id": "2611.13535",
+  "authors": [
+    "Teeradej Kittipassorn",
+    "Nattawut Phetmak",
+    "Kirati Sriamorn"
+  ],
+  "categories": [
+    "math.CO",
+    "math.MG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13535"
+  },
+  "hook": "Whether unit disks can cover a triangular lattice is not monotone in its spacing",
+  "id": "arxiv-2611.13535",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors find exactly which lattice spacings are impossible to cover with non-overlapping unit disks, using a density bound that gives fifteen excluded intervals. Combined with known constructions, coverability is not monotone in spacing. At the interval endpoints, coverable spacings match Eisenstein-integer norms, and a smallest coverable spacing exists between 2/sqrt(55) and 1/sqrt(13). The exact smallest value is still unknown.",
+  "tags": [
+    "discrete geometry",
+    "lattice covering"
+  ],
+  "title": "Covering the Triangular Lattice with Non-Overlapping Unit Disks",
+  "url": "https://arxiv.org/abs/2611.13535",
+  "venue": "arXiv"
+}

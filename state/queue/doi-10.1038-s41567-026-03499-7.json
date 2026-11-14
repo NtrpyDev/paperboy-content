@@ -1,0 +1,34 @@
+{
+  "abstract": "Abstract The evolution of quantum states can be described by quantum channels. The task of estimating an unknown quantum channel, known as process tomography, is a central problem in quantum information theory. A long-standing open question is how many uses of an unknown channel are required to learn it to a precision quantified by the standard metric for distinguishing quantum processes, known as the diamond distance. Here we address this by establishing the query complexity of channel tomography with optimal dependence on the dimensions of the input and output spaces and the channel’s Kraus rank at any fixed constant accuracy in diamond distance. We design an algorithm that establishes an upper bound and prove a matching lower bound for learning a channel to the given accuracy. Our algorithm follows the strategy of performing optimal tomography on the Choi-state representation of the process, and we show that channel tomography can be reduced to the well-studied problem of pure-state tomography. As channels subsume states, unitaries and measurements as special cases, our protocol provides a unified framework for tomography of these tasks.",
+  "arxiv_id": null,
+  "authors": [
+    "Antonio Anna Mele",
+    "Lennart Bittel"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41567-026-03499-7",
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "The number of queries needed to learn a quantum channel is now pinned down, with a matching lower bound.",
+  "hook_turn": "with a matching lower bound.",
+  "id": "doi-10.1038-s41567-026-03499-7",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "The authors give an algorithm and a matching lower bound for learning an unknown quantum channel to fixed accuracy in diamond distance, with optimal dependence on dimensions and Kraus rank. They reduce channel tomography to pure-state tomography via the Choi state. The result holds at constant accuracy and is theoretical.",
+  "tags": [
+    "quantum tomography",
+    "quantum information"
+  ],
+  "title": "Optimal learning of quantum channels in diamond distance",
+  "url": "https://doi.org/10.1038/s41567-026-03499-7",
+  "venue": "Nature Physics"
+}

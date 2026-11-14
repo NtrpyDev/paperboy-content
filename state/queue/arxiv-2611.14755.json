@@ -1,0 +1,34 @@
+{
+  "abstract": "In online graph exploration, an agent must visit every vertex of an unknown weighted graph and return to its start, learning the incident edges at each vertex it visits. On $n$-vertex graphs, the best known competitive ratio has been $O(\\log n)$, achieved by several algorithms, among them the hierarchical depth-first search of Megow, Mehlhorn, and Schweitzer. We give an algorithm with competitive ratio ${(2+o(1))}\\ln n/\\ln\\ln n$ for known~$n$. Like hierarchical depth-first search, it groups the edges into geometric weight classes and searches depth-first between components of lighter edges. Unlike it, the agent tours each component along a minimum spanning tree for the original weights, so only crossings between components pay for rounding, and the base $b$ of the weight class can grow with~$n$. The leading constant $2$ is tight for our choice of base. Without knowing $n$, restarts with increasing size guesses give upper bounds with leading constant $4$ for a fixed schedule and $2$ in expectation for a randomly shifted schedule. If the weights lie in a known range $[1,2^k]$ with $k\\ge4$, choosing $b=k/\\log_2 k$ gives a competitive ratio of $O(k/\\log k)$ without knowing $n$.",
+  "arxiv_id": "2611.14755",
+  "authors": [
+    "Max Klimm"
+  ],
+  "categories": [
+    "cs.DS"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14755"
+  },
+  "hook": "A new graph-exploration algorithm beats the log n barrier, with a tight leading constant of 2.",
+  "id": "arxiv-2611.14755",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "An agent exploring an unknown weighted graph can now do so with competitive ratio (2+o(1)) ln n / ln ln n. The method groups edges into weight classes and tours each component along a minimum spanning tree. The constant 2 is tight only for this choice of base, and the bound assumes n is known unless restarts are used.",
+  "tags": [
+    "online algorithms",
+    "graph exploration"
+  ],
+  "title": "A Sublogarithmic Competitive Algorithm for Online Graph Exploration",
+  "url": "https://arxiv.org/abs/2611.14755",
+  "venue": "arXiv"
+}

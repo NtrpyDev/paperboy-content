@@ -1,0 +1,58 @@
+{
+  "abstract": "The JWST Rocky Worlds Director's Discretionary Time (RWDDT) program uses secondary eclipse observations to determine the conditions under which rocky exoplanets around M dwarfs retain their atmospheres. We present RWDDT MIRI/F1500W observations of LTT 1445 A b and c, the transiting rocky siblings in the nearest such system (6.9 pc), comprising two eclipses of each planet across three visits. We perform three independent reductions and a joint fit that includes all existing JWST data and 220 radial velocities, improving the precision on the planetary radii, masses, and orbital parameters by factors of 1.6-2.3. We measure eclipse depths of $157^{+18}_{-17}$ ppm and $154^{+54}_{-37}$ ppm for planets b and c, corresponding to 15 $\\mu$m brightness temperatures of $528^{+39}_{-29}$ K and $625^{+109}_{-79}$ K, both consistent with the dark, bare rock limit. For planet b, combining these data with the archival MIRI/LRS spectrum in a Bayesian retrieval limits the CO$_2$ partial pressure to $<0.6$ mbar and the surface pressure to $\\lesssim0.1$ bar, while forward models exclude thick aerosol layers that could mimic a bare surface in transmission. We conclude that planet b has no substantial atmosphere. For planet c, a potentially grazing eclipse and overlapping events leave the depth poorly constrained; the data rule out only thick, CO$_2$-bearing atmospheres ($\\gtrsim1$ bar with $\\geq1\\%$ CO$_2$). LTT 1445 A b is the planet closest to the canonical XUV-driven Cosmic Shoreline observed in eclipse so far. Its lack of a substantial atmosphere implies that the Cosmic Shoreline cannot lie much farther toward the airless side than nominally predicted.",
+  "arxiv_id": "2611.17300",
+  "authors": [
+    "Jegug Ih",
+    "Shubham Kanodia",
+    "Nicholas Wogan",
+    "Mark Fortune",
+    "Natalie H. Allen",
+    "Hannah Diamond-Lowe",
+    "Mike Greklek-McKeon",
+    "M{\\aa}ns Holmberg",
+    "Jonathan Brande",
+    "Reza Ashtari",
+    "Katherine A. Bennett",
+    "Jacob Lustig-Yaeger",
+    "Megan Weiner Mansfield",
+    "Andrea S.J. Lin",
+    "Caleb I. Ca\\~nas",
+    "Te Han",
+    "Jessica Libby-Roberts",
+    "Suvrath Mahadevan"
+  ],
+  "categories": [
+    "astro-ph.EP"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17300"
+  },
+  "hook": "JWST finds the nearby rocky planet LTT 1445 A b is a bare rock with no substantial atmosphere.",
+  "hook_turn": "a bare rock with no substantial atmosphere.",
+  "id": "arxiv-2611.17300",
+  "license": "cc-by-nc-sa",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Eclipse depth of LTT 1445 A b at 15 microns",
+    "unit": "ppm",
+    "value": "157"
+  },
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Thermal glow measured as the planets pass behind their star shows planet b is as dark and hot as bare rock, limiting its surface pressure to about 0.1 bar or less. The data came from two eclipses of each planet plus archived JWST and radial velocity data. For planet c, the eclipse depth is poorly constrained, so only thick CO2-rich atmospheres are ruled out.",
+  "tags": [
+    "exoplanets",
+    "JWST",
+    "rocky planets"
+  ],
+  "title": "JWST Rocky Worlds DDT Observations of LTT 1445 A b and c in Secondary Eclipse Using MIRI/F1500W",
+  "url": "https://arxiv.org/abs/2611.17300",
+  "venue": "arXiv"
+}

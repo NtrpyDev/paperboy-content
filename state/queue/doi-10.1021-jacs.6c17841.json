@@ -1,0 +1,34 @@
+{
+  "abstract": "Abstract Intracellular protein condensates formed by liquid–liquid phase separation have gained increasing attention in recent years due to their key roles in many physiological and pathological processes. However, fluorescence imaging of protein condensates is limited by the bulky fluorescent tags that could perturb the protein localization and interaction. Imaging techniques that can visualize protein condensates in live cells with minimal perturbations remain lacking. Here, we develop a strategy to image intracellular protein condensates by coupling stimulated Raman scattering (SRS) microscopy to specific amino acid labeling. Different types of amino acids are found to exhibit distinct incorporation patterns in the live cells. By metabolic labeling of deuterated tyrosine-d4 and arginine-d7, ALS-related fused in sarcoma (FUS) protein condensates can be visualized with a high specificity. In addition, two-color pulse-chase imaging reveals protein translation arrest in FUS condensates under stress conditions. Furthermore, heterogeneous tyrosine phosphorylation is imaged in live cells and FUS condensates based on the Raman blue shift of phosphorylated tyrosine-d4. Thus, our technique to image specific amino acids by SRS provides a new platform to visualize the metabolic turnover and post-translational modifications of protein condensates in live cells with minimal perturbation.",
+  "arxiv_id": null,
+  "authors": [
+    "Ruifeng Sun",
+    "Ruowei Zhang",
+    "Fanghao Hu"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c17841",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Deuterated amino acids let Raman microscopy image FUS protein condensates in live cells without bulky tags.",
+  "id": "doi-10.1021-jacs.6c17841",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Cells fed deuterated tyrosine and arginine incorporate them into proteins, and stimulated Raman scattering microscopy picks up the labeled FUS condensates. Two-color pulse-chase imaging showed translation arrest in the condensates under stress, and a Raman shift revealed tyrosine phosphorylation. Shown in cultured cells only.",
+  "tags": [
+    "protein condensates",
+    "Raman microscopy"
+  ],
+  "title": "Specific Amino Acid Imaging of Protein Condensates in Live Cells by Stimulated Raman Scattering Microscopy",
+  "url": "https://doi.org/10.1021/jacs.6c17841",
+  "venue": "Journal of the American Chemical Society"
+}

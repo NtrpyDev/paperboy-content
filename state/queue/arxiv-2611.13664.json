@@ -1,0 +1,36 @@
+{
+  "abstract": "We study both side-to-side and non-side-to-side convex monohedral tilings of the Euclidean plane in which every tile has the same number of neighbors. Reflections are allowed, point contacts count as neighbors, and no periodicity assumption is imposed. Combining boundary estimates for sums of face curvatures, angle-incidence counts and side-length matching, we prove that the common neighbor number satisfies $N\\le21$ and classify all equality cases. Equality holds precisely when the prototile is a $30^\\circ$-$30^\\circ$-$120^\\circ$ triangle and the entire tiling is similar to the central subdivision of the standard equilateral triangular tiling. This resolves the open problem on the maximum common number of neighbors recorded in Adams's The Tiling Book.",
+  "arxiv_id": "2611.13664",
+  "authors": [
+    "Yahui Yang",
+    "Erxiao Wang"
+  ],
+  "categories": [
+    "math.MG"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13664"
+  },
+  "hook": "Tiles in a convex tiling can touch at most 21 neighbors, and a 30-30-120 triangle tiling reaches it.",
+  "hook_turn": "and a 30-30-120 triangle tiling reaches it.",
+  "id": "arxiv-2611.13664",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For plane tilings by copies of one convex tile where every tile has the same number of neighbors, the authors prove that number is at most 21. Equality occurs only for the 30-30-120 degree triangle in a subdivided triangular tiling. The proof combines curvature estimates on boundaries with angle and side-length counting. It settles a problem listed in Adams's The Tiling Book and is an unrefereed preprint.",
+  "tags": [
+    "tilings",
+    "discrete geometry"
+  ],
+  "title": "Convex monohedral tilings: a sharp neighbor bound and rigidity in the equality case",
+  "url": "https://arxiv.org/abs/2611.13664",
+  "venue": "arXiv"
+}

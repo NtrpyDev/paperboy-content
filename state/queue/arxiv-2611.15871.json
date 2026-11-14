@@ -1,0 +1,43 @@
+{
+  "abstract": "Bell inequality violations, or Bell nonlocality for short, is not only central to testing the foundations of quantum physics but have also become an essential ingredient of numerous quantum information protocols, from quantum key distribution to the device-independent certification of randomness and secure communication. Existing analyses of Bell nonlocality assume that a small set of predefined measurement directions can be reproduced exactly. But what if these directions cannot be reproduced at all? This may happen for fundamental or technical reasons, such as variations in the measurement apparatus. Here we show that the violation of a Bell inequality remains possible and that it also retains its operational significance, even when the measurement directions never repeat. We experimentally confirm these results using polarization-entangled photons, detecting only one particle pair per randomly chosen analyzer direction. Our results establish the robustness of Bell inequality violations against imperfect measurement repeatability and further connect Bell tests with the broader framework of randomized measurements. Moreover, they extend quantum information protocols to settings with limited measurement control, including quantum device certification, communication complexity, and quantum cryptography.",
+  "arxiv_id": "2611.15871",
+  "authors": [
+    "Pawe{\\l} Cie\\'sli\\'nski",
+    "Carlotta Versmold",
+    "Jan W\\'ojcik",
+    "Eun Mi Kim",
+    "Jan Dziewior",
+    "Pawe{\\l} Kurzy\\'nski",
+    "Tomasz Paterek",
+    "Harald Weinfurter",
+    "Wies{\\l}aw Laskowski"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15871"
+  },
+  "hook": "Bell inequality violations survive even when no measurement direction is ever repeated.",
+  "hook_turn": "no measurement direction is ever repeated.",
+  "id": "arxiv-2611.15871",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors show that Bell violations still appear and stay useful when each measurement direction is random and used only once. They confirmed it with polarization-entangled photons, recording one photon pair per random analyzer setting. The violation is statistical across many settings, and the result is shown for a photonic lab setup rather than a full cryptographic protocol.",
+  "tags": [
+    "Bell nonlocality",
+    "quantum information"
+  ],
+  "title": "Revealing Bell Nonlocality Does Not Require the Same Physical Measurement to be Performed Twice",
+  "url": "https://arxiv.org/abs/2611.15871",
+  "venue": "arXiv"
+}

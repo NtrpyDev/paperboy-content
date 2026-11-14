@@ -1,0 +1,52 @@
+{
+  "abstract": "Synaptome architecture describes the spatiotemporal distribution of highly diverse excitatory synapses throughout the brain. Whether and how this architecture is impacted by experience and sensory input is unknown. We found that environmental enrichment and monocular visual deprivation drive large-scale reconfiguration of excitatory synapse populations in more than one hundred regions of the mouse brain. Different experiences modify distinct subsets of synapse types and subtypes, with patterns aligned with protein turnover rates and connectome architecture. Similarity in experience-dependent reconfiguration during development and adulthood indicates shared mechanisms of synaptome adaptation across the lifespan. Our findings support a population-selection model in which experiences drive adaptation by selectively modifying synapse types and subtypes distributed across the brain. Experience-driven reconfiguration of synaptome architecture shares features with the response to aging, sleep deprivation, brain injury and genetic mutations, supporting a unifying principle of brain adaptation.",
+  "arxiv_id": null,
+  "authors": [
+    "Hanan Woods",
+    "Ülkü Günar",
+    "Sarah Catherine Gillard",
+    "Beverley Notman",
+    "Kunhao Yuan",
+    "Digin Dominic",
+    "Emily Robson",
+    "Gabor Varga",
+    "Noboru H Komiyama",
+    "Zhen Qiu",
+    "Frank Sengpiel",
+    "Seth G N Grant"
+  ],
+  "categories": [
+    "Brain",
+    "Synapses",
+    "Animals",
+    "Mice, Inbred C57BL",
+    "Mice",
+    "Aging",
+    "Male"
+  ],
+  "doi": "10.1038/s41467-026-78702-7",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Enriched housing and one-eye deprivation reshape synapses in over 100 mouse brain regions.",
+  "hook_turn": "reshape synapses in over 100 mouse brain regions.",
+  "id": "doi-10.1038-s41467-026-78702-7",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Mapping synapse types across the mouse brain showed that environmental enrichment and monocular deprivation each change distinct subsets of excitatory synapses in over 100 regions. Changes track protein turnover rates and wiring patterns, and look similar in young and adult animals. The work is in mice, and it describes synapse populations rather than behavior.",
+  "tags": [
+    "synapses",
+    "brain plasticity"
+  ],
+  "title": "Experience modifies the synaptome architecture in the developing and adult mouse brain.",
+  "url": "https://doi.org/10.1038/s41467-026-78702-7",
+  "venue": "Nature Communications"
+}

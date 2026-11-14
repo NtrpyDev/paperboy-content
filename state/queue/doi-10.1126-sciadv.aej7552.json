@@ -1,0 +1,35 @@
+{
+  "abstract": "Along-strike upper plate heterogeneity is widely observed at subduction margins, but its direct influence on slab geometry and interseismic deformation remains debated. Here, we investigate the effect of continental crustal segmentation on nearshore subduction mechanics at the Cascadia margin. Using a high-resolution, shore-crossing 3D seismic tomography model from central to southern Oregon, we image sharp along-strike contrasts in seismic velocity associated with distinct accreted terranes. We show that the subducting slab is systematically deeper beneath the coherent, higher-velocity Siletz terrane and shallower beneath lower-velocity faulted Siletz and Franciscan terranes. Numerical simulations constrained by the tomographic velocities demonstrate that rheological contrasts, represented by viscoelastic end-member models, generate the magnitude and pattern of coastal uplift, while upper-plate density contrasts reproduce the observed variation in slab depth. These findings demonstrate that inherited upper-plate structure, despite being ignored in geodetic locking models, can exert a first-order influence on nearshore subduction mechanics by controlling the partitioning of interseismic deformation and contributing to along-strike variations in slab geometry.",
+  "arxiv_id": null,
+  "authors": [
+    "Asif Ashraf",
+    "Emilie E. E. Hooft",
+    "Douglas R. Toomey"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aej7552",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Crust type along Cascadia changes how deep the subducting slab sits and how the coast rises.",
+  "id": "doi-10.1126-sciadv.aej7552",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "A 3D seismic tomography model of Oregon shows the slab is deeper under the stiff Siletz terrane and shallower under faulted Siletz and Franciscan terranes. Simulations tied to those velocities show viscosity contrasts produce coastal uplift patterns and density contrasts explain slab depth. Geodetic locking models ignore this structure, and the study covers only central to southern Oregon.",
+  "tags": [
+    "subduction",
+    "Cascadia",
+    "seismology"
+  ],
+  "title": "Upper plate structure controls nearshore subduction mechanics in Cascadia",
+  "url": "https://doi.org/10.1126/sciadv.aej7552",
+  "venue": "Science Advances"
+}

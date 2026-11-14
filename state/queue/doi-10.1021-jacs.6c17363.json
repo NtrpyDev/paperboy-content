@@ -1,0 +1,43 @@
+{
+  "abstract": "Abstract The fabrication of dense ceramic films for solid-state electronics and energy-conversion systems has long been hindered by a fundamental sintering dilemma: the high temperatures required to activate solid-state diffusion simultaneously promote elemental volatilization, interfacial reactions, and phase segregation. Inspired by natural mineralization, we develop a biomimetic liquid-phase growth (LPG) strategy that enables the direct formation of dense ceramic films under mild conditions. As a stringent model system, we select the highly refractory proton conductor BaZr0.85Y0.15O3−δ (BZY), which possesses a melting point of 2700 °C. In the LPG process, molten Ba(NO3)2 serves as both a reactive precursor and a liquid transport medium, while a (ZrO2)0.92(Y2O3)0.08 (YSZ) seed layer confines nucleation and directs interfacial crystal growth and coalescence. This strategy produces dense, chemically homogeneous BZY films at 600 °C, more than 1000 °C below those required in conventional solid-state sintering. The evolution mechanism of the LPG process is elucidated through in situ real-time characterizations. The versatility of this strategy is further demonstrated by the successful growth of BaHfO3, BaHfO3@BZY heterostructured, and SrZr0.85Y0.15O3−δ films. Fuel-cell tests validate the electrochemical functionality of the BZY-LPG electrolytes. By reconceptualizing film densification as a liquid-phase mineralization process, LPG establishes a distinct chemical framework for the low-temperature synthesis of dense films, substantially expanding the design landscape for advanced ceramic devices.",
+  "arxiv_id": null,
+  "authors": [
+    "Qiuxia Feng",
+    "Xinjing Zhang",
+    "Zhongwei Cao",
+    "Hongbo Li",
+    "Xuefeng Zhu",
+    "Weishen Yang"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c17363",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A molten salt grows dense ceramic film at 600 °C, over 1000 °C cooler than sintering.",
+  "hook_turn": "over 1000 °C cooler than sintering.",
+  "id": "doi-10.1021-jacs.6c17363",
+  "license": "other",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Growth temperature of dense BZY film",
+    "unit": "°C",
+    "value": "600"
+  },
+  "significance": 7,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Molten barium nitrate carries material to a seed layer, where crystals grow into a dense proton-conducting film instead of being fired at extreme heat. Imaging during growth shows how the film forms, and fuel-cell tests show it works as an electrolyte. Only a few barium and strontium compounds were shown, and fuel-cell performance details are not given in the abstract.",
+  "tags": [
+    "ceramics",
+    "thin films"
+  ],
+  "title": "From Sintering to Mineralization: A Liquid-Phase Growth Route for Ceramic Films",
+  "url": "https://doi.org/10.1021/jacs.6c17363",
+  "venue": "Journal of the American Chemical Society"
+}

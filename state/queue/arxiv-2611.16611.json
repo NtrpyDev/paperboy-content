@@ -1,0 +1,36 @@
+{
+  "abstract": "LISA will individually resolve thousands of Galactic double white dwarf (DWD) binaries, while the majority stays buried in an unresolved gravitational wave (GW) confusion foreground. Which systems get resolved depends on the binary's parameters, on the global population and on instrumental sensitivity, so the resolved population is not a representative sample of the underlying Galactic population. Interpreting LISA's future catalog therefore requires understanding these selection effects. Here we characterize the resolved and unresolved subpopulations of a simulated Milky Way DWD catalog, using an iterative subtraction pipeline applied over different observation times. Resolvability is driven primarily by chirp mass: higher chirp mass, inspiraling systems are strongly favored over lower mass, outspiraling or monochromatic ones, and this reflects on the rate with which different composition subtypes are resolved. Spatially, resolved sources trace the Galactic bulge, because it is intrinsically the densest region of the Galaxy. The confusion background shows an internal bimodal chirp-mass structure, and is not generated uniformly by the same subpopulation in different frequency bands. We introduce a diagnostic for the minimum number of sources needed to reproduce a given fraction of the confusion power in a frequency band, and show that a residual confusion floor persists even after 100 years of integration. These biases are significant and need to be accounted for when using LISA's resolved DWD catalog and the confusion background to constrain the Galactic DWD population.",
+  "arxiv_id": "2611.16611",
+  "authors": [
+    "Alice E. Cravioglio",
+    "Arianna I. Renzini"
+  ],
+  "categories": [
+    "astro-ph.GA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16611"
+  },
+  "hook": "LISA will resolve mostly high-mass white dwarf binaries, so its catalog will be a biased sample.",
+  "hook_turn": "so its catalog will be a biased sample.",
+  "id": "arxiv-2611.16611",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Using a simulated Milky Way population and iterative subtraction, the authors show which double white dwarfs LISA could pick out individually. Higher chirp mass systems that are inspiraling are favored, and a confusion floor remains even after 100 years. Results rest on one simulated catalog.",
+  "tags": [
+    "gravitational waves",
+    "white dwarfs"
+  ],
+  "title": "Dissecting and diagnosing the LISA Galactic binary population",
+  "url": "https://arxiv.org/abs/2611.16611",
+  "venue": "arXiv"
+}

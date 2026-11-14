@@ -1,0 +1,48 @@
+{
+  "abstract": "Cilia-derived extracellular vesicles (EVs) mediate cell-cell communication and remove signaling molecules from cilia. The Hedgehog receptor Smoothened (SMO) is selected for packaging into ciliary EVs by ubiquitin chains, but how cargo selection is coupled to EV budding remains unknown. In this work, working in mouse kidney cells, we found that the ubiquitin reader endosomal sorting complex required for transport-0 (ESCRT-0) orchestrates both cargo selection and EV biogenesis. Unlike the conventional ESCRT pathway, SMO secretion did not require the ESCRT-III membrane scission machinery. Instead, ESCRT-0 condensed at the ciliary tip, where it clustered ubiquitinated SMO to drive EV biogenesis. Disrupting ESCRT-0 condensation blocked SMO secretion, and combining forced recruitment of ESCRT-0 with optogenetic clustering of SMO was sufficient to reconstitute EV budding. Thus, ESCRT-0 condensation and cargo clustering constitute a minimal module for ESCRT-III-independent reverse-topology budding.",
+  "arxiv_id": null,
+  "authors": [
+    "Mingli Zhu",
+    "Yash Raj",
+    "Gary A Bradshaw",
+    "Henry T Phan",
+    "Catalina Kretschmar",
+    "Marian Kalocsay",
+    "Maxence V Nachury"
+  ],
+  "categories": [
+    "Cilia",
+    "Animals",
+    "Mice",
+    "Ubiquitination",
+    "Endosomal Sorting Complexes Required for Transport",
+    "Extracellular Vesicles",
+    "Smoothened Receptor"
+  ],
+  "doi": "10.1126/science.aej7530",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A protein clumps at the cilium tip and clusters cargo to bud vesicles, skipping the usual machinery.",
+  "hook_turn": "skipping the usual machinery.",
+  "id": "doi-10.1126-science.aej7530",
+  "license": null,
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "In mouse kidney cells, ESCRT-0 condensed at the ciliary tip and clustered ubiquitinated Smoothened to drive vesicle budding, without ESCRT-III. Blocking condensation stopped secretion, and forced ESCRT-0 recruitment plus optogenetic clustering of Smoothened reconstituted budding. The work is in cultured mouse cells, so it is untested in living animals.",
+  "tags": [
+    "cilia",
+    "extracellular vesicles",
+    "ESCRT"
+  ],
+  "title": "ESCRT-0 condensation and cargo clustering drive extracellular vesicle budding from cilia.",
+  "url": "https://doi.org/10.1126/science.aej7530",
+  "venue": "Science"
+}

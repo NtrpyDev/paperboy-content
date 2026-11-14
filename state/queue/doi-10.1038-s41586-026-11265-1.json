@@ -1,0 +1,58 @@
+{
+  "abstract": "Extreme climatic events are increasing in frequency and intensity with climate change1. Their effects on species' distributions and extinction risk remain poorly understood2-9. Most species distribution models rely on long-term mean climate, overlooking potentially important nonlinear effects of extremes. Here we integrate new spatial data on severe drought10, including compounding effects of warmer temperatures, with a comprehensive curated dataset of cactus occurrences (648,316 records) and species distribution models to assess how severe drought alters projected suitable climatic area for 993 species of Cactaceae, a highly threatened family11 that is commonly considered drought tolerant. In 91% of cases, models including severe drought were better supported than mean-climate models. Across emissions scenarios (Shared Socioeconomic Pathways (SSPs) SSP1-2.6 to SSP5-8.5) with 100-km dispersal, including severe drought increased the share of species losing suitable climatic area from 58-61% to 69-72%. The proportion of species projected to lose over a quarter of suitable area increased from 26-43% to 55-58%, and the proportion projected to lose over four-fifths increased from 1-15% to 25-35%. With severe drought, restricting dispersal from 100 to 0 km increased the share losing suitable area from 69-72% to 84-85% across SSPs. These declines reduced regional richness, with five bioregions potentially losing over 25% of species. These findings demonstrate that accounting for climatic extremes can alter assessments of biodiversity vulnerability under climate change. Integrating climatic extremes into ecological forecasting will be critical for assessing biodiversity loss and designing effective conservation strategies across taxa and ecosystems.",
+  "arxiv_id": null,
+  "authors": [
+    "Michiel D Pillet",
+    "Brian S Maitner",
+    "Mónica Arakaki",
+    "Diogo S A Araujo",
+    "Marc A Baker",
+    "Duniel Barrios",
+    "Bradley L Boyle",
+    "David D Breshears",
+    "Xiao Feng",
+    "Bárbara Goettsch",
+    "Pablo C Guerrero",
+    "Tania Hernández-Hernández",
+    "Lucas C Majure",
+    "Beatriz M Meriño",
+    "Efthymios I Nikolopoulos",
+    "Raúl Puente-Martínez",
+    "Patrick R Roehrdanz",
+    "Josep M Serra-Diaz",
+    "Mark C Urban",
+    "Cory Merow",
+    "Brian J Enquist"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41586-026-11265-1",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "In models, severe drought pushes cactus habitat loss from about 60% of species to about 70%.",
+  "id": "doi-10.1038-s41586-026-11265-1",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Cases where drought models fit better",
+    "unit": "%",
+    "value": "91"
+  },
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Researchers added severe-drought data to distribution models for 993 cactus species, using 648,316 records. Models with drought fit better in 91% of cases and projected more species losing suitable climate, with the worst losses when seeds cannot disperse. These are projections of suitable climate, not observed extinctions.",
+  "tags": [
+    "cacti",
+    "climate extremes",
+    "extinction risk"
+  ],
+  "title": "Severe drought and warming increase the extinction risk of cacti.",
+  "url": "https://doi.org/10.1038/s41586-026-11265-1",
+  "venue": "Nature"
+}

@@ -1,0 +1,35 @@
+{
+  "abstract": "We construct a free subgroup of countably infinite rank in $\\ZZ^2\\rtimes\\SL_2(\\ZZ)$ that acts regularly on $\\ZZ^2$. At each stage we adjoin an affine transformation taking the origin to the least point of a prescribed orbit. Disjoint domains for reduced words ensure that the stabilizer of the origin remains trivial. The orbit map gives a left brace with additive group $\\ZZ^2$ and multiplicative group free of countably infinite rank. This group contains a nonabelian free subgroup and is therefore nonsolvable, answering both parts of Problem 20.126 of the Kourovka Notebook.",
+  "arxiv_id": "2611.14972",
+  "authors": [
+    "L\\\"u Gong"
+  ],
+  "categories": [
+    "math.GR"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14972"
+  },
+  "hook": "A free group of infinite rank acts regularly on the integer plane, solving a Kourovka Notebook problem",
+  "hook_turn": "solving a Kourovka Notebook problem",
+  "id": "arxiv-2611.14972",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The author builds a free group of countably infinite rank inside the affine transformations of the integer plane that acts regularly on it. Each step adds a transformation sending the origin to the least point of an orbit, with disjoint domains keeping the stabilizer trivial. This gives a left brace with a nonsolvable multiplicative group, settling both parts of Problem 20.126 of the Kourovka Notebook.",
+  "tags": [
+    "group theory",
+    "left braces"
+  ],
+  "title": "A regular free action on the integral plane and a problem on left braces",
+  "url": "https://arxiv.org/abs/2611.14972",
+  "venue": "arXiv"
+}

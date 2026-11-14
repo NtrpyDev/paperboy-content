@@ -1,0 +1,38 @@
+{
+  "abstract": "Responding that has been reduced through experience can recover over time or following re-exposure to a biologically relevant outcome; these phenomena are known as spontaneous recovery and reinstatement, respectively. First described by Pavlov in 1927,1 these effects are most commonly (but not exclusively2,3,4) documented following extinction5,6 and are thought to contribute to relapse following behavioral treatments for anxiety, addiction, and related disorders.7,8 Therefore, extinction is generally considered to suppress rather than erase prior learning.5,6 In contrast, contingency degradation has been suggested to weaken initial response-outcome learning.9 Although previous studies of recovery following degradation have produced mixed results,10,11,12,13 each of these studies combined degradation with extinction, making it unclear whether degradation itself produces persistent reductions in responding. Here, rats learned two action-outcome contingencies (e.g., left lever, pellets; right lever, sucrose), one of which was subsequently degraded by unsignaled, non-contingent delivery of its outcome. Responding to the degraded action was reduced and did not recover following a 2-week interval or unexpected outcome delivery. This indicates that degradation, unlike extinction, produces persistent changes in behavior. We next examined the role of the lateral orbitofrontal cortex (lOFC), a region implicated in resolving interference between competing contingencies. Chemogenetic inactivation of lOFC impaired acquisition but not retrieval of degradation, consistent with the existence of competition between original and degraded contingencies during learning but not at test. These findings indicate that contingency degradation overwrites initial action-outcome learning and identify a potential framework for developing behavioral interventions that are resistant to relapse.",
+  "arxiv_id": null,
+  "authors": [
+    "Maedeh Mahmoudi",
+    "Joanne M Gladding",
+    "Michael D Kendig",
+    "Alessandro Castorina",
+    "Karly M Turner",
+    "Octavia Soegyono",
+    "Laura A Bradfield"
+  ],
+  "categories": [],
+  "doi": "10.1016/j.cub.2026.10.040",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "In rats, a degraded action stayed weak after two weeks, while extinguished actions are known to return.",
+  "id": "doi-10.1016-j.cub.2026.10.040",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Rats learned two lever actions, and one was degraded by giving its reward for free. Responding to it dropped and did not come back after two weeks or after an unexpected reward, suggesting overwriting rather than suppression. Silencing the lateral orbitofrontal cortex impaired learning of the degradation but not its recall. Evidence is from rats and one recovery test design.",
+  "tags": [
+    "learning",
+    "relapse"
+  ],
+  "title": "Lateral orbitofrontal cortex enables new learning to overwrite previously acquired information.",
+  "url": "https://doi.org/10.1016/j.cub.2026.10.040",
+  "venue": "Current Biology"
+}

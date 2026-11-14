@@ -1,0 +1,43 @@
+{
+  "abstract": "We prove a conjecture of K\\\"uhnel, Lassmann, and Lutz, first asked in 1984, that the minimal number of vertices in a triangulation of the $3$-dimensional torus is $15$.",
+  "arxiv_id": "2611.15358",
+  "authors": [
+    "Seunghun Lee",
+    "Geunho Lim",
+    "Eran Nevo"
+  ],
+  "categories": [
+    "math.CO",
+    "math.GT"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15358"
+  },
+  "hook": "Any triangulation of the 3-dimensional torus needs at least 15 vertices, settling a 1984 conjecture.",
+  "hook_turn": "settling a 1984 conjecture.",
+  "id": "arxiv-2611.15358",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Minimum vertices, 3-torus triangulation",
+    "unit": "vertices",
+    "value": "15"
+  },
+  "significance": 8,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove the Kuhnel-Lassmann-Lutz conjecture: the fewest vertices in a triangulation of the 3-torus is 15. The abstract gives no method details. It settles the minimum for this one manifold and says nothing about other 3-manifolds.",
+  "tags": [
+    "triangulations",
+    "topology"
+  ],
+  "title": "The minimum size of the 3-dimensional torus",
+  "url": "https://arxiv.org/abs/2611.15358",
+  "venue": "arXiv"
+}

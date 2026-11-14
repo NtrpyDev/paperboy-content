@@ -1,0 +1,39 @@
+{
+  "abstract": "Strongly correlated and topological phases in moiré materials are exquisitely sensitive to lattice geometry at both atomic and superlattice length scales. Twist angle, pressure, and strain directly modify the lattice and thus act as highly effective tuning parameters. Here, we examined electrical transport in twisted bilayer graphene subjected to continuous uniaxial strain. Near the magic angle (≈1.1°), devices exhibited a pronounced elastoresistance that depended on band filling and temperature, with a gauge factor more than two orders of magnitude larger than that of conventional metals. In selected doping regimes, the elastoresistance exhibited a Curie-Weiss-like temperature divergence. We discuss possible microscopic origins, including nematic fluctuations and enhanced electronic entropy from fluctuating isospin moments. Our work establishes uniaxial strain as a versatile probe of correlated physics in a moiré material.",
+  "arxiv_id": null,
+  "authors": [
+    "Xuetao Ma",
+    "Zhaoyu Liu",
+    "Jiaqi Cai",
+    "Kenji Watanabe",
+    "Takashi Taniguchi",
+    "Xiaodong Xu",
+    "Jiun-Haw Chu",
+    "Matthew Yankowitz"
+  ],
+  "categories": [],
+  "doi": "10.1126/science.adz0597",
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Stretching magic-angle twisted bilayer graphene changes its resistance enormously.",
+  "id": "doi-10.1126-science.adz0597",
+  "license": null,
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Devices near the 1.1 degree magic angle were pulled with continuous uniaxial strain while the team tracked electrical resistance. The response was over 100 times stronger than in ordinary metals and in some regimes diverged like a Curie-Weiss law at low temperature. The microscopic cause, such as nematic fluctuations, is still only proposed.",
+  "tags": [
+    "twisted bilayer graphene",
+    "elastoresistance"
+  ],
+  "title": "Giant elastoresistance in magic-angle twisted bilayer graphene.",
+  "url": "https://doi.org/10.1126/science.adz0597",
+  "venue": "Science"
+}

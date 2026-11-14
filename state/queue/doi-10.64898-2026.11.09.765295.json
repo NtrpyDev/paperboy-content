@@ -1,0 +1,37 @@
+{
+  "abstract": "Living systems have been argued to operate near critical points, but their relevance at the cellular level is poorly understood. Critical states allow for a high sensitivity to external inputs and maximal information transfer and display fluctuations at all scales. Critical points are very special, and require the fine tuning of a control parameter, which is hard to reconcile with the robustness of living cells. Self-organized criticality (SOC) proposes that feedback, rather than tuning, brings a system to its critical point. Here we show that RNA interference, in which messenger RNAs compete for shared silencing machinery and so queue for service, together with negative feedback gives rise to SOC in mammalian cells. In a synthetic circuit, a protein repressor whose mRNA competes with the mRNA of a fluorescent reporter that it represses senses the congestion of the queue, closing the feedback loop. Theory and stochastic simulations show that the loop holds the queue near its critical point despite changes in its parameters, and that expression becomes intermittent, with scale-free bursts. Measurements in human cell lines show the predicted power-law distributions of single-cell fluorescence. RNA interference could thus support engineered SOC in animal cells and may also contribute to SOC in natural systems.",
+  "arxiv_id": null,
+  "authors": [
+    "Pla-Mauri, J.",
+    "Güell, M.",
+    "Sole, R.",
+    "Conde-Pueyo, N."
+  ],
+  "categories": [
+    "synthetic biology"
+  ],
+  "doi": "10.64898/2026.11.09.765295",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/12/2026.11.09.765295.source.xml"
+  },
+  "hook": "A synthetic RNA interference feedback loop tunes itself to a critical point in human cells.",
+  "id": "doi-10.64898-2026.11.09.765295",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Messenger RNAs queue for shared silencing machinery, and a repressor that senses the queue closes a feedback loop. Theory and simulations predict scale-free bursts of expression, and measurements in human cell lines show matching power-law distributions of fluorescence. Limit: the evidence is from an engineered circuit, so natural cells remain a hypothesis.",
+  "tags": [
+    "self-organized criticality",
+    "gene regulation"
+  ],
+  "title": "Self-organized criticality in a mammalian RNA-interference circuit",
+  "url": "https://doi.org/10.64898/2026.11.09.765295",
+  "venue": "bioRxiv"
+}

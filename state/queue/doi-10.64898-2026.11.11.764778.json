@@ -1,0 +1,50 @@
+{
+  "abstract": "Natural hibernation can arrest tumor growth, but whether this effect can be reproduced through repeated pharmacologically induced synthetic torpor (ST) remains unclear. It is also unknown whether the radioprotection conferred by natural and synthetic torpor extends to tumors, potentially compromising radiotherapy. Here, five 5 AMP induced torpor bouts administered every other day, a protocol designed to mimic repeated hibernation cycles (synthetic hibernation), markedly restrained osteosarcoma growth in female C3H/HeNRj mice bearing syngeneic LM8 tumors. Interestingly, growth suppression persisted long after the final torpor bout. When 6 Gy total-body X-ray irradiation was delivered during the second bout, tumor growth control was comparable with irradiation under normothermia, whereas ovarian follicular atresia was lower and remained similar to non-irradiated controls. Together, these findings support synthetic hibernation as a strategy to restrain tumor growth and mitigate normal-tissue radiation injury without compromising tumor control.",
+  "arxiv_id": null,
+  "authors": [
+    "Chowdhury, R.",
+    "Piscitiello, E.",
+    "Vitacchio, T.",
+    "Sokol, O.",
+    "Benje, M.",
+    "Oppermann, J.",
+    "Helm, A.",
+    "Saccone, N. E.",
+    "Volpi, G.",
+    "Shete, N.",
+    "Teh, J. X.",
+    "Puspitasari Kokko, A.",
+    "Durante, M.",
+    "Cerri, M.",
+    "Tinganelli, W."
+  ],
+  "categories": [
+    "cancer biology"
+  ],
+  "doi": "10.64898/2026.11.11.764778",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/12/2026.11.11.764778.source.xml"
+  },
+  "hook": "Repeated drug-induced torpor slowed osteosarcoma growth in mice and spared their ovaries from radiation",
+  "hook_turn": "spared their ovaries from radiation",
+  "id": "doi-10.64898-2026.11.11.764778",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Mice with bone tumors received five AMP-induced torpor bouts, and tumor growth stayed suppressed long after the last one. Radiation given during torpor controlled tumors as well as normal-temperature radiation while causing less ovarian damage. It is one mouse tumor model in females, with no human data.",
+  "tags": [
+    "cancer",
+    "torpor",
+    "radiotherapy"
+  ],
+  "title": "Synthetic Hibernation Suppresses Osteosarcoma Growth and Protects Normal Tissue from Radiation",
+  "url": "https://doi.org/10.64898/2026.11.11.764778",
+  "venue": "bioRxiv"
+}

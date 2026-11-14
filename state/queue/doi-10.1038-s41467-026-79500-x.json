@@ -1,0 +1,48 @@
+{
+  "abstract": "Abstract Neurons require mitochondrial bioenergetic flexibility to withstand chronic mitochondrial quality control failure, yet the compensatory safeguards that preserve mitochondrial functional output during neurodegenerative progression remain unclear. Here, using parkin- deficient fly models, we identify an early mitochondrial metabolic signature characterized by reduced pyruvate and increased glutamate and α-ketoglutarate. Substrate-specific mitochondrial respiration and ATP assays showed impaired pyruvate-supported bioenergetic capacity but preserved glutamate-supported bioenergetic capacity, supporting a transient glutamate-linked compensatory state before neurodegenerative deterioration. We identify neuronal TSPO upregulation as an adaptive compensatory mechanism that sustains glutamate-supported mitochondrial bioenergetic capacity under parkin -deficient conditions. In human iPSC-derived neurons, parkin deficiency was similarly associated with TSPO upregulation, and TSPO modulation altered neuronal vulnerability. TSPO induction was controlled by JNK-Jun/Nrf2 signaling, whose age-associated attenuation compromised compensation and accelerated neurodegeneration. Thus, loss of TSPO-dependent glutamate-linked bioenergetic compensation marks the transition from mitochondrial adaptation to neurodegenerative deterioration under parkin -deficient conditions.",
+  "arxiv_id": null,
+  "authors": [
+    "Jae Ho Cho",
+    "Sukhee Cho",
+    "Eun Seon Kim",
+    "Min Gu Jo",
+    "Juran Choe",
+    "Se-In Lee",
+    "Do Young Hyeon",
+    "Tae Yeong Kim",
+    "Chang Geon Chung",
+    "Minseop Kim",
+    "Young-Sam Lee",
+    "Hyun Woo Park",
+    "Won Dong Lee",
+    "Daehee Hwang",
+    "Jinsoo Seo",
+    "Sung Bae Lee"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-79500-x",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "In parkin-deficient flies, TSPO upregulation sustains neuron energy until that compensation fails",
+  "hook_turn": "until that compensation fails",
+  "id": "doi-10.1038-s41467-026-79500-x",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Parkin-deficient fly neurons lose pyruvate-fueled respiration but keep glutamate-fueled respiration, aided by higher TSPO driven by JNK-Jun/Nrf2 signaling. With age this signal fades and neurodegeneration speeds up. Human iPSC neurons showed a similar TSPO rise, but most work is in flies.",
+  "tags": [
+    "parkinson's disease",
+    "mitochondria"
+  ],
+  "title": "Failure of TSPO-dependent metabolic compensation marks the loss of mitochondrial bioenergetic adaptation in parkin-deficient neurons",
+  "url": "https://doi.org/10.1038/s41467-026-79500-x",
+  "venue": "Nature Communications"
+}

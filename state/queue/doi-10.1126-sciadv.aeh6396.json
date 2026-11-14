@@ -1,0 +1,51 @@
+{
+  "abstract": "Rice roots have a distinctive ground tissue architecture with multiple cortical layers and a single endodermal layer concentrically surrounding the stele. This architecture promotes aerenchyma formation and adaptability to waterlogged environments, but the underlying molecular mechanisms remain largely unexplored. Here, we identified the INDETERMINATE DOMAIN (IDD) and SHORTROOT (SHR) families as key regulators of ground tissue development in rice. OsIDD2/3/6/8 govern cortical radial symmetry by coordinating cortical organization and auxin distribution independently of OsSHR1/2/3/4/5. Quadruple knockout of OsIDD2/3/6/8 caused cortical asymmetry without affecting apoplastic barrier integrity or mineral uptake but reduced shoot-directed ion transport. OsIDD8 also controls the number of cortical cell layers and endodermal cells, whereas OsSHR1/2/3/4/5 redundantly promote periclinal divisions of the cortical cells, which require OsIDD8 activity. Moreover, OsIDD and OsSHR members coordinate endodermal differentiation by regulating localization of Casparian strip membrane domain protein OsCASP1 and lignin/suberin deposition. These findings establish a genetic framework underlying the spatial organization and functional differentiation of ground tissue in rice roots.",
+  "arxiv_id": null,
+  "authors": [
+    "Liyun Peng",
+    "Zhufeng Chen",
+    "Ziheng Li",
+    "Shuling Cao",
+    "Jinge Liu",
+    "Ruiting Liu",
+    "Jinyu Yu",
+    "Baolei Zhang",
+    "Xiaoyu Liang",
+    "Bocheng Gao",
+    "Xingxiang Chen",
+    "Jixing Xia"
+  ],
+  "categories": [
+    "Plant Roots",
+    "Indoleacetic Acids",
+    "Plant Proteins",
+    "Transcription Factors",
+    "Cell Differentiation",
+    "Gene Expression Regulation, Plant",
+    "Oryza"
+  ],
+  "doi": "10.1126/sciadv.aeh6396",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "IDD and SHR gene families jointly build the layered ground tissue of rice roots.",
+  "id": "doi-10.1126-sciadv.aeh6396",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Rice roots have several cortical layers and one endodermal layer, and four IDD genes keep the cortex radially symmetric while SHR genes drive cortical cell divisions. Knocking out the four IDD genes together made the cortex asymmetric and reduced ion transport to shoots. The work is genetic and in rice only, so yield or flooding benefits are untested.",
+  "tags": [
+    "plant development",
+    "rice"
+  ],
+  "title": "The transcription factors OsIDD and OsSHR jointly regulate ground tissue patterning and differentiation in rice roots.",
+  "url": "https://doi.org/10.1126/sciadv.aeh6396",
+  "venue": "Science Advances"
+}

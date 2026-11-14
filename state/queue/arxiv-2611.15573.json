@@ -1,0 +1,42 @@
+{
+  "abstract": "Collisions between molecules govern chemical reactions and energy transfer across a range of different environments from interstellar space to the Earth's atmosphere. Despite their fundamental importance, molecular collisions have traditionally been studied through ensemble-averaged experiments which obscure the dynamics of individual scattering events on the quantum level. Probing single molecular collisions with quantum-state resolution has thus far remained a major experimental challenge. Here, we demonstrate a method for detecting individual rotationally inelastic collisions of single molecular ions with neutral atoms using quantum-logic techniques. We prepare individual trapped N$_2^+$ ions in their rotational ground state, subject them to a beam of helium atoms and detect isolated collision events through their effects on the motion of the trapped ions. Quantum-logic-spectroscopic measurements reveal changes of the molecular state upon collision enabling the determination of the probability of rotationally inelastic scattering. The experiments are analysed by comparison with quantum and classical scattering calculations yielding detailed insights into the underlying collision dynamics. By combining single-collision detection with non-destructive readout of the molecular quantum state, our approach establishes a new experimental framework for investigating molecular scattering beyond conventional ensemble measurements. It opens a route towards investigating state-to-state scattering in individual molecules and exploring molecular interactions at the level of single quantum-state resolved events.",
+  "arxiv_id": "2611.15573",
+  "authors": [
+    "Mikolaj Roguski",
+    "Shimoni Patel",
+    "Richard Karl",
+    "Aleksandr Shlykov",
+    "Octavio Roncero",
+    "Markus Meuwly",
+    "Stefan Willitsch"
+  ],
+  "categories": [
+    "physics.atom-ph",
+    "physics.chem-ph",
+    "quant-ph"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15573"
+  },
+  "hook": "Physicists detected single collisions of a helium atom with one trapped molecular ion.",
+  "id": "arxiv-2611.15573",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Single N2+ ions held in a trap in their rotational ground state were hit by helium atoms, and quantum-logic spectroscopy read out whether each collision changed the rotation. Comparison with quantum and classical scattering calculations gave the probability of rotational change. It is a first demonstration on one ion species with one collision partner.",
+  "tags": [
+    "molecular collisions",
+    "quantum logic"
+  ],
+  "title": "Quantum-logic detection of rotationally inelastic collisions of single molecules",
+  "url": "https://arxiv.org/abs/2611.15573",
+  "venue": "arXiv"
+}

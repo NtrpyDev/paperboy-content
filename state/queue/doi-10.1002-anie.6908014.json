@@ -1,0 +1,51 @@
+{
+  "abstract": "The dissolution of 3d transition metals is a central bottleneck limiting the practical use of Pt-alloy cathode catalysts in fuel cells. Although ordered intermetallic compounds (IMCs) have been explored for nearly 4 decades as a route to mitigate this instability, the durability benefit of structural ordering itself remains debated and has rarely been reliably validated under practical membrane electrode assembly (MEA) conditions. Herein, we design a phase-diagram-guided sequential annealing protocol that yields an ordered/disordered PtCo catalyst pair with closely matched particle size and composition, enabling the durability effect of structural ordering to be rigorously isolated. In practical MEAs, structural ordering does not translate into a significant H2-air performance gain but markedly slows catalyst degradation. For example, after 90 000 cycles of accelerated durability test, the ordered catalyst loses only 28 mV at 1.5 A cm-2, less than half that of its disordered counterpart (65 mV). Correlative in situ MEA diagnostics, electron microscopy, and online inductively coupled plasma mass spectrometry trace this enhanced durability to suppressed Co outward diffusion and dissolution. Machine-learning-accelerated theoretical calculations further rationalize this stabilization by revealing a higher thermodynamic penalty for Co surface segregation and a larger kinetic barrier for Co diffusion toward neighboring vacancies in the ordered IMC.",
+  "arxiv_id": null,
+  "authors": [
+    "Tian-Wei Song",
+    "Yanxi Lyu",
+    "Lei Tong",
+    "Xuan Luo",
+    "Xiangfu Niu",
+    "Cong Xu",
+    "Shuai Li",
+    "Zi-Rui Li",
+    "Rui Zhang",
+    "Yucheng Wang",
+    "Zhou Chen",
+    "Liang Zhang",
+    "Jianqiu Li",
+    "Hai-Wei Liang"
+  ],
+  "categories": [],
+  "doi": "10.1002/anie.6908014",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Ordered PtCo fuel-cell catalysts lose less than half the voltage of disordered ones after 90,000 cycles.",
+  "hook_turn": "after 90,000 cycles.",
+  "id": "doi-10.1002-anie.6908014",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Ordered catalyst loss at 1.5 A cm-2",
+    "unit": "mV",
+    "value": "28"
+  },
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "The team made ordered and disordered PtCo catalysts with matched size and composition, so ordering alone could be tested in working fuel cell assemblies. Ordering gave no performance gain but slowed degradation by suppressing cobalt diffusion and dissolution. The result covers one alloy and accelerated tests, not years of real operation.",
+  "tags": [
+    "fuel cells",
+    "catalyst durability"
+  ],
+  "title": "Identification of the Intrinsic Ordering Effect of PtCo Intermetallic Catalysts on Fuel Cell Durability.",
+  "url": "https://doi.org/10.1002/anie.6908014",
+  "venue": "Angewandte Chemie International Edition"
+}

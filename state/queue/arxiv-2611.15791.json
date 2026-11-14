@@ -1,0 +1,36 @@
+{
+  "abstract": "For understanding airborne viral infection pathways, the prediction of the spreading and effective diffusivity of saliva droplets emitted from a person while speaking and breathing is crucial. In non-ventilated indoor spaces, the spreading of tracer particles or molecules emitted by a person is governed by the complex interplay of molecular diffusion, convection due to body heat and temperature boundary conditions as well as propulsion due to breathing in and out. By comparison of grid-based simulations of the compressible Navier-Stokes equation with experiments measuring the spreading of CO$_2$ emitted from a person, we demonstrate that molecular diffusion of CO$_2$ is present, but that the long-distance CO$_2$ spreading is completely dominated by the combination of convection due to body heat and temperature gradients at walls and windows and the periodic breathing pattern of a person. Breathing out induces long-range advection by a mid-Reynolds number flow pattern akin to the Landau-Squire jet, while breathing in creates only short-range flow. In conjunction with thermal convection, this symmetry breaking between breathing in and out produces fast long-distance transport of CO$_2$ and small aerosols.",
+  "arxiv_id": "2611.15791",
+  "authors": [
+    "Lars A. Natusch",
+    "Roland R. Netz"
+  ],
+  "categories": [
+    "physics.flu-dyn",
+    "physics.bio-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15791"
+  },
+  "hook": "Body heat and breathing jets, not diffusion, carry exhaled CO2 across a room.",
+  "id": "arxiv-2611.15791",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Simulations of the compressible Navier-Stokes equations, checked against CO2 measurements near a person, show that long-range spread comes from heat-driven convection plus the asymmetry of breathing. Breathing out makes a long-reaching jet, while breathing in pulls air only from nearby. Results are for one non-ventilated indoor setup and use CO2 as a stand-in for droplets and aerosols.",
+  "tags": [
+    "fluid dynamics",
+    "airborne transmission"
+  ],
+  "title": "Thermal convection and jets produced by human exhalation dominate the indoor spreading of emitted CO$_2$ and aerosols",
+  "url": "https://arxiv.org/abs/2611.15791",
+  "venue": "arXiv"
+}

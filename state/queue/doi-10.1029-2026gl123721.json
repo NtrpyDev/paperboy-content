@@ -1,0 +1,39 @@
+{
+  "abstract": "Abstract Turbulent mixing may become increasingly important in a changing Arctic Ocean, influencing regional dynamics and global overturning. Arctic turbulence remains poorly characterized due to sparse observations, limitations of conventional parameterizations, and incomplete understanding. We train gradient‐boosted decision trees on global microstructure turbulence data (>5,000 profiles; ∼ data points) to predict turbulent dissipation from more widely available hydrography. Global training is essential for skill across non‐Arctic and Arctic regions (, 75% within a factor of 2 of observations; = 0.47–0.55 under spatial block cross‐validation). Applied to pan‐Arctic hydrographic observations, predictions show enhanced dissipation along margins and shelves and weaker values in basin interiors, consistent with current understanding. Applied to high‐resolution model output, predictions reveal diffusivities and a basin‐integrated irreversible buoyancy flux consistent with observations, yet markedly different from the common K‐Profile Parameterization—with implications for simulated tracer transport. Our parameterization can help assess climate‐mixing feedbacks in projections while physics‐based parameterizations mature.",
+  "arxiv_id": null,
+  "authors": [
+    "Rafael S. Reiss",
+    "Lisanne Blok",
+    "Nicholas Leonard",
+    "Kate Oglethorpe",
+    "Alberto C. Naveira Garabato",
+    "Colm‐cille P. Caulfield",
+    "Ali Mashayek"
+  ],
+  "categories": [],
+  "doi": "10.1029/2026gl123721",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A machine-learning model predicts Arctic Ocean mixing from routine data, unlike a common scheme.",
+  "hook_turn": "unlike a common scheme.",
+  "id": "doi-10.1029-2026gl123721",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Gradient-boosted decision trees trained on over 5,000 global turbulence profiles predict how strongly Arctic waters mix from routine temperature and salinity data. Predictions land within a factor of 2 of observations 75% of the time and differ markedly from the widely used K-Profile Parameterization. Skill in the Arctic depends on global training, and direct Arctic checks remain sparse.",
+  "tags": [
+    "ocean mixing",
+    "machine learning"
+  ],
+  "title": "Data‐Driven Parameterization of Arctic Ocean Turbulent Mixing",
+  "url": "https://doi.org/10.1029/2026gl123721",
+  "venue": "Geophysical Research Letters"
+}

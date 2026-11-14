@@ -1,0 +1,51 @@
+{
+  "abstract": "An effective dengue vaccine must establish durable immunity across four dengue virus (DENV) serotypes, evade antibody-dependent enhancement (ADE), and overcome immune imprinting from prior exposure. Here, we developed TetprM-E mRNA-LNP, a tetravalent vaccine comprising LNP-formulated nucleoside-modified mRNAs encoding DENV1-4 precursor membrane-envelope (prM-E) antigens, and evaluated its immunogenicity, durability, protection and breath across serotype-specific immune backgrounds. Three immunization strategies elicited neutralizing titers greater than 1:1500 against each serotype. Passive transfer of immune sera conferred 100% survival and reduced viremia after lethal DENV2 challenge in immunocompromised mice. Vaccination induced DENV envelope (env)-specific CD8+T cells and CD4-dependent germinal-center responses. DENV env-binding antibodies persisted for 34 weeks alongside DENV env-specific memory B cells. Vaccine-elicited sera showed no measurable in vitro ADE. Although monovalent priming initially biased antibody responses, TetprM-E mRNA-LNP vaccination broadened neutralization across DENV1-4 regardless of priming serotype. Together, TetprM-E mRNA-LNP elicits broad, durable, and protective immunity despite serologic constraints from pre-existing immunity.",
+  "arxiv_id": null,
+  "authors": [
+    "Akther, F.",
+    "Dalben, Y. R.",
+    "Villalpando, J.",
+    "Levine, K.",
+    "Buck, E.",
+    "Polster, J.",
+    "Yin, Z.",
+    "Muramatsu, H.",
+    "Tiwari, S.",
+    "Sriram, S.",
+    "Wilen, C. B.",
+    "Joshi, N. S.",
+    "McNamara, R. P.",
+    "Weiskopf, D.",
+    "Tse, L. V.",
+    "Pardi, N.",
+    "Martinez, D. R."
+  ],
+  "categories": [
+    "immunology"
+  ],
+  "doi": "10.64898/2026.11.09.765416",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/11/2026.11.09.765416.source.xml"
+  },
+  "hook": "A four-in-one dengue mRNA vaccine produced neutralizing antibodies to all four serotypes in mice.",
+  "hook_turn": "produced neutralizing antibodies to all four serotypes in mice.",
+  "id": "doi-10.64898-2026.11.09.765416",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "A vaccine of mRNAs encoding the surface proteins of dengue types 1 to 4 gave neutralizing titers above 1:1500 for each type, with antibodies lasting 34 weeks and no measured antibody-dependent enhancement in vitro. Protection was shown by passive serum transfer in immunocompromised mice. It was not tested in people, and enhancement was checked only in the lab.",
+  "tags": [
+    "dengue",
+    "mRNA vaccine"
+  ],
+  "title": "Tetravalent dengue mRNA vaccination orchestrates balanced four-serotype immunity with durable memory and protection in mice.",
+  "url": "https://doi.org/10.64898/2026.11.09.765416",
+  "venue": "bioRxiv"
+}

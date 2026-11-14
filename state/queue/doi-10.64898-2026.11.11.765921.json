@@ -1,0 +1,40 @@
+{
+  "abstract": "The origin of new organs has fascinated biologists since Darwin. Yet the molecular and evolutionary steps that give rise to new organs remain difficult to resolve, largely because most organs have ancient origins. The fish family Poeciliidae offers a rare exception. Within poeciliids, placentas have independently evolved at least nine times, including within the last ~10 million years. Here, we study the molecular and cellular drivers of five independent origins of a placenta, using pairs of sister species with and without a placenta. We identified a new maternal cell type that emerged in the common ancestor of poeciliids and likely enabled the family to transition from egg-laying to live-bearing through egg retention. This new cell type originated by partly co-opting the existing gene regulatory network of another ovarian cell type. Subsequently, this same new maternal cell type, together with the embryonic yolk sac, was repeatedly and independently co-opted to form a placenta in all five origins. The evolution of these placentas involved high levels of convergence at the pathway level (e.g., lipid metabolism and vesicle-mediated transport), although these functional changes relied primarily on distinct genes across species. Our analyses show how the evolution and modification of a new cell type enabled the evolution of live birth and placentation, providing the cellular and genetic foundations for the repeated evolution of a new organ.",
+  "arxiv_id": null,
+  "authors": [
+    "Safian, D.",
+    "Kraunsoe, S.",
+    "Falis, M.",
+    "Labra, L.",
+    "Reznick, D.",
+    "Cardoso-Moreira, M."
+  ],
+  "categories": [
+    "evolutionary biology"
+  ],
+  "doi": "10.64898/2026.11.11.765921",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/13/2026.11.11.765921.source.xml"
+  },
+  "hook": "A new maternal cell type let fish shift to live birth, then was reused to build five placentas.",
+  "hook_turn": "then was reused to build five placentas.",
+  "id": "doi-10.64898-2026.11.11.765921",
+  "license": "cc-by-nc",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Single-cell comparisons of five sister-species pairs found a maternal ovarian cell type, borrowed from another cell type's gene network, that appeared when poeciliid fish began retaining eggs. The same cell type, with the embryonic yolk sac, was recruited again for each placenta, using different genes but similar pathways. The comparison covers five lineages within one fish family.",
+  "tags": [
+    "placenta evolution",
+    "single-cell"
+  ],
+  "title": "A new cell type facilitated live-bearing and multiple independent origins of placentation in fish",
+  "url": "https://doi.org/10.64898/2026.11.11.765921",
+  "venue": "bioRxiv"
+}

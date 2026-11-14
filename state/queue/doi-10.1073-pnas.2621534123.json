@@ -1,0 +1,56 @@
+{
+  "abstract": "The capacity of one G protein-coupled receptor (GPCR) to modulate signaling outputs of another is a phenomenon with potential implications for neuron function and therapeutic action. Notably, Gi/o-coupled receptors have been shown to generate calcium signals after costimulation of Gq-coupled receptors, an effect resulting from a crosstalk between signaling cascades. But the relevance for brain function and for therapeutic applications remains largely unclear. Here we show that Gi/o-coupled metabotropic glutamate 2 (mGlu2) receptors can generate calcium signals in neurons. It results from either agonist activation or constitutive activity of a Gq-coupled receptor endogenously coexpressed with mGlu2, independently of dimerization. Specifically, the constitutively active platelet-activating factor receptor (PAFR) plays an essential role in mGlu2-calcium signaling in hippocampal neurons, an effect largely inhibited by PAFR inverse agonists and genetic variants. This mGlu2-PAFR crosstalk is required for the cognitive and behavioral rescue produced by mGlu2 agonists in a mouse model of NMDA receptor hypofunction. These data highlight the complexity of GPCR signaling and provide key insights on therapeutic strategies for psychiatric disorders.",
+  "arxiv_id": null,
+  "authors": [
+    "Hongyang Ding",
+    "Junke Liu",
+    "Cui Zhang",
+    "Wenzheng Li",
+    "Zhiran Fan",
+    "Fei Wang",
+    "Huaqiu Li",
+    "Philippe Rondard",
+    "Jean-Philippe Pin",
+    "Yingjie Zhu",
+    "Jianfeng Liu"
+  ],
+  "categories": [
+    "Hippocampus",
+    "Neurons",
+    "Animals",
+    "Humans",
+    "Mice",
+    "GTP-Binding Protein alpha Subunits, Gi-Go",
+    "GTP-Binding Protein alpha Subunits, Gq-G11",
+    "Receptors, G-Protein-Coupled",
+    "Receptors, Metabotropic Glutamate",
+    "Antipsychotic Agents",
+    "Signal Transduction",
+    "Calcium Signaling"
+  ],
+  "doi": "10.1073/pnas.2621534123",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Receptor mGlu2 makes calcium signals in neurons with a partner receptor. Mice need it for drug rescue.",
+  "hook_turn": "Mice need it for drug rescue.",
+  "id": "doi-10.1073-pnas.2621534123",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "In hippocampal neurons, the Gi-coupled mGlu2 receptor produced calcium signals through crosstalk with the platelet-activating factor receptor, which is active on its own. In a mouse model of NMDA receptor underactivity, this crosstalk was required for mGlu2 drugs to restore cognition and behavior. The findings come from cultured neurons and mice, so relevance to patients is uncertain.",
+  "tags": [
+    "GPCR signaling",
+    "antipsychotics"
+  ],
+  "title": "Synergy between Gq and Gi proteins for the antipsychotic-like effects of mGlu2 receptors.",
+  "url": "https://doi.org/10.1073/pnas.2621534123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

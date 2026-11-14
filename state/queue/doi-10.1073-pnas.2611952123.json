@@ -1,0 +1,39 @@
+{
+  "abstract": "Whether and how people approach social interactions hinges on how they expect others to respond. Extensive social psychology research suggests that people are inaccurate interpersonal perceivers, overestimating negative responses (e.g., discomfort) and underestimating positive responses (e.g., appreciation) across a variety of social situations. However, this conclusion is based almost exclusively on mean-level bias analyses that obscure the dyadic nature of interpersonal judgment and rely on a narrow conceptualization of interpersonal accuracy. Leveraging research on favor-asking and anticipated compliance as an exemplar, we demonstrate that interpersonal accuracy takes multiple theoretically distinct forms, and that the prevailing conclusion that people misunderstand their influence over others—because they tend to underestimate compliance—is likely overgeneralized. Across four studies (13,196 directed dyadic ratings), we show that people accurately differentiate between who will comply with their favor requests (dyadic meta-accuracy) despite the average tendency to underestimate compliance (mean-level bias). This pattern emerged for specific and general favor requests, among well- and newly-acquainted individuals, and beyond what could be expected due to self-projection. Through this dyadic lens, people are highly adept judges of their influence over others, as they are able to target their requests toward individuals who are uniquely likely to acquiesce to them—and can avoid wasting time on those who are not. Thus, our research refines existing implications for how people approach asking for favors. More broadly, by aligning theory, measurement, and level of analysis, our studies elucidate the need for greater theoretical precision and empirical breadth in interpersonal accuracy research.",
+  "arxiv_id": null,
+  "authors": [
+    "Casher D. Belinda",
+    "Brittany C. Solomon"
+  ],
+  "categories": [],
+  "doi": "10.1073/pnas.2611952123",
+  "explain": false,
+  "field": "social",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "People underestimate how often others say yes, yet still pick who will say yes.",
+  "hook_turn": "yet still pick who will say yes.",
+  "id": "doi-10.1073-pnas.2611952123",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Directed dyadic ratings across four studies",
+    "unit": "dyadic ratings",
+    "value": "13,196"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Across four studies, people expected less compliance with favor requests than they got on average, but their predictions still tracked which individuals would comply. This suggests the common claim that people misjudge their influence is overgeneralized. Ratings are from study participants in set scenarios, not real-world favor asking.",
+  "tags": [
+    "social psychology",
+    "interpersonal perception"
+  ],
+  "title": "People know who to ask for favors despite underestimating compliance",
+  "url": "https://doi.org/10.1073/pnas.2611952123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

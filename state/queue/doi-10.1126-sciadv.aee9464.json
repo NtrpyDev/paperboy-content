@@ -1,0 +1,63 @@
+{
+  "abstract": "Inherited cardiomyopathies are the leading cause of heart failure in young adults, with limited therapeutic options. Desmin-related cardiomyopathy (DRM), caused by mutations to cytoskeletal proteins and their chaperones, exemplifies this challenge: Here, protein quality control is compromised, leading to toxic protein aggregates that destroy cardiomyocyte contractile machinery. One of the deadliest DRM mutations in the chaperone protein αB crystallin (CRYAB-R120G) lacks a genetically matched preclinical model: Mouse models require massive overexpression of mutant CRYAB, raising questions about physiological relevance. Here, we establish a human model of CRYAB-linked DRM, using induced pluripotent stem cells expressing CRYAB-R120G at near-endogenous levels. We show that three-dimensional mechanical loading, but not fatty acid-based metabolic maturation media, is essential for expressing Desmin, whose aggregation defines DRM. Using microengineered heart tissues, we found that contractile deficits are associated with impaired calcium handling, pointing to electromechanical uncoupling in DRM. Treatment with the Janus kinase 1 inhibitor itacitinib partially rescued contractility, providing a functional validation of this emerging therapeutic strategy.",
+  "arxiv_id": null,
+  "authors": [
+    "Yasaman Kargar Gaz Kooh",
+    "Bahareh Bahmani",
+    "Chen Zhao",
+    "Ganesh Malayath",
+    "Anastasia Khokhlova",
+    "Leah Hayem",
+    "Hertier Umuragwa",
+    "Hanxun Jin",
+    "Ghiska Ramahdita",
+    "Xiangjun Peng",
+    "Huanzhu Jiang",
+    "Javier Santiago Perez",
+    "Hsin-Yi Cindy Chou",
+    "Jonathan R Silva",
+    "Xiucui Ma",
+    "Guy M Genin",
+    "David R Rawnsley",
+    "Abhinav Diwan",
+    "Nathaniel Huebsch"
+  ],
+  "categories": [
+    "Myocytes, Cardiac",
+    "Animals",
+    "Humans",
+    "Cardiomyopathies",
+    "Calcium",
+    "Desmin",
+    "alpha-Crystallin B Chain",
+    "Mutation",
+    "Models, Biological",
+    "Induced Pluripotent Stem Cells",
+    "Protein Aggregates"
+  ],
+  "doi": "10.1126/sciadv.aee9464",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Human heart cells with a deadly CRYAB mutation only showed disease when physically stretched.",
+  "hook_turn": "when physically stretched.",
+  "id": "doi-10.1126-sciadv.aee9464",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Stem-cell-derived heart tissue carrying the CRYAB-R120G mutation at near-natural levels developed desmin aggregation only under three-dimensional mechanical loading, and showed weak contraction with faulty calcium handling. The drug itacitinib partly restored contraction. This is an engineered tissue model, so it may not capture the whole disease in patients.",
+  "tags": [
+    "cardiomyopathy",
+    "stem cells"
+  ],
+  "title": "Mechanical forces enable human stem cell modeling of protein aggregation cardiomyopathy.",
+  "url": "https://doi.org/10.1126/sciadv.aee9464",
+  "venue": "Science Advances"
+}

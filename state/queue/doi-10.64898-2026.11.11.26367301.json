@@ -1,0 +1,45 @@
+{
+  "abstract": "Individuals with Down syndrome (DS) present with both increased rates of autoimmunity and immunodeficiency. To understand this paradox, we first examined lymph node (LN) architecture and immune cell composition in infants with and without DS, as well as peripheral blood B cells from unrelated adults with and without DS. Most strikingly, LNs from individuals with DS exhibited a marked paucity of germinal centers compared with typical lymph nodes. Stromal cells within DS LNs expressed significantly lower levels of the adhesion molecules ICAM1 and VCAM1, accompanied by significantly reduced CXCR5 expression within B cell follicles, suggesting impaired B cell migration and follicular organization. Although fibroblastic reticular cells (FRCs) were present at comparable frequencies in DS and control LNs, MARCO lymphatic endothelial cells (MARCO-LECs), another critical stromal cell population supporting LN architecture, were significantly reduced. In addition, follicular dendritic cells (FDCs), which are essential for antigen retention and B cell selection within germinal centers, were also substantially reduced. To determine the consequences of these abnormalities on humoral immunity, we performed paired single-cell RNA sequencing and V(D)J sequencing of peripheral blood B cells from adults with and without DS. DS memory and CD86+ switched memory B cell populations exhibited significantly elevated reactive oxygen species and PI3K-AKT-mTOR signaling gene signatures, coupled with reduced levels of somatic hypermutation in the memory population and increase usage of the autoreactivity-associated IGHV4-34 heavy-chain gene. Collectively, these findings suggest that early-life disruption of LN architecture, characterized by reduced expression of adhesion molecules, selective loss of MARCO-LECs, and depletion of FDCs, impairs germinal center function and B cell education. This defective microenvironment likely contributes to inadequate affinity maturation, as reflected by diminished somatic hypermutation and a more autoreactive B cell repertoire in adults with Down syndrome.",
+  "arxiv_id": null,
+  "authors": [
+    "Ramba, M.",
+    "Buta Panov, S.",
+    "Randolph, H. E.",
+    "Stewart, O.",
+    "Abbad, A.",
+    "Ku, A.",
+    "Brody, R.",
+    "Lee, G. H.",
+    "Krammer, F.",
+    "Bogunovic, D."
+  ],
+  "categories": [
+    "allergy and immunology"
+  ],
+  "doi": "10.64898/2026.11.11.26367301",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.medrxiv.org/content/early/2026/11/11/2026.11.11.26367301.source.xml"
+  },
+  "hook": "Lymph nodes in Down syndrome have few germinal centers, which may skew B cells toward autoreactivity.",
+  "hook_turn": "which may skew B cells toward autoreactivity.",
+  "id": "doi-10.64898-2026.11.11.26367301",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "medrxiv",
+  "status": "preprint",
+  "summary": "Down syndrome brings both autoimmunity and weak immunity, and this study points to lymph node structure as a cause. Infant lymph nodes had far fewer germinal centers and fewer supporting stromal cells, and adult memory B cells showed less somatic hypermutation and more use of an autoreactivity-linked gene. The samples appear small and the causal chain is inferred from associations.",
+  "tags": [
+    "down syndrome",
+    "immunology",
+    "b cells"
+  ],
+  "title": "Dysregulated B Cell Education Drives Autoimmunity and Immunodeficiency in Down Syndrome",
+  "url": "https://doi.org/10.64898/2026.11.11.26367301",
+  "venue": "medRxiv"
+}

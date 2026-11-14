@@ -1,0 +1,42 @@
+{
+  "abstract": "A cornerstone result in Boolean lattice theory is the subset-zeta transform, which computes the $f$-weighted subset summation problem $(Z f)(B)=\\sum_{A\\subseteq B}f(A)$ for all $ B\\subseteq[n]$ in $O(N \\log N)$ additions instead of the na\\\"ive $O(3^n) = O(N^{\\log_2 3})$, where $N=2^n$. This paper studies the algebraic analogue of this problem--the subspace summation problem--where subsets are replaced by linear subspaces in $\\mathbb{F}_q^n$. Surprisingly, we show that this problem admits a similar $\\Theta_q(N_q \\log N_q)$-time algorithm, where $N_q$ is the number of subspaces. This improves substantially (in both theory and practice) over lattice-based algorithms ([BHK+16, KKW16]), which are known to be optimal for addition-only algorithms over $\\mathbb R$. We prove similar runtimes for inversion, rank-constrained sums and span convolution. We describe two main applications: Fast linear algebra on Grassmann graphs: Matrix--vector multiplication for arbitrary distance-invariant kernels on $N$-vertex Grassmann graphs in $O_q(N\\log N)$ arithmetic operations, together with fast spectral projections and exact solutions of the corresponding linear systems. Graph coloring of low binary cut-rank graphs: An $n^{2^{r^2/4+O(1)}}$-time algorithm for computing the chromatic number and chromatic polynomial of an $n$-vertex graph, given a rank-decomposition of width $r$. We also give quantitative reductions from satisfiability and monotone constraint problems. Experiments show speedups in measured running time of up to $18$ over the covering-pair algorithm for the zeta transform, $190$ over Poisson summation for rank-constrained sums, and $22$ over the distance-matrix recurrence for Grassmann kernel multiplication. Lean 4 formalizations of the transform identities, arithmetic operation bounds, and graph-coloring constructions accompany the paper [PW26].",
+  "arxiv_id": "2611.13134",
+  "authors": [
+    "Shlomo A. Perles",
+    "Omri Weinstein"
+  ],
+  "categories": [
+    "cs.DS",
+    "cs.CC"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13134"
+  },
+  "hook": "Summing over all subspaces of a vector space takes N log N steps, like the classic subset case.",
+  "hook_turn": "like the classic subset case.",
+  "id": "arxiv-2611.13134",
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Max speedup, rank-constrained sums",
+    "unit": "times faster",
+    "value": "190"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors give an algorithm for subspace summation that runs in time proportional to N log N, where N is the number of subspaces, beating lattice-based methods. It speeds up arithmetic on Grassmann graphs and gives a faster chromatic number algorithm for graphs of low cut-rank. Reported speedups come from the authors' own experiments, and the graph-coloring runtime is still steeply exponential in the rank width.",
+  "tags": [
+    "algorithms",
+    "linear algebra"
+  ],
+  "title": "A Fast Algorithm for Subspace Convolution",
+  "url": "https://arxiv.org/abs/2611.13134",
+  "venue": "arXiv"
+}

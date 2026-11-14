@@ -1,0 +1,51 @@
+{
+  "abstract": "Atomically dispersed catalysts (ADCs) offer maximal metal utilization and local atomic/electronic structures, yet resolving their actual atomic configurations using aberration-corrected scanning transmission electron microscopy (AC-STEM) remains fundamentally constrained by depth ambiguity and complex experimental noise. Existing STEM–machine learning (ML) approaches often rely on ideal simulations or manual annotations, limiting their transferability to realistic ADC images and causing ambiguity between isolated atoms, projected dimers, and small clusters. Here, we develop a physics-informed, domain-adaptive CycleGAN-UNet framework for depth-aware ADC analysis. CycleGAN translates height-labeled simulations into experimental-like images while preserving atomic coordinates and apparent Z-height labels, and a depth-supervised UNet performs simultaneous atom localization and discrete Z-height classification. Support-specific simulations further incorporate support-dependent background contrast, including uniform amorphous carbon (am-C), am-C with local thickness variation, and crystalline supports, thereby improving the applicability of the framework to different ADC imaging conditions. Across diverse metals (Mn, Fe, Cu, Pd, and Pt) and supports (am-C, black phosphorus, and polymeric carbon nitride), the framework achieves high atom detection precision (∼95%) and reliable apparent Z-height classification at ∼2-nanometer binning. By encoding depth-dependent beam broadening features, the framework converts conventional 2D projections into quantitative, apparent Z-height atomic maps. In geminal Pt/PCN catalysts, it resolves the loading-dependent transition from isolated Pt monomers to Pt 2 sites and links these configurations to dehydrogenative aromatization activity. This framework transforms STEM images from projected atom maps into quantitative, depth-aware atomic descriptors for ADC structure–activity analysis.",
+  "arxiv_id": null,
+  "authors": [
+    "Xiaocang Han",
+    "Yuan Meng",
+    "Qilong Cai",
+    "Yanhui Hong",
+    "Zanlin Qiu",
+    "Weiwei Hu",
+    "Shu Miao",
+    "Kangshu Li",
+    "Jun Zhao",
+    "Fanqi Meng",
+    "Xiao Hai",
+    "Zezhong Zhang",
+    "Jiong Lu",
+    "Jin Zhang",
+    "Xiaoxu Zhao"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aef7673",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A trained model maps atom heights in single-atom catalyst images with about 95% detection precision.",
+  "id": "doi-10.1126-sciadv.aef7673",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Atom detection precision",
+    "unit": "%",
+    "value": "~95"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "A CycleGAN turns simulated microscope images into realistic ones, and a UNet trained on them finds atoms and sorts them by apparent height in STEM images. It worked across five metals and three supports, and separated isolated Pt atoms from Pt2 pairs in a catalyst, linking them to activity. Heights are apparent values in about 2 nm bins, not exact depths.",
+  "tags": [
+    "electron microscopy",
+    "single-atom catalysts"
+  ],
+  "title": "Deep learning–assisted electron microscopy for apparent Z-height mapping of atomically dispersed catalysts",
+  "url": "https://doi.org/10.1126/sciadv.aef7673",
+  "venue": "Science Advances"
+}

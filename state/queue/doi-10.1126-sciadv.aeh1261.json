@@ -1,0 +1,40 @@
+{
+  "abstract": "For several years, forensic toxicologists have sought biomarkers to extend the detection window of gamma-hydroxybutyric acid (GHB), a drug suspected to be involved in drug-facilitated sexual assaults yet difficult to detect due to its rapid elimination, endogenous presence, and postsampling formation. In this study, we used samples from 30 participants in a double-blind, controlled trial, randomized to placebo or a single oral dose (50 milligrams per kilogram) of sodium oxybate, a GHB salt. We collected whole blood and urine samples over 5 days and used untargeted metabolomics to search for biomarkers. The most promising feature, previously suggested as a GHB-pentose, was identified as GHB-β-ribose by chemical synthesis and liquid chromatography–tandem mass spectrometry. Quantification showed elevated levels of GHB-β-ribose for up to 48 in blood and 24 hours in urine after GHB intake compared with endogenous levels in the placebo group and authentic forensic cases. Thus, we present GHB-β-ribose as a very promising biomarker for GHB intake, with the potential to extend the detection window for GHB.",
+  "arxiv_id": null,
+  "authors": [
+    "Kathrine Bohn Faldborg",
+    "Jørgen Bo Hasselstrøm",
+    "Lambert Kristiansen Sørensen",
+    "Camilla Bak Nielsen",
+    "Søren Lau Borcher Møller",
+    "Thomas B. Poulsen",
+    "Mogens Johannsen",
+    "Charlotte Uggerhøj Andersen",
+    "Kirstine Lykke Nielsen"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aeh1261",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "GHB-β-ribose stays elevated up to 48 hours in blood after a GHB dose, a candidate drug-test marker.",
+  "id": "doi-10.1126-sciadv.aeh1261",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "In a double-blind trial of 30 people given placebo or sodium oxybate, untargeted metabolomics found a GHB metabolite, confirmed by synthesis as GHB-β-ribose. It stayed above endogenous levels for up to 48 hours in blood and 24 hours in urine. The sample is small and single-dose, so reliability across doses and real forensic cases needs more testing.",
+  "tags": [
+    "forensic toxicology",
+    "biomarkers"
+  ],
+  "title": "Identification of gamma-hydroxybutyrate (GHB)–β-ribose as a promising biomarker enabling prolonged detection of GHB intake",
+  "url": "https://doi.org/10.1126/sciadv.aeh1261",
+  "venue": "Science Advances"
+}

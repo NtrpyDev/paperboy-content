@@ -1,0 +1,36 @@
+{
+  "abstract": "Miller and Piccirillo demonstrated the existence of non-concordant knots that share the same 0-trace. In this short note, we generalize their result by showing that every smooth concordance class contains a knot K such that, for every nonzero integer n, there exists a knot $K_n$ whose n-trace is orientation-preservingly diffeomorphic to that of K, but for which $p[K_n] \\ne p[K]$ in the topological concordance group for every positive integer p. Furthermore, $p[K_n]$ is distinct from $p[K']$ for any knot K' obtained from K by mirroring and/or reversing its orientation.",
+  "arxiv_id": "2611.15340",
+  "authors": [
+    "Marc Kegel",
+    "Kimihiko Motegi"
+  ],
+  "categories": [
+    "math.GT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15340"
+  },
+  "hook": "Knots with identical 4-dimensional traces can still be different in the concordance group.",
+  "hook_turn": "can still be different in the concordance group.",
+  "id": "arxiv-2611.15340",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The note extends Miller and Piccirillo's result: every smooth concordance class holds a knot K whose n-trace matches that of another knot K_n, yet multiples of their classes differ in the topological concordance group. This holds for every nonzero n. It is an existence result, so it gives no recipe for finding the knots in a given class.",
+  "tags": [
+    "knot theory",
+    "low-dimensional topology"
+  ],
+  "title": "Non-concordant knots with the same trace",
+  "url": "https://arxiv.org/abs/2611.15340",
+  "venue": "arXiv"
+}

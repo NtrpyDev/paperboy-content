@@ -1,0 +1,42 @@
+{
+  "abstract": "Violet phosphorus (VP), the thermodynamically most stable allotrope among crystalline red phosphorus phases, remains challenging to synthesize due to its sluggish growth kinetics. Here we report a tellurium (Te)-assisted rapid solid-phase thermal transformation approach that yields pure, homogeneous VP powder within 7.8 hours (including 3 hours of holding at 500°C), and develop a pressure-gradient transport (PGT) method that indirectly measures the vapor pressure in the Te-assisted system. We further proposed a complete evolutionary model for crystalline red phosphorus growth starting from amorphous red phosphorus and proceeding through transition-state molecular clusters to the final VP or fibrous phosphorus products. This model reveals that Te lowers the high kinetic barrier of VP formation by reshaping the transition-state energy landscape, rendering VP both the kinetic and thermodynamic product. This work resolves the long-standing kinetic bottleneck in VP growth and offers mechanistic insight into the polymorphic synthesis of elemental phosphorus crystals.",
+  "arxiv_id": null,
+  "authors": [
+    "Xinze Liu",
+    "Wujia Chen",
+    "Xinyu Qi",
+    "Qiang Li",
+    "Qingfeng Yan"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aek3602",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Tellurium cuts violet phosphorus synthesis to 7.8 hours by lowering the growth barrier.",
+  "hook_turn": "lowering the growth barrier.",
+  "id": "doi-10.1126-sciadv.aek3602",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Time to make pure violet phosphorus powder",
+    "unit": "hours",
+    "value": "7.8"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Adding tellurium speeds up making violet phosphorus, a stable form of red phosphorus that normally forms very slowly. The team heated amorphous red phosphorus with tellurium, measured vapor pressure with a new transport method, and built a growth model in which tellurium lowers the energy barrier. The work covers powder synthesis only, and the model is inferred from indirect measurements.",
+  "tags": [
+    "phosphorus",
+    "materials synthesis"
+  ],
+  "title": "Tellurium-assisted rapid synthesis of violet phosphorus via solid-phase thermal transformation",
+  "url": "https://doi.org/10.1126/sciadv.aek3602",
+  "venue": "Science Advances"
+}

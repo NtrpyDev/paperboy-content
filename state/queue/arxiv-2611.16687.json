@@ -1,0 +1,43 @@
+{
+  "abstract": "We investigate the incidence and physical nature of satellite galaxy pairs in the Local Group using updated observational data for the Milky Way (MW) and Andromeda (M31), together with analogues from the HESTIA constrained cosmological simulations. Our comparison uses three distinct simulated Local Group analogues drawn from the HESTIA suite, allowing us to assess the observed pair statistics against multiple cosmological realisations of the Local Group environment. We identify close nearest-neighbour associations by comparing the observed satellite distributions with isotropic populations that reproduce the radial distributions of each host, and investigate their physical nature using line-of-sight velocities, proper motions, and gravitational binding estimates. We find that the MW exhibits a significant excess of close satellite associations relative to isotropic expectations, with a pairing efficiency of $\\sim53\\%$, nearly twice that found in the simulated analogues ($\\sim17$-$27\\%$). This excess persists after applying a stellar mass cut ($M_\\star > 10^4\\,\\mathrm{M}_\\odot$) to match the resolution limits of the simulations. In contrast, the M31 satellite system is broadly consistent with isotropy, with a pairing efficiency of $\\sim28\\%$. However, only a minority of pair candidates exhibit coherent kinematics or are likely to be gravitationally bound, indicating that most represent transient alignments or remnants of common group infall rather than long-lived binary satellites. These results suggest that the MW hosts an unusually rich population of phase-space-correlated satellites, likely reflecting its recent accretion history, whereas M31 is more consistent with typical $\\Lambda$CDM expectations.",
+  "arxiv_id": "2611.16687",
+  "authors": [
+    "Mariana P. J\\'ulio",
+    "Marcel S. Pawlowski",
+    "Noam I. Libeskind"
+  ],
+  "categories": [
+    "astro-ph.GA",
+    "astro-ph.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16687"
+  },
+  "hook": "The Milky Way has twice the close satellite pairs of simulated Local Groups, but most are not bound.",
+  "hook_turn": "but most are not bound.",
+  "id": "arxiv-2611.16687",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Milky Way satellite pairing efficiency",
+    "unit": "percent",
+    "value": "~53"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Comparing observed Milky Way and Andromeda satellites with isotropic populations and three HESTIA simulated Local Groups, the authors find the Milky Way has an excess of close pairs, while Andromeda looks typical. Velocities and binding estimates suggest most pairs are transient alignments or common infall remnants. Only three simulated analogues were used, so the simulation statistics are limited.",
+  "tags": [
+    "Local Group",
+    "satellite galaxies"
+  ],
+  "title": "Satellite pairs in the Local Group: from spatial clustering to dynamical associations in observations and $\\Lambda$CDM simulations",
+  "url": "https://arxiv.org/abs/2611.16687",
+  "venue": "arXiv"
+}

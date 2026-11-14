@@ -1,0 +1,45 @@
+{
+  "abstract": "As a major cause of morbidity in systemic lupus erythematosus (SLE), the prognosis of lupus nephritis (LN) critically depends on early detection and timely intervention. However, current diagnostic approaches remain suboptimal: renal biopsy is invasive and unsuitable for longitudinal monitoring, while conventional urine tests lack sensitivity for early-stage disease. Here, we report a molecular imaging strategy designed to target the pathogenic DNA–anti-dsDNA antibody axis for non-invasive detection of LN. We engineered a gallium-68-labeled single-stranded DNA (ssDNA) probe ([ 68 Ga]Ga-NOTA-ssDNA) and evaluated its diagnostic performance and biosafety in the spontaneous MRL/lpr lupus mouse model. The probe showed disease-associated and sustained renal accumulation in 16-week-old diseased MRL/lpr mice, with progressively increasing kidney-to-background contrast. More importantly, [ 68 Ga]Ga-NOTA-ssDNA enabled detection of renal immune complex deposition as early as 10 weeks of age, preceding abnormalities in conventional renal function markers and positive findings in renal histology by approximately two weeks. Mechanistically, the ssDNA backbone demonstrated favorable biocompatibility, without exacerbating autoimmune phenotypes or inducing Toll-like receptor-mediated signaling pathways. In conclusion, this study establishes a robust proof-of-concept for pathology-targeted PET/CT imaging of immune complex deposition. By directly visualizing the disease-driving renal autoantibody deposition at the preclinical stage, prior to overt organ damage, this strategy shifts LN diagnosis to non-invasive, mechanism-based molecular visualization.",
+  "arxiv_id": null,
+  "authors": [
+    "Zhiwen Huang",
+    "Wenbo Li",
+    "Meijiang Zhou",
+    "Zhidie Huang",
+    "Yingying Wei",
+    "Zhangyi Yin",
+    "Chenxi Yang",
+    "Zijun Ma",
+    "Min Shen",
+    "Quan Gong",
+    "Zachary Braunstein",
+    "Xiaoquan Rao",
+    "Dawei Jiang",
+    "Jixin Zhong"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aei3589",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A gallium-68 DNA probe flagged lupus kidney damage in mice about two weeks before biopsy did.",
+  "id": "doi-10.1126-sciadv.aei3589",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "A radiolabeled single-stranded DNA probe binds immune complexes in the kidney and shows up on PET/CT. In lupus-prone mice it detected deposition at 10 weeks, ahead of standard kidney markers and histology. It also looked biocompatible. Results are from one mouse model, so human performance is untested.",
+  "tags": [
+    "lupus nephritis",
+    "PET imaging"
+  ],
+  "title": "Pathology-targeted PET/CT imaging of early lupus nephritis via a 68 Ga-labeled single-stranded DNA probe",
+  "url": "https://doi.org/10.1126/sciadv.aei3589",
+  "venue": "Science Advances"
+}

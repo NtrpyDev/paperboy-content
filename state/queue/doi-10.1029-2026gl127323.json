@@ -1,0 +1,34 @@
+{
+  "abstract": "Abstract Tropical cyclones (TCs) typically weaken before landfall after reaching peak intensity over the open ocean. Here we show that this behavior has changed markedly in recent decades. Using global best‐track and reanalysis data sets from 1980 to 2023, we find a significant increase in TCs that intensify within 24 hr of landfall and attain peak intensity at or near the continental coast. Both the frequency and proportion of these events have nearly doubled, with trends concentrated in nearshore regions. This shift is linked to a reorganization of the TC life cycle, characterized by a continentalward migration of TC genesis and increasingly favorable thermodynamic conditions along coastal margins. Climate model simulations indicate that these environmental changes are consistent with anthropogenic warming. The increasing alignment of peak intensity with landfall represents an emerging regime that systematically elevates coastal hazard.",
+  "arxiv_id": null,
+  "authors": [
+    "Yuxia Fu",
+    "Qiaoyan Wu"
+  ],
+  "categories": [],
+  "doi": "10.1029/2026gl127323",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "More tropical cyclones now peak right at landfall, and such events have nearly doubled.",
+  "hook_turn": "and such events have nearly doubled.",
+  "id": "doi-10.1029-2026gl127323",
+  "license": "cc-by-nc",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Global storm records from 1980 to 2023 show a growing share of tropical cyclones that intensify within 24 hours of landfall and peak at the coast. Storms are forming closer to land under warmer coastal conditions, and climate simulations are consistent with human-caused warming. Best-track data quality has changed over the decades, which could affect trends.",
+  "tags": [
+    "tropical cyclones",
+    "climate change"
+  ],
+  "title": "Tropical Cyclones Increasingly Reach Peak Intensity Near Continental Landfall",
+  "url": "https://doi.org/10.1029/2026gl127323",
+  "venue": "Geophysical Research Letters"
+}

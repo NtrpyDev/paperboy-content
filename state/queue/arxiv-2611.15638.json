@@ -1,0 +1,44 @@
+{
+  "abstract": "Endoscopic submucosal dissection (ESD) is a minimally invasive approach for removing large polyps from the colon and offers many benefits compared to other surgical approaches. However, ESD is technically very challenging to perform, leading to limited adoption by physicians. We propose the Helping Hand, a two-segment continuum robotic grasper that, together with an electrosurgical knife, enables tissue traction and cutting within a single 3.7 mm working channel. We achieve this functionality by creating a slot at the base of the Helping Hand that lets the electrosurgical knife extend out, enabling countertraction and cutting through one instrument lumen. We evaluate the Helping Hand's workspace and its ability to provide traction forces from different starting configurations. Finally, we demonstrate the full workflow by isolating and removing tissue in an ex vivo chicken thigh, illustrating the potential for the Helping Hand to help improve ESD procedures.",
+  "arxiv_id": "2611.15638",
+  "authors": [
+    "Bendavid Maimon",
+    "Thompson Wong",
+    "Aedan Mangan",
+    "Sukjun Kim",
+    "Michael C. Yip",
+    "Tania K. Morimoto"
+  ],
+  "categories": [
+    "cs.RO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15638"
+  },
+  "hook": "A 3.7 mm robotic grasper pulls and cuts tissue through one endoscope channel, tested on chicken thigh.",
+  "id": "arxiv-2611.15638",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Single working channel diameter",
+    "unit": "mm",
+    "value": "3.7"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The Helping Hand is a two-segment flexible grasper with a slot that lets an electrosurgical knife pass through the same lumen, so one channel can both hold tissue under tension and cut it. The authors measured its reach and traction forces, then removed tissue in an ex vivo chicken thigh. It has not been tested in living tissue or real colon polyps.",
+  "tags": [
+    "surgical robots",
+    "endoscopy"
+  ],
+  "title": "Helping Hand: A Continuum Robotic Grasper for Traction in Single-Channel Endoscopic Submucosal Dissection",
+  "url": "https://arxiv.org/abs/2611.15638",
+  "venue": "arXiv"
+}

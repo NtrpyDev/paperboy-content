@@ -1,0 +1,41 @@
+{
+  "abstract": "Hephaestin (Heph) is a membrane-bound ferroxidase that oxidizes ferrous ion (Fe2+) exported by ferroportin (Fpn) to ferric ion (Fe3+), enabling iron loading onto transferrin for systemic delivery. Loss-of-function mutations in Heph cause iron accumulation in intestinal enterocytes and systemic iron deficiency in animal models, underscoring its role in iron export. Heph has a large extracellular domain anchored to the cell membrane by a single transmembrane helix. However, full-length Heph has not previously been purified, and our understanding of its structure and function remains incomplete. Here, we report the expression and purification of functional fulllength human Heph and determination of its structure by cryo-electron microscopy at an overall resolution of approximately 2.3 [A]. The structure reveals a stable homodimer with well-resolved extracellular domains. Although the transmembrane helices are less well resolved, their positions can be defined. The substrate-binding site is connected to an electronegative funnel that may facilitate Fe2+ capture. These findings establish the structural organization of full-length human Heph and provide structural constraints for understanding its interaction with Fpn.",
+  "arxiv_id": null,
+  "authors": [
+    "Liang, C.",
+    "Zhou, M.",
+    "Pan, Y."
+  ],
+  "categories": [
+    "biochemistry"
+  ],
+  "doi": "10.64898/2026.11.09.765449",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/12/2026.11.09.765449.source.xml"
+  },
+  "hook": "Full-length human hephaestin, an iron-processing enzyme, is a membrane-anchored dimer seen at 2.3 angstroms.",
+  "id": "doi-10.64898-2026.11.09.765449",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Cryo-EM resolution, human hephaestin",
+    "unit": "angstroms",
+    "value": "2.3"
+  },
+  "significance": 5,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "The enzyme that oxidizes iron after it leaves gut cells had never been purified whole. The authors purified the functional human protein and solved its cryo-EM structure, finding a dimer with a funnel that may help capture iron. Limit: the membrane-spanning helices are poorly resolved, and the link to the iron exporter is inferred.",
+  "tags": [
+    "cryo-EM",
+    "iron metabolism"
+  ],
+  "title": "Structure of human hephaestin reveals a homodimer anchored to the cell membrane",
+  "url": "https://doi.org/10.64898/2026.11.09.765449",
+  "venue": "bioRxiv"
+}

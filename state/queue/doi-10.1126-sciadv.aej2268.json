@@ -1,0 +1,48 @@
+{
+  "abstract": "Multiple clinically relevant inborn errors of metabolism occur in lysine degradation, yet the regulation of this biochemical pathway remains poorly understood. The initial rate-limiting step of lysine catabolism is catalyzed by the bifunctional enzyme 2-aminoadipic semialdehyde synthase (AASS). Here, we report the cryo-EM structure of the full-length 400-kilodalton tetrameric AASS enzyme complex with substrates and products bound to both the lysine-2-oxoglutarate (LOR) and saccharopine dehydrogenase (SDH) catalytic domains. We also identified allosteric compounds that modulate the activity of AASS by reacting with cysteine-414 and shifting the pH optimum for biochemical activity. The mutagenesis of this allosteric Cys 414 has marked effects on the enzyme’s conformation and activity despite being more than 12 angstrom from the active site. We find that small changes near the hinge of an enzyme can have large effects on its catalytic properties. Last, targeting allosteric cysteines may be a general strategy for modulating enzyme activity by altering the dynamics of the enzyme.",
+  "arxiv_id": null,
+  "authors": [
+    "Ruoxi Wu",
+    "Susmita Khamrui",
+    "Tetyana Dodatko",
+    "Yufei Xiang",
+    "Afrooz Golestanian",
+    "Ngoc Dung Pham",
+    "Kunal Kumar",
+    "Yi Shi",
+    "Roman Osman",
+    "Robert J. DeVita",
+    "Sander M. Houten",
+    "Michael B. Lazarus"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aej2268",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Structure of the lysine-breaking enzyme AASS shows a distant cysteine can tune its activity.",
+  "id": "doi-10.1126-sciadv.aej2268",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Size of the AASS tetramer complex",
+    "unit": "kilodaltons",
+    "value": "400"
+  },
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Cryo-EM resolved the full-length human AASS tetramer with substrates and products bound in both catalytic domains. Compounds that react with cysteine-414, over 12 angstroms from the active site, shift the pH optimum, and mutating it changes the enzyme's shape and activity. The claim that allosteric cysteines are a general drug strategy goes beyond this one enzyme.",
+  "tags": [
+    "enzyme structure",
+    "metabolism"
+  ],
+  "title": "Structural and biochemical insight into allosteric regulation of the human 2-aminoadipic semialdehyde synthase",
+  "url": "https://doi.org/10.1126/sciadv.aej2268",
+  "venue": "Science Advances"
+}

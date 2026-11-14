@@ -1,0 +1,35 @@
+{
+  "abstract": "Abstract Sea level in the tropical Southwest Indian Ocean has risen rapidly during the Argo era, yet whether its mid‐depth halosteric component reflects along‐isopycnal change or isopycnal displacement remains unresolved. Using gridded Argo data for 2004–2023, we decompose steric sea level into thermosteric and halosteric components and partition temperature and salinity trends into heave (isopycnal displacement) and spice (along‐isopycnal change). Thermosteric expansion is comparable between the upper 300 m and the mid‐depth layer, 300–2,000 m (0.95 ± 0.72 and 1.08 ± 0.17 cm decade −1 ), though the upper‐layer estimate is less certain. Depth‐integrated halosteric contraction is larger at mid‐depth (−0.20 ± 0.13 and −0.63 ± 0.07 cm decade −1 ), compensating 58 ± 10% of mid‐depth thermosteric expansion. The mid‐depth salinity trend is overwhelmingly spice‐driven (3:97), so the compensation is primarily along‐isopycnal; the temperature partition (25:75) is weakly constrained. This is consistent with, but does not establish, salinification within the Indian‐sector AAIW‐influenced density range.",
+  "arxiv_id": null,
+  "authors": [
+    "JongHun Han",
+    "SungHyun Nam",
+    "Hanna Na"
+  ],
+  "categories": [],
+  "doi": "10.1029/2026gl125148",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "In the Indian Ocean, saltier mid-depth water offsets over half of the sea level rise from warming.",
+  "hook_turn": "saltier mid-depth water offsets over half of the sea level rise from warming.",
+  "id": "doi-10.1029-2026gl125148",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Argo float data from 2004 to 2023 show that salinity changes in the tropical Southwest Indian Ocean offset about 58% of the thermal expansion at 300 to 2,000 m. The authors split the trends into water-layer shifts and changes within a density layer, and found the salinity effect is nearly all the latter. The temperature split is weakly constrained, and the authors say salinification is not established.",
+  "tags": [
+    "sea level",
+    "Indian Ocean"
+  ],
+  "title": "Intermediate Water Salinification Counteracts Thermosteric Sea‐Level Rise in the Tropical Southwest Indian Ocean",
+  "url": "https://doi.org/10.1029/2026gl125148",
+  "venue": "Geophysical Research Letters"
+}

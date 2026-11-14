@@ -1,0 +1,49 @@
+{
+  "abstract": "Abstract Epithelial stratification, the transition from a monolayer to a multilayer structure, occurs across a wide range of phenomena. Recent studies have identified several cell behaviors as triggers, including junctional tension, cell density and geometry, and topological defects. However, how these factors drive stratification throughout the entire epithelium remains poorly understood. Here, we show that epithelial stratification proceeds through a nucleation-and-growth mechanism. Combining cell culture with three-dimensional vertex modeling, we demonstrate that multilayer origins emerge in a dispersed manner and expand across the epithelium through disordered intermediate states. This transition is induced by a mechanical instability inherent in the foam-like geometry of the epithelium. Moreover, the nucleation-growth concept applies to embryonic skin development and intestinal cancer transformation. These findings conceptualize epithelial stratification as a form of structural transition governed by foam mechanics, offering a physical perspective on various epithelial developments.",
+  "arxiv_id": null,
+  "authors": [
+    "Shuya Fukamachi",
+    "Razib Datta",
+    "Duligengaowa Wuergezhen",
+    "Takehiko Ichikawa",
+    "Rei Yagasaki",
+    "Phoebe Leeaw",
+    "Makiko Arai",
+    "Aki Teranishi",
+    "Shuhei A. Horiguchi",
+    "Kohei Omachi",
+    "Aiko Sada",
+    "Itaru Imayoshi",
+    "Kentaro Kajiwara",
+    "Tetsuya Hiraiwa",
+    "Masanobu Oshima",
+    "Takeshi Fukuma",
+    "Hironobu Fujiwara",
+    "Satoru Okuda"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-78964-1",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Cell sheets form extra layers by nucleation and growth, like crystals, driven by foam-like instability",
+  "id": "doi-10.1038-s41467-026-78964-1",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Cultured cells and a 3D vertex model show new layers start at scattered spots and spread through disordered intermediate states. A mechanical instability of the foam-like cell geometry triggers it. The idea is also applied to embryonic skin and intestinal cancer, though those tests are less detailed than the culture work.",
+  "tags": [
+    "epithelium",
+    "tissue mechanics"
+  ],
+  "title": "Epithelium stratifies via nucleation and growth induced by foam-geometric instability",
+  "url": "https://doi.org/10.1038/s41467-026-78964-1",
+  "venue": "Nature Communications"
+}

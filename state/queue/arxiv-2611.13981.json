@@ -1,0 +1,40 @@
+{
+  "abstract": "Summers and Werner proved that Bell inequalities are violated maximally and generically in the vacuum of a relativistic quantum field theory in [S. J. Summers and R. Werner, Commun. Math. Phys. 110 (1987), 247-259]. Their criterion concerns two-party case, that is, there are two algebras of quantum observables: one algebra and its commutant. In this case, the maximal CHSH value is converged to in every normal state exactly when the algebra is strongly stable. In the paper, we study the corresponding question for three and more mutually commuting von Neumann algebras. We focus on the multipartite Mermin inequalities instead of CHSH ones. For the tripartite Mermin functional we show that maximal violation in every normal state is equivalent to the existence of a common sequence of asymptotic GHZ stabilizers. Strong stability of each local factor is an necessary condition for maximal violation, and a joint embedding of an infinite GHZ tensor product is sufficient. Counterexamples show that strong stability and type III_1 of the individual algebras, even together with tripartite duality, do not suffice to arrive at the maximal violation. The results are also extended to n>=3 parties.",
+  "arxiv_id": "2611.13981",
+  "authors": [
+    "Kan He",
+    "Jinchuan Hou",
+    "Shuyuan Yang",
+    "Bingke Zheng"
+  ],
+  "categories": [
+    "quant-ph",
+    "math-ph",
+    "math.MP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13981"
+  },
+  "hook": "Maximal Mermin-inequality violation in quantum field vacua requires shared GHZ-like structure.",
+  "hook_turn": "requires shared GHZ-like structure.",
+  "id": "arxiv-2611.13981",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Extending a 1987 result on two-party Bell violations, the authors study three or more commuting operator algebras and the Mermin inequality. They prove maximal violation in every state is equivalent to a common sequence of asymptotic GHZ stabilizers, and show counterexamples where stability alone fails. The results are abstract operator-algebra theorems, with no specific physical field theory shown to meet them.",
+  "tags": [
+    "quantum field theory",
+    "entanglement"
+  ],
+  "title": "Maximal Violation of Mermin Inequality for Commuting von Neumann Algebras and Multipartite Vacuum Entanglement in QFT",
+  "url": "https://arxiv.org/abs/2611.13981",
+  "venue": "arXiv"
+}

@@ -1,0 +1,34 @@
+{
+  "abstract": "Let $A$ be nonzero in the cohomology ring of a smooth projective toric variety $X$. In this note, we observe the existence of a nonzero Gromov-Witten invariant of the form $\\langle A, A, \\ldots\\rangle_{0, n,\\beta}^X$ as a consequence of Iritani's work on the big quantum cohomology ring of $X$. This implies Koll\\'ar's conjecture on the symplectic deformation invariance of rational connectedness in the case where $X$ is toric. If $X$ is moreover Fano and $B$ is also nonzero in the cohomology ring, we prove the existence of a nonzero Gromov-Witten invariant of the form $\\langle A,B,*\\rangle_{0,3,\\beta}^X$ using Batyrev's presentation of the small quantum cohomology ring of $X$. We conclude with a few consequences of this nonvanishing result.",
+  "arxiv_id": "2611.13422",
+  "authors": [
+    "Nathan Tausik"
+  ],
+  "categories": [
+    "math.AG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13422"
+  },
+  "hook": "Toric varieties always have a nonzero Gromov-Witten invariant, settling Kollar's conjecture for them.",
+  "id": "arxiv-2611.13422",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For smooth projective toric varieties, the author shows that any nonzero cohomology class appears in a nonzero Gromov-Witten invariant, using Iritani's work on quantum cohomology. This settles Kollar's conjecture on symplectic deformation invariance of rational connectedness for toric cases. It applies to toric varieties only.",
+  "tags": [
+    "algebraic geometry",
+    "gromov-witten"
+  ],
+  "title": "Gromov-Witten Nonvanishing and Symplectic Deformations of Toric Varieties",
+  "url": "https://arxiv.org/abs/2611.13422",
+  "venue": "arXiv"
+}

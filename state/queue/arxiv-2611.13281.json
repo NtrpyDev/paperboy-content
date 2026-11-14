@@ -1,0 +1,36 @@
+{
+  "abstract": "This note describes a new construction, found by ChatGPT Astra, of constant query Locally Correctable Codes (LCCs) over the real numbers. Prior constructions of constant query LCCs were exclusive to fields of positive characteristic and were conjectured not to exist over the reals. The construction uses low degree polynomial evaluations over an integer grid, together with a novel sampling procedure which outputs, for a given grid point $P$, a random quadratic curve through $P$ which intersects the grid in many other points (the decoding queries). The sampler is `smooth' in the sense that no grid point is queried with high probability. These codes have the additional property that the queried locations (the curve/grid intersections) are all nearby grid points.",
+  "arxiv_id": "2611.13281",
+  "authors": [
+    "Zeev Dvir"
+  ],
+  "categories": [
+    "cs.CC",
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13281"
+  },
+  "hook": "An AI found constant-query locally correctable codes over the real numbers, which were thought not to exist.",
+  "hook_turn": "which were thought not to exist.",
+  "id": "arxiv-2611.13281",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 8,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Such codes were known only in positive characteristic fields and conjectured impossible over the reals. The construction evaluates low degree polynomials on an integer grid and decodes along random quadratic curves through a point that hit many other grid points. It is a short note, so the code parameters and wider implications remain to be worked out.",
+  "tags": [
+    "coding theory",
+    "AI-discovered math"
+  ],
+  "title": "Constant query LCCs over the reals",
+  "url": "https://arxiv.org/abs/2611.13281",
+  "venue": "arXiv"
+}

@@ -1,0 +1,48 @@
+{
+  "abstract": "Abstract Mechanophores provide an in situ and remote tool for quantifying invisible stress in polymers by photonic signals, offering distinct advantages for stress distribution analysis of large-area surfaces and instrument-free stress observation. However, achieving an ideal mechanophore that integrates with sensitive, reversible, and molecular-level stress sensing is attractive yet challenging. Here, we report practical guidance for developing ideal mechanophores that promote the molecular probe’s exciton transition for room-temperature phosphorescence (RTP) under stress, through the “assisted lowest triplet (T1) state” of the adjacent polymer chain. Systematic analyses of numerous organic probes reveal that a small energy gap (ΔEM < 0.4 eV) between the probe’s lowest singlet (S1) and the polymer’s T1 states is an empirical guideline for stress-enhanced RTP. The probe-doped polymer system demonstrates not only a remarkable increase in RTP intensity of over 2000-fold upon 160 MPa but also a low stress threshold of ∼2 MPa, which is robust under 0–10 MPa cyclic pressure loading/unloading over 500 cycles. Such RTP mechanophores enable noninvasive, reversible, and molecular-level stress detection in polymers. Their doped polymers have shown potential applications in various fields for real-time sensing of stress and its uneven distribution through visual afterglow.",
+  "arxiv_id": null,
+  "authors": [
+    "Jinzheng Chen",
+    "Yuhong Zhou",
+    "Yiling Miao",
+    "Guanbo Wang",
+    "Haiyan Zheng",
+    "Yi Zhang",
+    "Zhenguo Chi",
+    "Yongming Chen",
+    "Zhiyong Yang",
+    "Huahua Huang"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c13820",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A polymer additive glows over 2000 times brighter under stress, mapping force as afterglow.",
+  "hook_turn": "mapping force as afterglow.",
+  "id": "doi-10.1021-jacs.6c13820",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Phosphorescence increase at 160 MPa",
+    "unit": "fold",
+    "value": ">2000"
+  },
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Chemists tuned phosphorescent probes so squeezing a doped polymer makes it glow, guided by a small energy gap between probe and polymer states. The glow works from about 2 MPa and survived 500 pressure cycles. The design rule is empirical, drawn from a set of probes in lab samples.",
+  "tags": [
+    "mechanophores",
+    "phosphorescence",
+    "polymers"
+  ],
+  "title": "Molecular Mechanophores Based on Stress-Enhanced Exciton Transition between Phosphorescent Probes and Polymer Matrix",
+  "url": "https://doi.org/10.1021/jacs.6c13820",
+  "venue": "Journal of the American Chemical Society"
+}

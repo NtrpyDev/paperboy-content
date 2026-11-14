@@ -1,0 +1,37 @@
+{
+  "abstract": "Icosahedral quasicrystals (IQCs) are long-range ordered materials that lack translational periodicity. While they have only been observed in multi-component metallic systems, simulations have shown that one-component IQCs can robustly self-assemble using oscillatory potentials. However, their thermodynamic stability remains an open question. Here, we employ direct coexistence simulations to estimate the melting line of the competing solids for one such family of potentials. We find that the IQCs are never thermodynamically stable within the explored parameter space, being consistently outcompeted by periodic crystalline phases. This metastability is primarily driven by the higher internal energy of the IQC relative to the competing solids. Our findings suggest that the observed formation of these single-component IQCs in simulations is likely a kinetic phenomenon rather than a thermodynamic one.",
+  "arxiv_id": "2611.14921",
+  "authors": [
+    "Cosmin A. Dicu-Gohoreanu",
+    "Jonathan P. K. Doye",
+    "Eva G. Noya"
+  ],
+  "categories": [
+    "cond-mat.soft"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14921"
+  },
+  "hook": "Simulated one-component quasicrystals are never stable and likely form through kinetics",
+  "hook_turn": "likely form through kinetics",
+  "id": "arxiv-2611.14921",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Direct coexistence simulations of particles with oscillatory isotropic interactions show that icosahedral quasicrystals always lose to periodic crystals, mainly because their internal energy is higher. This suggests the quasicrystals seen forming in earlier simulations are kinetically trapped rather than thermodynamically favored. The result covers one family of model potentials and the parameter range explored.",
+  "tags": [
+    "quasicrystals",
+    "self-assembly"
+  ],
+  "title": "The metastability of icosahedral quasicrystals assembled from one-component systems with isotropic interactions",
+  "url": "https://arxiv.org/abs/2611.14921",
+  "venue": "arXiv"
+}

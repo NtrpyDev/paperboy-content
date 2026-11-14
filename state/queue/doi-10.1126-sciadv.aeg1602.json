@@ -1,0 +1,35 @@
+{
+  "abstract": "The oxygen (O) isotopic composition of outer solar system ices is believed to be enriched in heavy O isotopes owing to photochemical processes, but evidence for this O reservoir is exceedingly rare in meteorites. Hydrated interplanetary dust particles (IDPs) collected in Earth's stratosphere that display high densities of solar energetic particle tracks originate from Edgeworth-Kuiper belt objects. Their mineralogy is dominated by hydrated minerals that formed by alteration of anhydrous precursor minerals at low temperatures through reactions with water (H2O)-carbon dioxide fluids. The O isotopic compositions of track-rich hydrated IDPs implicate 17,18O-rich ices as the source of H2O involved in their alteration, providing compelling evidence for the presence of a major heavy water reservoir beyond the orbits of the gas giant planets that was largely isolated from inner solar system materials.",
+  "arxiv_id": null,
+  "authors": [
+    "Lindsay P Keller",
+    "Christopher J Snead",
+    "Ming-Chang Liu",
+    "Kevin D McKeegan"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aeg1602",
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Kuiper belt dust carries heavy-oxygen water, pointing to an isolated outer solar system reservoir.",
+  "id": "doi-10.1126-sciadv.aeg1602",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Hydrated interplanetary dust particles with many solar particle tracks, thought to come from Kuiper belt objects, were altered by water rich in oxygen-17 and oxygen-18. This suggests a large heavy-water reservoir beyond the giant planets. The conclusion rests on a small number of collected particles and their inferred origin.",
+  "tags": [
+    "solar system origins",
+    "cosmic dust"
+  ],
+  "title": "A primordial heavy water reservoir in the outer solar system.",
+  "url": "https://doi.org/10.1126/sciadv.aeg1602",
+  "venue": "Science Advances"
+}

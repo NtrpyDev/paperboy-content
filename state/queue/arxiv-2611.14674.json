@@ -1,0 +1,35 @@
+{
+  "abstract": "We prove that a $4$-polytope with ten vertices inscribed in the unit sphere $\\mathbb{S}^{3}$ has volume at most $\\frac{25}{384}(10 + 2\\sqrt{5})$, and that, up to orthogonal transformations, equality holds only for the convex hull of two regular pentagons inscribed in $\\mathbb{S}^{3}$ in orthogonal $2$-planes through the origin. As for six to nine vertices, the optimum is thus the convex hull of two regular polygons in orthogonal planes. On the combinatorial type of the pair, whose boundary complex is the join of two $5$-cycles, the sharp bound follows from our work on nine vertices. Since an optimal polytope is simplicial, by a result of Horv\\'ath and L\\'angi, it remains to exclude the other $162003$ simplicial types. We do this by sum-of-squares certificates checked in exact arithmetic, extended by nonnegative multiples of facet polynomials, which are positive on every positively oriented realisation of",
+  "arxiv_id": "2611.14674",
+  "authors": [
+    "Csaba Medgyes"
+  ],
+  "categories": [
+    "math.MG",
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14674"
+  },
+  "hook": "Proof: the largest 4D shape with ten corners on a sphere is two regular pentagons in orthogonal planes.",
+  "id": "arxiv-2611.14674",
+  "license": "cc-by-nc-sa",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Among 4-dimensional polytopes with ten vertices on the unit sphere, the maximum volume is attained by the convex hull of two regular pentagons in orthogonal planes, matching the pattern for six to nine vertices. The proof rules out 162,003 other simplicial types using sum-of-squares certificates checked in exact arithmetic. The abstract in the feed is cut off, so some proof details are not visible here.",
+  "tags": [
+    "polytopes",
+    "discrete geometry"
+  ],
+  "title": "The inscribed $4$-polytope of maximal volume with ten vertices",
+  "url": "https://arxiv.org/abs/2611.14674",
+  "venue": "arXiv"
+}

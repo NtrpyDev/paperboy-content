@@ -1,0 +1,36 @@
+{
+  "abstract": "We study the proximity between an optimal vertex of a standard form linear program with constraint matrix $A\\in\\mathbb{Z}^{m\\times n}$ and an optimal integer solution. When $m = 2$, we prove the sharp infinity-norm bound $\\Delta-1$, where $\\Delta$ is the largest absolute maximal minor of $A$. When $m = 1$, we express the difference between an optimal LP vertex and an optimal integer solution as a nonnegative combination of certain generators in the kernel of $A$ with a bounded coefficient sum. This implies sharp proximity bounds for all norms when $m=1$. Combining this representation with its known counterpart for Hilbert bases due to Sissokho, we develop techniques that transfer results from $m=1$ to $m=2$. Along the way, for $m=2$, we prove that such a representation exists for an extended Gomory group relaxation and obtain the sharp infinity-norm bound $\\Delta$ for Graver basis elements. We also present a new short proof of Sissokho's result and lower bounds on the proximity for all $m$ and $\\Delta$.",
+  "arxiv_id": "2611.14052",
+  "authors": [
+    "Stefan Kuhlmann",
+    "Luze Xu"
+  ],
+  "categories": [
+    "math.OC",
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14052"
+  },
+  "hook": "With two constraints, the best integer solution lies provably close to the linear-program optimum.",
+  "id": "arxiv-2611.14052",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove a tight bound of Delta minus 1 on how far an optimal integer solution can be from the optimal LP vertex when the matrix has two rows, and a sharper version for one row. They get there by writing the gap as a bounded combination of kernel vectors. The bounds apply only to programs with one or two rows.",
+  "tags": [
+    "integer programming",
+    "proximity bounds"
+  ],
+  "title": "Sharp Proximity Bounds for Integer Programs with Few Rows",
+  "url": "https://arxiv.org/abs/2611.14052",
+  "venue": "arXiv"
+}

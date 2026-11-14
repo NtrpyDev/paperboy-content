@@ -1,0 +1,46 @@
+{
+  "abstract": "Influenza A virus (IAV) populations are characterized by a high prevalence of non-infectious virions, with particle-to-plaque forming unit (PFU) ratios typically ranging from 10 to 1,000. While \"multiplicity reactivation\" -the process by which incomplete viral genomes (IVGs) establish productive infection through co-infection- has long been hypothesized, its quantitative nature has remained elusive. In this study, we utilized a digital influenza assay to achieve absolute quantification of IAV particles, allowing us to define the particle-based multiplicity of infection (pMOI) for precise evaluation. We combined this approach with a single-cell infection assay using microcompartmentalized containers and machine learning-based automated cell classification to accurately assess infection outcomes across a wide range of pMOIs. Our analysis of the A/Puerto Rico/8/1934 (H1N1) revealed a count-to-plaque forming unit (PFU) ratio of approximately 400, meaning only a tiny fraction of particles possesses infectivity. Remarkably, the infection rate in single-cell infection experiments followed a sigmoidal curve and reached saturation at a pMOI of only 5 to 10. This demonstrates that under high-pMOI conditions, productive infection is predominantly driven by genome complementation among incomplete particles rather than solely by fully infectious virions. On the other hand, mathematical model analysis based on these findings suggested that the functionality of each of the eight genomic segments within a virus particle follows a stochastic process, resulting in a probability distribution for the number of functional segments per particle. This mechanism proved exceptionally robust across multiple strains despite a 20-fold variation in CTPR values. Ultimately, these findings indicate that incomplete particles are not merely biological noise but active contributors to the infection process, significantly enhancing the infectivity and evolutionary flexibility of IAV. This study will provide a more refined understanding of influenza transmission dynamics and risk assessment, particularly in environments where multiple virus particles are present within a single respiratory droplet.",
+  "arxiv_id": null,
+  "authors": [
+    "Kawahara, Y.",
+    "Tamao, K.",
+    "Fujioka, Y.",
+    "Yamayoshi, S.",
+    "Ohba, Y.",
+    "Kawaoka, Y.",
+    "Noji, H.",
+    "Tabata, K. V."
+  ],
+  "categories": [
+    "microbiology"
+  ],
+  "doi": "10.64898/2026.11.11.765807",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/13/2026.11.11.765807.source.xml"
+  },
+  "hook": "Flu infection saturates at 5 to 10 particles per cell. Broken virions pool their genes.",
+  "hook_turn": "Broken virions pool their genes.",
+  "id": "doi-10.64898-2026.11.11.765807",
+  "license": "cc-by-nd",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Particle-to-PFU ratio, PR8 H1N1",
+    "value": "~400"
+  },
+  "significance": 7,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Most influenza particles cannot infect a cell alone, yet infection peaks once a cell receives only 5 to 10 particles. Counting particles digitally and tracking infection in single cells showed that incomplete particles complement each other's missing gene segments. A mathematical model fits the pattern, but the work used lab strains in cultured cells, not infected animals.",
+  "tags": [
+    "influenza",
+    "viral genetics"
+  ],
+  "title": "The infectious unit of influenza A virus is a population of particles, not a single virion, as shown by absolute particle quantification",
+  "url": "https://doi.org/10.64898/2026.11.11.765807",
+  "venue": "bioRxiv"
+}

@@ -1,0 +1,44 @@
+{
+  "abstract": "Humanized mouse models are widely used in medical research to represent human conditions (1, 2), but their fidelity could be compromised by mouse-originated infections. However, their susceptibility to mouse pathogens are rarely questioned (3). Here we screened 1,619 publicly available genomic sequencing runs from patient-derived xenograft (PDX) models for the integration of murine leukemia virus (MLV), a rodent retrovirus exists in the mouse genome as an endogenous retrovirus (4), within the human genome. We discovered substantial enrichment of human-MLV chimeric DNA in approximately 25% of them. Analyzing the human-MLV junctions, we found about 90% of them bearing the unmistakable hallmarks of retroviral integration, including the canonical MLV boundaries and the distinctive 4-bp target site duplications (5, 6). It was also assumed that mouse strains without the highly infectious Bxv1 provirus are safe from MLV contamination in xenografts (7, 8). However, we found many PDX models derived from Bxv1- strains, including the widely used NSG strain, are also contaminated by the supposedly rodent-specific ecotropic MLV (E-MLV). We further confirmed a complete E-MLV integrated into the human genome by both HiFi and sanger sequencing. Our discovery raises concerns that mouse-to-human retroviral transmission and integration is more common and less restrictive than previously appreciated. They support examination of MLV integration as a feature of humanized mouse models with implications on the fidelity of these models in recapitulating human cells and tissues. Our discovery also has underscored the importance of comprehensively inactivation of porcine endogenous retroviruses for the clinical application of xenotransplatation (9, 10).",
+  "arxiv_id": null,
+  "authors": [
+    "Zhuo, X.",
+    "Basri, N. L.",
+    "Saintilnord, W. N.",
+    "Xing, X.",
+    "Wang, T."
+  ],
+  "categories": [
+    "microbiology"
+  ],
+  "doi": "10.64898/2026.11.09.764062",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/11/2026.11.09.764062.source.xml"
+  },
+  "hook": "About 25% of mouse-grown tumor xenograft datasets contain mouse leukemia virus DNA inside human genomes.",
+  "hook_turn": "contain mouse leukemia virus DNA inside human genomes.",
+  "id": "doi-10.64898-2026.11.09.764062",
+  "license": "cc-by-nc",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "PDX datasets with human-MLV chimeric DNA",
+    "unit": "%",
+    "value": "~25"
+  },
+  "significance": 6,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Screening 1,619 public sequencing runs from patient-derived xenografts found human-MLV junctions in roughly 25%, mostly with the hallmarks of true retroviral integration. A full ecotropic MLV was confirmed by HiFi and Sanger sequencing. It is a computational reanalysis of public data, and how often this happens in real xenografts needs wet-lab follow-up.",
+  "tags": [
+    "xenografts",
+    "retrovirus"
+  ],
+  "title": "Prevalent Integration of both Xenotropic and Ecotropic Murine Leukemia Virus in the Human Genome of Xenografts",
+  "url": "https://doi.org/10.64898/2026.11.09.764062",
+  "venue": "bioRxiv"
+}

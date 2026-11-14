@@ -1,0 +1,35 @@
+{
+  "abstract": "We show that for every unbounded set $A\\subset\\mathbb R$ and every $0<\\varepsilon<1$, there exists a closed set $S\\subset\\mathbb R$ that has measure at least $1-\\varepsilon$ in every unit interval and contains no nontrivial affine copy of $A$. This resolves the Erd\\H{o}s similarity problem in the large.",
+  "arxiv_id": "2611.14056",
+  "authors": [
+    "Chi Hoi Yip"
+  ],
+  "categories": [
+    "math.CA"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14056"
+  },
+  "hook": "A closed set covers nearly all of the real line yet hides no copy of any unbounded set.",
+  "hook_turn": "hides no copy of any unbounded set.",
+  "id": "arxiv-2611.14056",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 8,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For any unbounded set A, the author builds a closed set of measure at least 1 minus epsilon in every unit interval that contains no nontrivial scaled and shifted copy of A. This settles the large-set version of the Erdos similarity problem. The original problem, about sets of positive measure, stays open.",
+  "tags": [
+    "measure theory",
+    "Erdos problems"
+  ],
+  "title": "A resolution of the Erd\\H{o}s similarity problem in the large",
+  "url": "https://arxiv.org/abs/2611.14056",
+  "venue": "arXiv"
+}

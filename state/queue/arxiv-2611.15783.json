@@ -1,0 +1,41 @@
+{
+  "abstract": "Smale's seventh problem asks for a polynomial-time algorithm that places $N$ points on the unit sphere $\\mathbb{S}^2$ with logarithmic energy (the sum of $-\\log$ of all pairwise distances) within $O(\\log N)$ of the minimum. The minimal energy has an asymptotic expansion with explicit terms of order $N^2$ and $N\\log N$ and a linear term whose constant is unknown. Brauchart, Hardin, and Saff conjectured this constant; the resulting expansion, $E_{BHS}(N)$, is known to be an upper bound on the minimum, up to $o(N)$. All previously analyzed constructions on $\\mathbb{S}^2$ have energy exceeding $E_{BHS}(N)$ by an amount that grows at least linearly in $N$, i.e. $\\Omega(N)$, far from the $O(\\log N)$ accuracy sought by Smale. We present TerracedZonal, a deterministic construction that generates $N$ points in $\\Theta(N)$ time and memory. Points are placed on latitude rings whose populations are held constant across bands (\"terraces\") chosen by a one-dimensional dynamic program, so that adjacent rings within each terrace lock into a staggered triangular lattice. Under a locality assumption, we prove that the energy exceeds $E_{BHS}(N)$ by only $\\Theta(N^{2/3})$, with an explicit constant; exact evaluation up to $N = 10^9$ confirms this rate. Under the same assumption, its distance from the true minimum is sublinear if the conjecture holds. To our knowledge, this is the first algorithmic construction with a sublinear excess over $E_{BHS}(N)$ of explicit order (proven under the locality assumption), a necessary step toward Smale's seventh problem. With one parameter changed, the same algorithm also gives an equal-weight integration rule on $\\mathbb{S}^2$ that runs just as fast and whose error decays at an empirical rate of $N^{-4}$ on smooth functions, versus $N^{-3/2}$ for every previous fast construction we tested.",
+  "arxiv_id": "2611.15783",
+  "authors": [
+    "Rishabh Kabra",
+    "Wim Dehaen",
+    "Andrea Karlova",
+    "Mark Hamilton",
+    "Joao Carreira",
+    "Maks Ovsjanikov",
+    "Jonathan T. Barron"
+  ],
+  "categories": [
+    "cs.CG",
+    "math.MG"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15783"
+  },
+  "hook": "A fast point layout on a sphere lands within N^(2/3) of the conjectured minimum energy.",
+  "id": "arxiv-2611.15783",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper gives a deterministic way to place N points on a sphere in linear time, using latitude rings grouped into terraces that lock into a triangular lattice. Its energy beats all earlier fast constructions, exceeding a conjectured minimum by only order N^(2/3), and a variant integrates smooth functions with error near N^-4. The proof needs an unproven locality assumption, and the target is a conjecture, not a proven minimum.",
+  "tags": [
+    "sphere point sets",
+    "Smale's problems"
+  ],
+  "title": "A Linear-Time Construction on $\\mathbb{S}^2$ Achieving a Sublinear Energy Gap on Smale's Seventh Problem",
+  "url": "https://arxiv.org/abs/2611.15783",
+  "venue": "arXiv"
+}

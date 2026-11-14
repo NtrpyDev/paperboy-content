@@ -1,0 +1,34 @@
+{
+  "abstract": "Despite the fundamental importance of the 5S ribosomal DNA (rDNA) to all cellular life, the landscape of its units by position along its array has remained poorly understood. Here, recent telomere-to-telomere long-read sequencing is used to resolve 5S rDNA arrays from flank to flank and to follow the state of each unit along single molecules. The array is zoned at both the sequence and the epigenetic level. Notably, methylation is bimodal at the level of the unit, and the combination of low-methylation and high-methylation units gives rise to the overall methylation pattern of the array. Moreover, the average number of low-methylation units remains relatively constant regardless of array length. Chromatin fiber sequencing (Fiber-seq) data further show that low-methylation units are more accessible, have lower nucleosome occupancy and are more frequently footprinted at the TFIIIB-binding site, consistent with analyses of ATAC-seq and ChIP-seq data from cell lines. Across species, this pattern is shared among apes, whereas other species show diverse patterns. These results provide a unit-resolved view of the human 5S rDNA array and reveal a zone-specific organization of unit methylation that is associated with chromatin architecture.",
+  "arxiv_id": null,
+  "authors": [
+    "Kim, H."
+  ],
+  "categories": [
+    "genomics"
+  ],
+  "doi": "10.64898/2026.11.08.765174",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/11/2026.11.08.765174.source.xml"
+  },
+  "hook": "Human 5S rDNA arrays split into low- and high-methylation units, and the low ones are more open.",
+  "id": "doi-10.64898-2026.11.08.765174",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Long-read sequencing of complete 5S rDNA arrays shows each repeat unit is either lightly or heavily methylated, with the number of lightly methylated units staying steady as arrays grow. Lightly methylated units are more accessible and carry fewer nucleosomes. The link to chromatin is an association, and the pattern is shared by apes but differs in other species.",
+  "tags": [
+    "ribosomal DNA",
+    "epigenetics"
+  ],
+  "title": "Long-read analysis of complete human 5S rDNA arrays reveals a zoned organization with two-state unit methylation linked to chromatin architecture",
+  "url": "https://doi.org/10.64898/2026.11.08.765174",
+  "venue": "bioRxiv"
+}

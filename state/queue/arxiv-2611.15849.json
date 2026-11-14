@@ -1,0 +1,35 @@
+{
+  "abstract": "How many rounds of parallel queries are needed to sample from a smooth, strongly log-concave distribution on $\\mathbb{R}^d$? For every fixed condition number $\\kappa \\in (1, \\infty)$, we prove that any sampler making polynomially many queries per round requires $\\Omega_\\kappa(\\log d)$ rounds to achieve constant total variation error in the worst case. The lower bound holds even if queries return derivatives of all orders. Together with the first-order parallel Picard algorithm of \\cite{zhou2025parallel}, this establishes a depth complexity of $\\Theta_\\kappa(\\log d)$ for parallel log-concave sampling with $\\operatorname{poly}(d)$ width. We then study centered Gaussian targets to understand how much width is needed at a given depth. From \\cite{chewi2023query,zhou2026complexitygaussiansampling}, it is known that either one round of width $d$ or $\\mathcal{O}(\\sqrt{\\kappa} \\log d)$ rounds of constant width suffice for first-order Gaussian sampling. At fixed $\\kappa$ we characterize the depth-width tradeoff interpolating between these regimes: when using $ \\lceil c \\log d\\rceil$ rounds, if $0 < c < c_\\star(\\kappa)$ then the optimal width at constant TV error is $\\widetilde{\\Theta}(d^{1-c/c_\\star(\\kappa)})$, while if $c \\geq c_\\star(\\kappa)$ then it is $\\Theta_\\kappa(1)$. Here, $c_\\star(\\kappa)$ is an explicit constant with $c_\\star(\\kappa) \\sim \\sqrt{\\kappa} / 8$ as $\\kappa \\to \\infty$.",
+  "arxiv_id": "2611.15849",
+  "authors": [
+    "Evan Dogariu"
+  ],
+  "categories": [
+    "cs.DS",
+    "math.PR"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15849"
+  },
+  "hook": "Parallel sampling from a log-concave distribution needs at least log d rounds, and that is enough.",
+  "id": "arxiv-2611.15849",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper proves that any sampler making polynomially many queries per round needs on the order of log d rounds in d dimensions, even with access to all derivatives. Paired with an earlier algorithm this pins the depth at log d. It also maps the depth-width tradeoff for Gaussian targets, but the lower bound is worst-case and for a fixed condition number.",
+  "tags": [
+    "sampling",
+    "complexity theory"
+  ],
+  "title": "Sharp Lower Bounds for Parallel Log-Concave Sampling",
+  "url": "https://arxiv.org/abs/2611.15849",
+  "venue": "arXiv"
+}

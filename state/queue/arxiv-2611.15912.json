@@ -1,0 +1,35 @@
+{
+  "abstract": "We prove the existence of entire maximal hypersurfaces, asymptotic to suitable coordinate-dependent boosts in the two asymptotically flat ends of maximally extended Schwarzschild spacetime. As a corollary, this generates a foliation of maximal hypersurfaces in exterior Schwarzschild, which corresponds to a geometric choice of time function associated with any boost parameter. As a crucial step in the proof, we introduce a novel rotationally symmetric time function in maximally extended Schwarzschild, which is Cauchy and has properties of independent interest.",
+  "arxiv_id": "2611.15912",
+  "authors": [
+    "Albachiara Cogo"
+  ],
+  "categories": [
+    "math.DG",
+    "gr-qc"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15912"
+  },
+  "hook": "Entire maximal hypersurfaces exist in Schwarzschild spacetime, tilted by any chosen boost.",
+  "id": "arxiv-2611.15912",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The author proves that maximal hypersurfaces, which have zero mean curvature, extend across both ends of the full Schwarzschild black hole geometry and approach a chosen boost at infinity. This gives a natural family of time slices outside the hole. The proof uses a new rotationally symmetric time function. The result covers the idealized, eternal Schwarzschild solution only.",
+  "tags": [
+    "general relativity",
+    "differential geometry"
+  ],
+  "title": "Entire boosted hypersurfaces of vanishing mean curvature in Schwarzschild spacetime",
+  "url": "https://arxiv.org/abs/2611.15912",
+  "venue": "arXiv"
+}

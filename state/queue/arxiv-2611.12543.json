@@ -1,0 +1,38 @@
+{
+  "abstract": "Recent high-resolution molecular line observations of protoplanetary discs have revealed large-scale non-Keplerian features in the gas kinematics of several systems, which can be interpreted as signatures of warps in the disc. Warps can arise from a range of physical mechanisms, and it remains unclear whether the observed kinematic residuals can be uniquely attributed to warping, or to different competing effects. Stellar flybys are one such mechanism capable of both warping a disc and directly perturbing its kinematics. Using 3D smoothed particle hydrodynamics simulations, we study the evolution of protoplanetary discs perturbed by inclined and coplanar stellar flybys, focusing on timescales of several thousand years after periastron rather than the immediate aftermath of the encounter. We find that inclined stellar flybys initially induce warping and twisting in the disc, but that this geometric perturbation is damped on a timescale set by the disc viscosity. Despite this geometric damping, synthetic ALMA observations of the CO kinematics show that complex non-Keplerian spiral features persist in the velocity residuals long after the warped morphology has relaxed, including in coplanar encounters where no warp is ever induced. Fitting these residuals with a simple warped-disc model, the degree of warping in the disc is systematically overestimated. We therefore conclude that kinematic residuals alone are insufficient to establish that a disc is warped, as flybys induce kinematic complexity independently of warps. We further show that scattered light observations provide an independent diagnostic, showing spiral arms and lateral asymmetries.",
+  "arxiv_id": "2611.12543",
+  "authors": [
+    "Vasundhara R. Prasad",
+    "Cristiano Longarini",
+    "Carolin N. Kimmig",
+    "Cathie J. Clarke"
+  ],
+  "categories": [
+    "astro-ph.EP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.12543"
+  },
+  "hook": "Stellar flybys leave spiral velocity signatures in disc gas that mimic warps long after the warp fades.",
+  "hook_turn": "long after the warp fades.",
+  "id": "arxiv-2611.12543",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Hydrodynamic simulations of protoplanetary discs hit by stellar flybys, with synthetic ALMA CO observations, show the warp damps on a viscous timescale while spiral velocity residuals persist, even for coplanar flybys that never warp the disc. Fitting a warped-disc model then overestimates the warp. Scattered light offers an independent check. Results come from simulations of a limited set of encounters.",
+  "tags": [
+    "protoplanetary discs",
+    "stellar flybys"
+  ],
+  "title": "Kinematic Signatures of Stellar Flybys in Protoplanetary Discs",
+  "url": "https://arxiv.org/abs/2611.12543",
+  "venue": "arXiv"
+}

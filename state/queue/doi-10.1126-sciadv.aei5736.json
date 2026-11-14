@@ -1,0 +1,48 @@
+{
+  "abstract": "Multiplexed profiling of diverse biomarkers is essential for precision diagnostics, but remains challenging for label-free sensors because signals typically scale with analyte mass. Here, we present a dynamic plasmonic imaging platform based on electromechanically driven nano-oscillators for multiplexed, label-free quantification of nucleic acids, proteins, and small molecules within a unified sensing architecture. Size-encoded nanoparticles tethered to a plasmonic surface are electrically actuated to oscillate vertically within the evanescent field and tracked by distance-resolved surface plasmon resonance imaging. Molecular binding alters the effective surface charge of each nano-oscillator, modulating the electrostatic-driven forces and changing oscillation amplitude. This charge-to-motion transduction mechanism reduces dependence on molecular mass and enhances sensitivity for low-molecular weight analytes. This platform simultaneously detects microRNAs, proteins, and small molecules spanning a ∼300-fold molecular weight range within a single field of view. We further demonstrate multiplexed profiling of tumor-associated microRNAs in pretreated supernatants from patient-derived breast cancer cells across 24 clinical samples. Dynamic plasmonic nano-oscillators provide a scalable architecture for multiplex molecular diagnostics.",
+  "arxiv_id": null,
+  "authors": [
+    "Yunxiao Wang",
+    "Xiaoyin Liu",
+    "Jingyu Wu",
+    "Jinbiao Ma",
+    "Baiqi Cui",
+    "Guangzhong Ma",
+    "Jianxin Ma",
+    "Qingjun Liu",
+    "Di Wang",
+    "Fenni Zhang"
+  ],
+  "categories": [
+    "Humans",
+    "MicroRNAs",
+    "Surface Plasmon Resonance",
+    "Biosensing Techniques",
+    "Nanotechnology",
+    "Nanoparticles"
+  ],
+  "doi": "10.1126/sciadv.aei5736",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Oscillating nanoparticles turn molecular charge into motion to detect RNA, proteins and small molecules.",
+  "id": "doi-10.1126-sciadv.aei5736",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Charged nanoparticles tethered to a plasmonic surface are driven up and down, and molecular binding changes their charge and so their oscillation, read by surface plasmon resonance imaging. This detected microRNAs, proteins, and small molecules in one view and profiled microRNAs in 24 breast cancer cell samples. The clinical test used pretreated cell supernatants, not patient blood or tissue.",
+  "tags": [
+    "biosensing",
+    "plasmonics"
+  ],
+  "title": "Dynamic plasmonic imaging of electromechanically driven nano-oscillators for charge-resolved multiplex biosensing.",
+  "url": "https://doi.org/10.1126/sciadv.aei5736",
+  "venue": "Science Advances"
+}

@@ -1,0 +1,50 @@
+{
+  "abstract": "Chromosomal instability (CIN) is an established driver of aneuploidy and cell death. Here, we investigate the role of apoptosis as a barrier against CIN-driven aneuploidy in B lymphocytes. We found that impairment of their spindle assembly checkpoint via deletion of Mitotic Arrest Deficient 2-Like 1 or mutation of Monopolar Spindle 1 kinase curtails B cell survival. A CRISPR screen identified intermediates of mitochondrial apoptosis as critical, which we confirmed in vivo by overexpression of a B cell–restricted BCL2 transgene, outperforming loss of P53 . Notably, cell death inhibition by BCL2 was insufficient to cause aneuploidy-driven B cell transformation, while loss of P53 strongly synergized with tumors featuring stochastic aneuploidies. In contrast, high cell death rates rapidly select for specific karyotypes, facilitating aneuploid tumor cell survival in E μ -Myc transgenic mice. Hence, cell death inhibition fails to allow CIN-driven aneuploidies to prevail. In contrast, BCL2-regulated apoptosis selects viable aneuploid tumor karyotypes in the presence of oncogenic MYC, a notion with implications for the clinical use of BCL2-targeting therapies.",
+  "arxiv_id": null,
+  "authors": [
+    "Johannes G. Weiss",
+    "Paul Y. Petermann",
+    "Irene Rigato",
+    "Michael Lohmüller",
+    "Felix Honold",
+    "Marina Schapfl",
+    "Sarah Spöck",
+    "Nadine Kinz",
+    "Andréa E. Tijhuis",
+    "René Wardenaar",
+    "Marilú Losito",
+    "Floris Foijer",
+    "Dario Rizotto",
+    "Michael Schubert",
+    "Sebastian Herzog",
+    "Joel S. Riley",
+    "Verena Labi",
+    "Francesca Finotello",
+    "Andreas Villunger"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aef2143",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "In mice, apoptosis picks which aneuploid B cell tumors survive when MYC is active.",
+  "id": "doi-10.1126-sciadv.aef2143",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Researchers disrupted the spindle assembly checkpoint in B cells and found that mitochondrial apoptosis limits survival of cells with chromosome errors. Blocking death with BCL2 did not by itself cause cancer, while losing P53 did, and in MYC-driven mouse lymphoma apoptosis selected specific viable karyotypes. The work is in mouse models, so relevance to BCL2-targeting drugs in patients is untested.",
+  "tags": [
+    "aneuploidy",
+    "lymphoma"
+  ],
+  "title": "Aneuploidy impairs B cell development but accelerates their MYC-driven transformation",
+  "url": "https://doi.org/10.1126/sciadv.aef2143",
+  "venue": "Science Advances"
+}

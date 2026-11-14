@@ -1,0 +1,38 @@
+{
+  "abstract": "We use a highly parallelized backtracking algorithm implemented in CUDA to enumerate every compatible collection of Harnack splits in degrees eight and nine. By a theorem of Haas (1997) this yields every maximal T-curve. In this way, we find that exactly 38 real schemes of real plane algebraic curves of degree eight with 22 real components and 225 of degree nine with 29 real components are realized by combinatorial patchworking.",
+  "arxiv_id": "2611.16659",
+  "authors": [
+    "Zoe Geiselmann",
+    "Michael Joswig",
+    "Lars Kastner",
+    "Marcel Wack"
+  ],
+  "categories": [
+    "math.AG",
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16659"
+  },
+  "hook": "A GPU search found exactly 38 degree-eight and 225 degree-nine real curve types from patchworking.",
+  "id": "arxiv-2611.16659",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Using a parallel backtracking search in CUDA over compatible Harnack splits, the authors enumerated all maximal T-curves in degrees eight and nine. This identifies which topological arrangements of real components patchworking can realize. It covers only these degrees, and other methods may realize more arrangements.",
+  "tags": [
+    "real algebraic curves",
+    "patchworking"
+  ],
+  "title": "Complete enumeration of maximal T-curves in degrees eight and nine",
+  "url": "https://arxiv.org/abs/2611.16659",
+  "venue": "arXiv"
+}

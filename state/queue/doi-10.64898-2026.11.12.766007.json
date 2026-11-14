@@ -1,0 +1,41 @@
+{
+  "abstract": "Clostridioides difficile infection (CDI) is an urgent antibiotic-associated threat and the leading cause of nosocomial diarrhea in the United States, with a high rate of recurrence. Antibiotics are the standard of care for treating CDI but can prolong microbial dysbiosis in the gut. The only FDA-approved monoclonal antibody (mAb) for the prevention of recurrent CDI, Zinplava (bezlotoxumab), was discontinued in January 2025. The target of bezlotoxumab is the dominant virulence factor of C. difficile, the exotoxin B (TcdB). However, TcdB sequences vary across strains and encompass twelve distinct subtypes. Consequently, sequence variation between subtypes presents a challenge for the identification of pan-neutralizing mAb therapeutics. Here, we describe the generation of three bi-specific and one tri-specific nanobody-Fc fusions targeting TcdB. Each fusion neutralizes TcdB in vitro across clinically relevant subtypes with greater potency than bezlotoxumab. In a mouse model of CDI, using three diverse C. difficile strains, several of the fusion proteins improve infection outcomes over bezlotoxumab when administered prophylactically. We also highlight one fusion that improves survival in a therapeutic mouse model of CDI. These data demonstrate multi-specific nanobody-Fc fusions as a strategy to improve potency and mitigate the impact of sequence variation within the toxin. Our fusions outperform the standards established by bezlotoxumab and represent strong candidates for translation.",
+  "arxiv_id": null,
+  "authors": [
+    "Ehni, A. G.",
+    "Lanca, B. B. C.",
+    "Kroh, H. K.",
+    "Smith, A. J.",
+    "Thomas, A. K.",
+    "Washington, M. K.",
+    "Spiller, B. W.",
+    "Lacy, D. B."
+  ],
+  "categories": [
+    "microbiology"
+  ],
+  "doi": "10.64898/2026.11.12.766007",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/13/2026.11.12.766007.source.xml"
+  },
+  "hook": "Engineered multi-target nanobody fusions beat bezlotoxumab against C. difficile toxin in mice.",
+  "id": "doi-10.64898-2026.11.12.766007",
+  "license": "cc0",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Bezlotoxumab, the antibody drug withdrawn in 2025, struggles with the many variants of C. difficile toxin B. Researchers fused nanobodies that bind different toxin sites into bi- and tri-specific proteins that neutralized all tested subtypes more potently in vitro. Several protected mice from three strains, and one helped when given after infection, but human benefit is untested.",
+  "tags": [
+    "Clostridioides difficile",
+    "nanobodies"
+  ],
+  "title": "Multi-specific nanobody-Fc fusions against TcdB protect in vivo from diverse Clostridioides difficile strains",
+  "url": "https://doi.org/10.64898/2026.11.12.766007",
+  "venue": "bioRxiv"
+}

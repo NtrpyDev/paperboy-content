@@ -1,0 +1,38 @@
+{
+  "abstract": "For over fifty years, combinatorial algorithms for Boolean matrix multiplication (BMM) and triangle detection saved only polylogarithmic factors over cubic time. At STOC 2024, Abboud, Fischer, Kelley, Lovett, and Meka broke this barrier with a deterministic $O(n^3 / 2^{\\Omega((\\log n)^{1/7})})$-time algorithm, and asked whether $n^3 / 2^{\\Omega(\\sqrt{\\log n})}$ time is achievable. We answer this question in the affirmative, giving deterministic combinatorial algorithms for both BMM and triangle detection running in $O(n^3 / 2^{\\Omega(\\sqrt{\\log n})})$ time. Following Abboud et al., we decompose $(A,B)$ into pairs of submatrices $(A_k,B_k)$, called \\emph{pieces}, each of which is either sparse or pseudorandom in a sense that forces $A_k\\star B_k$ to be nearly all-ones on its vertex sets. Whereas their decomposition produces $2^{O(d^7)}$ pieces at regularity parameter $d$, we obtain $2^{O(d^2)}$ pieces, directly improving the runtime exponent from $(\\log n)^{1/7}$ to $\\sqrt{\\log n}$. Prior work found pseudorandom pieces by repeatedly restricting to denser submatrices, paying worst-case vertex losses at each step that compounded across nested recursion levels, together with an expensive derandomization step. We eliminate the extra powers of $d$ by matching the vertex loss at each step to the size of its density jump so losses telescope across scales, derandomizing witness search via $L_d$-norm estimation so the sampler length stays $2^{O(d)}$, and bounding overlap across the recursion with a fractional density-weighted volume budget rather than raw submatrix volume.",
+  "arxiv_id": "2611.06717",
+  "authors": [
+    "Piaoyang Cui",
+    "Yiming Liu",
+    "David P. Woodruff"
+  ],
+  "categories": [
+    "cs.DS"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.06717"
+  },
+  "hook": "Boolean matrix multiplication without fancy algebra now beats cubic time by a 2^√log n factor.",
+  "hook_turn": "now beats cubic time by a 2^√log n factor.",
+  "id": "arxiv-2611.06717",
+  "license": "cc-by",
+  "published": "2026-11-04",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Combinatorial algorithms for Boolean matrix multiplication and triangle detection now run in n^3 / 2^Ω(√log n) time, answering a question left open by a 2024 STOC result that reached only (log n)^(1/7) in the exponent. The authors split the matrices into pieces that are sparse or pseudorandom, and tighten the accounting so the number of pieces drops from 2^O(d^7) to 2^O(d^2). It is a preprint, and the saving is still far smaller than what algebraic methods achieve.",
+  "tags": [
+    "matrix multiplication",
+    "algorithms",
+    "triangle detection"
+  ],
+  "title": "Combinatorial Boolean Matrix Multiplication in $n^3 / 2^{\\Omega(\\sqrt{\\log n})}$ Time",
+  "url": "https://arxiv.org/abs/2611.06717",
+  "venue": "arXiv"
+}

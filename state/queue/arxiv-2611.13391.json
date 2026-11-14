@@ -1,0 +1,37 @@
+{
+  "abstract": "The flux of pulsed emission from the Crab pulsar, just like most of other pulsars, is considered to be steady over time scales much larger than the pulsation period, except for a smooth, secular decrease related to the aging of pulsars. Such a steady assumption prevails in all theoretical investigations of pulsar emission models. However, here we report the discovery of stochastic variation in the flux and photon index of the Crab pulsar gamma-ray and hard X-ray emissions utilizing archival data of Fermi LAT (0.1 -- 100 GeV, spanning 17 years) and of NuSTAR (3.0 -- 79.0 keV, spanning 13 years) observations. Furthermore, the flux variation is found to be anti-correlated with variation of the spectral photon index, that is, harder when brighter, in both gamma ray and hard X-ray bands. The origin of such variation is intriguing. Some possibilities are discussed.",
+  "arxiv_id": "2611.13391",
+  "authors": [
+    "Koothodil Abhijith Augustine",
+    "Hsiang-Kuang Chang"
+  ],
+  "categories": [
+    "astro-ph.HE"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13391"
+  },
+  "hook": "Crab pulsar flux wobbles randomly over years. It gets harder when it is brighter.",
+  "hook_turn": "It gets harder when it is brighter.",
+  "id": "arxiv-2611.13391",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Pulsar brightness is usually assumed steady apart from a slow decline. Using 17 years of Fermi gamma-ray data and 13 years of NuSTAR X-ray data on the Crab pulsar, the authors found random flux changes, with a harder spectrum when brighter. This is archival analysis, and the cause of the variation is left open.",
+  "tags": [
+    "pulsars",
+    "crab pulsar",
+    "gamma rays"
+  ],
+  "title": "Flux Variation of the Crab Pulsar Observed Using Fermi LAT and NuSTAR",
+  "url": "https://arxiv.org/abs/2611.13391",
+  "venue": "arXiv"
+}

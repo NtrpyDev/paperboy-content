@@ -1,0 +1,35 @@
+{
+  "abstract": "The free Burnside group $B(m,n)$ is obtained from the free group of rank $m$ by imposing the relations $w^n=1$ for all words $w$. We prove that $B(m,n)$ is completely $C^*$-selfless for every $m\\geq2$ and every odd exponent $n\\geq557$. Consequently, its reduced group $C^*$-algebra has stable rank one and strict comparison of positive elements by its canonical trace. This answers the question of whether $C^*$-selfless groups can satisfy a nontrivial group law. The proof establishes Ozawa's property $P_{PHP}$ by combining a combinatorial construction with a relative power-avoidance argument based on the canonical forms of Atkarskaya-Rips-Tent.",
+  "arxiv_id": "2611.17285",
+  "authors": [
+    "Anna Cascioli"
+  ],
+  "categories": [
+    "math.OA",
+    "math.GR"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17285"
+  },
+  "hook": "Free Burnside groups with odd exponent at least 557 are C*-selfless, so selfless groups can obey a group law",
+  "id": "arxiv-2611.17285",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper proves that free Burnside groups of rank at least 2 and odd exponent at least 557 are completely C*-selfless. Their reduced C*-algebras therefore have stable rank one and strict comparison. The proof combines a combinatorial construction with power-avoidance arguments, and it needs the large exponent.",
+  "tags": [
+    "operator algebras",
+    "group theory"
+  ],
+  "title": "$C^*$-selflessness for free Burnside groups",
+  "url": "https://arxiv.org/abs/2611.17285",
+  "venue": "arXiv"
+}

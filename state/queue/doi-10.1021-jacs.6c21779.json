@@ -1,0 +1,34 @@
+{
+  "abstract": "Abstract Covalent RNA conjugates have proved effective in basic research and therapy, yet their broader use is limited by synthetic complexity and high costs. Here, we describe a modular, redox-responsive strategy for late-stage conjugation of diverse biofunctional ligands onto RNA. We show that acylation of RNA 2′-OH groups with disulfide-containing acyl moieties enables thiol–disulfide exchange with thiol-bearing ligands, including N-acetylgalactosamine (GalNAc), peptides, biotin, and captopril. The resulting conjugates undergo deconjugation under reducing conditions, tracelessly regenerating native RNA and enabling recovery of RNA function. The multivalent RNA-GalNAc construct displays preferential uptake in asialoglycoprotein receptor (ASGPR)-rich cells. Installation of biotin followed by streptavidin complexation yields bulky biotinylated RNA–streptavidin complexes that shield nuclease-sensitive RNA regions and markedly enhance the nuclease resistance of both short synthetic RNA and long messenger mRNA (mRNA). This platform may expand the chemical toolbox for RNA conjugation and support the development of functionally diverse RNA conjugates.",
+  "arxiv_id": null,
+  "authors": [
+    "Junsong Guo",
+    "Qi Shi",
+    "Ru-Yi Zhu"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c21779",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Disulfide tags let chemists attach GalNAc, peptides or biotin to RNA and later remove them cleanly.",
+  "id": "doi-10.1021-jacs.6c21779",
+  "license": "other",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Acylating RNA's 2'-OH groups with a disulfide group allows thiol-bearing ligands to swap on, and reducing conditions release them to regenerate native RNA. A GalNAc version was taken up preferentially by liver-receptor-rich cells, and biotin-streptavidin shielding improved nuclease resistance of RNA and mRNA. Evidence is from cell and test-tube experiments, not animals.",
+  "tags": [
+    "RNA conjugation",
+    "RNA therapeutics"
+  ],
+  "title": "Redox-Responsive 2′-OH Acylation for Late-Stage RNA Conjugation",
+  "url": "https://doi.org/10.1021/jacs.6c21779",
+  "venue": "Journal of the American Chemical Society"
+}

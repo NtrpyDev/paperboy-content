@@ -1,0 +1,44 @@
+{
+  "abstract": "Abstract Splitting water into hydrogen and oxygen using sunlight offers a route to renewable fuel, but translating this reaction into systems suitable for industrial implementation remains difficult. Photocatalyst sheets can overcome key limitations of common direct water-splitting approaches (photoelectrochemical devices and photocatalyst dispersions), but existing photocatalyst sheets rely on inorganic semiconductor nanoparticles and processing techniques that can be difficult to scale. Here we show that solution-processed organic semiconductors can form water-splitting photocatalyst sheets by simply tailoring the charge extraction layer beneath the light-absorbing film. A single organic semiconductor active layer (deposited as a bulk heterojunction blend) drives either hydrogen or oxygen evolution depending on its underlying molecular contact, yielding photocathode and photoanode half-cells with well-matched photocurrents. Combining both reactions on one substrate using a microdomain-patterned molecular underlayer affords a photocatalyst sheet that achieves unassisted water splitting under simulated sunlight for over 2 h and generates hydrogen at a stabilized rate of 1.3 µmol h −1 cm −2 , which corresponds to a solar-to-hydrogen conversion efficiency of 0.1%.",
+  "arxiv_id": null,
+  "authors": [
+    "Nicolas J. Diercks",
+    "Jin Su Park",
+    "Jun-Ho Yum",
+    "Yan Meng",
+    "Arthur E. Bouchez",
+    "Fabien Sorin",
+    "Han-Hee Cho",
+    "Kevin Sivula"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41560-026-02160-0",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "An all-organic sheet splits water under simulated sunlight, at 0.1% solar-to-hydrogen efficiency.",
+  "id": "doi-10.1038-s41560-026-02160-0",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Solar-to-hydrogen conversion efficiency",
+    "unit": "%",
+    "value": "0.1"
+  },
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "One organic semiconductor blend makes hydrogen or oxygen depending on the molecular contact layer beneath it. Patterning both contacts on one substrate gave a sheet that split water unassisted at 1.3 micromoles of hydrogen per hour per square centimeter. Efficiency is low and operation was shown for only about 2 hours.",
+  "tags": [
+    "water splitting",
+    "organic semiconductors"
+  ],
+  "title": "An organic semiconductor-based photocatalyst sheet for overall solar-driven water splitting",
+  "url": "https://doi.org/10.1038/s41560-026-02160-0",
+  "venue": "Nature Energy"
+}

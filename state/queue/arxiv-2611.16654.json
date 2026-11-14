@@ -1,0 +1,34 @@
+{
+  "abstract": "We determine the exact Tur\\'an density of the $3$-uniform zycle $Z_\\ell$ for every even integer $\\ell\\ge 4$ with $3\\nmid\\ell$, showing that $\\pi(Z_\\ell)=5/9$. More generally, we prove that $\\pi(Z_\\ell)\\le 5/9$ for all even $\\ell\\ge 4$. In the range of equality, we also establish a stability theorem, showing that every almost extremal $Z_\\ell$-free $3$-graph is close in edit distance to the classical Tur\\'an construction.",
+  "arxiv_id": "2611.16654",
+  "authors": [
+    "Shuaichao Wang"
+  ],
+  "categories": [
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16654"
+  },
+  "hook": "The Turán density of even 3-uniform zycles is 5/9 whenever the cycle length is not divisible by 3.",
+  "id": "arxiv-2611.16654",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Turán density asks how many triples a 3-uniform hypergraph can hold without containing a given forbidden structure. The author proves the answer is exactly 5/9 for even zycle lengths not divisible by 3, bounds it by 5/9 for all even lengths, and shows near-extremal examples resemble the classic construction. The exact value is not settled for lengths divisible by 3.",
+  "tags": [
+    "extremal combinatorics",
+    "hypergraphs"
+  ],
+  "title": "Exact Tur\\'an densities of even zycles",
+  "url": "https://arxiv.org/abs/2611.16654",
+  "venue": "arXiv"
+}

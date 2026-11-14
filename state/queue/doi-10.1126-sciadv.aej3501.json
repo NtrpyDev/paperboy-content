@@ -1,0 +1,46 @@
+{
+  "abstract": "The hippocampal CA1 area is perceived as a nonrecurrent neuronal network, i.e., CA1 pyramidal cells (CA1PCs) within the CA1 area innervate mainly γ-aminobutyric acid-releasing interneurons but not each other. Here, we performed an unbiased examination of the functional properties of local CA1PC output synapses using in vitro two-photon glutamate imaging. Fluorescent transients measured with iGluSnFR3 in individual boutons displayed extraordinary heterogeneity in their amplitudes and short-term plasticity patterns upon a complex train of presynaptic action potential firing. Post hoc electron microscopy of the imaged boutons demonstrated that distinct postsynaptic structure-innervating boutons display different functional properties. Approximately 25% of the boutons innervate CA1PC spines, which either release glutamate with very low release probability or completely fail to release. Phorbol 12,13-dibutyrate and elevated calcium (2+) concentration, manipulations that enhance synaptic vesicle priming and fusion, convert these silent into properly functioning synapses. Our results provide evidence that CA1PCs are interconnected with structurally and molecularly intact glutamatergic synapses, but incomplete synaptic vesicle (SV) priming precludes SV release.",
+  "arxiv_id": null,
+  "authors": [
+    "Noemi Holderith",
+    "Zoltan Nusser"
+  ],
+  "categories": [
+    "Pyramidal Cells",
+    "Presynaptic Terminals",
+    "Synapses",
+    "Synaptic Vesicles",
+    "Animals",
+    "Calcium",
+    "Glutamic Acid",
+    "Synaptic Transmission",
+    "Action Potentials",
+    "Neuronal Plasticity",
+    "CA1 Region, Hippocampal"
+  ],
+  "doi": "10.1126/sciadv.aej3501",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "About a quarter of hippocampal CA1 cell outputs onto neighbors are silent because vesicles are not primed",
+  "hook_turn": "silent because vesicles are not primed",
+  "id": "doi-10.1126-sciadv.aej3501",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "CA1 neurons were thought not to excite each other, but two-photon imaging of glutamate release shows they do connect. Roughly 25% of boutons contacting CA1 cell spines release almost nothing, and drugs or extra calcium that aid vesicle priming switch them on. Work was done in brain slices, so activity in living animals is unknown.",
+  "tags": [
+    "synapses",
+    "hippocampus"
+  ],
+  "title": "Incomplete synaptic vesicle priming functionally disconnects CA1 pyramidal cells.",
+  "url": "https://doi.org/10.1126/sciadv.aej3501",
+  "venue": "Science Advances"
+}

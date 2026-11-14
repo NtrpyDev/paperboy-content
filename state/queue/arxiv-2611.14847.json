@@ -1,0 +1,37 @@
+{
+  "abstract": "The main flatness conjecture for $\\mathrm{SL}_n(\\mathbb{C})$-Fock bundles predicts the existence of a unique strongly positive flat compatible Hermitian metric for every $\\mathrm{SL}_n(\\mathbb{C})$-Fock bundle. We use cyclic Higgs bundles to disprove this conjecture for every rank $n \\geq 3.$",
+  "arxiv_id": "2611.14847",
+  "authors": [
+    "Sotiria Chatzimarkou"
+  ],
+  "categories": [
+    "math.DG",
+    "math.AG",
+    "math.GT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14847"
+  },
+  "hook": "A conjecture on flat metrics for Fock bundles is false in every rank 3 or higher.",
+  "hook_turn": "false in every rank 3 or higher.",
+  "id": "arxiv-2611.14847",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The main flatness conjecture predicted a unique strongly positive flat compatible Hermitian metric for every SL_n(C) Fock bundle. Using cyclic Higgs bundles, the author builds counterexamples for every rank n of at least 3. The result is highly specialized and says nothing about rank 2.",
+  "tags": [
+    "differential geometry",
+    "Higgs bundles"
+  ],
+  "title": "A counterexample on the main flatness conjecture for $\\mathrm{SL}_n(\\mathbb{C})$-Fock bundles",
+  "url": "https://arxiv.org/abs/2611.14847",
+  "venue": "arXiv"
+}

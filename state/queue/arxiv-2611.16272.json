@@ -1,0 +1,36 @@
+{
+  "abstract": "We give a deterministic online binary search tree (BST) that satisfies the unified bound of Iacono [SODA 2001], which subsumes the working-set and dynamic-finger bounds: it serves every sequence $X$ of $m$ searches on $n$ keys at total cost $O(m+\\mathrm{UB}(X))$, and every single search at cost $O(\\log n)$. Previously, no BST was known to satisfy the unified bound, even offline. As a consequence, the dynamic optimality conjecture implies Iacono's conjecture that splay trees satisfy the unified bound. We also show that the unified bound is $O((m+n)(1+\\log c_\\sigma))$ on every sequence of searches that avoids a fixed permutation $\\sigma$, where $c_\\sigma$ is the F\\\"uredi-Hajnal limit of $\\sigma$. Hence every BST that satisfies the unified bound, including ours, serves such sequences at this cost. For permutations this bound is tight, and it improves the previous upper bound $O(nc_\\sigma^2)$ on the optimal cost, due to Berendsohn, Kozma and Opler [STOC 2024]. Finally, we extend the tree to support insertions and deletions: a sequence $X$ of $m$ operations, starting from $n_0$ keys, costs $O(n_0+m+\\mathrm{UB}(X))$ in total, where $\\mathrm{UB}$ is now the extension of the unified bound to insertions and deletions by B\\u{a}doiu, Cole, Demaine and Iacono [TCS 2007]. Hence, if splay trees are dynamically optimal for searches, insertions and deletions, then they serve every such sequence at this total cost as well.",
+  "arxiv_id": "2611.16272",
+  "authors": [
+    "Yang Cao",
+    "Haoran Qi",
+    "Hanzhi Wang"
+  ],
+  "categories": [
+    "cs.DS"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16272"
+  },
+  "hook": "A binary search tree meets the unified bound, which no such tree was known to do before.",
+  "id": "arxiv-2611.16272",
+  "license": "cc-by-sa",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors build a deterministic binary search tree whose cost on any search sequence matches Iacono's unified bound, which covers both the working-set and dynamic-finger bounds. They extend it to insertions and deletions and tighten the cost for sequences avoiding a fixed pattern. The result is a theoretical cost bound; it is not tested on real workloads.",
+  "tags": [
+    "data structures",
+    "algorithms"
+  ],
+  "title": "A Binary Search Tree with the Unified Bound",
+  "url": "https://arxiv.org/abs/2611.16272",
+  "venue": "arXiv"
+}

@@ -1,0 +1,35 @@
+{
+  "abstract": "Fifteen years after its formulation and following its recent proof in the plane, we show that the strong version of the union of uniform closed balls conjecture fails in every dimension $n\\geq 3$. For every $n\\geq 3$, $r>0$, and $\\varepsilon>0$, we construct a compact set $S\\subset\\mathbb{R}^n$ satisfying the interior $r$-sphere condition and containing a point that belongs to no closed ball of radius $(1/2+\\varepsilon)r$ contained in $S$. Consequently, the known universal radius $r/2$ is optimal in every dimension $n\\geq 3$, even for compact sets, whereas the optimal radius in the plane is $r/\\sqrt{3}$. The construction uses simplices with coincident circumcenter and incenter and yields an exact formula for the largest radius of a contained ball covering the center; the regular simplex recovers the original example motivating the conjecture.",
+  "arxiv_id": "2611.14181",
+  "authors": [
+    "Chadi Nour"
+  ],
+  "categories": [
+    "math.MG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14181"
+  },
+  "hook": "A 15-year-old geometry conjecture about unions of balls fails in every dimension from three up.",
+  "hook_turn": "fails in every dimension from three up.",
+  "id": "arxiv-2611.14181",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors build compact sets satisfying the interior r-sphere condition that contain a point lying in no contained ball of radius (1/2+e)r, for any e>0. The construction uses simplices whose circumcenter and incenter coincide, giving an exact radius formula. This shows the known radius r/2 is optimal in dimensions three and up, unlike the plane where the answer is r/sqrt(3).",
+  "tags": [
+    "convex geometry",
+    "counterexample"
+  ],
+  "title": "A counterexample to the strong version of the union of uniform closed balls conjecture in dimensions three and higher",
+  "url": "https://arxiv.org/abs/2611.14181",
+  "venue": "arXiv"
+}

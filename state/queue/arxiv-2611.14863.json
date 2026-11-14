@@ -1,0 +1,35 @@
+{
+  "abstract": "We prove the entropy-degree theorem for continuous maps from a closed orientable non-collapsed $RCD(K,N)$ space $X$ to a closed negatively curved locally symmetric $N$-manifold $Y$, with $N \\geq 3$. In the equality case, under a fundamental group index condition, we show the space is isometric to a smooth locally symmetric Riemannian manifold, and the map is homotopic to a Riemannian covering.",
+  "arxiv_id": "2611.14863",
+  "authors": [
+    "P. Su\\'arez-Serrato"
+  ],
+  "categories": [
+    "math.DG",
+    "math.MG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14863"
+  },
+  "hook": "A map from an RCD space to a locally symmetric manifold obeys an entropy-degree bound, with rigid equality.",
+  "id": "arxiv-2611.14863",
+  "license": "cc-by-nc-sa",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper proves an entropy-degree inequality for continuous maps from closed orientable non-collapsed RCD(K,N) spaces to closed negatively curved locally symmetric manifolds of dimension at least 3. In the equality case, with a condition on fundamental group index, the space is a smooth locally symmetric manifold and the map is homotopic to a covering. It is a pure mathematics result with narrow assumptions.",
+  "tags": [
+    "differential geometry",
+    "rigidity"
+  ],
+  "title": "Entropy-degree rigidity for non-collapsed $RCD$ spaces",
+  "url": "https://arxiv.org/abs/2611.14863",
+  "venue": "arXiv"
+}

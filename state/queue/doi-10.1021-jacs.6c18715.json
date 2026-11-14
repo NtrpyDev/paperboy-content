@@ -1,0 +1,48 @@
+{
+  "abstract": "Abstract High-energy-density neutral aqueous organic redox flow batteries (AORFBs) require a transition from one-electron/one-electron and two-electron/one-electron configurations to fully two-electron-matched systems. This goal has remained unrealized because stable two-electron catholytes are lacking, and even the most promising TEMPO materials still undergo proton-induced irreversible piperidine ring opening, causing rapid capacity decay. Here we report a hydration-cage-induced spin-exchange strategy for stabilizing two-electron AcNH-NMe-TEMPO catholytes. In aqueous solution, a dynamic hydration cage preorganizes the diradical into a folded conformation, shortens the ·O–O· distance, and enables intramolecular spin exchange. In situ electron paramagnetic resonance directly captures quintet signatures of appropriate spin-exchange interactions, which reduces the possibility of triggering external interactions between TEMPO and protons, presenting a new mechanism to stabilize two-electron AORFB operation. The polarization scattering experiments confirm that increasing the spin exchange interaction can decrease the external interaction of TEMPO with the polarized environment, as shown by the reduced scattering of incident polarized photons. Crucially, mass spectrometry tracks radical evolution under proton capture, showing self-regulated stabilization of the piperidine framework. Consequently, the constructed two-electron/one-electron system exhibits exceptional durability, with 99.28% capacity retention at 3 M e–. Further developing a first two-electron/two-electron neutral all-organic system achieves a 1.4–1.7-fold increase in practical energy density relative to the two-electron/one-electron system, corresponding to a 26.1–42.3% reduction in electrolyte demand. The AcNH-NMe-TEMPO/dex-NDI system maintains 98.45% retention over 1200 cycles at 2 M e–. These results establish spin exchange as a molecular design concept for advancing high-density and long-lifetime AORFBs.",
+  "arxiv_id": null,
+  "authors": [
+    "Xu Liu",
+    "Zhikun Xu",
+    "Xuri Zhang",
+    "Junjie Huang",
+    "Chi Han",
+    "Muyang Chen",
+    "Chuhao Yang",
+    "Haiyang Wu",
+    "Sikun Zhang",
+    "Bin Hu",
+    "Gang He"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c18715",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A hydration cage stabilizes a two-electron TEMPO molecule, keeping flow-battery capacity over 1200 cycles.",
+  "hook_turn": "keeping flow-battery capacity over 1200 cycles.",
+  "id": "doi-10.1021-jacs.6c18715",
+  "license": "other",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Capacity retention over 1200 cycles at 2 M e-",
+    "unit": "%",
+    "value": "98.45"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Water molecules fold a two-radical TEMPO molecule so its radicals exchange spin, which protects it from proton attack that breaks its ring. Electron paramagnetic resonance detects the spin signature, and a two-electron pairing holds 98.45% capacity over 1200 cycles at 2 M electrons. Tests are on lab-scale cells, so real-world durability and cost remain open.",
+  "tags": [
+    "flow batteries",
+    "energy storage"
+  ],
+  "title": "Spin Exchange Enables Two-Electron TEMPO Catholytes for Aqueous Organic Flow Batteries",
+  "url": "https://doi.org/10.1021/jacs.6c18715",
+  "venue": "Journal of the American Chemical Society"
+}

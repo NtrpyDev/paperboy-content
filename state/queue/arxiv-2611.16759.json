@@ -1,0 +1,37 @@
+{
+  "abstract": "It was shown recently by Borzechowski et al. (2026) that Propositional Dynamic Logic (PDL) has Craig Interpolation. Whether test-free PDL, i.e. PDL without the `?' operator, has interpolation remained open. Here we answer this question in the negative with a counterexample: a test-free PDL validity for which no test-free interpolant exists. The validity only uses one atomic program and the Kleene star, so it implies that the basic modal logic K extended with the reflexive transitive closure does not have interpolation, as previously shown by Studer (2009). The example was originally obtained using LLMs and Lean. We describe our methodology and provide links to all prompts, LLM output summaries as well as the Lean proof.",
+  "arxiv_id": "2611.16759",
+  "authors": [
+    "Malvin Gattinger"
+  ],
+  "categories": [
+    "cs.LO",
+    "math.LO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16759"
+  },
+  "hook": "Test-free PDL lacks Craig interpolation; an LLM and Lean found the counterexample.",
+  "hook_turn": "an LLM and Lean found the counterexample.",
+  "id": "arxiv-2611.16759",
+  "license": "cc-by-sa",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A logic for reasoning about programs, with the test operator removed, fails Craig interpolation, a property that guarantees a clean intermediate statement between any premise and conclusion. The counterexample uses one atomic program and the Kleene star, and was first found with LLMs and checked in Lean. The simplest case was already known from earlier work, so the new part is the test-free PDL result.",
+  "tags": [
+    "modal logic",
+    "interpolation",
+    "formal proof"
+  ],
+  "title": "Propositional Dynamic Logic without tests does not have Craig Interpolation",
+  "url": "https://arxiv.org/abs/2611.16759",
+  "venue": "arXiv"
+}

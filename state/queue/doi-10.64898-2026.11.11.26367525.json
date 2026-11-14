@@ -1,0 +1,53 @@
+{
+  "abstract": "Long COVID is associated with persistent immune dysregulation, but whether immunity to latent viruses is also altered remains unclear. We profiled herpesvirus-specific antibodies and T-cell responses in people with long COVID and recovered convalescent controls at 4, 8, and 24 months after SAR-CoV-2 infection. Overall antibody reactivity and abundance against cytomegalovirus (CMV) and Epstein-Barr virus (EBV) responder frequencies and circulating B-cell subsets were broadly preserved, but early antibody avidity and virus-specific CD4 T cell response magnitude were reduced. Neither virus nucleic acid was detected in plasma or stool at 4 or 8 months. Here, we show that long COVID is associated with selective, time-dependent alteration of herpesvirus-specific immune memory, including relatively preserved or enhanced CD8 responses and greater representation of selected herpesvirus-associated T-cell receptor clonotypes. Together, these findings indicate altered herpesvirus-specific antibody quality despite broadly preserved antibody abundance. Lower EBV avidity was associated with poorer quality of life and unrecovered status.",
+  "arxiv_id": null,
+  "authors": [
+    "Joshi, R. V.",
+    "Khan, R. M.",
+    "Jackson, K. J.",
+    "Ballouz, S.",
+    "Jacka, B.",
+    "Ni, L.",
+    "Findell-Aghnatios, N.",
+    "Aggarwal, A.",
+    "Turville, S. G.",
+    "Singh, M.",
+    "Kim, K. W.",
+    "Yau, C.",
+    "Byrne, A.",
+    "Brew, B. J.",
+    "Dore, G. J.",
+    "Darley, D. R.",
+    "Matthews, G. V.",
+    "Kelleher, A. D.",
+    "Phetsouphanh, C."
+  ],
+  "categories": [
+    "infectious diseases"
+  ],
+  "doi": "10.64898/2026.11.11.26367525",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.medrxiv.org/content/early/2026/11/12/2026.11.11.26367525.source.xml"
+  },
+  "hook": "People with long COVID show weaker early antibody binding and CD4 T cell responses to CMV and EBV",
+  "hook_turn": "to CMV and EBV",
+  "id": "doi-10.64898-2026.11.11.26367525",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "medrxiv",
+  "status": "preprint",
+  "summary": "Blood from people with long COVID and recovered controls was profiled at 4, 8, and 24 months after infection. Antibody amounts were similar, but early antibody avidity and CD4 T cell response were lower, and lower EBV avidity tracked with poorer quality of life. This is an association in a modest cohort and does not show that altered herpesvirus immunity causes long COVID.",
+  "tags": [
+    "long COVID",
+    "herpesvirus"
+  ],
+  "title": "Altered herpesvirus-specific immune response is associated with long COVID",
+  "url": "https://doi.org/10.64898/2026.11.11.26367525",
+  "venue": "medRxiv"
+}

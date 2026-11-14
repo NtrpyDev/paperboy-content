@@ -1,0 +1,45 @@
+{
+  "abstract": "Selective suppression of pathological hyperactivity is a major therapeutic challenge across brain disorders. Ultrasound stimulation can modulate neural activity, yet the molecular basis of its inhibitory effects and its ability to selectively inhibit hyperactive rather than basally active cells remain unclear. Here, we identify the caveolin-3 (CAV3)-sodium-calcium exchanger-1 (NCX1) complex as a previously unknown mediator of state-dependent ultrasound-induced neural inhibition. Prolonged ultra-low-intensity ultrasound stimulation engages NCX1-mediated Ca2+ extrusion in hyperactive neurons and astrocytes, sparing cells with basal activity. NCX1 is both necessary and sufficient for this inhibitory response, and disruption of the CAV3-NCX1 interface abolishes the ultrasound-induced effects. In vivo, targeted ultrasound stimulation suppresses fear-evoked hyperactivity and freezing in an NCX1-dependent manner and attenuates neuropathic pain-associated hyperactivity, allodynia, and hippocampal epileptiform activity. These findings establish a molecular mechanism for state-dependent ultrasound inhibition, providing a basis for a new approach to neuromodulation that selectively targets pathological hyperactivity.",
+  "arxiv_id": null,
+  "authors": [
+    "Lee, K.",
+    "Lee, J. M.",
+    "Kim, H.-J.",
+    "Koo, M.",
+    "Lee, S.",
+    "shin, S.",
+    "Youn, W.",
+    "Phan, T. T.",
+    "Lee, C. J. J.",
+    "Park, J.",
+    "PARK, J. M."
+  ],
+  "categories": [
+    "neuroscience"
+  ],
+  "doi": "10.64898/2026.11.11.765847",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/13/2026.11.11.765847.source.xml"
+  },
+  "hook": "In mice, gentle ultrasound quiets overactive neurons and spares normal ones through NCX1.",
+  "hook_turn": "spares normal ones through NCX1.",
+  "id": "doi-10.64898-2026.11.11.765847",
+  "license": "other",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Prolonged low-intensity ultrasound made a calcium pump called NCX1, held in place by caveolin-3, push calcium out of hyperactive neurons and astrocytes. Cells with normal activity were left alone. Cell experiments and mouse models of fear, pain, and epilepsy supported this, but it is a preprint and mice are not people.",
+  "tags": [
+    "ultrasound",
+    "neuromodulation"
+  ],
+  "title": "Selective ultrasonic suppression of pathological brain hyperactivity via an endogenous CAV3-NCX1 axis",
+  "url": "https://doi.org/10.64898/2026.11.11.765847",
+  "venue": "bioRxiv"
+}

@@ -1,0 +1,35 @@
+{
+  "abstract": "Jupiter's satellites formed within a circumplanetary disk (CPD), but the origin and delivery of the solids from which they accreted remain uncertain. Here, we investigate the delivery of planetesimal material to the CPD while consistently accounting for the growth of Jupiter and the evolution of its surrounding planetesimal reservoir. Using N-body simulations coupled to an evolving CPD model, we quantify the solid mass supplied through planetesimal ablation and direct capture. We find that, although proto-Jupiter rapidly opens a gap in the planetesimal disk, planetesimals continue to enter the CPD for more than 1 Myr. Under efficient ablation, the mass deposited in the CPD can reach approximately 1 Me, about one order of magnitude higher than the mass delivered through direct capture. However, the low efficiency of pebble accretion within the CPD implies that forming the Galilean satellites from ablated material alone may require a very large pebble reservoir. Directly captured planetesimals, despite contributing less total mass, can instead provide satellitesimals that grow through mutual collisions and serve as seeds for subsequent pebble accretion. Our results therefore favor a hybrid formation pathway in which the Galilean satellites grow through a combination of satellitesimal and pebble accretion. We further demonstrate that even a planetesimal reservoir containing less solid material than the minimum-mass solar nebula can supply sufficient building blocks to form the Galilean satellites. The balance between the ablation and direct capture depends sensitively on the efficiency of aerodynamic heating: if ablation is weaker than commonly assumed, direct capture can become the dominant source of satellite building blocks. These results connect the formation of Jupiter and its satellites by showing how Jupiter's growth regulates both the duration and form of solid delivery to its CPD.",
+  "arxiv_id": "2611.14733",
+  "authors": [
+    "Sho Shibata",
+    "Andre Izidoro"
+  ],
+  "categories": [
+    "astro-ph.EP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14733"
+  },
+  "hook": "Jupiter's moons likely grew from both captured planetesimals and pebbles, simulations suggest.",
+  "id": "arxiv-2611.14733",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "N-body simulations of a growing Jupiter and its disk show planetesimals keep entering the circumplanetary disk for over 1 Myr. Ablated material alone would need a huge pebble supply, so captured planetesimals likely seeded growth that pebbles then fed. The result depends on how efficient aerodynamic heating is, and it is simulation only.",
+  "tags": [
+    "Galilean moons",
+    "planet formation"
+  ],
+  "title": "Origins of Satellite-System Building Blocks I: Solid Delivery During Jupiter's Growth",
+  "url": "https://arxiv.org/abs/2611.14733",
+  "venue": "arXiv"
+}

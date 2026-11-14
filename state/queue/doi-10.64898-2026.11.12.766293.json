@@ -1,0 +1,73 @@
+{
+  "abstract": "Darwin described the somersaulting behavior of pigeons as \"one of the most remarkable inherited habits ever recorded\", yet its molecular basis remained unknown. We show that somersaulting pigeon brains exhibit mitochondrial redox dysfunction and identify an 11-bp frameshifting deletion in GLRX2, a mitochondrial redox enzyme, that abolishes protein function and is highly-enriched in two independently selected breeds. GLRX2 deficiency in mice and zebrafish recapitulates mitochondrial dysfunction, oxidative stress and impaired motor coordination seen in pigeons. Single-nucleus transcriptomics identifies cerebellar Golgi and Purkinje cells as selectively vulnerable, with disrupted inhibitory signaling and synaptic remodeling. These findings demonstrate how relaxation of purifying selection during domestication can expose a deleterious mitochondrial variant to artificial selection, allowing gene loss to serve as a substrate for behavioral evolution.",
+  "arxiv_id": null,
+  "authors": [
+    "Si, S.",
+    "Su, L.-Y.",
+    "Long, L.",
+    "Qian, Y.",
+    "Ma, W.-D.",
+    "Gan, X.",
+    "Jiang, K.",
+    "Wang, G.-H.",
+    "Bagi, Z.",
+    "Bigi, D.",
+    "Kharrati-Koopaee, H.",
+    "Zheng, G.-Z.",
+    "Ma, L.",
+    "Wu, Z.",
+    "Li, M.-L.",
+    "Chen, H.-M.",
+    "Pan, Q.",
+    "Peng, W.-J.",
+    "Bu, Z.",
+    "Gao, W.",
+    "Li, J.",
+    "Liu, C.-R.",
+    "Pan, J.",
+    "Du, J.-L.",
+    "Liu, Z.",
+    "Zhang, C.",
+    "Yan, C.",
+    "Yao, Y.-G.",
+    "Gu, L.",
+    "Lu, L.-Z.",
+    "Lu, J.",
+    "Szilvia, K.",
+    "Esmailizadeh, A.",
+    "Zhang, G.",
+    "Wang, M.-S."
+  ],
+  "categories": [
+    "evolutionary biology"
+  ],
+  "doi": "10.64898/2026.11.12.766293",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/13/2026.11.12.766293.source.xml"
+  },
+  "hook": "A single 11-base deletion in GLRX2 makes pigeons somersault, as Darwin noticed.",
+  "id": "doi-10.64898-2026.11.12.766293",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Frameshifting deletion in pigeon GLRX2",
+    "unit": "base pairs",
+    "value": "11"
+  },
+  "significance": 7,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Somersaulting pigeons have brains showing mitochondrial stress, and two breeds share a frameshift deletion that disables the GLRX2 enzyme. Mice and zebrafish lacking GLRX2 show similar stress and poor coordination, with cerebellar cells most affected. Evidence for the pigeon link is mostly genetic association plus other species, not pigeon gene editing.",
+  "tags": [
+    "pigeons",
+    "domestication"
+  ],
+  "title": "Loss of the mitochondrial redox gene GLRX2 underlies somersaulting behavior in Darwin's pigeons",
+  "url": "https://doi.org/10.64898/2026.11.12.766293",
+  "venue": "bioRxiv"
+}

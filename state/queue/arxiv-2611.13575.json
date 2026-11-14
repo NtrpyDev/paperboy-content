@@ -1,0 +1,43 @@
+{
+  "abstract": "Greedy+Singleton is the textbook heuristic for monotone submodular maximization under a knapsack constraint: it returns the better of the cost-benefit greedy set and the best single item. Its worst-case approximation ratio, known only to lie in $[0.427, 0.42945]$ (Feldman-Nutov-Shoham; Kulik-Schwartz-Shachnai), is exactly an explicit constant $\\beta^\\star\\approx 0.42944$. In the extremal instances, many cheap \"filler\" items wear down the value of two large optimal items while greedy spends the budget, until neither fits. This picture gives a sharper factor-revealing relaxation; we bound it analytically near the extremal parameters, up to finitely many interval-arithmetic checks, and certify it elsewhere by an exact branch-and-bound. The matching bad instances are tie-free and checkable by hand. For the version that stops at the first item that does not fit, Wolsey's bound $1-e^{-\\beta_W}\\approx 0.35780$, where $e^{\\beta_W}=2-\\beta_W$, is tight; Wolsey stated this for his variant without giving the instances, and we give an explicit family with no ties that also covers comparison with the best feasible singleton. The CELF rule also has ratio exactly $\\beta^\\star$.",
+  "arxiv_id": "2611.13575",
+  "authors": [
+    "Kundan Baliga",
+    "Aiden Xie",
+    "Aditya Byju"
+  ],
+  "categories": [
+    "cs.DS",
+    "cs.DM"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13575"
+  },
+  "hook": "The classic greedy-or-best-single-item knapsack heuristic has a worst-case ratio of exactly 0.42944",
+  "hook_turn": "of exactly 0.42944",
+  "id": "arxiv-2611.13575",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Greedy+Singleton worst-case approximation ratio",
+    "unit": "",
+    "value": "0.42944"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For maximizing a monotone submodular function under a knapsack budget, the textbook heuristic takes the better of greedy and the best single item. The paper pins its worst-case ratio to an exact constant, closing a gap between 0.427 and 0.42945, using a relaxation checked by interval arithmetic and branch-and-bound. Part of the proof is computer-assisted.",
+  "tags": [
+    "submodular optimization",
+    "approximation algorithms"
+  ],
+  "title": "Greedy+Singleton for knapsack-constrained monotone submodular maximization has approximation ratio exactly $\\beta^\\star \\approx 0.42944$",
+  "url": "https://arxiv.org/abs/2611.13575",
+  "venue": "arXiv"
+}

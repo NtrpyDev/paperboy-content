@@ -1,0 +1,54 @@
+{
+  "abstract": "Excessive alcohol consumption frequently co-occurs with anxiety and depression in alcohol use disorder (AUD), yet the specific neural circuits and molecular mechanisms coordinating these comorbid conditions remain poorly defined. The medial prefrontal cortex (mPFC), particularly its prelimbic (PL) and infralimbic (IL) subregions, projects to key reward and emotion centers like the nucleus accumbens (Nac) and basolateral amygdala (BLA), but the functional heterogeneity of these projections is unclear. Using chemogenetics, retrograde tracing, electrophysiology, spatial proteomics, and cell-type-specific gene editing in mice subjected to a 4-wk intermittent access to alcohol (IAA) paradigm, we selectively manipulated glutamatergic projections from the PL and IL to the Nac core, Nac shell, and BLA and assessed alcohol intake, anxiety-like, and depression-like behaviors. Chemogenetic activation of PL-Nac core projections reduced short-term alcohol intake, anxiety-, and depression-like behaviors, while IL-BLA activation decreased alcohol consumption and anxiety-like behaviors only. Retrograde tracing revealed mirror-image anatomical segregation of projection-defined neuronal subpopulations within PL/IL linking spatial organization to functional divergence. IAA induced pathway-specific synaptic adaptations. Spatial proteomics nominated protein phosphatase 1 regulatory subunit 1B (PPP1R1B) as a candidate molecule in PL-Nac core neurons. Independent immunostaining confirmed PPP1R1B downregulation, and circuit-specific knockout recapitulated alcohol-related and affective phenotypes, whereas overexpression reversed them. In IL-BLA neurons, PPP1R1B manipulation modulated alcohol intake and anxiety, but not depression. These findings define a subregion- and projection-specific organizational logic in the mPFC for differentially regulating alcohol consumption and emotional comorbidity, with PPP1R1B as a key molecular determinant. This provides a neural pathway-molecule framework for targeted intervention in AUD.",
+  "arxiv_id": null,
+  "authors": [
+    "Fei Li",
+    "Minghui Chen",
+    "Xiang Li",
+    "Zunyue Zhang",
+    "Huayou Luo",
+    "Mei Zhu",
+    "Huawei Wang",
+    "Yu Xu",
+    "Fengrong Chen",
+    "Kunhua Wang"
+  ],
+  "categories": [
+    "Nucleus Accumbens",
+    "Prefrontal Cortex",
+    "Animals",
+    "Mice, Inbred C57BL",
+    "Mice",
+    "Alcoholism",
+    "Depression",
+    "Alcohol Drinking",
+    "Emotions",
+    "Anxiety",
+    "Male",
+    "Protein Phosphatase 1"
+  ],
+  "doi": "10.1073/pnas.2611266123",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "In mice, PPP1R1B in two prefrontal circuits tunes alcohol intake and anxiety-like behavior.",
+  "id": "doi-10.1073-pnas.2611266123",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "In mice drinking alcohol intermittently, activating a prefrontal projection to the nucleus accumbens core cut drinking, anxiety and depression-like behavior, while an amygdala-bound projection affected drinking and anxiety only. Proteomics flagged PPP1R1B, and knockout or overexpression in each circuit reproduced or reversed the effects. These are mouse behavior results, and the 4-week model may not match human alcohol use disorder.",
+  "tags": [
+    "alcohol use disorder",
+    "prefrontal cortex"
+  ],
+  "title": "PPP1R1B differentially modulates alcohol intake and emotional comorbidity through distinct prefrontal circuits.",
+  "url": "https://doi.org/10.1073/pnas.2611266123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

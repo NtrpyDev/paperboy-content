@@ -1,0 +1,48 @@
+{
+  "abstract": "The nucleolus is the hub for ribosome biogenesis in eukaryotic cells. It is assembled on nucleolar organizer regions (NORs), tandem arrays of ribosomal DNA (rDNA) units. In humans, each rDNA unit is ~45 kb and encodes the 47S ribosomal RNA (rRNA) precursor. Hundreds of rDNA units are present per germline genome, spread across 10 NORs positioned on the short arms of the five acrocentric chromosomes. However, their precise count and structure are unknown. In fact, twenty-five years after the first draft of the human genome, NORs are the only regions of the human genome that remain incompletely resolved, represented in telomere-to-telomere (T2T) reference genomes as gaps or modeled sequences rather than bona fide assemblies. Here we use prime editing to insert degenerate 6-bp DNA barcodes to 99% of taggable rDNA units in a clonal derivative of the leukemia-derived K562 cell line. Following ultra-long-read sequencing, these barcodes serve as molecular identifiers that guide the end-to-end assembly of all 18 NORs of K562s pseudotriploid genome. The assembly yields: (i) a precise rDNA copy number for each NOR (range 5-43; total 290); (ii) the cis- and trans- architecture of intragenomic variation in rDNA sequence, both structural and fine-scale; and (iii) patterns of divergence and homogenization within and across NORs that may have arisen during cancer evolution and the subsequent passaging of this line. Finally, by reading the same tags from RNA, we define the relationship between DNA methylation and Pol I transcription at the resolution of individual rDNA units. Together, our study demonstrates how the final tangles of the human genome can at last be resolved, and opens the door to more extensive investigations of how genetic, epigenetic and functional rDNA variation contributes to health and disease.",
+  "arxiv_id": null,
+  "authors": [
+    "Zhao, S.",
+    "Wallentin, J.",
+    "Potapova, T.",
+    "Zheng, S.",
+    "Liu, X.",
+    "Daza, R. M.",
+    "Gerton, J. L.",
+    "Shendure, J.",
+    "Li, X."
+  ],
+  "categories": [
+    "genomics"
+  ],
+  "doi": "10.64898/2026.11.10.765783",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/11/2026.11.10.765783.source.xml"
+  },
+  "hook": "Barcoding ribosomal DNA let researchers assemble all 18 rDNA arrays of a human cell line.",
+  "id": "doi-10.64898-2026.11.10.765783",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Total rDNA copies across 18 NORs in K562",
+    "unit": "rDNA copies",
+    "value": "290"
+  },
+  "significance": 8,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Ribosomal DNA repeats sit in the last gaps of the human genome reference. The team used prime editing to insert short barcodes into nearly every repeat, then used ultra-long reads to assemble each array end to end. They counted 290 copies across 18 arrays and tied DNA methylation to transcription for single repeats. It covers one cancer cell line, K562, so other genomes will differ.",
+  "tags": [
+    "genomics",
+    "ribosomal dna",
+    "prime editing"
+  ],
+  "title": "Saturation barcoding of ribosomal DNA resolves the nucleolar organizer regions of the human genome",
+  "url": "https://doi.org/10.64898/2026.11.10.765783",
+  "venue": "bioRxiv"
+}

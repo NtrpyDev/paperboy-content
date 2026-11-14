@@ -1,0 +1,35 @@
+{
+  "abstract": "Boryl groups are among the most versatile functionalities in modern chemistry, yet their electronic effects remain poorly quantified. Hammett substituent parameters provide a powerful framework for describing substituent effects, but are available for only a limited number of boryl groups. Herein, we combine experimental measurements and computational approaches to establish a comprehensive set of Hammett constants for the most commonly used boryl substituents. Experimental determination was achieved through acidity measurements of meta- and para-substituted benzoic acids and complemented by computational methods for systems inaccessible to direct measurement. The resulting parameters reveal an unexpectedly broad range of electronic behaviors, spanning strongly electron-donating tetracoordinate borates to highly electron-withdrawing dihaloboranes and boranes. Analysis of inductive and mesomeric contributions, supported by Natural Bond Orbital (NBO) calculations, identifies the key structural factors governing these trends, including boron coordination state, heteroatom-to-boron donation, and π-acceptor ability. These results establish a quantitative framework for understanding, comparing, and predicting boryl substituent effects, providing a foundation for the rational design of boron-containing reagents and functional molecules.",
+  "arxiv_id": null,
+  "authors": [
+    "Matthieu Hicguet",
+    "Stéphanie Wautier",
+    "Luna Lenoir",
+    "Raphaël Robiette"
+  ],
+  "categories": [],
+  "doi": "10.1002/anie.4259948",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Measured Hammett constants show boryl groups range from strong electron donors to strong acceptors.",
+  "id": "doi-10.1002-anie.4259948",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "The authors measured how boryl groups shift the acidity of substituted benzoic acids and filled gaps with calculations. Four-coordinate borates push electrons strongly, while dihaloboranes and boranes pull them. Some values come from computation, not measurement, because those systems could not be measured directly.",
+  "tags": [
+    "boron chemistry",
+    "physical organic chemistry"
+  ],
+  "title": "A Quantitative Map of Boryl Substituent Effects Through Hammett Parameters and Electronic Analysis.",
+  "url": "https://doi.org/10.1002/anie.4259948",
+  "venue": "Angewandte Chemie International Edition"
+}

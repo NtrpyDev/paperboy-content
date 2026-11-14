@@ -1,0 +1,40 @@
+{
+  "abstract": "Converging neuroimaging evidence indicates that the hippocampus is involved in motor sequence learning (MSL) and its consolidation at multiple timescales. However, direct evidence for a causal role of the hippocampus in these processes in healthy humans remains scarce, partly due to the inability of conventional non-invasive brain stimulation techniques to reach this deep brain structure. Here, we used temporal interference stimulation (TIS) - a technique enabling non-invasive stimulation targeted toward deep brain regions - to probe the functional role of the hippocampus in MSL and its consolidation. In two separate experiments, sixty-four young healthy adults (36 females) received, in within-subject counterbalanced designs, active (5 Hz envelope) or control (0 Hz envelope) hippocampal-targeted TIS either during active practice of an MSL task (task-TIS experiment, n = 32) or during the short rest periods interleaved with task practice known to support rapid forms of consolidation (rest-TIS experiment, n = 32). Consolidation was assessed at both the micro timescale (i.e., over the short \"micro-offline\" rest intervals interspersed with task practice) and macro timescale (i.e., over a 24-hour \"macro-offline\" retention interval). Our results indicate that TIS targeting the hippocampus during inter-practice rest periods - but not during task practice - significantly enhanced micro-offline gains in performance as compared to control stimulation. While this effect did not carry over to the 24-hour retention interval at the group level, participants with greater stimulation-induced micro-offline gains showed larger overnight performance improvements. These findings provide the first direct evidence that experimental interventions targeting the hippocampus modulate offline motor memory consolidation processes.",
+  "arxiv_id": null,
+  "authors": [
+    "Pan, X.",
+    "Taylor, J.",
+    "Violante, I. R.",
+    "Grossman, N.",
+    "Inman, C.",
+    "King, B. R.",
+    "Albouy, G."
+  ],
+  "categories": [
+    "neuroscience"
+  ],
+  "doi": "10.64898/2026.11.11.766003",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/13/2026.11.11.766003.source.xml"
+  },
+  "hook": "Hippocampal stimulation during rest breaks, not practice, boosted motor sequence learning gains.",
+  "id": "doi-10.64898-2026.11.11.766003",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Non-invasive temporal interference stimulation aimed at the hippocampus raised short-rest performance gains in a finger-sequence task when applied between practice blocks, not during practice. In 64 healthy adults, the boost did not hold at the 24-hour group level. Depth targeting was not verified directly, and the sample is small.",
+  "tags": [
+    "brain stimulation",
+    "memory consolidation"
+  ],
+  "title": "Non-invasive temporal interference stimulation targeting the hippocampus enhances fast motor memory consolidation",
+  "url": "https://doi.org/10.64898/2026.11.11.766003",
+  "venue": "bioRxiv"
+}

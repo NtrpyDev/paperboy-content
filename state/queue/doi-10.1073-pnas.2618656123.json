@@ -1,0 +1,47 @@
+{
+  "abstract": "Ecosystems are complex adaptive systems in which local interactions among individuals shape macroscopic phenomena such as pattern formation, multistability, and critical transitions. However, how such bottom-up interactions govern emergent behaviors and system-level complexity remains a central challenge in ecology. Phase transition theory, a classic paradigm in physics, links local interaction rules to emergent changes in macroscopic system states, offering a formal language for understanding cross-scale dynamics. Here we unite this theory with empirical evidence from dryland shrub-grass ecosystems and show that these systems exhibit three hallmarks of phase transitions. First, abrupt shifts separate different phases of deserts, shrublands, and grasslands. Second, shrublands and grasslands self-organize into Turing-like phase patterns, contrasting with homogeneous deserts. Third, special phenomena emerge near-transition threshold, including patch enlargement and abrupt decline at desert-vegetation interface, and fairy circles within the shrub-grass transition zone. Using a cellular automaton model built on a fundamental trade-off between extensive and intensive resource foraging strategies (EI trade-off), we show how kernels encoding local trade-offs integrate these seemingly disparate phenomena within a unified phase transition framework. Moreover, this EI trade-off was empirically validated through analyses of plant functional traits and spatial patterns of plant patches. These findings illustrate that dryland ecosystem dynamics reflect universal self-organization principles. Our work establishes phase-transition theory as a powerful framework for understanding, predicting, and managing complexity in dryland ecosystems, which advances the integration of complexity science with ecology, offering a pathway toward bottom-up ecosystem understanding.",
+  "arxiv_id": null,
+  "authors": [
+    "Jingyao Sun",
+    "Kailiang Yu",
+    "Xinrong Li",
+    "Max Rietkerk",
+    "Paolo D'Odorico",
+    "Ning Chen",
+    "Yanli Wang",
+    "Libin Zhang",
+    "Guirui Yu"
+  ],
+  "categories": [
+    "Poaceae",
+    "Ecosystem",
+    "Desert Climate",
+    "Phase Transition",
+    "Models, Biological",
+    "Grassland"
+  ],
+  "doi": "10.1073/pnas.2618656123",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Dryland shrub and grass ecosystems behave like physical phase transitions, a trade-off model shows.",
+  "id": "doi-10.1073-pnas.2618656123",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Dryland deserts, shrublands and grasslands show abrupt shifts, Turing-like patterns and features such as fairy circles near thresholds. A cellular automaton built on a trade-off between wide and intensive foraging reproduces them, and plant traits and patch patterns support the trade-off. The model is a simplification, and fit to field patterns does not prove the mechanism.",
+  "tags": [
+    "ecosystems",
+    "phase transitions"
+  ],
+  "title": "Phase transition in a dryland shrub-grass ecosystem: Emergence through local trade-offs.",
+  "url": "https://doi.org/10.1073/pnas.2618656123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

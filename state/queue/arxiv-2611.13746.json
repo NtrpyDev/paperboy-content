@@ -1,0 +1,63 @@
+{
+  "abstract": "Although inverted perovskite solar cells now deliver certified efficiencies approaching their single-junction limits, their practical deployment remains constrained by the thermo-mechanical fragility of buried interfaces under realistic temperature fluctuations. Here, we identify thermo-mechanically driven, stress-accumulation-dominated adhesion failure at self-assembled monolayer-based buried interfaces as a critical failure mode in inverted perovskite solar cells. To address this issue, we propose an interfacial robustness design strategy based on a homometallic halide pretreatment, which constructs a chemically compatible and highly anchorable interfacial environment on transparent conductive oxides to guide the ordered assembly of SAMs. This interfacial treatment increases the density of surface hydroxyl species and enables hierarchical multipoint interfacial anchoring dominated by metal-oxygen coordination, with Cl- induced hydrogen-bonding interactions acting cooperatively, thereby enhancing anchoring robustness and improving tolerance to thermo-mechanical stress accumulation. With this interfacial strategy, the devices achieve a power conversion efficiency of 27.3% (26.9% certified) and retain 94% of their initial efficiency after 400 temperature cycles between -40 and 85 degrees C (ISOS-T-3). These results demonstrate that rational regulation of buried interfacial anchoring architectures can simultaneously enhance device efficiency and long-term operational reliability, offering a viable pathway toward high-efficiency and durable perovskite photovoltaics.",
+  "arxiv_id": "2611.13746",
+  "authors": [
+    "Jiaxin Wu",
+    "Hongzhuo Wu",
+    "Zuhong Zhang",
+    "Xiaoyu Guan",
+    "Jinbo Zhao",
+    "Yuting Guo",
+    "Zhihao Li",
+    "Zirui Li",
+    "Tengyu Ma",
+    "Ying Tang",
+    "Zhe Li",
+    "Weiwei Zuo",
+    "Jorge Pascual",
+    "Bo Hou",
+    "Feng Yang",
+    "Xiaoli Pan",
+    "Yu Wang",
+    "Luyao Wang",
+    "Lin-Long Deng",
+    "Guixiang Li",
+    "Luca Sapienza",
+    "Antonio Abate",
+    "Meng Li"
+  ],
+  "categories": [
+    "physics.optics",
+    "cond-mat.mtrl-sci"
+  ],
+  "doi": "10.1126/sciadv.aej6035",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13746"
+  },
+  "hook": "A halide pretreatment toughens a buried layer in perovskite cells: 27.3% efficiency, 94% kept after cycling.",
+  "hook_turn": "27.3% efficiency, 94% kept after cycling.",
+  "id": "arxiv-2611.13746",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Power conversion efficiency, treated cells",
+    "unit": "percent",
+    "value": "27.3"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Inverted perovskite cells can fail when temperature swings stress the thin molecular layer buried under the perovskite. Pretreating the transparent oxide with a metal halide gives that layer stronger multipoint anchoring. Devices reached 27.3% efficiency (26.9% certified) and kept 94% after 400 cycles from -40 to 85 C. Only one cycling protocol and small lab devices are described.",
+  "tags": [
+    "perovskite solar cells",
+    "device stability"
+  ],
+  "title": "Hierarchical interfacial anchoring for durable perovskite solar cells",
+  "url": "https://arxiv.org/abs/2611.13746",
+  "venue": "arXiv"
+}

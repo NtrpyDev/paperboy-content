@@ -1,0 +1,37 @@
+{
+  "abstract": "We exhibit a congruence subgroup $\\Gamma\\subset\\operatorname{SL}(2,\\mathbb{Z})$ of level $120$ and index $23040$ whose modular curve $X_\\Gamma$ has genus $1777$ and whose Jacobian is isogenous over $\\overline{\\mathbb{Q}}$ to a product of elliptic curves. This surpasses the previous record of a completely decomposable complex Jacobian of dimension $1297$ found by Ekedahl and Serre in $1993$.",
+  "arxiv_id": "2611.16963",
+  "authors": [
+    "Robert Auffarth"
+  ],
+  "categories": [
+    "math.AG",
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16963"
+  },
+  "hook": "A modular curve of genus 1777 has a Jacobian that splits into elliptic curves, a new record.",
+  "hook_turn": "a new record.",
+  "id": "arxiv-2611.16963",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A modular curve is a geometric object built from symmetries of the integers, and its Jacobian is a related higher-dimensional shape. The author finds a level-120 example whose Jacobian is isogenous to a product of elliptic curves, beating the 1993 record of dimension 1297. This is an existence example found for one group, not a general classification.",
+  "tags": [
+    "modular curves",
+    "elliptic curves",
+    "number theory"
+  ],
+  "title": "A completely decomposable modular Jacobian of dimension $1777$",
+  "url": "https://arxiv.org/abs/2611.16963",
+  "venue": "arXiv"
+}

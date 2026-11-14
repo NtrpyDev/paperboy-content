@@ -1,0 +1,37 @@
+{
+  "abstract": "Many different Solar System formation scenarios successfully reproduce the main astrophysical properties of the inner Solar System. Here, we use the chemistry of Earth's mantle to determine whether proposed Solar System formation scenarios can produce Earth and to constrain the characteristics of both the Proto-Earth and the Moon-forming impactor, Theia. To do this, we use a coupled N-body accretion and core-mantle differentiation model (Rubie et al., 2011, 2015b) applied to a range of proposed formation scenarios (Classical, Annulus, and Grand Tack scenarios). This model calculates the mantle chemistry of Earth-like planets in Solar System formation simulations and adjusts the initial redox state of the building blocks in a synthetic protoplanetary disk until the mantle of the simulated Earth closely matches the bulk silicate Earth. We find that a strong oxidizing gradient among the initial solids of the protoplanetary disk is favored to reproduce the chemistry of Earth's mantle, in agreement with Rubie et al. (2015b). The Solar System formation scenarios examined here successfully reproduce the composition of Earth if two related conditions are met: 1) there is a strong positive oxidation gradient with distance in the inner protoplanetary disk and 2) Earth accretes increasingly more oxidized material (on average) as it grows. Furthermore, in simulations that successfully reproduce Earth's composition, Proto-Earth and Theia may possess a wide range of mantle compositions and mass ratios. However, because late accretion is oxidizing across all proposed Solar System formation scenarios, Theia and Proto-Earth cannot both possess mantles that are more oxidized than the present-day Earth's mantle. Similarly, Theia's mantle may be significantly more oxidized than present-day Earth's mantle, but only if it is relatively small compared to the Proto-Earth.",
+  "arxiv_id": "2611.14842",
+  "authors": [
+    "Gabriel I. Nathan",
+    "Hung D. Nguyen",
+    "Seth A. Jacobson"
+  ],
+  "categories": [
+    "astro-ph.EP"
+  ],
+  "doi": "10.1016/j.icarus.2026.117355",
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14842"
+  },
+  "hook": "Earth's mantle chemistry implies Theia was small and Earth grew by accreting increasingly oxidized material.",
+  "hook_turn": "Earth grew by accreting increasingly oxidized material.",
+  "id": "arxiv-2611.14842",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Coupled N-body accretion and core-mantle differentiation simulations were run for Classical, Annulus, and Grand Tack scenarios and tuned to match Earth's mantle. Matching it requires a strong oxidation gradient across the inner disk and increasingly oxidized building blocks. Theia and Proto-Earth cannot both be more oxidized than today's mantle. The results depend on a synthetic disk and model assumptions.",
+  "tags": [
+    "planet formation",
+    "Moon formation"
+  ],
+  "title": "Earth accreted increasingly oxidized material as it grew constraining Theia to be small and relatively oxidized",
+  "url": "https://arxiv.org/abs/2611.14842",
+  "venue": "arXiv"
+}

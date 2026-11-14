@@ -1,0 +1,47 @@
+{
+  "abstract": "Abstract Synthetic dimensions, where additional spatial dimensions are encoded within the internal states of a quantum system, allow the realisation of phenomena usually inaccessible in experiments. Ultracold polar molecules are an ideal platform for synthetic dimensions, providing large Hilbert spaces of long-lived rotational and hyperfine states that can be linked with microwave fields to simulate tunnelling. Here, we realise a one-dimensional synthetic lattice using the rotational states of ultracold RbCs molecules and investigate the topological properties of the Su-Schrieffer-Heeger model. We spectroscopically probe the system using an auxiliary rotational state and study the time dynamics after deterministic state preparation. We demonstrate long coherence times, reaching ~ 500 tunnelling periods even for lattices spanning eight rotational states. Using full site-resolved readout over long evolution times, we study the robustness of topologically protected edge states against perturbations that preserve or break chiral symmetry. These results establish ultracold molecules as a powerful platform for quantum simulation using synthetic dimensions.",
+  "arxiv_id": null,
+  "authors": [
+    "Adarsh P. Raghuram",
+    "Francesca M. Blondell",
+    "Jonathan M. Mortlock",
+    "Benjamin P. Maddox",
+    "Sohail Dasgupta",
+    "Holly A. J. Middleton-Spencer",
+    "Kaden R. A. Hazzard",
+    "Hannah M. Price",
+    "Philip D. Gregory",
+    "Simon L. Cornish"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-79032-4",
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Synthetic-lattice edge states in ultracold molecules stay coherent for about 500 tunnelling periods.",
+  "hook_turn": "stay coherent for about 500 tunnelling periods.",
+  "id": "doi-10.1038-s41467-026-79032-4",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Coherence time, eight-state lattice",
+    "unit": "tunnelling periods",
+    "value": "~500"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Rotational states of ultracold RbCs molecules were linked by microwaves to form a synthetic one-dimensional lattice that realizes the Su-Schrieffer-Heeger model. Site-resolved readout showed edge states resisting perturbations that preserve chiral symmetry and not those that break it. The lattice is short, at up to eight states.",
+  "tags": [
+    "quantum simulation",
+    "ultracold molecules"
+  ],
+  "title": "Probing topological edge states in a molecular synthetic dimension",
+  "url": "https://doi.org/10.1038/s41467-026-79032-4",
+  "venue": "Nature Communications"
+}

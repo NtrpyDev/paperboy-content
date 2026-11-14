@@ -1,0 +1,54 @@
+{
+  "abstract": "Enhancers are key gene regulatory elements that ensure the precise spatiotemporal execution of developmental gene expression programs. However, recent findings indicate that current approaches to identify enhancers may not capture the full repertoire of active enhancers in mammalian genomes. Here, we combine massively parallel enhancer assays with chromatin structure and transcriptome profiling to functionally annotate enhancers genome-wide in human induced pluripotent stem cells. We find that a substantial fraction (∼40%) of accessible chromatin regions with enhancer function lack key features associated with active enhancers, including the active enhancer mark histone H3 lysine-27 acetylation and enhancer-associated RNAs. Perturbation of this class of noncanonical enhancers by CRISPR-mediated epigenome editing or deletion results in decreased levels of target gene expression and, in one instance, loss of pluripotent stem cell characteristics. Collectively, our data demonstrate enhancer activity for a class of gene regulatory elements that had, until now, only been associated with a neutral or inactive status, challenging current models of enhancer function.",
+  "arxiv_id": null,
+  "authors": [
+    "Yang Cao",
+    "Oleksandr Dovgusha",
+    "Ayyub Ebrahimi",
+    "Carmela Rieline V. Cruz",
+    "Stephen Bevan",
+    "Lukas Widmer",
+    "Fereshteh Torabi",
+    "Julia Kurlovich",
+    "Ignacio Rodríguez-Polo",
+    "Soumen Khan",
+    "Manthan Patel",
+    "Oliver T. Shiels",
+    "Madapura M. Pradeepa",
+    "Sean M. Flynn",
+    "Ufuk Günesdogan",
+    "Stefan Schoenfelder"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.adz3328",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "About 40% of enhancer-acting DNA regions lack the usual active marks.",
+  "hook_turn": "lack the usual active marks.",
+  "id": "doi-10.1126-sciadv.adz3328",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Enhancer-active regions lacking active marks",
+    "unit": "percent",
+    "value": "~40"
+  },
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Testing enhancer function across the genome of human stem cells, the team found many accessible regions that act as enhancers without the standard acetylation mark or enhancer RNAs. Editing or deleting them lowered target gene expression. The work is in one stem cell type, and only a few regions were perturbed individually.",
+  "tags": [
+    "enhancers",
+    "gene regulation",
+    "stem cells"
+  ],
+  "title": "Noncanonical enhancers control gene expression and cell fate in human pluripotent stem cells",
+  "url": "https://doi.org/10.1126/sciadv.adz3328",
+  "venue": "Science Advances"
+}

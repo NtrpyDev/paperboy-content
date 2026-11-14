@@ -1,0 +1,35 @@
+{
+  "abstract": "For every prime $p>24$, let $H$ be the kernel of $\\SL_2(\\Z/p^9\\Z)\\to\\SL_2(\\F_p)$. We prove that $H$ is not IYB, whereas $H\\times C_{p^8}$ is IYB. The proof excludes a pre-Lie multiplication on the rank-three Lie ring with bracket $p[x,y]$ over $\\Z/p^8\\Z$ using three trace identities. It follows that the supersoluble group $H\\times(C_{p^8}\\rtimes C_2)$, with the involution acting by inversion, has IYB Sylow subgroups and is not IYB. Its nilpotent residual is cyclic and its Sylow $p$-subgroup has nilpotency class eight. For $p=31$, an action of order three gives a supersoluble counterexample of odd order $3\\cdot31^{32}$. The same construction gives an IYB $p$-group with a specified central cyclic direct factor such that the quotient of the whole group by the unique subgroup of order $p$ in that factor is non-IYB.",
+  "arxiv_id": "2611.13792",
+  "authors": [
+    "L\\\"u Gong"
+  ],
+  "categories": [
+    "math.GR"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13792"
+  },
+  "hook": "A supersoluble group of odd order 3*31^32 is not IYB, a counterexample to a Kourovka problem.",
+  "hook_turn": "a counterexample to a Kourovka problem.",
+  "id": "arxiv-2611.13792",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper builds explicit groups from congruence subgroups of SL2 that are not IYB, a property tied to solutions of the Yang-Baxter equation, even though their Sylow subgroups are. The proof rules out a pre-Lie multiplication using three trace identities. This gives a counterexample to Kourovka Problem 21.7, valid for primes above 24.",
+  "tags": [
+    "group theory",
+    "Yang-Baxter equation"
+  ],
+  "title": "A congruence-group counterexample to Kourovka Problem 21.7",
+  "url": "https://arxiv.org/abs/2611.13792",
+  "venue": "arXiv"
+}

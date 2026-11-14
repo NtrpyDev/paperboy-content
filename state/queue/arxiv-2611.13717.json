@@ -1,0 +1,47 @@
+{
+  "abstract": "Double-lined spectroscopic binary (SB2) orbits give mass ratios and projected component masses, but the absolute masses depend on the unknown inclination. HD 70510 is a Gaia DR3 SB2 in which regular $\\delta$ Scuti pulsations constrain the properties of one component. We analyze nine sectors of TESS photometry and combine stellar evolution and pulsation modelling with a two-star spectral energy distribution (SED) fit to the unresolved Gaia and 2MASS photometry. Five high-signal-to-noise peaks form a sequence consistent with the radial fundamental mode and four consecutive overtones. Two stable pulsation clocks show the sign and amplitude expected from the orbital motion of the Gaia primary, identifying it as the pulsator. Combining the radial-mode and binary-SED fits with the Gaia SB2 orbit gives $M_1=1.594^{+0.026}_{-0.026}\\,M_\\odot$, $R_1=1.482^{+0.014}_{-0.012}\\,R_\\odot$, and an age of $171^{+112}_{-99}$ Myr. We obtain an orbital inclination of $i=82.1^{+3.5}_{-3.4}$ deg and a companion mass of $M_2=1.121^{+0.029}_{-0.028}\\,M_\\odot$. These intervals are statistical and remain conditional on the adopted radial-mode identification and stellar and binary-SED models. The primary lies close to the zero-age main sequence, while the roughly 6000-K companion contributes 14-28% of the unresolved optical-to-near-infrared flux. HD 70510 shows how regular pulsations can provide component masses for non-eclipsing TESS binaries with Gaia DR3 SB2 orbital solutions.",
+  "arxiv_id": "2611.13717",
+  "authors": [
+    "Chenglong Lv",
+    "Ali Esamdin",
+    "Shuguo Ma",
+    "Shahidin Yaqup",
+    "Haozhi Wang",
+    "Ayzada Jmahali",
+    "Jianwei Yao",
+    "Kedieryemu Kamili"
+  ],
+  "categories": [
+    "astro-ph.SR"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13717"
+  },
+  "hook": "Pulsations of a Delta Scuti star pin a hidden companion at 1.121 solar masses in a non-eclipsing binary.",
+  "hook_turn": "in a non-eclipsing binary.",
+  "id": "arxiv-2611.13717",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Companion mass of HD 70510",
+    "unit": "solar masses",
+    "value": "1.121"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Using nine TESS sectors, the authors matched five pulsation peaks of HD 70510 to radial modes, then combined this with a two-star spectral fit and the Gaia orbit. That gives the pulsating primary 1.594 solar masses, an inclination near 82 degrees and a companion of 1.121 solar masses. The results depend on the radial-mode identification and the stellar models assumed.",
+  "tags": [
+    "asteroseismology",
+    "binary stars"
+  ],
+  "title": "Asteroseismology of the Gaia SB2 HD 70510: From Radial Modes to Component Masses",
+  "url": "https://arxiv.org/abs/2611.13717",
+  "venue": "arXiv"
+}

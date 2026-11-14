@@ -1,0 +1,34 @@
+{
+  "abstract": "A fundamental question of developmental biology is pattern formation, or how cells with specific gene expression end up in specific locations in the body to form tissues, organs, and, overall functional anatomy. Pattern formation involves communication through extracellular signals and complex intracellular gene networks integrating these signals to determine cell responses (e.g. further signaling, cell division, cell differentiation, etc.). In this article, we address two questions: (1) Are there any logical or mathematical principles determining which gene network topologies can lead to pattern formation by cell signaling over space in multicellular systems? (2) Can gene network topologies be classified into a small number of classes that entail similar dynamics and pattern transformation capacities? We combine logical arguments and mathematical proofs to show that, despite the large amount of formally possible gene network topologies, all gene network topologies capable of pattern formation fall into only three fundamental classes and their combinations. Additionally, we show that gene networks within each class share the same logic on how they lead to pattern formation, and hence, lead to similar patterns. We characterize the main features of each class. This zoo includes the complete gene networks that, to the best of our knowledge, have been experimentally reported to lead to pattern formation as well as other gene networks that have not yet been found experimentally.",
+  "arxiv_id": null,
+  "authors": [
+    "Kevin Martinez Anhom",
+    "Isaac Salazar-Ciudad"
+  ],
+  "categories": [],
+  "doi": "10.7554/elife.107563.4",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Gene networks that can form body patterns fall into only three classes.",
+  "hook_turn": "fall into only three classes.",
+  "id": "doi-10.7554-elife.107563.4",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Using logical arguments and mathematical proofs, the authors show every gene network that can make spatial patterns through cell signaling belongs to one of three classes or a mix. Networks in a class share the same patterning logic, and known experimental cases fit. This is a theoretical classification, so unobserved networks it predicts remain untested.",
+  "tags": [
+    "pattern formation",
+    "gene networks"
+  ],
+  "title": "The zoo of the gene networks capable of pattern formation by extracellular signaling",
+  "url": "https://doi.org/10.7554/elife.107563.4",
+  "venue": "eLife"
+}

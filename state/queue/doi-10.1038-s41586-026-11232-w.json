@@ -1,0 +1,35 @@
+{
+  "abstract": "Empirical research so far largely suggests that population policies around the world do not explain a majority of the global fertility decline1-10. Notably, even China's total fertility rate declined little after implementation of the one-child policy in 1979 and 1980, but fertility then fell sharply by more than one-third during the early 1990s. Here we show that strengthening bureaucratic incentives under China's one vote veto policy, which strictly prohibited career advancement for adherence failure, was instrumental in more effective implementation of the one-child policy, and in its delayed impact on fertility. Using provincial variation in implementation timing, we find that the one vote veto explains nearly half of China's total fertility rate decline during the 1990s, driving fertility below the replacement rate. Increases in use of intrauterine devices (the most prevalent form of modern contraception in China) that were recommended by local officials were particularly salient. Overall, our findings suggest that population policy, when more strictly enforced due to stronger bureaucratic incentives, made a greater contribution to low fertility in China than suggested by past research.",
+  "arxiv_id": null,
+  "authors": [
+    "Lingsheng Meng",
+    "Hanmo Yang",
+    "Grant Miller",
+    "Hongbin Li"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41586-026-11232-w",
+  "explain": false,
+  "field": "social",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "China's one vote veto rule explains nearly half of its 1990s fertility decline.",
+  "id": "doi-10.1038-s41586-026-11232-w",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Career penalties for officials who missed one-child targets made enforcement stricter, and fertility fell sharply in the early 1990s. Comparing provinces that adopted the rule at different times, the authors attribute nearly half of the 1990s decline to it, mostly via recommended IUD use. This is a quasi-experimental estimate, not a randomized test.",
+  "tags": [
+    "fertility",
+    "China"
+  ],
+  "title": "Bureaucratic incentives shaped effectiveness of the one-child policy in China.",
+  "url": "https://doi.org/10.1038/s41586-026-11232-w",
+  "venue": "Nature"
+}

@@ -1,0 +1,38 @@
+{
+  "abstract": "Germline aging limits reproductive lifespan, yet quantitative measures of germline age at cellular resolution within intact tissue remain limited. Here, we show that two germline condensates, P granules and Mutator foci, undergo systematic age-associated remodeling in Caenorhabditis elegans, changing in morphology, spatial organization, and mutual associations. From these single-nucleus features, we develop Germ Granule Clock (GG-Clock), an image-based aging clock that accurately predicts chronological age. Intermittent fasting, a pro-longevity intervention, shifts GG-Clock predictions toward a younger germline state, demonstrating the clock's responsiveness to anti-aging interventions. To make the approach broadly usable, we introduce GGProfiler, an open-source tool that automates granule segmentation and feature extraction. Together, our findings establish germ granule architecture as an interpretable, image-based readout of germline aging and provide a platform for quantifying condensate remodeling across genetic and environmental interventions, with potential translation to other systems.",
+  "arxiv_id": null,
+  "authors": [
+    "Dasgupta, P.",
+    "Lee, R. J.",
+    "Dinneen, E.",
+    "Silva-Garcia, C. G."
+  ],
+  "categories": [
+    "cell biology"
+  ],
+  "doi": "10.64898/2026.11.10.765724",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/12/2026.11.10.765724.source.xml"
+  },
+  "hook": "Germ granule shapes in worm germ cells predict the animal's age, and fasting makes them look younger",
+  "hook_turn": "fasting makes them look younger",
+  "id": "doi-10.64898-2026.11.10.765724",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "In C. elegans, two germ-cell condensates change in shape, position, and association with age. Features from single nuclei trained an image-based age predictor called GG-Clock, which read as younger after intermittent fasting. The clock was tested in worms only, and its link to actual reproductive function is not shown in the abstract.",
+  "tags": [
+    "aging",
+    "C. elegans"
+  ],
+  "title": "Germ Granule Remodeling Reveals Germline Age in Caenorhabditis elegans",
+  "url": "https://doi.org/10.64898/2026.11.10.765724",
+  "venue": "bioRxiv"
+}

@@ -1,0 +1,40 @@
+{
+  "abstract": "An observation of the rare decay $\\eta$ $\\to$ $\\mu^+\\mu^-\\pi^+\\pi^-$ is reported from proton-proton collision data at a center-of-mass energy of 13.6 TeV, collected by the CMS experiment at the CERN LHC in 2022 and 2023, and corresponding to an integrated luminosity of 62.6 fb$^{-1}$. In addition, the branching fraction ratio of $\\eta$ $\\to$ $\\mu^+\\mu^-\\mu^+\\mu^-$ relative to $\\eta$ $\\to$ $\\mu^+\\mu^-$ is measured with a precision improved by 44% compared with the previous measurement. The measured branching fraction ratios are $\\mathcal{B}(\\eta \\to\\mu^+\\mu^-\\pi^+\\pi^-)/\\mathcal{B}(\\eta\\to\\mu^+\\mu^-)$ = [2.89 $\\pm$ 0.48 (stat) $^{+0.42}_{-0.29}$ (syst)]$\\times$ 10$^{-3}$ and $\\mathcal{B}(\\eta\\to\\mu^+\\mu^-\\mu^+\\mu^-)/\\mathcal{B}(\\eta\\to\\mu^+\\mu^-)$ = [0.86 $\\pm$ 0.06 (stat) $^{+0.09}_{-0.08}$ (syst)]$\\times$10$^{-3}$.",
+  "arxiv_id": "2611.15973",
+  "authors": [
+    "CMS Collaboration"
+  ],
+  "categories": [
+    "hep-ex"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15973"
+  },
+  "hook": "CMS sees the eta meson decay into two muons and two pions, a very rare mode.",
+  "hook_turn": "a very rare mode.",
+  "id": "arxiv-2611.15973",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "exponent": -3,
+    "label": "Rate of eta to mumupipi relative to eta to mumu",
+    "value": "2.89"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The CMS experiment reports an observation of the eta meson decaying to two muons and two pions, using 62.6 fb^-1 of 13.6 TeV proton collisions. It also measures the four-muon decay rate with 44% better precision. Both are given as ratios to the two-muon decay, and the new mode has about 17% statistical uncertainty.",
+  "tags": [
+    "particle physics",
+    "rare decays"
+  ],
+  "title": "Observation of the $\\eta$ $\\to$ $\\mu^+\\mu^-\\pi^+\\pi^-$ decay and an improved measurement of the $\\eta$ $\\to$ $\\mu^+\\mu^-\\mu^+\\mu^-$ branching fraction",
+  "url": "https://arxiv.org/abs/2611.15973",
+  "venue": "arXiv"
+}

@@ -1,0 +1,62 @@
+{
+  "abstract": "Extracellular signal-regulated kinases (ERKs) have essential roles in development and are implicated in numerous diseases. ERKs are activated by phosphorylation and are regulated by dephosphorylation. To study the ERK phosphatases, we adapted a method to monitor ERK activity in live, unfixed preparations that accommodates the highly dynamic temporal and spatial features of ERK activation. We evaluated 140 human phosphatases using an in vivo reporter (ERK-SPARK) for high-throughput screening in human cells, and we used an in vivo Drosophila model for functional validation of their phosphatase homologs. We found that EYA family phosphatases are critical regulators of ERK signaling both in Drosophila and in mammalian cells and found that inhibition of human EYA4, a homolog of Drosophila Eyes Absent phosphatase, enhances migration of ERK-responsive tumor cells. These findings have important implications for the development of therapeutics.",
+  "arxiv_id": null,
+  "authors": [
+    "Yue Li",
+    "Huanle Li",
+    "Tianfeng Lu",
+    "Qingcui Li",
+    "Wenrui Dou",
+    "Xiaoyi Zhu",
+    "Ming Zhong",
+    "Qiang Zhao",
+    "Junhui Guo",
+    "Thomas B Kornberg",
+    "Honggang Wu",
+    "Xiaokun Shu",
+    "Hai Huang"
+  ],
+  "categories": [
+    "Animals",
+    "Humans",
+    "Drosophila",
+    "Drosophila melanogaster",
+    "Phosphoric Monoester Hydrolases",
+    "Extracellular Signal-Regulated MAP Kinases",
+    "Drosophila Proteins",
+    "Cell Movement",
+    "MAP Kinase Signaling System",
+    "Enzyme Activation",
+    "Phosphorylation",
+    "Protein Tyrosine Phosphatases"
+  ],
+  "doi": "10.1073/pnas.2613268123",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A screen of 140 human phosphatases finds EYA enzymes restrain ERK signaling.",
+  "id": "doi-10.1073-pnas.2613268123",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Human phosphatases screened for ERK control",
+    "unit": "phosphatases",
+    "value": "140"
+  },
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "The authors screened 140 human phosphatases with a live ERK activity reporter and checked the hits in fruit flies. EYA family phosphatases emerged as regulators of ERK in flies and mammalian cells, and inhibiting human EYA4 increased migration of ERK-responsive tumor cells. The therapeutic implications remain to be tested beyond cell and fly models.",
+  "tags": [
+    "ERK signaling",
+    "phosphatases"
+  ],
+  "title": "Phosphatases regulating ERK activation and ERK-dependent cell migration.",
+  "url": "https://doi.org/10.1073/pnas.2613268123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

@@ -1,0 +1,51 @@
+{
+  "abstract": "Brown adipocytes (BAs) are thermogenic cells that regulate energy homeostasis, and age-related declines in thermogenesis contribute to cold sensitivity1-5. We previously identified a BA subpopulation with low UCP1 expression (hereafter, BA-L cells) that coexists with the classical, high-UCP1-expressing BAs (hereafter, BA-H cells)6. Here we show that IL-1β secreted by neutrophils and macrophages stabilizes nearby BAs in the BA-L state. Specifically, IL-1β stabilizes hexose-6-phosphate dehydrogenase (H6PD) protein from degradation to ensure the generation of active glucocorticoids, which activate the glucocorticoid receptor (GR, encoded by Nr3c1) and increase the expression of its target gene, regulator of G-protein signalling 2 (Rgs2), thereby suppressing UCP1 expression. Cold exposure reduces IL-1β levels, depending on sympathetic innervation, leading to H6PD degradation and the conversion of BA-L cells to BA-H cells, thereby enhancing UCP1-dependent thermogenesis. Rising environmental temperatures trigger the opposite events. BA-specific inducible deletion of Nr3c1 during cold exposure locks these cells in the BA-H state, leading to persistent thermogenesis and increased energy expenditure days after the mice return to room temperature. Notably, IL-1β is elevated in aged brown adipose tissue, resulting in a locked low BA-H/BA-L ratio and cold intolerance. Suppressing GR in aged mice restores the BA-H/BA-L ratio, resumes thermogenesis and increases energy expenditure. Our findings reveal a spatiotemporal neuronal-immune regulation of BA heterogeneity that governs thermogenesis and offers a fundamental understanding of the mechanisms underlying increased cold sensitivity in older individuals.",
+  "arxiv_id": null,
+  "authors": [
+    "Anying Song",
+    "Yifan Wang",
+    "Guan Wang",
+    "Marie Bae",
+    "Zhichao Wang",
+    "Guoming Gao",
+    "Zhuyin Wu",
+    "Geming Lu",
+    "Jieyi Meng",
+    "Jiayu Yu",
+    "Soojin Park",
+    "Adolfo Garcia-Ocaña",
+    "Patrick T Fueger",
+    "Loredana Rao",
+    "Andrea Frontini",
+    "Yong Liu",
+    "Lei Jiang",
+    "Yi Zhu",
+    "Qiong A Wang"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41586-026-11308-7",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "IL-1β keeps some brown fat cells in a low-heat state, and blocking its path restores warmth in aged mice.",
+  "id": "doi-10.1038-s41586-026-11308-7",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Brown fat holds cells with high or low UCP1, the protein that makes heat. Immune IL-1β stabilizes the low state through a glucocorticoid pathway, cold lowers IL-1β, and aged tissue has too much. Blocking the glucocorticoid receptor in old mice restored heat production. All results are in mice.",
+  "tags": [
+    "brown fat",
+    "thermogenesis",
+    "aging"
+  ],
+  "title": "Bistable regulation of adipocyte heterogeneity governs thermogenesis.",
+  "url": "https://doi.org/10.1038/s41586-026-11308-7",
+  "venue": "Nature"
+}

@@ -1,0 +1,41 @@
+{
+  "abstract": "The semi-random graph process is a single player game which starts with an empty graph on $n$ vertices and in each round the player is offered a random vertex and connects it to a vertex selected according to some strategy $\\mathcal{S}$. The goal is, in as few rounds as possible, to arrive at a graph that satisfies some graph property $\\mathcal{P}$. The main contribution of this work is to show that there is a strategy $\\mathcal{S}$ which creates a $K_3$-factor in at most $2.929329 \\, n$ rounds w.h.p.",
+  "arxiv_id": "2611.13959",
+  "authors": [
+    "Olaf Parczyk",
+    "Eva Schinzel"
+  ],
+  "categories": [
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13959"
+  },
+  "hook": "A random-vertex graph game can build a triangle factor in at most 2.929329n rounds.",
+  "hook_turn": "at most 2.929329n rounds.",
+  "id": "arxiv-2611.13959",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Upper bound on rounds for a triangle factor",
+    "unit": "times n rounds",
+    "value": "2.929329"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors design a strategy for a one-player game where random vertices arrive and the player picks partners, so that the graph ends up split into disjoint triangles. They prove it works within 2.929329n rounds with high probability, where n is the vertex count. This is an upper bound only, so the best possible number of rounds is not pinned down.",
+  "tags": [
+    "random graphs",
+    "graph theory"
+  ],
+  "title": "Triangle Factors in the Semi-Random Graph Process",
+  "url": "https://arxiv.org/abs/2611.13959",
+  "venue": "arXiv"
+}

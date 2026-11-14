@@ -1,0 +1,34 @@
+{
+  "abstract": "Absolutely maximally entangled (AME) states are pure multipartite states with maximally mixed reductions on every set of at most half the parties. We construct explicit families in local dimension $2q$, twice an odd prime power $q$, using an established coupling of qubits and $q$-level systems. The $q$-level states remove interference between branches, so the qubit states need maximally mixed reductions only on average. This gives AME$(9,2q)$ and AME$(11,2q)$ for every odd prime power $q\\geq5$, AME$(13,2q)$ for $q\\geq17$, AME$(15,2q)$ for $q\\geq9$, and AME$(17,2q)$ for $q\\geq67$. For every odd $N\\geq3$, the same coupling gives AME$(N,2q)$ under the sufficient condition $q\\geq\\max\\{N,2^{N-2}\\}$ on the odd prime power $q$. Within this coupling, the smallest such $q$ must grow exponentially with $N$. Combined with known inputs and products, these families complete the nine-party classification: for integer $d\\geq2$, an AME$(9,d)$ state exists if and only if $d\\geq3$. Choosing the branch pairing also gives AME$(15,2p)$ states with a cyclic shift of the parties compensated by local unitaries, for every prime $p\\equiv1\\pmod{15}$.",
+  "arxiv_id": "2611.17216",
+  "authors": [
+    "Palash Pandya"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17216"
+  },
+  "hook": "Maximally entangled states for 9 parties now exist in every dimension from 3 up, settling that case",
+  "id": "arxiv-2611.17216",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper builds absolutely maximally entangled states for dimensions twice an odd prime power by coupling qubits with higher-level systems. Together with known results this settles nine parties: such a state exists exactly when the local dimension is at least 3. The construction needs very large prime powers as the party count grows, so it covers few small cases.",
+  "tags": [
+    "quantum entanglement",
+    "AME states"
+  ],
+  "title": "Explicit Absolutely Maximally Entangled states in dimensions twice a prime power",
+  "url": "https://arxiv.org/abs/2611.17216",
+  "venue": "arXiv"
+}

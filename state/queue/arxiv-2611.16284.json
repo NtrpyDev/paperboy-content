@@ -1,0 +1,35 @@
+{
+  "abstract": "International treaties are often described as tigers without teeth, failing to secure compliance or change outcomes. Cooperation also depends on how states maintain the rules they have already made -- especially where no sovereign stands above the states. Here we map more than six decades of decision-making under the Antarctic Treaty, linking submitted proposals to recorded responses and tracing how instruments act on earlier ones. Shared references tie decisions together across the agenda. Recurring revision concentrates in specialised histories, above all the management of protected areas, beyond what activity, popularity and reference age predict. Periodic administrative reviews retire outdated instruments in bulk, joining otherwise separate histories without coordinating policy across subjects. Binding Measures build overwhelmingly on earlier Measures, with little direct succession from non-binding Resolutions. Distinguishing these layers shows how a shared rule system is sustained by consensus, and provides a basis for comparing cooperation across global commons.",
+  "arxiv_id": "2611.16284",
+  "authors": [
+    "Casper van Elteren"
+  ],
+  "categories": [
+    "physics.soc-ph",
+    "cs.SI"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "social",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16284"
+  },
+  "hook": "Antarctic Treaty revisions cluster in protected areas, and binding Measures build mostly on earlier Measures.",
+  "id": "arxiv-2611.16284",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The author maps over six decades of Antarctic Treaty decisions by linking proposals to responses and to the earlier instruments they modify. Revision concentrates in protected-area management, and periodic reviews retire old instruments in bulk. It describes one treaty system, so it may not carry over to other global commons.",
+  "tags": [
+    "international treaties",
+    "Antarctica"
+  ],
+  "title": "Decisions at the end of the world",
+  "url": "https://arxiv.org/abs/2611.16284",
+  "venue": "arXiv"
+}

@@ -1,0 +1,35 @@
+{
+  "abstract": "We study the axisymmetric incompressible Navier--Stokes equations in a finite cylinder subject to the Navier--total--slip boundary condition, that is, the Navier slip condition with zero friction. We prove that the solution remains smooth for all time provided that the initial swirl $\\Gamma_0 = r v_{\\theta,0}$ has zero mean and an explicit smallness condition on the initial data holds. The condition involves $\\Gamma = rv_\\theta$ and the variables $V = v_\\theta/\\sqrt{r}$ and $\\Omega = \\omega_\\theta/r$, and it is invariant under the natural scaling of the Navier--Stokes equations, hence critical. The total-slip condition produces a boundary term on the lateral wall that cannot be controlled by the dissipation alone; we overcome this with a sharp trace-type identity combined with a remainder controlled by $\\|\\Gamma\\|_{L^2}$. In addition, the Robin-type boundary condition $\\partial_r \\Gamma = 2\\Gamma$ destroys the maximum principle for $\\Gamma$, and we replace it with a uniform $L^4$ bound. These estimates yield uniform $L^4$ bounds for the velocity, and regularity follows from the Ladyzhenskaya--Prodi--Serrin criterion together with boundary regularity results for the Navier slip condition.",
+  "arxiv_id": "2611.13263",
+  "authors": [
+    "Tsz-Lik Chan"
+  ],
+  "categories": [
+    "math.AP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13263"
+  },
+  "hook": "Swirling flow in a cylinder with slippery walls stays smooth forever if its starting swirl is small enough.",
+  "hook_turn": "stays smooth forever if its starting swirl is small enough.",
+  "id": "arxiv-2611.13263",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper proves global smoothness for axisymmetric Navier-Stokes in a finite cylinder with a total-slip wall condition. It handles a boundary term and a lost maximum principle with a trace identity and an L4 bound. The result needs zero-mean swirl and a smallness condition, so it says nothing about large data or the general 3D problem.",
+  "tags": [
+    "fluid dynamics",
+    "Navier-Stokes"
+  ],
+  "title": "Global regularity of axisymmetric Navier--Stokes equations under total slip and critical smallness",
+  "url": "https://arxiv.org/abs/2611.13263",
+  "venue": "arXiv"
+}

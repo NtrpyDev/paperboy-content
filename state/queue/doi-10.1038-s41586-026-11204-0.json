@@ -1,0 +1,38 @@
+{
+  "abstract": "Disruptions to leading-strand synthesis impair and stall replication forks because DNA synthesis by the leading-strand polymerase, Pol ε, is essential for optimal template unwinding by the replicative CMG (CDC45-MCM-GINS) helicase1,2. Failure to efficiently restart and/or protect stalled replication forks is a major source of genomic instability3-6. Stalled forks can be restarted by a variety of mechanisms, including repriming downstream of the impediment4. In human cells, the primase-polymerase PRIMPOL promotes fork progression during replication stress7-10, but how its activity is coordinated by the replisome is unresolved. Here, by reconstituting replication fork stalling and restart with purified human proteins, we show that the CMG helicase directs PRIMPOL for efficient replication fork restart. Unexpectedly, the interaction between PRIMPOL and replication protein A9,11 is not critical for fork restart in this system. We show that PRIMPOL binds directly to CMG, and a cryo-electron microscopy structure illustrates how this targets PRIMPOL specifically for leading-strand priming to minimize the size of post-replicative gaps. Ablating the CMG-PRIMPOL interaction abolishes fork restart in vitro and PRIMPOL-dependent DNA damage tolerance in human cells. Our work establishes PRIMPOL as an integrated component of the human replisome dedicated to leading-strand priming.",
+  "arxiv_id": null,
+  "authors": [
+    "Cristian Polo Rivera",
+    "Johann J Roske",
+    "Emma L Hands",
+    "Federico Fassetta",
+    "Julian E Sale",
+    "Joseph T P Yeeles"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41586-026-11204-0",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "The CMG helicase hands PRIMPOL to the leading strand, restarting stalled DNA replication forks.",
+  "hook_turn": "restarting stalled DNA replication forks.",
+  "id": "doi-10.1038-s41586-026-11204-0",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Using purified human proteins to rebuild a stalled replication fork, the authors show the CMG helicase binds the primase PRIMPOL directly and aims it at the leading strand. A cryo-electron microscopy structure shows how. Removing the contact abolishes restart in vitro and PRIMPOL-dependent damage tolerance in human cells.",
+  "tags": [
+    "DNA replication",
+    "genome stability"
+  ],
+  "title": "Human replisomes direct a dedicated leading-strand primase for fork restart.",
+  "url": "https://doi.org/10.1038/s41586-026-11204-0",
+  "venue": "Nature"
+}

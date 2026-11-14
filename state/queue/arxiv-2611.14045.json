@@ -1,0 +1,35 @@
+{
+  "abstract": "In this paper we show that mixed-integer linear programming is solvable in strongly polynomial time if the constraint matrix is totally unimodular with at most two nonzero entries in every row. This is done by reducing the problem to an instance of minimization of an $L$-convex function.",
+  "arxiv_id": "2611.14045",
+  "authors": [
+    "Giacomo Zambelli"
+  ],
+  "categories": [
+    "math.OC",
+    "cs.DS"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14045"
+  },
+  "hook": "Mixed-integer programs with two nonzeros per row and a unimodular matrix solve in strongly polynomial time.",
+  "id": "arxiv-2611.14045",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The proof reduces these problems to minimizing an L-convex function, which already has efficient algorithms. This settles the running time for a narrow but natural class. It is a theoretical result, and it covers only constraint matrices with at most two nonzero entries per row.",
+  "tags": [
+    "integer programming",
+    "algorithms"
+  ],
+  "title": "Mixed-integer dual network problems are solvable in strongly polynomial time",
+  "url": "https://arxiv.org/abs/2611.14045",
+  "venue": "arXiv"
+}

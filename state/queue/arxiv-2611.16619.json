@@ -1,0 +1,49 @@
+{
+  "abstract": "Unlike the microwave and optical domains, frequency metrology in the mid-infrared has not yet benefited from the long coherence times and exquisite control provided by ultracold particles. We use a quantum cascade laser operating at 17.5 THz to drive ro-vibrational transitions in ultracold calcium monofluoride molecules. The laser linewidth is narrowed to 15 kHz by locking it to a custom mid-infrared ring cavity, which is in turn locked to an ultrastable laser. We study the spectrum for molecules confined in red-detuned and blue-detuned magneto-optical traps, and in an optical dipole trap. In the dipole trap, the spectroscopic linewidth is close to that of the laser. We consider the stability and accuracy that can be reached using these methods in the context of a broader programme for improving frequency metrology in the mid-infrared.",
+  "arxiv_id": "2611.16619",
+  "authors": [
+    "J. Rodewald",
+    "J. R. Cox",
+    "J. Vagge",
+    "Q. Lyu",
+    "K. K. Voges",
+    "B. E. Sauer",
+    "F. Wiotte",
+    "A. Bonifacio",
+    "M. Manceau",
+    "B. Darquie",
+    "M. R. Tarbutt"
+  ],
+  "categories": [
+    "physics.atom-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16619"
+  },
+  "hook": "A 15 kHz quantum cascade laser probed ultracold calcium monofluoride molecules in the mid-infrared.",
+  "id": "arxiv-2611.16619",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Laser linewidth after cavity locking",
+    "unit": "kHz",
+    "value": "15"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The team locked a 17.5 THz laser to a ring cavity and used it to drive vibrational transitions in laser-cooled CaF molecules. In an optical dipole trap the measured linewidth nearly matched the laser's. This is a first spectroscopy demonstration, and the stability and accuracy needed for metrology are only discussed.",
+  "tags": [
+    "ultracold molecules",
+    "spectroscopy"
+  ],
+  "title": "Spectroscopy of ultracold molecules in the mid-infrared",
+  "url": "https://arxiv.org/abs/2611.16619",
+  "venue": "arXiv"
+}

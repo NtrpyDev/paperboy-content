@@ -1,0 +1,43 @@
+{
+  "abstract": "Abstract Carbon dots (CDs) have emerged as scalable, metal-free photocatalysts, but their use as conjugate organo-photocatalysts for enantioselective chemistry remains unexplored. Here, we covalently anchor a chiral imidazolidinone organocatalyst to amorphous, citric acid-derived CDs, giving a colloidal conjugate that acts as both photosensitizer and enantiodetermining component. This chiral CD material promotes the asymmetric radical α-alkylation of aldehydes in up to 84% yield and 93% e.e. Its semihomogeneous nature enables catalyst recovery by precipitation and reuse over five cycles with only minor loss in yield and e.e. The well-dispersed conjugate is also compatible with continuous photoflow, where Bayesian optimization in only 10 experiments enabled a gram-scale reaction in 80% yield and 91% e.e. This work establishes chiral conjugate CDs as a practical, recoverable platform for sustainable asymmetric photocatalysis.",
+  "arxiv_id": null,
+  "authors": [
+    "David M. Vahey",
+    "Dongseok Kim",
+    "Marco Bernabei",
+    "Carl J. Mallia",
+    "Erwin Reisner"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c18030",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Carbon dots carrying a chiral organocatalyst drive light-powered asymmetric reactions and can be reused.",
+  "hook_turn": "and can be reused.",
+  "id": "doi-10.1021-jacs.6c18030",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Enantiomeric excess, aldehyde alkylation",
+    "unit": "% e.e.",
+    "value": "93"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Citric acid carbon dots bearing a chiral imidazolidinone catalyst act as both light absorber and stereocontroller for aldehyde alkylation, giving up to 93% e.e. The catalyst was recovered by precipitation and reused five times with minor loss. A flow run optimized in 10 experiments gave a gram-scale batch, but only one reaction type was tested.",
+  "tags": [
+    "photocatalysis",
+    "carbon dots",
+    "asymmetric synthesis"
+  ],
+  "title": "Conjugate Chiral Carbon Dots for Scalable Asymmetric Photocatalysis in Flow",
+  "url": "https://doi.org/10.1021/jacs.6c18030",
+  "venue": "Journal of the American Chemical Society"
+}

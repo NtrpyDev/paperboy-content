@@ -1,0 +1,42 @@
+{
+  "abstract": "In the sixty years since the publication of the complete genetic code [1], many variants of the classical codon table [2] have been observed to occur naturally, including both stop codon and sense-to-sense reassignment, but in bacteria the only experimentally validated variants are stop-codon reassignments. Recently, computational analysis with Codetta predicted bacterial genetic codes containing sense-to-sense changes. Using an Escherichia coli cell-free protein synthesis (CFPS) system, we tested tRNAs predicted to reassign arginine codons to tryptophan. These candidate CGG-decoding tRNAs from bacteria phylogenetically distant from E. coli restored cyan fluorescence from an sfGFP Y66R reporter in a dose-dependent manner when added to CFPS extracts containing canonical tRNAArg(CCG). Reactions lacking the CGG-to-Trp candidate tRNA remained near background. Reassignment was also observed with firefly luciferase and NanoLuc reporters, in which Trp incorporation restored activity and solubility. Intact-protein mass spectrometry yielded masses consistent with Arg-to-Trp substitution. Deep data-independent acquisition (DIA) proteomics of Anaerococcus prevotii, a species for which Codetta predicts CGG to code for Trp, revealed six peptides containing Trp encoded at native CGG codons and no peptides containing CGG-encoded Arg, consistent with native CGG decoding as Trp in this organism. Together, these results provide direct functional support for predicted bacterial sense-to-sense genetic codes and establish a cell-free framework for discovering natural tRNAs that expand translational coding capacity.",
+  "arxiv_id": null,
+  "authors": [
+    "Kim, P. H.",
+    "McSweeney, M. A.",
+    "Hong, J. T.",
+    "Steczynska, J.",
+    "Chan, H. N.",
+    "Jewett, M. H.",
+    "Light, Y. K.",
+    "Williams, K. P.",
+    "Schoeniger, J. S."
+  ],
+  "categories": [
+    "synthetic biology"
+  ],
+  "doi": "10.64898/2026.11.10.764470",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/12/2026.11.10.764470.source.xml"
+  },
+  "hook": "Some bacteria read the codon CGG as tryptophan, not arginine, confirmed in cell-free tests and proteomics.",
+  "id": "doi-10.64898-2026.11.10.764470",
+  "license": "cc0",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Computation had predicted bacterial genetic codes that swap the meaning of ordinary codons. The authors added candidate tRNAs to an E. coli cell-free system, saw tryptophan inserted at CGG, and found tryptophan peptides at native CGG codons in Anaerococcus prevotii. Limit: the proteomic evidence comes from one species and six peptides.",
+  "tags": [
+    "genetic code",
+    "tRNA"
+  ],
+  "title": "Sense-to-sense changes in bacterial genetic codes: Experimental validation by cell-free translation and native-host proteomics",
+  "url": "https://doi.org/10.64898/2026.11.10.764470",
+  "venue": "bioRxiv"
+}

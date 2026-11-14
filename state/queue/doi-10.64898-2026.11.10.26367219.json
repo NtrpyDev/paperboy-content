@@ -1,0 +1,52 @@
+{
+  "abstract": "HLA-driven heterogeneity and limitations of live T cell functional assays routinely thwart assessment of cell-mediated immunity in vaccination trials. To address this, we developed a T-cell receptor (TCR)-based measure of immunogen recognition and evaluated it in COV-BOOST, a third-dose COVID-19 vaccine trial, during the Delta and Omicron waves (2021-2022, United Kingdom). We estimated HLA-aware Spike-reactive T cell (HA-TS) breadth from participant HLA genotypes, TCR{beta} repertoires, and a novel SARS-CoV-2 S HLA-linked reference catalog. Higher post-boost HA-TS breadth was associated with lower symptomatic infection risk (HR 0.58, 95% CI 0.39-0.86). This association persisted after adjustment for neutralizing antibody titers and IFN-{gamma} responses. Examination of HA-TS across prior studies showed that it reflects participant genotype, exposure intensity, and time from exposure to sampling. These findings highlight the possibility that estimates of antigen-specific T cell repertoire breadth could serve as a correlate of protection to accelerate vaccine development.",
+  "arxiv_id": null,
+  "authors": [
+    "Mayer-Blackwell, K.",
+    "Hussain, K.",
+    "Ebrahimi, N.",
+    "Ford, E. S.",
+    "Dale, A. P.",
+    "Alderson, J.",
+    "Bibi, S.",
+    "Munro, A. P. S.",
+    "Faust, S. N.",
+    "Liu, X.",
+    "Lambe, T.",
+    "Voysey, M.",
+    "Fiore-Gartland, A."
+  ],
+  "categories": [
+    "infectious diseases"
+  ],
+  "doi": "10.64898/2026.11.10.26367219",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.medrxiv.org/content/early/2026/11/12/2026.11.10.26367219.source.xml"
+  },
+  "hook": "Broader Spike-reactive T cell repertoires after a booster went with fewer symptomatic COVID infections.",
+  "hook_turn": "went with fewer symptomatic COVID infections.",
+  "id": "doi-10.64898-2026.11.10.26367219",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Symptomatic infection risk, higher T cell breadth",
+    "unit": "hazard ratio",
+    "value": "0.58"
+  },
+  "significance": 6,
+  "source": "medrxiv",
+  "status": "preprint",
+  "summary": "Using participants' HLA types and T cell receptor sequences, the team estimated how many Spike targets each person's T cells could recognize in a third-dose vaccine trial. Higher breadth tracked lower infection risk even after adjusting for antibody and interferon responses. Limit: this is an observational association, so it does not show that breadth causes protection.",
+  "tags": [
+    "T cells",
+    "vaccines"
+  ],
+  "title": "Personalized HLA-aware TCR measure predicts the risk of symptomatic SARS-CoV-2 infection following booster vaccination",
+  "url": "https://doi.org/10.64898/2026.11.10.26367219",
+  "venue": "medRxiv"
+}

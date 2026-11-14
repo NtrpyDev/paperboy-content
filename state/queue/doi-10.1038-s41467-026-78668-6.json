@@ -1,0 +1,45 @@
+{
+  "abstract": "Abstract High-numerical-aperture (NA) oblique plane microscopy enables noninvasive fluorescence imaging of subcellular dynamics without radical sample modification. However, performance degrades at depth in multicellular specimens as scattering and refractive-index heterogeneity raise out-of-focus background. We report a two-photon oblique plane microscope that improves resolution at depth by combining high-NA single-objective detection with multiphoton plane illumination. The microscope achieves ~ 300 nm lateral and ~ 650 nm axial resolution, with single-molecule sensitivity and < 60 nm localization precision in vivo. Compared with two-photon point scanning, the lower illumination NA delivers order-of-magnitude lower peak intensity, enabling > 5 × faster volumetric acquisition (up to 3.25 × 10 6 voxels s −1 ). In multicellular contexts, near-infrared nonlinear excitation enhances contrast throughout the illumination depth by ~ 2 × and restores volumetric resolving power by > 2 × relative to linear excitation. We demonstrate these capabilities through molecular imaging of epithelial tissue, stem-cell-derived gastruloids, and living fruit fly embryos, including multicolor transcription-factor dynamics, optogenetic subcellular control, and single-mRNA tracking, all using standard glass-based mounting.",
+  "arxiv_id": null,
+  "authors": [
+    "Kevin Keomanee-Dizon",
+    "Yaakov Clenman",
+    "Alejandra Duran",
+    "Sergey Ryabichko",
+    "Pauline Hansen",
+    "Tohn Borjigin",
+    "Richard H. Thornton",
+    "Jared E. Toettcher",
+    "Harold M. McNamara"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-78668-6",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A two-photon light-sheet microscope tracks single molecules deep in living fly embryos",
+  "id": "doi-10.1038-s41467-026-78668-6",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Lateral resolution of the microscope",
+    "unit": "nm",
+    "value": "~300"
+  },
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "The microscope pairs one high-aperture objective with two-photon sheet illumination, reaching about 300 nm lateral resolution and over 5 times faster volume imaging than point scanning. It imaged gastruloids, epithelium and fly embryos, including single-mRNA tracking. The demonstrations are showcase examples, not a broad comparison across tissues.",
+  "tags": [
+    "microscopy",
+    "live imaging"
+  ],
+  "title": "Depth-enhanced molecular imaging with two-photon oblique plane microscopy",
+  "url": "https://doi.org/10.1038/s41467-026-78668-6",
+  "venue": "Nature Communications"
+}

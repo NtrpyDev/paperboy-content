@@ -1,0 +1,51 @@
+{
+  "abstract": "We present high-resolution X-ray spectroscopy of the bright local Seyfert 1 galaxy IC 4329A obtained with \\textit{XRISM}/Resolve, supported by simultaneous \\textit{NuSTAR} data and quasi-simultaneous optical/near-infrared (NIR) spectroscopy. Resolve separates the Fe K$\\alpha$ line into a narrow core and a broad component exhibiting a red excess. We examined three scenarios for this red excess: (1) a redshifted X-ray broad line region (xBLR), (2) relativistic disk reflection, and (3) an unshifted xBLR partially absorbed by a mildly ionized absorber. All three models reproduce the X-ray spectra equally well. Our optical (H$\\beta$) and NIR (Pa$\\beta$) spectroscopy shows that the broad lines are redshifted by $v \\sim +640\\text{--}1050\\text{ km s}^{-1}$, close to the solution of the redshifted xBLR model ($v_{\\rm shift} = +1700_{-800}^{+1700}\\text{ km s}^{-1}$). Motivated by this, we constructed a hybrid model in which the xBLR shares the velocity structure of the optical/NIR BLR and the remaining red excess is attributed to a relativistic disk line, which also provides an acceptable fit. The inferred xBLR radius is $R_{\\rm BLR} \\sim (3\\text{--}6) \\times 10^3\\ R_g$ ($\\sim 12\\text{--}22$ light-days). From the narrow Fe K$\\alpha$ core in the hybrid model (${\\rm FWHM} = 870_{-280}^{+260}\\text{ km s}^{-1}$), we estimate a torus distance of $R_{\\rm torus} \\sim 0.9_{-0.4}^{+1.0}$ pc ($\\sim 1100$ light-days), close to the dust sublimation radius. Furthermore, two ultra-fast outflow (UFO) absorption features are identified with $v_{\\text{wind}} \\sim -0.30c$ and $-0.24c$, both confirmed at $>99\\%$ confidence.",
+  "arxiv_id": "2611.15458",
+  "authors": [
+    "Misaki Mizumoto",
+    "Yuya Nakatani",
+    "Satoshi Yamada",
+    "Yoshihiro Ueda",
+    "Taiki Kawamuro",
+    "Shoji Ogawa",
+    "Yuto Mochizuki",
+    "Kanta Fujiwara",
+    "Fumihide Iwamuro",
+    "Shogo Otsubo",
+    "Noriyuki Matsunaga",
+    "Daisuke Taniguchi",
+    "Hideyo Kawakita"
+  ],
+  "categories": [
+    "astro-ph.HE"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15458"
+  },
+  "hook": "XRISM splits the iron line of a Seyfert galaxy and finds two fast winds near 0.3 times light speed.",
+  "id": "arxiv-2611.15458",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Speed of one ultra-fast outflow, IC 4329A",
+    "unit": "c",
+    "value": "-0.30"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "High-resolution X-ray spectra of IC 4329A separate the iron K-alpha line into a narrow core and a broad part with a red excess. Optical and infrared lines are redshifted too, which favors a hybrid model of broad-line gas plus a relativistic disk line, with a torus about 0.9 parsecs out. Three models fit the X-ray data equally well, so the origin of the red excess is not settled.",
+  "tags": [
+    "active galactic nuclei",
+    "X-ray spectroscopy"
+  ],
+  "title": "Origin of the Fe K$\\alpha$ red excess in IC 4329A with XRISM and multi-wavelength spectroscopy",
+  "url": "https://arxiv.org/abs/2611.15458",
+  "venue": "arXiv"
+}

@@ -1,0 +1,40 @@
+{
+  "abstract": "Mosquito-borne alphaviruses represent an increasing global health threat, yet there are currently no antiviral interventions capable of targeting both the vertebrate host and mosquito vector. Here, we investigated the antiviral potential of the heparan sulfate proteoglycan-mimicking zwitterionic polymer ZP12 against alphavirus infection in Aedes aegypti mosquitoes. ZP12 exhibited potent antiviral and virucidal activity against Ross River virus (RRV) and Semliki Forest virus (SFV) in C6/36 mosquito cells. Antiviral activity was retained in ex vivo mosquito gut cultures, where both high (100 g/mL) and low (0.5 g/mL) concentrations significantly reduced RRV replication, with viral titres reduced by up to five orders of magnitude at peak infection. Delayed-treatment studies demonstrated that ZP12 retained antiviral activity after infection had been initiated, although efficacy declined as treatment was delayed. To evaluate prophylactic delivery, mosquitoes were exposed to ZP12 through sugar feeding prior to viral challenge. While this approach did not directly protect against subsequent gut infection, follow-up experiments demonstrated that ZP12 remained biologically active within the mosquito, suggesting that limited delivery to the midgut rather than loss of antiviral activity restricted efficacy. Collectively, these findings demonstrate that ZP12 is a potent antiviral and virucidal agent against alphaviruses in mosquito cells and tissues and supports its further development as a transmission-blocking strategy for arboviral control.",
+  "arxiv_id": null,
+  "authors": [
+    "Macleod, S.-L.",
+    "Van Langendonck, M.",
+    "Rase, N.",
+    "Rosales-Rosas, A. L.",
+    "Jones, S. T.",
+    "Delang, L."
+  ],
+  "categories": [
+    "microbiology"
+  ],
+  "doi": "10.64898/2026.11.11.765866",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/13/2026.11.11.765866.source.xml"
+  },
+  "hook": "In mosquito gut tissue, a star polymer cut Ross River virus levels by up to five orders of magnitude.",
+  "hook_turn": "by up to five orders of magnitude.",
+  "id": "doi-10.64898-2026.11.11.765866",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "A polymer that mimics the sugars viruses grab onto blocked two alphaviruses in mosquito cells and in gut tissue grown in a dish. Giving it in sugar water did not protect the gut, probably because too little reached the midgut. All results are from cells and tissue cultures, not whole mosquitoes transmitting virus.",
+  "tags": [
+    "alphaviruses",
+    "mosquitoes"
+  ],
+  "title": "Virucidal Star Polymer Disrupts Alphavirus Infection in Aedes Mosquitoes",
+  "url": "https://doi.org/10.64898/2026.11.11.765866",
+  "venue": "bioRxiv"
+}

@@ -1,0 +1,37 @@
+{
+  "abstract": "In this paper we give general sufficient conditions for a stochastic volatility model to be a counterexample for Gatheral's conjecture. The conditions, achieved by asymptotic properties of integrated variance derivatives and Wiener chaos expansions, show that a general class of rough volatility models are generally counterexamples to Gatheral's conjecture. For stochastic volatility models with Markovian variance, the conjecture fails under a relationship on the coefficients of the SDE defining the variance process. Particular examples are provided.",
+  "arxiv_id": "2611.15391",
+  "authors": [
+    "Elisa Al\\`os",
+    "\\`Oscar Bur\\'es",
+    "Vladimir Lucic"
+  ],
+  "categories": [
+    "q-fin.MF"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15391"
+  },
+  "hook": "Rough volatility models generally break Gatheral's conjecture, which many had expected to hold.",
+  "hook_turn": "which many had expected to hold.",
+  "id": "arxiv-2611.15391",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper gives general sufficient conditions under which a stochastic volatility model is a counterexample to Gatheral's conjecture, using asymptotics of integrated variance and Wiener chaos expansions. A broad class of rough volatility models qualifies, as do Markovian models under a condition on the coefficients. The result is mathematical and tied to the model classes studied.",
+  "tags": [
+    "mathematical finance",
+    "rough volatility"
+  ],
+  "title": "Gatheral's Conjecture: General sufficient conditions for refutation",
+  "url": "https://arxiv.org/abs/2611.15391",
+  "venue": "arXiv"
+}

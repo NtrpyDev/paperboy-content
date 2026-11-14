@@ -1,0 +1,61 @@
+{
+  "abstract": "Datopotamab deruxtecan (Dato-DXd)-a trophoblast cell surface antigen 2 (TROP2)-directed antibody-drug conjugate-has demonstrated efficacy in patients with advanced nonsquamous non-small-cell lung cancer (NSCLC) ± actionable genomic alterations. However, TROP2 expression by pathologist assessment using conventional immunohistochemistry with visual scoring does not predict response to TROP2-directed antibody-drug conjugates in NSCLC. We developed TROP2 quantitative continuous scoring (QCS)-a fully supervised computational pathology approach that quantifies TROP2 expression in individual NSCLC cells and subcellular components from immunohistochemistry-stained slides. Using QCS to determine TROP2 expression at the tumor cell membrane and cytoplasm, normalized membrane ratio (NMR) was developed (ratio of membrane relative to membrane + cytoplasmic TROP2) in the biomarker-evaluable population of patients with advanced NSCLC in the TROPION-PanTumor01 study (n = 115). The TROP2 NMR cut-point was optimized and validated in patients with nonsquamous NSCLC without actionable genomic alterations (primary intended-use population, n = 221) in the biomarker-evaluable population (n = 352) of the TROPION-Lung01 trial. Association with clinical outcomes was assessed. Progression-free survival was longer in Dato-DXd-treated (median 7.2 versus 4.0 months; hazard ratio 0.40, 95% confidence interval 0.25-0.64) but not docetaxel-treated (median 4.1 versus 4.4 months; hazard ratio 0.94, 95% confidence interval 0.59-1.49) patients with TROP2 NMR-positive versus TROP2 NMR-negative samples (treatment by biomarker status interaction P = 0.0098), indicating that TROP2 NMR may be a predictive biomarker for Dato-DXd.",
+  "arxiv_id": null,
+  "authors": [
+    "Marina C Garassino",
+    "Myung-Ju Ahn",
+    "Markus Schick",
+    "Ansh Kapil",
+    "Luis Paz-Ares",
+    "Aaron Lisberg",
+    "Melissa L Johnson",
+    "Maurice Pérol",
+    "Toshio Shimizu",
+    "Rebecca Heist",
+    "Alexander Spira",
+    "Isamu Okamoto",
+    "Nicolas Girard",
+    "Robin Cornelissen",
+    "Elvire Pons-Tostivint",
+    "Min Hee Hong",
+    "Ricardo Zwirtes",
+    "Rachel Chiaverelli",
+    "Marlon Rebelatto",
+    "Matthew Sung",
+    "Chuyu Deng",
+    "James Harper",
+    "Danielle Carroll",
+    "Hadassah Sade",
+    "Jacob Sands"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41591-026-04716-9",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A slide-scanning TROP2 score picks lung cancer patients who gain most from Dato-DXd.",
+  "hook_turn": "who gain most from Dato-DXd.",
+  "id": "doi-10.1038-s41591-026-04716-9",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "PFS hazard ratio, Dato-DXd, NMR-positive vs negative",
+    "value": "0.40"
+  },
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "A computational pathology method measures how much TROP2 sits on the cell membrane versus the cytoplasm in stained lung tumor slides. Patients scoring positive lived longer without progression on the antibody-drug conjugate Dato-DXd, but not on docetaxel. The cut-point was tuned and tested within two trial datasets, so it needs confirmation in an independent, prospective group.",
+  "tags": [
+    "lung cancer",
+    "biomarkers"
+  ],
+  "title": "Normalized membrane ratio of TROP2 as a predictor of clinical outcomes with datopotamab deruxtecan in non-small-cell lung cancer.",
+  "url": "https://doi.org/10.1038/s41591-026-04716-9",
+  "venue": "Nature Medicine"
+}

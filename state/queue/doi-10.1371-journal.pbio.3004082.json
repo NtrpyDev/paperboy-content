@@ -1,0 +1,37 @@
+{
+  "abstract": "Sound detection amidst noise presents an important challenge in audition. Many naturally occurring sounds (rain, wind) can be described and predicted only statistically, so-called sound textures. Previous research has demonstrated the human ability to leverage this statistical predictability for sound recognition, but the neural mechanisms remain elusive. We trained mice to detect vocalizations embedded in sound textures with different statistical predictability, while recording and optogenetically modulating the neural activity in the auditory cortex. Mice showed improved performance and neural encoding if they could sample the statistics longer per trial. Textures with more exploitable structure, specifically higher cross-frequency correlations improved behavioral performance as well as neural representation of vocalizations. Activating parvalbumin-positive (PV) interneurons had an asymmetric effect depending on the acoustic context, improving detection and neural encoding of vocalizations for low correlations, and impoverishing them for high cross-frequency correlations. In summary, mice exploit stimulus statistics to improve sound detection in naturalistic background noise, reflected in behavioral performance and neural activity, relying on PV interneurons for temporal integration.",
+  "arxiv_id": null,
+  "authors": [
+    "Artoghrul Alishbayli",
+    "Karol Przewrocki",
+    "Paul van Heumen",
+    "Bernhard Englitz"
+  ],
+  "categories": [],
+  "doi": "10.1371/journal.pbio.3004082",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Mice detect calls in noise better when the background has more predictable structure and lasts longer.",
+  "hook_turn": "when the background has more predictable structure and lasts longer.",
+  "id": "doi-10.1371-journal.pbio.3004082",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Mice trained to spot vocalizations in sound textures did better, and their auditory cortex encoded the calls better, with longer sampling and stronger cross-frequency correlations. Activating PV interneurons helped for weakly correlated noise and hurt for strongly correlated noise. Results come from mice with artificial textures, so the link to human hearing is inferred.",
+  "tags": [
+    "auditory cortex",
+    "hearing",
+    "interneurons"
+  ],
+  "title": "Neural integration of acoustic statistics enables mice to detect acoustic targets in noise.",
+  "url": "https://doi.org/10.1371/journal.pbio.3004082",
+  "venue": "PLOS Biology"
+}

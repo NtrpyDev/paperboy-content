@@ -1,0 +1,39 @@
+{
+  "abstract": "The Tasmanian devil (Sarcophilus harrisii) population has undergone a major decline in the wild owing to the epidemics of two transmissible cancers known as devil facial tumour 1 (DFT1) and devil facial tumour 2 (DFT2). Understanding the distribution and prevalence of DFT1 and DFT2 is challenging as they can only be detected in field conditions when tumours are large enough to be visually observed. This impedes our ability to understand how the devil population is evolving in response to the tumours. PCR-based diagnostics are available, but the technique is not field-applicable. To overcome these hurdles, we developed an ultrasensitive and field-deployable rapid diagnostic tool. We used a technique called specific high-sensitivity enzymatic reporter unlocking (SHERLOCK), which combines an isothermal nucleic acid amplification step with CRISPR-based recognition and activation of reporter probes to indicate target sequence detection. This system requires only portable laboratory equipment, making it more amenable to field conditions. The results showed that our test can detect DFT1 and DFT2 DNA within the attomolar range. We then confirmed that the test can detect DFT1 in the field using non-invasive swab samples. The SHERLOCK test can be used for more active monitoring and management approaches that are not currently possible.",
+  "arxiv_id": null,
+  "authors": [
+    "Anuk Kruawan",
+    "Rajendra Kc",
+    "David A Gell",
+    "Jocelyn M Darby",
+    "Weizhen Zhu",
+    "Chrissie E B Ong",
+    "Kirsten A Fairfax",
+    "Andy Flies"
+  ],
+  "categories": [],
+  "doi": "10.1098/rsos.260028",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "europepmc",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13750945/fullTextXML"
+  },
+  "hook": "A portable CRISPR test finds Tasmanian devil cancer DNA at attomolar levels from a swab.",
+  "id": "doi-10.1098-rsos.260028",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "The team adapted the SHERLOCK method, which pairs isothermal DNA amplification with a CRISPR-triggered reporter, to detect both transmissible devil facial tumours. It sensed tumor DNA at attomolar levels and picked up DFT1 in field swabs. Field validation in the abstract covers DFT1 only, and accuracy rates are not given.",
+  "tags": [
+    "CRISPR diagnostics",
+    "wildlife disease"
+  ],
+  "title": "Development of a point-of-care field test for Tasmanian devil facial tumour disease.",
+  "url": "https://europepmc.org/articles/PMC13750945",
+  "venue": "Royal Society open science"
+}

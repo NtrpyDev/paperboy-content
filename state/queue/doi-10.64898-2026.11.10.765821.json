@@ -1,0 +1,43 @@
+{
+  "abstract": "Long-distance peripheral nerve injury causes severe tissue dysfunction. However, current repair strategies fail to recapitulate the native regenerative microenvironment with coupled physiological signals, hindering functional restoration. Here, we report a bioinspired living neural conduit (LNC) featuring a tri-layered, nerve-like architecture comprising a hydrogel bilayer, nano-grooved ferroelectric polymer stripes, and living Schwann cells, imparting coupled biomechanical, bioelectrical, and biochemical signals. The LNC achieves exceptional adaptability at the injured nerve interface, enabling nerve tissue-matched electrical conductivity, conformal and sutureless integration, and sustained secretion of pro-regenerative exosomes and growth factors (2.2-fold neurotrophic and 1.4-fold angiogenic factor upregulation). In rodent long-gap nerve defect models, the LNC orchestrates intraneural angiogenesis, accelerates axonal outgrowth, and enhances remyelination, achieving unprecedented motor function recovery without neuroma formation or adverse immune responses. By faithfully recapitulating the coupled biophysical and biochemical microenvironment of native nerve repair, the LNC offers a promising strategy towards functional restoration in challenging tissue injuries.",
+  "arxiv_id": null,
+  "authors": [
+    "Cao, Y.",
+    "Zhao, Q.",
+    "Peng, M.",
+    "Li, X.",
+    "Liu, C.",
+    "Li, G.",
+    "Yang, Y.",
+    "Wang, M.",
+    "Du, X."
+  ],
+  "categories": [
+    "bioengineering"
+  ],
+  "doi": "10.64898/2026.11.10.765821",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/12/2026.11.10.765821.source.xml"
+  },
+  "hook": "A living nerve conduit with Schwann cells and ferroelectric stripes aided long-gap nerve repair in rodents",
+  "hook_turn": "aided long-gap nerve repair in rodents",
+  "id": "doi-10.64898-2026.11.10.765821",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "The conduit layers a hydrogel, grooved ferroelectric polymer stripes, and living Schwann cells to give nerves mechanical, electrical, and chemical cues. In rodents with long nerve gaps, it boosted blood vessel growth, axon outgrowth, remyelination, and motor recovery. The claim of unprecedented recovery rests on rodent models, and no comparison with the clinical standard is described.",
+  "tags": [
+    "nerve repair",
+    "biomaterials"
+  ],
+  "title": "Bioinspired living nerve conduit with coupled physiological signals enables functional recovery of peripheral nerve",
+  "url": "https://doi.org/10.64898/2026.11.10.765821",
+  "venue": "bioRxiv"
+}

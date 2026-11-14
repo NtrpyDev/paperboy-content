@@ -1,0 +1,41 @@
+{
+  "abstract": "Nonlinearities are a key feature allowing nonclassical control of quantum harmonic oscillators. However, when nonlinearities are strong, designing protocols for control is often difficult, placing a barrier to exploiting these properties fully. In this work, using a single trapped-ion oscillator operated in the strongly nonlinear regime of the atom-light interaction, we show how to generate localized multi (two, three, four, and five)-component Schrödinger's cat manifolds using a novel form of nonlinear reservoir engineering. We then specifically select Hamiltonians which allow us to perform measurements on these state manifolds. Our work demonstrates the experimental use of high-order nonlinear processes for control of nonclassical states of a quantum harmonic oscillator, opening up a new toolbox which can be applied to bosonic quantum error correction, computation, and sensing.",
+  "arxiv_id": null,
+  "authors": [
+    "Matteo Simoni",
+    "Ivan Rojkov",
+    "Matteo Mazzanti",
+    "Wojciech Adamczyk",
+    "Alexander Ferk",
+    "Pavel Hrmo",
+    "Shreyans Jain",
+    "Tobias Sägesser",
+    "Daniel Kienzler",
+    "Jonathan Home"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aee5380",
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A single trapped ion was driven into cat states with two to five components.",
+  "id": "doi-10.1126-sciadv.aee5380",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Using one trapped-ion oscillator in a strongly nonlinear regime, the team produced Schrödinger cat states with two, three, four and five components through a new form of reservoir engineering, and measured them. The method is shown only in one ion system, so its use for error correction or sensing remains a proposal.",
+  "tags": [
+    "quantum control",
+    "trapped ions"
+  ],
+  "title": "Nonlinear cooling and control of a mechanical quantum harmonic oscillator.",
+  "url": "https://doi.org/10.1126/sciadv.aee5380",
+  "venue": "Science Advances"
+}

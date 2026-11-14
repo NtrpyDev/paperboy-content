@@ -1,0 +1,39 @@
+{
+  "abstract": "We analytically compute the six-loop corrections to the scale evolution of the electric charge, fermion mass, and fermion field in quantum electrodynamics. The results are obtained in the $\\MSbar$ scheme for an arbitrary number of equally charged fermions. They extend renormalization in quantum electrodynamics by one loop order and allow new tests of the behavior of perturbation theory at high orders. The methods developed here also open the way to six-loop computations of renormalization in quantum chromodynamics.",
+  "arxiv_id": "2611.15366",
+  "authors": [
+    "Zeyu Li",
+    "Ming-xing Luo",
+    "Tong-Zhi Yang",
+    "Hua Xing Zhu"
+  ],
+  "categories": [
+    "hep-ph",
+    "hep-th"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15366"
+  },
+  "hook": "Charge and mass running in QED is now computed to six loops, one order further than before.",
+  "hook_turn": "one order further than before.",
+  "id": "arxiv-2611.15366",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors analytically compute six-loop corrections to the running of electric charge, fermion mass and the fermion field in QED, for any number of equally charged fermions, in the MS-bar scheme. This allows new tests of perturbation theory at high order. Their methods may extend to quantum chromodynamics, but that is not done here.",
+  "tags": [
+    "quantum electrodynamics",
+    "renormalization"
+  ],
+  "title": "Six-Loop Renormalization in Quantum Electrodynamics",
+  "url": "https://arxiv.org/abs/2611.15366",
+  "venue": "arXiv"
+}

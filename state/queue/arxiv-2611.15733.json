@@ -1,0 +1,35 @@
+{
+  "abstract": "Bonnefont, Rajam\\\"aki and Vargas conjectured that, for complex Gaussian multiplicative chaos built from a single real Gaussian field, the Fourier dimension at $\\alpha+i\\beta$ equals the dimension of the real chaos at $\\alpha$ minus $\\beta^2$. We prove the conjecture on the circle throughout their stated parameter range. For the canonical holomorphic family, the identity holds on one event of probability one for all $\\gamma=\\alpha+i\\beta$ in the union of the open unit disk and the region $1/\\sqrt2<|\\alpha|<\\sqrt2$, $|\\alpha|+|\\beta|<\\sqrt2$. For each fixed parameter on the conjecture's sloping boundary, where $1<|\\alpha|<\\sqrt2$ and $|\\alpha|+|\\beta|=\\sqrt2$, the Fourier coefficients decay at a logarithmic rate almost surely and the Fourier dimension is zero. For nonzero interior parameters with $|\\alpha|\\ne1/\\sqrt2$, the critical Sobolev index is half the Fourier dimension minus $1/2$. The chaos fails to belong to the corresponding space when $|\\alpha|<1/\\sqrt2$ and belongs to it when $|\\alpha|>1/\\sqrt2$. For $1/\\sqrt2<|\\alpha|<\\sqrt2$ and $|\\beta|\\le\\sqrt2-|\\alpha|$, we bound the Fourier coefficients at the decay power predicted by the dimension formula, up to logarithmic factors. For $0<|\\gamma|<1$ and $\\alpha^2<1/2$, the measures obtained by multiplying the squared modulus of the smoothed chaos by $\\epsilon^{|\\gamma|^2}$ converge weakly almost surely along $\\epsilon=e^{-m}$, uniformly on compact parameter sets, to explicit multiples of the real chaos at $2\\alpha$.",
+  "arxiv_id": "2611.15733",
+  "authors": [
+    "Feng Guo"
+  ],
+  "categories": [
+    "math.PR"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15733"
+  },
+  "hook": "A conjectured Fourier dimension formula for complex multiplicative chaos is proved on the circle.",
+  "hook_turn": "is proved on the circle.",
+  "id": "arxiv-2611.15733",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove a conjecture of Bonnefont, Rajamaki and Vargas: the Fourier dimension of complex Gaussian multiplicative chaos equals the real chaos dimension minus beta squared. The proof covers the stated parameter range and also settles boundary cases and Sobolev regularity. It is limited to the circle.",
+  "tags": [
+    "probability",
+    "multiplicative chaos"
+  ],
+  "title": "The Fourier dimension conjecture for complex Gaussian multiplicative chaos on the circle",
+  "url": "https://arxiv.org/abs/2611.15733",
+  "venue": "arXiv"
+}

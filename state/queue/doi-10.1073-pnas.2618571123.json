@@ -1,0 +1,46 @@
+{
+  "abstract": "Both p300 acetyltransferase inhibitors and bromodomain inhibitors show therapeutic promise in cancer, but they mostly exhibit limited efficacy and may elicit severe adverse effects due to their lack of targeting selectivity. Thus, selectively disrupting p300 interactions with specific pro-oncogenic targets that are specifically expressed in neoplastic cells could serve as a safe and effective strategy for cancer treatment. Here, we demonstrate that p300 interacts with the pro-oncogenic transcription factor, ZEB1, and catalyzes its acetylation at an evolutionarily conserved K80 residue, stabilizing its expression in aggressive cancer cells. Ectopic expression of wild-type ZEB1 (mostly in acetylated status) but not the acetylation-deficient ZEB1 mutant modulates cytokinome of cancer cells, creating an immune-suppressive tumor microenvironment to support cancer progression. Underlining the importance of ZEB1 posttranslational processing, the K80-acetylated transcription factor is highly expressed in human cancers where its high-level expression is associated with poor prognosis. Importantly, we identify a small molecule compound, WY6, that undergoes high-affinity binding to p300 TAZ2 domain (a domain critical for ZEB1 binding) and consequently disrupts ZEB1 binding to p300, thereby suppressing K80 acetylation. WY6 treatment of tumor cells effectively represses p300-mediated ZEB1 acetylation, promoting its ubiquitination and subsequent degradation. Moreover, in vivo, WY6 potently suppresses orthotopic tumor growth without eliciting obvious toxic side effects and exhibits a synergetic effect when combined with PD-1/PD-L1 blockade immunotherapy. Collectively, our data demonstrate that selective disrupting of p300 and ZEB1 interaction effectively prevents tumor progression and may offer a promising therapeutic strategy for p300–ZEB1 axis-driven malignancies.",
+  "arxiv_id": null,
+  "authors": [
+    "Jing-Yu Luo",
+    "Bo-Xue Ren",
+    "Chen-Zi Zang",
+    "Wen-Jian Min",
+    "Shao-Dong Wang",
+    "Ran-Ran Cheng",
+    "Zhang-Rui Tang",
+    "Ling-Yuan Zhu",
+    "Chang Shu",
+    "Stephen J. Weiss",
+    "Peng Yang",
+    "Rong Fu",
+    "Zhao-Qiu Wu"
+  ],
+  "categories": [],
+  "doi": "10.1073/pnas.2618571123",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A small molecule that blocks p300 from binding ZEB1 slowed tumors and boosted immunotherapy in mice.",
+  "hook_turn": "slowed tumors and boosted immunotherapy in mice.",
+  "id": "doi-10.1073-pnas.2618571123",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "p300 adds an acetyl tag to ZEB1 that keeps this cancer-promoting protein stable. The compound WY6 blocks their contact, so ZEB1 is degraded, and it suppressed tumors in mice and worked with PD-1/PD-L1 blockade. Evidence is from cell lines and mouse tumors, so it is far from clinical use.",
+  "tags": [
+    "cancer",
+    "immunotherapy",
+    "drug discovery"
+  ],
+  "title": "Selectively disrupting lysine acetyltransferase p300 and ZEB1 interaction prevents tumor progression while enhancing antitumor immunity",
+  "url": "https://doi.org/10.1073/pnas.2618571123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

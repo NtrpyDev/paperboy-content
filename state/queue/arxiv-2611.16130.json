@@ -1,0 +1,36 @@
+{
+  "abstract": "We prove that the integers form a Diophantine subset of the rational numbers. More precisely, there exist an integer $n\\ge1$ and a polynomial $P\\in\\mathbb{Z}[T,W_1,\\dots,W_n]$ of total degree at most four such that $q\\in\\mathbb{Q}$ is an integer if and only if $P(q,\\mathbf w)=0$ for some $\\mathbf w\\in\\mathbb{Q}^n$. Consequently, any recursively enumerable subset of $\\mathbb{Q}^r$ is Diophantine, and Mazur's conjecture on the topology of rational points fails. The proof is inspired by OpenAI's work on Hilbert's tenth problem over $\\mathbb{Q}$. It does not use the $2$-converse or the $2$-adic Fontaine--Mazur results announced and employed by OpenAI. We define the rational numbers with square denominator using rational points on certain quadratic twists of the congruent number elliptic curve. The criterion of Tian, Yuan and Zhang, in Smith's formulation, implies that these quadratic twists have analytic rank one. A height estimate for rational points on a fixed quotient of a Shimura curve allows us to express multiplication of elliptic-curve indices. We obtain this estimate by bounding the modular levels of the associated quaternionic abelian surfaces. The level bound is based on a compatible system of Galois representations over $\\mathbb{Q}$ with controlled ramification and on Khare--Wintenberger's proof of Serre's conjecture. Green--Tao--Ziegler's theorem on linear patterns of primes supplies the rational solutions needed for a Diophantine model of integer arithmetic.",
+  "arxiv_id": "2611.16130",
+  "authors": [
+    "Ashay Burungale"
+  ],
+  "categories": [
+    "math.NT",
+    "math.LO"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16130"
+  },
+  "hook": "Integers are definable inside the rationals by one degree-four polynomial, and Mazur's conjecture fails.",
+  "hook_turn": "and Mazur's conjecture fails.",
+  "id": "arxiv-2611.16130",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 9,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper claims a polynomial of degree at most four whose zero-solutions in rationals pick out exactly the integers, which makes every recursively enumerable set of rationals Diophantine. The proof combines elliptic curves, Shimura curves, Galois representations and the Green-Tao-Ziegler theorem. It is a single-author preprint relying on very deep results and has not been checked by referees.",
+  "tags": [
+    "number theory",
+    "Diophantine sets"
+  ],
+  "title": "A Diophantine definition of $\\mathbb{Z}$ in $\\mathbb{Q}$",
+  "url": "https://arxiv.org/abs/2611.16130",
+  "venue": "arXiv"
+}

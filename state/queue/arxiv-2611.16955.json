@@ -1,0 +1,46 @@
+{
+  "abstract": "Age-related macular degeneration (AMD) is a leading cause of irreversible vision loss in older adults. While chronological age is a primary risk factor, it inadequately reflects individual variations in retinal aging, limiting effective AMD risk stratification and timely intervention. Here, we propose and validate fundus-based AMD age (FAA), which quantifies disease-specific retinal aging in AMD and captures accelerated AMD-related retinal aging, thereby improving prognostic precision over chronological age. Trained on 36,782 images from 2,192 participants in the Age-Related Eye Disease Study (AREDS) dataset and validated across AREDS and AREDS2 cohorts, our model demonstrates significant improvements over traditional chronological age-based approaches. Specifically, integrating the proposed FAA into Cox proportional-hazards models significantly enhances prediction performance. FAA improved the C-index from 0.836 to 0.888 and reduced the 5-year Brier score from 0.050 to 0.046 in AREDS, with consistent gains observed in AREDS2 (C-index 0.715 to 0.756; 2-year Brier 0.078 to 0.076). FAA showed improved prognostic performance across the two datasets and under different phenotype definitions (reading center-defined vs. specialist-defined grading), supporting its potential utility for AMD risk stratification. These findings highlight the advantage of incorporating FAA into AMD risk prediction frameworks, supporting further evaluation of FAA for AMD risk stratification.",
+  "arxiv_id": "2611.16955",
+  "authors": [
+    "Hexin Dong",
+    "Benjamin Hou",
+    "Puzhen Wu",
+    "Mingquan Lin",
+    "Emily Y. Chew",
+    "Zhiyong Lu",
+    "Yifan Peng"
+  ],
+  "categories": [
+    "cs.CV"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16955"
+  },
+  "hook": "A retinal-image age score predicts late macular degeneration better than actual age does.",
+  "hook_turn": "better than actual age does.",
+  "id": "arxiv-2611.16955",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "C-index with FAA, AREDS cohort",
+    "value": "0.888"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A deep model trained on 36,782 eye images from 2,192 people estimates how fast a retina is aging with AMD. Adding this score to standard risk models raised the C-index (a 0.5-to-1 ranking accuracy) from 0.836 to 0.888 in AREDS and from 0.715 to 0.756 in AREDS2. Brier score gains were small, and the work is retrospective on trial cohorts, so it needs testing in ordinary clinics.",
+  "tags": [
+    "macular degeneration",
+    "retinal imaging",
+    "risk prediction"
+  ],
+  "title": "A Disease-specific Retinal Aging Biomarker for Predicting Progression to Late Age-related Macular Degeneration",
+  "url": "https://arxiv.org/abs/2611.16955",
+  "venue": "arXiv"
+}

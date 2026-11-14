@@ -1,0 +1,41 @@
+{
+  "abstract": "Arctic marine productivity is traditionally considered concentrated in the sunlit season, yet low-light winter-shoulder periods remain poorly constrained because passive ocean color observations require sufficient solar illumination. Here, we use 2.39 million spaceborne LiDAR profiles from CALIOP (2006-2023) to reconstruct Arctic net primary production (NPP) and evaluate how active-sensor observations reduce this seasonal blind spot. The bio-optical retrieval model was trained using MODIS-constrained observations under illuminated conditions; accordingly, low-light estimates represent physically constrained extrapolations beyond the primary MODIS-observable training domain rather than direct NPP measurements. Within this framework, LiDAR increases winter half-year observational coverage from ∼20 to 30% to ∼70 to 75% and reveals widespread low-light winter-shoulder production across marginal seas and seasonal ice-edge regions. Pan-Arctic NPP integrated over this period increased at an estimated rate of 0.75 Tg C year-1 during 2007-2023, whereas the corresponding passive-sensor signal was negligible. Accounting for this component raises annual Arctic NPP estimates by ∼13.3% indicating that passive sensor-based assessments may underrepresent the magnitude and seasonal structure of Arctic productivity. Associations with declining sea ice and surface warming suggest this underrepresented production is consistent with ongoing seasonal reorganization of Arctic carbon fixation. Uncertainties from model parameterization, low-light extrapolation, and limited in situ validation are largest in the lowest-light and highest-latitude regimes. These findings do not imply photosynthesis during absolute polar night, but show that active LiDAR observations with explicit light constraints and transparent extrapolation limits can test how unresolved low-light winter-shoulder production may alter Arctic NPP seasonality under continuing sea-ice loss.",
+  "arxiv_id": null,
+  "authors": [
+    "Zhenhua Zhang",
+    "Peng Chen",
+    "Siqi Zhang",
+    "Delu Pan"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aej4633",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Satellite lasers suggest Arctic plankton keep producing in dim winter-edge months, and more each year",
+  "hook_turn": "keep producing in dim winter-edge months, and more each year",
+  "id": "doi-10.1126-sciadv.aej4633",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Rise in annual Arctic NPP estimate",
+    "unit": "percent",
+    "value": "~13.3"
+  },
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Using 2.39 million CALIOP lidar profiles, the authors estimate Arctic net primary production at low light and find an increase of 0.75 Tg C per year in 2007 to 2023. Lidar raises winter-half-year coverage from about 20 to 30% to about 70 to 75%. Low-light values are extrapolated from a model trained on sunlit data, with little direct validation.",
+  "tags": [
+    "Arctic ocean",
+    "phytoplankton"
+  ],
+  "title": "A LiDAR-based reconstruction reveals increasing Arctic phytoplankton production during low-light winter-shoulder period.",
+  "url": "https://doi.org/10.1126/sciadv.aej4633",
+  "venue": "Science Advances"
+}

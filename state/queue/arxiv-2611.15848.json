@@ -1,0 +1,38 @@
+{
+  "abstract": "Dissipative systems whose equations are unchanged by a dilation can host an infinite ladder of attractors, each shell an exact magnified copy of the one before. Since such dynamics cannot tell a magnification from its inverse, the natural expectation is that these basins are maximally entangled, with every boundary point lying on the boundary of all of them, following the Wada property. We find that this expectation fails, and fails in a precise way. Dilation covariance and a single trapping region together bound which basin boundaries a point can lie on, and the bound depends only on its distance to the origin. No point lies on the boundary of all of them. The basins on whose boundary a point does lie are the deeper ones, as we prove for the stable manifolds of the boundary saddles and support numerically for the rest of the boundary, so the boundaries nest in one direction only. We call this structure a directed Wada cascade, and the standard Wada tests, as usually applied, do not detect it. It arises in maps whose nonlinearity is a log-periodic modulation of a homogeneous function, because the same periodicity builds the ladder through mode locking and confines the orbits. We show the cascade in maps that differ in invertibility, nonlinearity, scaling exponent and dimension, and in a flow.",
+  "arxiv_id": "2611.15848",
+  "authors": [
+    "P. Haerter",
+    "R. L. Viana",
+    "M. A.F. Sanju\\'an",
+    "I. L. Caldas"
+  ],
+  "categories": [
+    "nlin.CD"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15848"
+  },
+  "hook": "Basins in scale-invariant systems nest one way only. No point borders all of them.",
+  "hook_turn": "No point borders all of them.",
+  "id": "arxiv-2611.15848",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "In systems whose rules look the same at every magnification, the attractor basins were expected to share every boundary point, as in the Wada property. The authors prove a bound showing this fails, so basins nest in one direction, which they call a directed Wada cascade. The proof covers stable manifolds of boundary saddles, and the rest of the boundary is supported only by numerics.",
+  "tags": [
+    "dynamical systems",
+    "chaos"
+  ],
+  "title": "Directed Wada cascade in systems with discrete scale invariance",
+  "url": "https://arxiv.org/abs/2611.15848",
+  "venue": "arXiv"
+}

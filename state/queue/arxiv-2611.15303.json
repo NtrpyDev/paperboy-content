@@ -1,0 +1,54 @@
+{
+  "abstract": "The central regions of the Magellanic Clouds are crucial for understanding galaxy interactions and calibrating the cosmic distance scale, yet they remain observationally challenging due to extreme stellar crowding. We utilised deep VISTA observations (VMCDeep) to determine the highest-precision near-infrared Period-Luminosity (PL) and Period-Wesenheit (PW) relations to date for Classical Cepheids (delta Cep class, DCEPs) in the dense central regions of the Large and Small Magellanic Clouds (LMC and SMC). We analysed J and Ks time-series data covering the central 1.77 deg^2 of each galaxy. Utilising approximately 40 epochs per filter and PSF-based photometry, we derived high-quality light curves for 573 and 2090 DCEPs in the LMC and SMC, respectively. We derived exceptionally precise PL and PW relations, exhibiting the lowest photometric dispersion published so far for the Magellanic Clouds. Fourier parameters calculated from the light curves indicate that pulsational models incorporating a mildly non-canonical mass-luminosity relation and a mixing-length parameter of alpha = 1.7 best reproduce the observations. Age derivations confirm a bimodal star formation history in the SMC centre. Crucially, we discovered a striking line-of-sight spatial dichotomy within the young SMC DCEP population (t < 116 Myr), which is bifurcated into two distinct structures separated by ~4 kpc. This provides independent stellar evidence tracing a recent direct collision with the LMC. Finally, by unifying fundamental and first-overtone pulsators, we derived a highly constrained relative distance between the Clouds. Comparing this to detached eclipsing binary distances, our data suggest a moderate metallicity correction for the Leavitt Law with gamma ~ -0.2 mag/dex.",
+  "arxiv_id": "2611.15303",
+  "authors": [
+    "V. Ripepi",
+    "R. Molinaro",
+    "M. Marconi",
+    "M.-R. L. Cioni",
+    "J. Th. van Loon",
+    "R. de Grijs",
+    "A. Omkumar",
+    "J. Storm",
+    "T. Sicignano",
+    "J. Oliveira",
+    "V. Ivanov",
+    "M. A. T. Groenewegen",
+    "G. De Somma",
+    "F. Cusano"
+  ],
+  "categories": [
+    "astro-ph.GA",
+    "astro-ph.SR"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15303"
+  },
+  "hook": "Young SMC Cepheids form two layers about 4 kpc apart, a sign of a collision with the LMC.",
+  "hook_turn": "a sign of a collision with the LMC.",
+  "id": "arxiv-2611.15303",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Separation of young SMC Cepheid layers",
+    "unit": "kpc",
+    "value": "~4"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Near-infrared time-series imaging of 573 Cepheids in the LMC and 2090 in the SMC gives very tight period-luminosity relations. The young SMC Cepheids form two structures along the line of sight, which the authors read as evidence of a recent direct collision with the LMC. The collision reading is an interpretation of the geometry, and the metallicity correction is only moderately constrained.",
+  "tags": [
+    "Cepheids",
+    "Magellanic Clouds"
+  ],
+  "title": "VISTA Magellanic Clouds deep observations of Classical Cepheids: Precision distances and a collision-driven SMC",
+  "url": "https://arxiv.org/abs/2611.15303",
+  "venue": "arXiv"
+}

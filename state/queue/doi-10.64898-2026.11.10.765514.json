@@ -1,0 +1,64 @@
+{
+  "abstract": "CRISPR-based genetic modification is enabling curative, one-time treatments, but extending its use to more diseases will require increasing potency at low doses while avoiding unintended genomic modification. CRISPR technologies derive from microbial nucleases, such as Cas9, whose properties evolved for antiviral defense rather than precision editing in human cells. Although these systems can be engineered for greater activity or specificity, improving both properties to meet the challenges of in vivo delivery in large animals remains challenging. Here we used iterative molecular engineering of the Cas12e protein and its guide RNA to produce the X-Editor (XE), a compact nuclease platform that combines robust in vivo activity with exceptional genomic specificity. Screening tens of thousands of protein variants and guide designs and iteratively testing and combining beneficial mutations yielded an enzyme with more than 100-fold higher editing activity in human cells. Cryo-electron microscopy revealed novel inter- and intramolecular interactions driving enhanced function. XE mRNA was delivered to nonhuman primate liver via lipid nanoparticle with guides for two distinct targets. At both targets, XE demonstrated greater editing at lower doses than comparable preclinical data from Cas9-based therapies that are now in clinical testing. No off-target editing was detected for either guide in full specificity assessments performed in primary human hepatocytes at doses tenfold above the on-target effective concentration (EC90). These findings establish that more potent in vivo editing and stringent genomic specificity can be jointly engineered into a naturally compact CRISPR system for delivery using adeno-associated virus (AAV) or lipid nanoparticle (LNP) delivery strategies. These results provide a new foundation for advanced genetic medicines that demand lower dosing and greatly reduced off-target risk.",
+  "arxiv_id": null,
+  "authors": [
+    "Wright, A. V.",
+    "Higgins, S. A.",
+    "Bailey, E. J.",
+    "White, R.",
+    "Graham, A. E.",
+    "Colin, I.",
+    "Gardner, M. R.",
+    "Wucherer, K.",
+    "Fortuny, C.",
+    "Saraya, J.",
+    "Bale, S. S.",
+    "Karanth, S.",
+    "Keller, T. S.",
+    "Eggers, M.",
+    "Bardai, F. H.",
+    "Bender, K.",
+    "Hochman, M.",
+    "Demaree, B.",
+    "Wang, S.",
+    "Reimer, K. A.",
+    "Szulwach, K.",
+    "Sze, C. C.",
+    "Didychuk, A.",
+    "Denny, S. K.",
+    "Oakes, B. L."
+  ],
+  "categories": [
+    "molecular biology"
+  ],
+  "doi": "10.64898/2026.11.10.765514",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/12/2026.11.10.765514.source.xml"
+  },
+  "hook": "A compact engineered Cas12e gene editor edits over 100-fold more in human cells, with no off-targets seen",
+  "hook_turn": "with no off-targets seen",
+  "id": "doi-10.64898-2026.11.10.765514",
+  "license": "cc-by-nc",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Editing activity gain in human cells",
+    "unit": "fold",
+    "value": ">100"
+  },
+  "significance": 7,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Researchers screened tens of thousands of variants of the Cas12e (CasX) protein and its guide RNA to build X-Editor, a small and potent genome editor. Delivered by lipid nanoparticle to monkey liver, it edited more at lower doses than published preclinical Cas9 data. The comparison is to other groups' data rather than head to head, and off-target checks were done in cultured human liver cells.",
+  "tags": [
+    "genome editing",
+    "CRISPR"
+  ],
+  "title": "Comprehensive engineering of the CasX-Editor to generate a therapeutically optimized genome editor",
+  "url": "https://doi.org/10.64898/2026.11.10.765514",
+  "venue": "bioRxiv"
+}

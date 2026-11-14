@@ -1,0 +1,36 @@
+{
+  "abstract": "We prove that every matroid of rank or corank at most three is $Z$-Rayleigh: its multivariate Tutte polynomial satisfies the Rayleigh inequalities for every positive weighting and every parameter $0<q\\le1$. This settles a conjecture of Mani and answers the rank-$3$ spanning-correlation question of Cocks and the correlated-matroid question of Semple and Welsh. For simple rank-$3$ matroids, we obtain an explicit decomposition of each spanning-set Rayleigh difference into the corresponding basis Rayleigh difference, positively weighted squares, and a polynomial with nonnegative coefficients. A second identity compares the normalized multivariate Tutte Rayleigh difference with $(1-q)^2$ times the spanning-set difference, with a remainder of the form $q(1-q)R(q,x)$, where $R$ has nonnegative coefficients. The proof uses the bipartite incidence graph of the lines through two fixed elements and Wagner's theorem that rank-$3$ matroids are basis-Rayleigh. The rank bound is sharp, since a rank-four matroid can fail even the basis Rayleigh inequalities.",
+  "arxiv_id": "2611.15512",
+  "authors": [
+    "Qinghong Zhao",
+    "Xiangqian Zhou"
+  ],
+  "categories": [
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15512"
+  },
+  "hook": "Every matroid of rank or corank at most three obeys the Rayleigh inequalities, settling a conjecture.",
+  "hook_turn": "settling a conjecture.",
+  "id": "arxiv-2611.15512",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove that matroids of rank or corank at most three are Z-Rayleigh, meaning their multivariate Tutte polynomial obeys Rayleigh inequalities for positive weights and 0 < q <= 1. This settles a conjecture of Mani and two questions from earlier work. The rank bound is sharp, since some rank-four matroids fail even the basis Rayleigh inequalities.",
+  "tags": [
+    "matroids",
+    "combinatorics"
+  ],
+  "title": "Every rank-three matroid is Z-Rayleigh",
+  "url": "https://arxiv.org/abs/2611.15512",
+  "venue": "arXiv"
+}

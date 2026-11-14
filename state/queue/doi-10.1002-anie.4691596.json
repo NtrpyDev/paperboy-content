@@ -1,0 +1,52 @@
+{
+  "abstract": "Liquid organic hydrogen carriers (LOHCs) offer a practical platform for reversible hydrogen storage, a critical bottleneck in the global transition to clean energy. However, their reliance on noble-metal catalysts and separate catalysts for hydrogenation and dehydrogenation cycles remains a major barrier to practical deployment. Here, we report an earth-abundant, heterostructured ternary oxide catalyst (CuCoCeOx) that enables efficient, reversible, and bidirectional hydrogenation-dehydrogenation of LOHCs such as carbazoles over multiple cycles without any pretreatment. Driven by the in situ reaction-induced reconstruction, the catalyst dynamically evolves and stabilizes functionally decoupled Cu(δ+)-CoOx interfacial sites, where the defective, amorphous CoOx nanodomains anchor bulky LOHC substrates, complementing adjacent Cu sites for reversible hydrogen shuttling. Detailed characterizations and comparison with CuCeOx and CoCeOx reveal the indispensable synergy between coexisting Cu and Co sites. Reduced Cu species facilitate the generation of low-valence Co sites, while Co species suppress the over-reduction and sintering of Cu, collectively stabilizing abundant Cu(δ+)-CoOx interfacial sites as the catalytically active centers. This dynamic structural reconstruction delivers 98.4% H2 uptake and near-quantitative H2 release, with stable performance over five consecutive LOHC cycles, substantially surpassing commercial noble-metal benchmarks.",
+  "arxiv_id": null,
+  "authors": [
+    "Qingju Wang",
+    "Kevin M Siniard",
+    "Yuanpeng Zhang",
+    "Murillo L Martins",
+    "Yongqiang Cheng",
+    "Alexander S Ivanov",
+    "Jorge Anibal Boscoboinik",
+    "Esteban Luis Fornero",
+    "Gerd Duscher",
+    "Shuai Yuan",
+    "De-En Jiang",
+    "Nikolaos Samartzis",
+    "Nabihan B Abdul Rahman",
+    "Felipe Polo-Garzon",
+    "Zhenzhen Yang",
+    "Sheng Dai"
+  ],
+  "categories": [],
+  "doi": "10.1002/anie.4691596",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "One copper-cobalt-cerium oxide catalyst both loads and releases hydrogen on a liquid carrier.",
+  "id": "doi-10.1002-anie.4691596",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "H2 uptake on the liquid carrier",
+    "unit": "%",
+    "value": "98.4"
+  },
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "A cheap mixed-oxide catalyst reshapes itself during reaction into copper-cobalt oxide interfaces that handle both hydrogenation and dehydrogenation of carbazole carriers. It beat commercial noble-metal catalysts over five cycles. Five cycles is short for judging durability, and only carbazole-type carriers were tested.",
+  "tags": [
+    "hydrogen storage",
+    "catalysis"
+  ],
+  "title": "Synergistic Cu-Co Sites Enabled Reversible H2 Storage and Release in Liquid Organic Hydrogen Carriers.",
+  "url": "https://doi.org/10.1002/anie.4691596",
+  "venue": "Angewandte Chemie International Edition"
+}

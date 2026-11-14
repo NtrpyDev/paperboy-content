@@ -1,0 +1,45 @@
+{
+  "abstract": "The rise and fall of a motivational state can unfold over many days. We used mouse mating behavior to model how the brain orchestrates such slow-timescale changes in motivation. Male mice become sexually satiated after successful matings, and their motivation to mate recovers over a week. Using deep-brain fluorescence-lifetime imaging in the medial preoptic area (MPOA), we found that tonic dopamine transmission-which regulates mating drive-also declined after mating and gradually re-emerged across several days. Two mechanisms regulated dopamine transmission. First, successful mating transiently reduced the tonic firing of hypothalamic dopamine-releasing neurons, thereby inhibiting dopamine release and mating behavior for 1 to 2 days. Second, these neurons' ability to produce and release dopamine dropped after mating and recovered over the following week, paralleling the recovery of mating drive. Therefore, changes in neuronal firing rate and neurotransmitter composition cooperate to control the early and late phases of motivational dynamics, respectively.",
+  "arxiv_id": null,
+  "authors": [
+    "Praneel S Sunkavalli",
+    "Joseph C Madara",
+    "Jonnathan Singh Alvarado",
+    "Bettina F Ventura",
+    "Jessica G Baker",
+    "Paula K Zhu",
+    "Lauren F Christenson",
+    "Adriana Diaz",
+    "Janelle Chen",
+    "Evelyn Lazen",
+    "Luca Ravotto",
+    "Tommaso Patriarchi",
+    "Mark L Andermann",
+    "Stephen X Zhang"
+  ],
+  "categories": [],
+  "doi": "10.1016/j.neuron.2026.10.022",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "After mating, male mice's drive fades for days as dopamine neurons fire less and make less dopamine.",
+  "id": "doi-10.1016-j.neuron.2026.10.022",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Imaging dopamine in the medial preoptic area showed it fell after mating and returned over several days. Reduced firing of hypothalamic dopamine neurons explains the first day or two, and a slower drop in their capacity to make and release dopamine explains the week-long recovery. The work is in male mice only.",
+  "tags": [
+    "motivation",
+    "dopamine"
+  ],
+  "title": "Slow-timescale regulation of dopamine release governs recovery of a motivational drive over days.",
+  "url": "https://doi.org/10.1016/j.neuron.2026.10.022",
+  "venue": "Neuron"
+}

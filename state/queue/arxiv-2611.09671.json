@@ -1,0 +1,54 @@
+{
+  "abstract": "High throughput computational databases such as Materials Project, the Open Quantum Materials Database, and Alexandria now each list on the order of 10^5 predicted stable compounds. However, the overall reliability of these predictions in terms of actual experimental synthesizability remains poorly understood. In this work we attempt to synthesize, via arc melting, 34 different predicted ternary compounds. The majority of these materials did not form in the predicted structure, instead resulting in disordered variants or multiphase mixtures. Four formed ordered structures not reported before, one of them at a composition reported earlier without a structure. We discuss both the failures and the successes, and identify simple filtering criteria that can help researchers avoid hypothetical materials that are unlikely to form.",
+  "arxiv_id": "2611.09671",
+  "authors": [
+    "Gabriele D. Di Gianluca",
+    "James Grossmann",
+    "Jackson Niedel",
+    "Juan Esquivel",
+    "Molly Crossman",
+    "Tyler Miniati",
+    "Melchior Jean",
+    "Zhongwei Li",
+    "Pawan Prakash",
+    "Andrew Valentini",
+    "Jung Soo Kim",
+    "Benjamin Geisler",
+    "Richard G. Hennig",
+    "Peter J. Hirschfeld",
+    "Gregory R. Stewart",
+    "James J. Hamlin"
+  ],
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "chemistry",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.09671"
+  },
+  "hook": "Of 34 predicted stable compounds, most did not form their predicted structure when made",
+  "id": "arxiv-2611.09671",
+  "license": "cc-by",
+  "published": "2026-11-06",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Predicted ternary compounds synthesized",
+    "unit": "compounds",
+    "value": "34"
+  },
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Large databases list about 10^5 computationally predicted stable compounds, but few have been tested in a lab. The team tried to make 34 predicted ternary compounds by arc melting; most came out disordered or as multiphase mixtures, and four formed new ordered structures. The sample is small and limited to one synthesis method, so it may not represent every prediction.",
+  "tags": [
+    "materials discovery",
+    "synthesis"
+  ],
+  "title": "Experimental Evaluation of High-Throughput Structure Predictions",
+  "url": "https://arxiv.org/abs/2611.09671",
+  "venue": "arXiv"
+}

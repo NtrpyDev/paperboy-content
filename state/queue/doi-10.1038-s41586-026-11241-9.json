@@ -1,0 +1,40 @@
+{
+  "abstract": "A new epoch for direct visualization of accretion dynamics near the event horizon of a black hole began when the Event Horizon Telescope Collaboration synthesized an Earth-sized aperture with millimetre radio interferometry and published the first reconstructed image1-4 of a black hole shadow at the core of radio galaxy Messier 87 (M87). The image appeared as a ring-like structure, representing the gravitationally lensed and redshifted emission around the central supermassive black hole, M87*, located at the galactic nucleus. However, application of various data analysis and imaging heuristics resulted in divergent representations of M87* fine-scale features3,5-7, with some external analyses even challenging the fundamental ring-like morphology of the source8,9. Such difficulties arise as a consequence of the inherent sparsity of the very long baseline interferometry measurements, making interferometric image reconstruction an inadequately constrained problem. Moreover, the solution is sensitive to instrument calibration, post-processing algorithms and imaging hyperparameters. Here we apply an independent imaging algorithm that we have developed to the M87* dataset that is free from prescriptive morphological priors and founded on observables immune to instrument calibration errors. We reconstruct the black hole shadow image and unequivocally reproduce a ring-like morphology, with an angular diameter of 42.2 ± 1.5 μas corresponding to a black hole mass of 6.5 ± 0.5 billion solar masses assuming nominal scaling parameters, observed at an inclination angle of approximately 20° from the approaching jet.",
+  "arxiv_id": null,
+  "authors": [
+    "Samuel Lai",
+    "Nithyanandan Thyagarajan",
+    "O Ivy Wong",
+    "Foivos Diakogiannis"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41586-026-11241-9",
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "An independent imaging method recovers the M87 black hole's ring, 42.2 microarcseconds wide.",
+  "id": "doi-10.1038-s41586-026-11241-9",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Angular diameter of M87* ring",
+    "unit": "microarcseconds",
+    "value": "42.2"
+  },
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "An independent algorithm using calibration-immune observables and no morphological priors reconstructs the ring-like shadow of M87* from Event Horizon Telescope data. It gives a ring diameter of 42.2 microarcseconds and a mass of 6.5 billion suns. It reuses the same sparse dataset, and the mass depends on assumed scaling parameters.",
+  "tags": [
+    "black holes",
+    "M87"
+  ],
+  "title": "Independent interferometric observable confirms black hole shadow in M87.",
+  "url": "https://doi.org/10.1038/s41586-026-11241-9",
+  "venue": "Nature"
+}

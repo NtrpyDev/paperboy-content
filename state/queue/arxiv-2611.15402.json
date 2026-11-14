@@ -1,0 +1,37 @@
+{
+  "abstract": "For nonempty Borel sets $E\\subset\\mathbb R^d$ and $\\Theta\\subset O(d)\\times\\mathbb R^d$, where $d\\ge2$, let $\\Theta(E)$ be the union of the rigid copies $gE+z$, where $(g,z)\\in\\Theta$. We prove that $\\Theta(E)$ has positive Lebesgue measure whenever $\\dim_{\\mathrm{SF}} E+\\dim_H\\Theta>\\frac{d(d+1)}2$, where $\\dim_{\\mathrm{SF}} E$ is the spherical Fourier dimension of $E$. This resolves a conjecture on packing by arbitrary Borel families of rigid motions. Our proof develops a discrete-to-continuous framework by adapting a finite-field averaging argument to $\\mathbb R^d$ using Sobolev estimates on the group of rigid motions. We also obtain analogous packing results for similarities. The same framework can be used to show that if $\\tau$ is a compactly supported probability measure on the similarity group with finite $\\bigl(\\frac{d(d-1)}{2}+1\\bigr)$-energy, then every compactly supported $\\tau$-stationary probability measure on $\\mathbb R^d$ has a smooth density. We deduce that a nonempty compact set has nonempty interior if its family of similarity self-embeddings has Hausdorff dimension greater than $\\frac{d(d-1)}{2}+1$.",
+  "arxiv_id": "2611.15402",
+  "authors": [
+    "Daewoong Cheong",
+    "Thang Pham",
+    "Chun-Yen Shen"
+  ],
+  "categories": [
+    "math.CA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15402"
+  },
+  "hook": "A set whose rigid copies are spread widely enough must cover positive volume when their dimensions add up.",
+  "hook_turn": "when their dimensions add up.",
+  "id": "arxiv-2611.15402",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove that the union of rigid copies of a Borel set E over a family of motions has positive Lebesgue measure when the spherical Fourier dimension of E plus the family's Hausdorff dimension exceeds d(d+1)/2. This resolves a conjecture, with similar results for similarities. The method adapts a finite-field averaging argument using Sobolev estimates. It is a sufficient condition, not a sharp one in all cases.",
+  "tags": [
+    "geometric measure theory",
+    "harmonic analysis"
+  ],
+  "title": "Packing sets by rigid motions and similarities",
+  "url": "https://arxiv.org/abs/2611.15402",
+  "venue": "arXiv"
+}

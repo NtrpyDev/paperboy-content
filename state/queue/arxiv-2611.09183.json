@@ -1,0 +1,41 @@
+{
+  "abstract": "We investigate the derandomized version of the classical line-point low-degree test in the high-error regime in the bivariate setting and reveal some unexpected behavior. The classical line-point low-degree test takes an $m$-variate function $f$ over a finite field $\\mathbb{F}_q$, queries it along a random line and accepts if the restriction of the function to this line is a low-degree polynomial. The high-error version of (the analysis of) this test asserts that if $f$ has at least $\\epsilon$ expected local agreement with a degree-$k$ univariate polynomial on a random line, then in fact $f$ is non-trivially close to some degree-$k$ $m$-variate polynomial even as $\\epsilon$ approaches $0$ (provided $q$ is sufficiently large compared to $k$ and $1/\\epsilon$). The derandomized version of the problem asks if the same holds when the line is not chosen uniformly over all possible lines but rather from a small set. In this paper we explore the bivariate case ($m=2$). We show, somewhat surprisingly, that there exists a function $f\\colon \\mathbb{F}_q^2 \\to \\mathbb{F}_q$ and a set of lines $\\mathcal{L}$ in $\\mathbb{F}_q^2$ of size nearly $q^{3/2}$ such that on every line in $\\mathcal{L}$, $f$ has agreement $\\approx 1/2$ on average with some univariate polynomial of degree $k=\\sqrt{q}/2$ and yet $f$ is $1 - O(q^{-1/2})$ far from every polynomial of degree $O(k)$. On the positive side, we show that once the field size $q$ is at least $k^2/(\\epsilon)^{O(1)}$ such examples disappear and we can get sets of lines of size $O(q/\\epsilon^{O(1)})$ on which the low-degree test has a high-error analysis. On the way to our positive result, we show a new high-degree version of the classical two-direction Polishchuk--Spielman divisibility lemma.",
+  "arxiv_id": "2611.09183",
+  "authors": [
+    "Prahladh Harsha",
+    "Swastik Kopparty",
+    "Mrinal Kumar",
+    "Ramprasad Saptharishi",
+    "Madhu Sudan"
+  ],
+  "categories": [
+    "cs.CC",
+    "cs.IT",
+    "math.IT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.09183"
+  },
+  "hook": "A sparse set of lines can fool the low-degree test, until the field is large enough.",
+  "hook_turn": "until the field is large enough.",
+  "id": "arxiv-2611.09183",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-06",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors show a function and about q^(3/2) lines where the function agrees with low-degree polynomials on half of each line, yet is far from every low-degree polynomial in the plane. Once the field size is at least k^2 over a power of the error, such examples vanish and O(q) lines suffice. The results cover only the two-variable case.",
+  "tags": [
+    "property testing",
+    "coding theory"
+  ],
+  "title": "On derandomizing the line-point low-degree test",
+  "url": "https://arxiv.org/abs/2611.09183",
+  "venue": "arXiv"
+}

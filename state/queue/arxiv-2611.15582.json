@@ -1,0 +1,35 @@
+{
+  "abstract": "Every complete allocation that is envy-free up to one good (EF1) guarantees each of the $n$ agents her $1$-out-of-$(2n-1)$ maximin share. Can we construct allocations that satisfy EF1 together with stronger ordinal maximin share guarantees? For additive valuations, we prove that there always exists a complete allocation that is simultaneously EF1 and ($1$-out-of-$\\lfloor\\varphi n\\rfloor$)-MMS, where $\\varphi=(1+\\sqrt{5})/2$ is the golden ratio. For bivalued valuations, where each agent may have her own two non-negative values for the goods, we obtain a complete allocation that is simultaneously envy-free up to any good (EFX) and ($1$-out-of-$\\lceil(7n-1)/6\\rceil$)-MMS.",
+  "arxiv_id": "2611.15582",
+  "authors": [
+    "Hadi Hosseini",
+    "Shraddha Pathak"
+  ],
+  "categories": [
+    "cs.GT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15582"
+  },
+  "hook": "Goods can always be divided with near-no envy and a maximin guarantee tied to the golden ratio.",
+  "id": "arxiv-2611.15582",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For additive valuations, a complete allocation always exists that is envy-free up to one good and gives each of n agents a 1-out-of-floor(phi n) maximin share. For bivalued valuations a stronger no-envy notion pairs with a 1-out-of-ceil((7n-1)/6) guarantee. These are existence proofs in a mathematical model of fair division.",
+  "tags": [
+    "fair division",
+    "game theory"
+  ],
+  "title": "The Golden Ratio: EF1 and Ordinal-MMS for Additive Goods",
+  "url": "https://arxiv.org/abs/2611.15582",
+  "venue": "arXiv"
+}

@@ -1,0 +1,38 @@
+{
+  "abstract": "Motivated by the observation of superconductivity in rhombohedral graphene in the proximity of electronic crystalline phases, we study the possibility of pairing mediated by electronic phonons. We focus on the vicinity of the phase boundary between trivial and topological electron crystals, where self-doping generically gives rise to a small Fermi sea of carriers with Dirac dispersion. We compute the Goldstone phonon spectra of the self-doped crystal (SDC) using a self-consistent approach, and subsequently derive the effective electronic-phonon-mediated interaction between itinerant carriers at the Fermi surface. Remarkably, we find that the Coulomb repulsion can be overscreened by the Goldstone phonons, leading to a chiral topological superconductor with an unpaired Majorana edge mode. Our conclusions are robust across the $\\lambda$-jellium model and a simplified model of rhombohedral graphene, and we propose characteristic non-linear I-V signals as a test of our prediction. More generally, our results outline an intriguing route for unconventional superconductivity where both electronic correlations and topology play key roles.",
+  "arxiv_id": "2611.12946",
+  "authors": [
+    "Shuchen Zhang",
+    "Zhihuan Dong",
+    "Zhaoyu Han",
+    "Shubhayu Chatterjee"
+  ],
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.str-el"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.12946"
+  },
+  "hook": "In theory, phonons of an electron crystal can pair carriers into a chiral topological superconductor",
+  "id": "arxiv-2611.12946",
+  "license": "cc-by",
+  "published": "2026-11-06",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Superconductivity appears near electron crystal phases in rhombohedral graphene, and this work asks whether the crystal's own vibrations could cause it. The authors compute Goldstone phonon spectra and the interaction they mediate, finding that Coulomb repulsion can be overscreened to give a chiral superconductor with a Majorana edge mode. This is a theoretical prediction in model systems, awaiting experiment.",
+  "tags": [
+    "superconductivity",
+    "graphene"
+  ],
+  "title": "Goldstone-Mediated Chiral Superconductivity in Self-Doped Electron Crystals",
+  "url": "https://arxiv.org/abs/2611.12946",
+  "venue": "arXiv"
+}

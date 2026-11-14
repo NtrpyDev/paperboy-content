@@ -1,0 +1,41 @@
+{
+  "abstract": "Abstract The nickel pincer nucleotide (NPN) cofactor was structurally characterized in lactate racemase in 2014, and it is now known that NPN is important in a superfamily of enzymes responsible for isomerization of α-hydroxyacids and also important in other hydride transfer reactions across bacteria and archaea. A decade of biochemical and theoretical studies have led to proposals for the mechanism of reaction for the NPN, but structural or spectroscopic characterization of a well-defined intermediate in the mechanisms has been elusive. Herein, we report a synthetic model of the NPN cofactor which is faithful to the cofactor in consisting of a di(thioamide) substituted pyridine ring. The hydride transfer reactivity of the NPN model was studied and both 1,4- and 1,2-dihydropyridinates (DHP–) of both the free ligand and the Ni complex have been isolated and studied spectroscopically. No evidence for Ni-hydride formation was observed. The UV–vis spectrum of the 1,4-DHP– Ni model complex (1H1,4) has features matching UV–vis spectra collected in biochemical studies where NaBH4 was added to the NPN-dependent enzyme, lactate racemase; whereas the spectra of 1-I and 1H1,2 do not match spectra collected from NPN cofactor reaction intermediates. Thus, the isolation and characterization of 1H1,4 reported herein provides the first direct experimental evidence assigning the reactivity observed in biochemical studies to the pyridyl C4 position of a NPN cofactor model complex.",
+  "arxiv_id": null,
+  "authors": [
+    "Samuel M. Bhutto",
+    "Rachel E. Siegel",
+    "Paul M. Lam",
+    "Kevin Rivera Cruz",
+    "Xiujing Xing",
+    "Brennen J. Lessard",
+    "James C. Fettinger",
+    "Hannah S. Shafaat",
+    "Louise A. Berben"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c19835",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A nickel cofactor model traps an intermediate whose spectrum matches the enzyme's.",
+  "hook_turn": "whose spectrum matches the enzyme's.",
+  "id": "doi-10.1021-jacs.6c19835",
+  "license": "other",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Chemists built a synthetic copy of the nickel pincer cofactor in lactate racemase and isolated its 1,4- and 1,2-dihydropyridinate forms. The 1,4 form's UV-vis spectrum matches that seen when the real enzyme is treated with borohydride, pointing to hydride transfer at the ring's C4 position. No nickel-hydride was seen, and a model complex is not the enzyme itself.",
+  "tags": [
+    "enzyme cofactors",
+    "nickel"
+  ],
+  "title": "Synthesis and Characterization of the Proposed 1,4-Dihydropyridinate Intermediate with a Nickel-Pincer Nucleotide Cofactor Model Complex",
+  "url": "https://doi.org/10.1021/jacs.6c19835",
+  "venue": "Journal of the American Chemical Society"
+}

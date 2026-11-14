@@ -1,0 +1,50 @@
+{
+  "abstract": "Objectives To evaluate trends in pregabalin use and overdose in Australia and examine temporal relationships with media coverage (December 2018), prescribing and dispensing restrictions (April 2020), and boxed warnings (February 2021). Design Retrospective observational study of dispensing and overdose data, with changepoint, interrupted time series, and latent class analysis. Setting and participants Pharmaceutical Benefits Scheme data (PBS; 10% random sample of people with drug subsidies) and overdose calls (self-harm, recreational use, and misuse) reported to Australia's largest Poisons Centre (50% national sample), 2016-24. Main outcome measures Population adjusted rates of dispensing and overdose, timing of breakpoints and rate ratios, proportion of people who use pregabalin at high risk of misuse. Results 227 864 people were dispensed 3 441 851 pregabalin prescriptions in the PBS 10% sample and 4871 pregabalin overdose calls were made to the Poisons Centre. Pregabalin use peaked in 2018 before plateauing and declining. Three breakpoints were found in dispensing data, with major decreases in level and slope: December 2018, May 2020, December 2021. The combined rate ratio for dispensing was 0.748 (95% confidence interval 0.700 to 0.800). Compared with the projected historical trend in the absence of interventions (counterfactual), approximately 118 390 (93 960 to 140 940) fewer pregabalin prescriptions were recorded nationally in December 2021, and an ongoing reduction of 0.7% (0.5% to 0.9%) was found each month. All breakpoints were associated with declines in overdose rates, with a combined rate ratio of 0.532 (95% CI 0.406 to 0.695). This reduction corresponded to approximately 41.3 (26.9 to 52.4) fewer pregabalin overdose calls in December 2021 and an ongoing reduction of 1.6% (1.0% to 2.3%) each month. Latent class analysis of 57 744 people dispensed pregabalin in the 12 months after the final breakpoint revealed four groups. The high risk group (7790, 13.5%) were more likely male, younger, dispensed more pregabalin, with shorter refill interval and high rates of opioids and benzodiazepine co-use (5120 (65.7%) and 2455 (31.5%), respectively). Conclusions Pregabalin use and overdose in Australia have declined in recent years. Major decreases in trend corresponded with media coverage (December 2018) and prescribing and dispensing restrictions (May 2020). The third breakpoint may be a delayed impact of boxed warnings (implemented February 2021). These findings suggest that regulatory and risk communication measures may contribute to reducing pregabalin related harm.",
+  "arxiv_id": null,
+  "authors": [
+    "Rose Cairns",
+    "Firouzeh Noghrehchi",
+    "Sallie-Anne Pearson",
+    "Andrea L Schaffer",
+    "Jonathan Brett",
+    "Nicholas A Buckley"
+  ],
+  "categories": [
+    "Humans",
+    "Retrospective Studies",
+    "Poison Control Centers",
+    "Australia",
+    "Drug Overdose",
+    "Pregabalin",
+    "Media Exposure"
+  ],
+  "doi": "10.1136/bmj-2026-101021",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Pregabalin use and overdose calls in Australia fell after media coverage and prescribing limits",
+  "hook_turn": "fell after media coverage and prescribing limits",
+  "id": "doi-10.1136-bmj-2026-101021",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Overdose rate ratio after interventions",
+    "value": "0.532"
+  },
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Dispensing and poison-center data from 2016 to 2024 show use peaked in 2018 and fell, with overdose calls down at the same breakpoints (rate ratio 0.532). Changepoint and interrupted time series analyses were used. It is observational, so the policies and media are associated with the drop, not proven causes.",
+  "tags": [
+    "pregabalin",
+    "drug policy"
+  ],
+  "title": "Changes in pregabalin use and overdose after government interventions and media coverage: retrospective observational study.",
+  "url": "https://doi.org/10.1136/bmj-2026-101021",
+  "venue": "BMJ"
+}

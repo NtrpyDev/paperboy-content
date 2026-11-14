@@ -1,0 +1,45 @@
+{
+  "abstract": "Abstract Polymeric nitrogen represents a long-sought class of high energy density materials, in which single-bonded nitrogen networks release large amounts of energy upon decomposition to molecular N 2 . However, polymeric nitrogen allotropes require extreme pressures to synthesize and cannot be recovered at ambient conditions due to surface instabilities. Hydrogen has been proposed as a key element to stabilize such frameworks, yet polymeric nitrogen–hydrogen solids have until now remained the realm of theoretical calculations. Here, we report the high-pressure synthesis of polymeric N 3 H 2 at 134(3)–139(1) GPa from N 2 –H 2 mixtures. Synchrotron single-crystal X-ray diffraction, Raman spectroscopy and first-principles calculations reveal a fully single-bonded framework of 1-dimensional chains of N 6 rings, each decorated by four H atoms. The chains of N 6 H 4 units are cross-linked through hydrogen bonds. Employing modern synchrotron sources, hydrogen positions are directly resolved from diffraction data at 139(1) GPa. At ambient conditions, N 3 H 2 exhibits an estimated energy of decomposition of 7.98 kJ/g, highlighting hydrogen-stabilized polymeric nitrogen as a promising class of energetic materials.",
+  "arxiv_id": null,
+  "authors": [
+    "Umbertoluca Ranieri",
+    "Grégory Geneste",
+    "Gunnar Weck",
+    "Sarah Bolton",
+    "James Spender",
+    "Akun Liang",
+    "Bernhard Massani",
+    "Gaston Garbarino",
+    "Dominique Laniel"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-79382-z",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Squeezing nitrogen and hydrogen at 139 GPa forms a solid of single-bonded nitrogen rings.",
+  "id": "doi-10.1038-s41467-026-79382-z",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Synthesis pressure of polymeric N3H2",
+    "unit": "GPa",
+    "value": "139"
+  },
+  "significance": 7,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Researchers made polymeric N3H2, a solid with chains of six-membered nitrogen rings carrying hydrogen, in a diamond-anvil press. Synchrotron single-crystal X-ray diffraction located even the hydrogen atoms. The material exists only at extreme pressure, and its ambient-condition energy release is an estimate.",
+  "tags": [
+    "high pressure",
+    "polymeric nitrogen"
+  ],
+  "title": "High-pressure synthesis of a polymeric N3H2 solid stabilized by hydrogen bonds",
+  "url": "https://doi.org/10.1038/s41467-026-79382-z",
+  "venue": "Nature Communications"
+}

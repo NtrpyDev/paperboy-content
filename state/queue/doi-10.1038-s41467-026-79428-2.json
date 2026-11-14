@@ -1,0 +1,42 @@
+{
+  "abstract": "Abstract Maize yield responses to climate change differ seasonally and regionally, with both positive and negative impacts shaped by local climate trends and management decisions. Here, using a phenology-aligned moving crop-season framework and the Hybrid-Maize model (1991–2024) across five U.S. Corn Belt states, we quantify climate-driven yield contributions and show that they transition from southern declines to northern gains, reflecting the persistent influence of the central U.S. summer warming hole characterized by cooling maximum temperatures and increasing rainfall. A systematic thermal mismatch between environmental heat availability and hybrid growing degree day requirements is observed, particularly south of 42°N, where thermal matching declined despite favorable thermal conditions. Contrasting trends in thermal matching and reproductive duration help explain the latitude-dependent structure of climate-driven yield contributions. Our findings highlight how hybrid selection modulates the impacts of temperature, precipitation, vapor pressure deficit, and radiation trends on maize yield gains across the U.S. Corn Belt.",
+  "arxiv_id": null,
+  "authors": [
+    "Nenghan Wan",
+    "Haidong Zhao",
+    "Jerry L. Hatfield",
+    "Roger A. Pielke",
+    "M. B. Kirkham",
+    "Stephen M. Welch",
+    "Lina Zhang",
+    "Zhijuan Liu",
+    "Haishun Yang",
+    "Xiaomao Lin"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-79428-2",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Climate-driven maize yield gains shift from losses in the southern Corn Belt to gains in the north.",
+  "hook_turn": "to gains in the north.",
+  "id": "doi-10.1038-s41467-026-79428-2",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "A crop model run over 1991 to 2024 in five U.S. states links this split to the central U.S. summer warming hole, with cooler highs and more rain. South of 42 degrees N, hybrids' heat requirements increasingly mismatch available heat. Results come from model simulation, not field trials.",
+  "tags": [
+    "crop yield",
+    "climate change"
+  ],
+  "title": "Latitude modulates climate-driven maize yield gains across the central U.S. “warming hole”",
+  "url": "https://doi.org/10.1038/s41467-026-79428-2",
+  "venue": "Nature Communications"
+}

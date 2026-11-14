@@ -1,0 +1,41 @@
+{
+  "abstract": "We show that, for every fixed proper minor-closed graph class $\\mathcal{G}$ and every positive integer $n$, there exists a graph $U_n$ with $n^{1+o(1)}$ vertices and edges such that every $n$-vertex graph in $\\mathcal{G}$ is isomorphic to an induced subgraph of $U_n$. This result generalizes and unifies the results of Dujmovi\\'c et al. (J. ACM 2021) on induced-universal graphs and the results of Esperet, Joret, and Morin (J. London Math. Soc. 2023) on sparse induced-universal graphs from planar graphs to all proper minor-closed graph classes. It simultaneously improves the previous bounds for the number of vertices in induced-universal graphs (previously $O(n^2)$ obtained as a corollary of a result of DeVos et al. (J. Comb. Theory, Ser. {B} 2004) and a result of Gavoille and Labourel (ESA 2007)) and the number of edges in subgraph-universal graphs (previously $O(n^{3/2})$ by Babai et al. (Theory and Practice of Combinatorics 1982)).",
+  "arxiv_id": "2611.14194",
+  "authors": [
+    "Vida Dujmovi\\'c",
+    "Cyril Gavoille",
+    "Gwena\\\"el Joret",
+    "Piotr Micek",
+    "Pat Morin",
+    "David R. Wood"
+  ],
+  "categories": [
+    "math.CO",
+    "cs.DM"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14194"
+  },
+  "hook": "Graphs from any minor-closed class fit inside one sparse graph with only n^(1+o(1)) vertices and edges.",
+  "hook_turn": "with only n^(1+o(1)) vertices and edges.",
+  "id": "arxiv-2611.14194",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For any proper minor-closed class, such as planar graphs, the authors construct a graph that contains every n-vertex member as an induced subgraph yet has barely more than n vertices and edges. This cuts the earlier O(n^2) vertex bound and the O(n^(3/2)) edge bound. It is an existence result in theoretical computer science, with no claim about practical use.",
+  "tags": [
+    "graph theory",
+    "universal graphs"
+  ],
+  "title": "You Can Have It All: Small sparse induced-universal graphs for minor-closed classes",
+  "url": "https://arxiv.org/abs/2611.14194",
+  "venue": "arXiv"
+}

@@ -1,0 +1,43 @@
+{
+  "abstract": "In first clinical result using \"chemogenetic\" strategy, a team in China treated three patients to control epilepsy.",
+  "arxiv_id": null,
+  "authors": [
+    "Ailie McWhinnie"
+  ],
+  "categories": [
+    "Brain",
+    "Humans",
+    "Epilepsy",
+    "Seizures",
+    "Anticonvulsants",
+    "Genetic Therapy",
+    "Gene Therapy Agents",
+    "Chemogenetics"
+  ],
+  "doi": "10.1126/science.aeo0640",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A gene therapy let a drug quiet overactive brain cells and cut seizures in three epilepsy patients.",
+  "hook_turn": "cut seizures in three epilepsy patients.",
+  "id": "doi-10.1126-science.aeo0640",
+  "license": null,
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "A team in China delivered a gene that makes brain cells respond to a drug, so the drug can dampen their activity. It is the first clinical use of this chemogenetic approach, and seizures fell. Only three patients were treated, so safety and lasting benefit remain unproven.",
+  "tags": [
+    "epilepsy",
+    "gene therapy",
+    "chemogenetics"
+  ],
+  "title": "Novel gene therapy lets drug dampen brain cell activity, reducing seizures.",
+  "url": "https://doi.org/10.1126/science.aeo0640",
+  "venue": "Science"
+}

@@ -1,0 +1,38 @@
+{
+  "abstract": "Abstract The development of practical synthetic methods for incorporating trifluoromethyl (CF3) groups into organic scaffolds is of paramount importance in medicinal chemistry, as such modifications profoundly modulate the physicochemical properties of drug candidates. 1,1,1,3,3,3-Hexafluoro-2-propanol (HFIP) is widely utilized as a unique solvent in synthetic chemistry and also represents a promising CF3 source due to its high availability and low cost. Here we report an unprecedented photoelectrochemical iron-catalyzed protocol for radical trifluoromethylation that employs commercially accessible HFIP as the CF3 radical precursor. This method enables efficient trifluoromethylation of unactivated arenes, heteroarenes, and alkenes with a broad substrate scope and excellent functional group tolerance. Notably, this photoelectrocatalytic system is readily scalable for practical synthetic applications, and its utility has been demonstrated in the trifluoromethylation of peptides, allowing preferential modification of tryptophan residues in a chemoselective fashion.",
+  "arxiv_id": null,
+  "authors": [
+    "Naifu Zhou",
+    "Xinyi Wang",
+    "Huaiyu Hu",
+    "Tong Mu",
+    "Xiao-Song Xue",
+    "Lu Song",
+    "Niankai Fu"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c16642",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Cheap solvent HFIP works as a CF3 source, adding trifluoromethyl groups to arenes and peptides.",
+  "id": "doi-10.1021-jacs.6c16642",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Researchers used light, electricity, and an iron catalyst to turn HFIP into CF3 radicals that attach to arenes, heteroarenes, alkenes, and tryptophan in peptides. The reaction scales up and tolerates many functional groups. The abstract gives no yields or direct comparison with existing CF3 reagents.",
+  "tags": [
+    "trifluoromethylation",
+    "photoelectrochemistry"
+  ],
+  "title": "Empowering HFIP as a Radical Trifluoromethylating Reagent by Photoelectrochemical Iron Catalysis",
+  "url": "https://doi.org/10.1021/jacs.6c16642",
+  "venue": "Journal of the American Chemical Society"
+}

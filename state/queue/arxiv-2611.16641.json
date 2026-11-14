@@ -1,0 +1,40 @@
+{
+  "abstract": "Magnetic fields can launch outflows through the Blandford-Znajek (BZ) or the Blandford-Payne (BP) mechanism in accreting black hole systems. Despite the dominant launching mechanism still being unclear, the BP process has been insufficiently studied in general-relativistic magnetohydrodynamic (GRMHD) simulations due to difficulties in generating and maintaining the required large-scale magnetic field geometry. Here, we set up six resistive GRMHD simulations of thin accretion disks with BHAC. The accretion disks in two simulations become magnetically arrested, while the others stay in the standard and normal evolution (SANE) regime. All simulations form jets and winds. The jets are parabolic and collimated by the outer sub-relativistic disk wind; a power law relating the jet width $x$ to the height $z$ as $x\\propto z^\\mathcal{K}$ yields exponents between 0.52 and 0.64. Among the SANE simulations, the setup with spin parameter $a_* = -0.9375$ has the strongest and most efficient jet, as it accumulates the most magnetic flux at the black hole horizon. For a highly spinning black hole with $a_*=0.9375$, the BZ jet power is $\\gtrsim3$ times greater than the disk wind power. The simulated wind regions consist of a highly magnetized region, where the magnetization parameter $\\sigma\\gg1$, and a less magnetized region. A fast outflow with the potential to reach Lorentz factors up to $\\Gamma_\\infty\\approx25$ propagates in the former region, but because the Lorentz force acts against the disk, it cannot remove a measurable amount of mass from the disk. In the less-magnetized region, a centrifugally driven slower wind efficiently carries away disk material.",
+  "arxiv_id": "2611.16641",
+  "authors": [
+    "J. Speicher",
+    "O. Porth",
+    "N. Degenaar"
+  ],
+  "categories": [
+    "astro-ph.HE"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16641"
+  },
+  "hook": "In simulation, a spinning black hole's jet carries over 3 times the power of its disk wind.",
+  "id": "arxiv-2611.16641",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Possible Lorentz factor of fast outflow",
+    "value": "~25"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Six resistive simulations of thin accretion disks around black holes all produced jets and winds. For spin 0.9375 the Blandford-Znajek jet power is at least 3 times the wind power, and a fast magnetized outflow removes little disk mass. These are simulations with chosen setups, not observations.",
+  "tags": [
+    "black hole jets",
+    "accretion disks"
+  ],
+  "title": "Double Blandford: Resistive GRMHD simulations of accreting black holes simultaneously launch winds and jets",
+  "url": "https://arxiv.org/abs/2611.16641",
+  "venue": "arXiv"
+}

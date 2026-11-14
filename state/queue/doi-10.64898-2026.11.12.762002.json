@@ -1,0 +1,43 @@
+{
+  "abstract": "Pathogenic variants in LRPPRC disrupt mitochondrial gene expression, causing severe and incurable mitochondrial disease with neurological involvement accompanied by hepatopathy or cardiomyopathy. The development for gene therapy for LRPPRC-linked disease is hindered by the large LRPPRC coding sequence exceeding AAV cargo capacity when combined with classical regulatory elements. Here, we engineered compact single rAAV9 vectors expressing human or mouse LRPPRC and administered them intravenously to heart and skeletal muscle-specific Lrpprc knockout mice. This approach restored cardiac LRPPRC expression, preserved oxidative phosphorylation (OXPHOS) function, prevented cardiomyopathy and markedly extended survival. While skeletal muscle rescue was partial, the therapy effectively prevented fatal cardiac dysfunction. These findings provide the first in vivo proof-of-concept that AAV-mediated LRPPRC gene replacement can preserve OXPHOS function and prevent lethal cardiomyopathy, supporting its potential as a therapeutic strategy for mitochondrial disease linked to LRPPRC deficiency.",
+  "arxiv_id": null,
+  "authors": [
+    "Zanin, S.",
+    "Lager, F.",
+    "Simon-Sola, M.",
+    "Gaborit, C.",
+    "Renault, G.",
+    "Mingozzi, F.",
+    "Rotig, A.",
+    "Cavazzana, M.",
+    "Metodiev, M.",
+    "Ruzzenente, B."
+  ],
+  "categories": [
+    "genetics"
+  ],
+  "doi": "10.64898/2026.11.12.762002",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/13/2026.11.12.762002.source.xml"
+  },
+  "hook": "A compact gene therapy kept mice with a mitochondrial disease from fatal heart failure.",
+  "id": "doi-10.64898-2026.11.12.762002",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Mutations in LRPPRC cause severe mitochondrial disease, but the gene is too big for standard viral vectors. The team trimmed the regulatory parts so one AAV9 vector could carry it, then injected it into mice lacking Lrpprc in heart and muscle. Hearts kept normal energy production and the mice lived much longer, though muscle rescue was only partial and mice are not patients.",
+  "tags": [
+    "gene therapy",
+    "mitochondrial disease"
+  ],
+  "title": "LRPPRC gene replacement therapy preserves cardiac function and prevents premature death in a mouse model of mitochondrial disease",
+  "url": "https://doi.org/10.64898/2026.11.12.762002",
+  "venue": "bioRxiv"
+}

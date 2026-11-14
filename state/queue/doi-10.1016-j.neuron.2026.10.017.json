@@ -1,0 +1,53 @@
+{
+  "abstract": "Sneezing, coughing, and pain are common symptoms of respiratory viral infection. These responses are initiated by airway-innervating nociceptors that detect noxious stimuli, but how SARS-CoV-2 activates these neurons remains unclear. Here, we show that the coronavirus papain-like protease (PLpro) directly activates airway-innervating nociceptors in mice and human induced pluripotent stem cell (iPSC)-derived nociceptors. PLpro triggers sneezing, coughing, acute pain, and calcitonin gene-related peptide (CGRP) release in the airways. Both the proteolytic activity of PLpro and the host ion channel transient receptor potential ankyrin 1 (TRPA1) are required for neuronal activation and sneezing. Infection with the mouse-adapted SARS-CoV-2 or the murine coronavirus MHV-A59 also induces sneezing in mice, and MHV-A59-evoked sneezing is TRPA1-dependent. SARS-CoV-2 infection of the trigeminal ganglia altered transcriptional programs associated with nociception, including upregulation of the TRPA1-CGRP signaling pathway activated by PLpro. Together, these findings reveal a direct mechanism by which SARS-CoV-2 triggers pain and airway reflexes and identify PLpro and TRPA1 as potential therapeutic targets for COVID-19.",
+  "arxiv_id": null,
+  "authors": [
+    "Sonali S Mali",
+    "Zhongyan Gong",
+    "Ricardo Silva",
+    "Alexander N Flamm",
+    "Christopher P Cook",
+    "Lillian Shallow",
+    "Jennyffer Souza",
+    "Michael Cronce",
+    "Christopher J Arp",
+    "Amr A K Mousa",
+    "Uyen Vo",
+    "Cliff Vuong",
+    "Jay Keasling",
+    "Yalda Moayedi",
+    "Jeffery S Cox",
+    "Rithwik Ramachandran",
+    "Sarah A Stanley",
+    "Diana M Bautista"
+  ],
+  "categories": [
+    "neuroscience"
+  ],
+  "doi": "10.1016/j.neuron.2026.10.017",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/13/2024.01.10.575114.source.xml"
+  },
+  "hook": "A SARS-CoV-2 protease triggers sneezing and coughing in mice by switching on pain nerves via TRPA1.",
+  "hook_turn": "by switching on pain nerves via TRPA1.",
+  "id": "doi-10.1016-j.neuron.2026.10.017",
+  "license": "cc-by-nc",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "The viral protease PLpro directly activates airway pain-sensing neurons in mice and human stem cell-derived neurons, causing sneezing, coughing, and pain-related signaling. Both its cutting activity and the TRPA1 channel are required. Most evidence comes from mice and cultured neurons, so whether this drives human symptoms is not shown.",
+  "tags": [
+    "SARS-CoV-2",
+    "sensory neurons",
+    "TRPA1"
+  ],
+  "title": "A coronavirus protease activates sensory neurons via TRPA1 to drive sneeze, cough, and pain.",
+  "url": "https://doi.org/10.1016/j.neuron.2026.10.017",
+  "venue": "Neuron"
+}

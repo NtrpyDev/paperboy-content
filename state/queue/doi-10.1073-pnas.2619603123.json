@@ -1,0 +1,55 @@
+{
+  "abstract": "Methylation is a fundamental post-translational modification best understood as regulating chromatin structure and gene expression, yet there is emerging evidence that methylation also shapes cytoskeletal organization, regulating key processes such as mitosis and cell migration. Proteomic studies have revealed cytoskeletal protein methylation is widespread, however little is known about the enzymes responsible for these modifications, or their evolutionary relationship to other, better known substrates for methylation, such as chromatin. To address this question, we applied phylogenetic profiling across the complete repertoire of human methyltransferases to identify conserved functional relationships extending beyond chromatin. Unbiased clustering revealed extensive coevolution between methyltransferases and many components of the cytoskeleton, uncovering a previously unrecognized evolutionary network linking canonical chromatin regulatory enzymes to cellular structural systems. Evolutionary Trace analysis of the H3K36 methyltransferase family recovered known catalytic and regulatory domains while identifying additional evolutionarily constrained residues, suggesting previously unappreciated functional interfaces. Comparative analyses further distinguished deeply conserved methyltransferase-cytoskeletal relationships from those that emerged later during eukaryotic evolution, indicating that cytoskeletal methylation comprises both ancient and lineage-expanded regulatory programs. Leveraging these evolutionary signatures, we identified and experimentally validated a previously unrecognized association between the methyltransferase NSD3 and α-tubulin. Together, these findings reveal that methyltransferases traditionally viewed as chromatin regulators participate in an evolutionarily conserved network that coordinates nuclear and cytoskeletal functions. More broadly, they establish phylogenetic profiling as a powerful approach for discovering noncanonical activities of chromatin-associated enzymes and suggest that regulation of chromatin organization and cellular architecture evolved as interconnected processes.",
+  "arxiv_id": null,
+  "authors": [
+    "Edward W Pietryk",
+    "Rahul Jangid",
+    "Ashley G Boice",
+    "Bin Yu",
+    "Chen Wang",
+    "Panagiotis Katsonis",
+    "Ruhee Dere",
+    "Durga Nand Tripathi",
+    "Olivier Lichtarge",
+    "Rachel N Arey",
+    "Cheryl L Walker"
+  ],
+  "categories": [
+    "Chromatin",
+    "Cytoskeleton",
+    "Humans",
+    "Tubulin",
+    "Methyltransferases",
+    "Histone-Lysine N-Methyltransferase",
+    "Evolution, Molecular",
+    "Phylogeny",
+    "Protein Processing, Post-Translational",
+    "Methylation",
+    "Histone Methyltransferases"
+  ],
+  "doi": "10.1073/pnas.2619603123",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Enzymes that methylate chromatin appear to have evolved in step with the cell's cytoskeleton.",
+  "id": "doi-10.1073-pnas.2619603123",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Comparing how methyltransferase genes co-occur across species, the authors found many are linked to cytoskeleton components. They tested one prediction and confirmed that the enzyme NSD3 associates with alpha-tubulin. Most links come from evolutionary patterns and remain untested in cells.",
+  "tags": [
+    "methylation",
+    "cytoskeleton",
+    "evolution"
+  ],
+  "title": "Phylogenetic profiling reveals evolutionary coupling between methyltransferases and the cytoskeleton.",
+  "url": "https://doi.org/10.1073/pnas.2619603123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

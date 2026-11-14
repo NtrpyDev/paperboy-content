@@ -1,0 +1,37 @@
+{
+  "abstract": "For a graph $G=(V,E)$, the boxicity $\\operatorname{box}(G)$ is the least integer $d$ such that $G$ is the intersection graph of axis-parallel boxes in $\\mathbb{R}^d$. The Kneser graph $K(n,k)$ is the graph whose vertex set corresponds to the family of $k$ sized subsets of an $n$ sized ground set, and a pair of vertices are adjacent if and only if the corresponding sets are disjoint. In this short paper, we provide new bounds for the boxicity of $K(n,k)$. We first show that for $k\\ge 2$ and $n\\ge 2k+1$, $\\operatorname{box}(K(n,k))\\ge n-2k$, thereby improving the lower bounds of Caoduro and Lichev [Discrete Mathematics 346(5):113333 (2023)] when $n\\geq 3k+1$ and $k\\ge 3$. The proof of this result uses the topological method and follows a strategy similar to Greene's proof of the Kneser's conjecture on the chromatic number of $K(n,k)$. We also show that for $k\\ge 2$, $t\\ge 1$ and $n=2k+t$, $\\operatorname{box}(K(2k+t,k)) \\leq O( t^3\\log(2k+t) ).$ In particular, for every $t=t(k)\\ge1$ with $t^3\\log k=o(k)$, $\\operatorname{box}(K(2k+t,k))=o(k)$. This is the first upper bound on the boxicity of $K(n,k)$ that is sublinear in $n$. We also show that for large enough $k$, $\\operatorname{box}(K(2k+1,k))\\le \\frac{3\\ln (2k+1)}{\\ln\\ln (2k+1)}$.",
+  "arxiv_id": "2611.17183",
+  "authors": [
+    "L. Sunil Chandran",
+    "Suraj Kumar Sahoo"
+  ],
+  "categories": [
+    "math.CO",
+    "cs.DM"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17183"
+  },
+  "hook": "Kneser graphs K(n,k) need at least n-2k box dimensions, and a first sublinear upper bound is proven.",
+  "hook_turn": "and a first sublinear upper bound is proven.",
+  "id": "arxiv-2611.17183",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Boxicity is the fewest dimensions in which a graph can be drawn as overlapping axis-parallel boxes. The authors prove it is at least n-2k for Kneser graphs, using a topological argument like Greene's proof of Kneser's conjecture. They also give an upper bound of order t^3 log(2k+t) when n=2k+t, the first sublinear in n. The lower and upper bounds still leave a wide gap.",
+  "tags": [
+    "graph theory",
+    "Kneser graphs"
+  ],
+  "title": "New bounds on the boxicity of Kneser graphs",
+  "url": "https://arxiv.org/abs/2611.17183",
+  "venue": "arXiv"
+}

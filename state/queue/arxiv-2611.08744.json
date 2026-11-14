@@ -1,0 +1,40 @@
+{
+  "abstract": "I report 192 explicit binary stabilizer codes $[[n,k,d]]$ with $53\\le n\\le 254$ and $5\\le d\\le 13$ whose minimum distance exceeds the lower bound listed in Grassl's code tables at the same $(n,k)$: 161 codes by one and 31 by two. Through the standard propagation rules they raise 1,873 entries of the table. For 190 of the codes, a random Clifford encoder is followed by expurgation: every logical operator of weight below the target distance is enumerated, and a few logical operators are promoted to stabilizers so that each low-weight one anticommutes with at least one of them. The other two are obtained by puncturing a code from the table and repairing it in the same way. All 192 distances are exact: the lower bound is certified by exhaustive meet-in-the-middle enumeration of up to $4\\times10^{13}$ Pauli operators, and the upper bound by an explicit logical operator of weight $d$. A first-moment count explains the results. Expurgated random codes have about eight more logical qubits than a typical random code of the same length and distance, so they beat the table wherever its best known codes are no better than random. The largest gains, up to nine logical qubits, are at $d\\ge9$ and $n\\gtrsim170$, where the table often gives a lower bound without an explicit code. The same count predicts improvements at 619 further pairs $(n,d)$. The search was run by AI agents. The codes, their certificates and an independent checker are public.",
+  "arxiv_id": "2611.08744",
+  "authors": [
+    "Marin Girard"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.08744"
+  },
+  "hook": "192 new quantum codes beat the best known distances in the standard code table",
+  "hook_turn": "beat the best known distances in the standard code table",
+  "id": "arxiv-2611.08744",
+  "license": "cc-by",
+  "published": "2026-11-05",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "New stabilizer codes beating the table",
+    "unit": "codes",
+    "value": "192"
+  },
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Quantum error-correcting codes are tabulated by Grassl with the best known minimum distances. The author makes random codes, then removes low-weight logical operators, and finds 192 codes that beat the table by one or two, with verified distances. The gains come from a counting argument that predicts more at 619 other pairs, though the codes are not shown to be optimal.",
+  "tags": [
+    "quantum error correction",
+    "stabilizer codes"
+  ],
+  "title": "Random encoders and expurgation improve 1,873 entries of the Grassl qubit code tables",
+  "url": "https://arxiv.org/abs/2611.08744",
+  "venue": "arXiv"
+}

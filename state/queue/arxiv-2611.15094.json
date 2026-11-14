@@ -1,0 +1,56 @@
+{
+  "abstract": "Medical imaging is essential for diagnosing disease, guiding treatment and monitoring patients over time. Although artificial intelligence has advanced image interpretation, existing medical models often address restricted tasks, while general-purpose proprietary models lack access to private clinical imaging required to achieve medical expertise. Developing models that can interpret complex examinations and communicate their findings in the context of clinical decisions remains a major challenge. Here, we show that Neuro-VL, a vision-language model trained on nearly one million neuroimaging studies from routine clinical care, can interpret complete imaging examinations and engage in natural language conversations about their findings. Across internal and international datasets, Neuro-VL outperformed frontier general-purpose and specialized medical models in diagnosing, localizing, and describing abnormalities, as well as generating comprehensive radiology reports. The model also compared serial examinations to assess disease progression and more reliably resisted misleading clinical assumptions than leading frontier models from OpenAI and Google. These results extend health system learning beyond individual predictions to interactive image interpretation and longitudinal disease monitoring. They demonstrate how the collective clinical experience of health systems can be used to develop medical AI with specialized expertise and broad clinical capabilities.",
+  "arxiv_id": "2611.15094",
+  "authors": [
+    "Chenhui Zhao",
+    "Akshay Rao",
+    "Akhil Kondepudi",
+    "Yiwei Lyu",
+    "Xinhai Hou",
+    "Rikhil Seshadri",
+    "Cheng Jiang",
+    "Soumyanil Banerjee",
+    "Rushikesh Joshi",
+    "Samir Harake",
+    "Ashok Srinivasan",
+    "Shruti Mishra",
+    "Francisco Rivas-Rodriguez",
+    "Seunghong Rhee",
+    "Nathaniel Roddenberry",
+    "Neeraj Chaudhary",
+    "Zach Wilseck",
+    "Paul Park",
+    "Honglak Lee",
+    "Vikas Gulani",
+    "Aditya Pandey",
+    "Todd Hollon"
+  ],
+  "categories": [
+    "cs.AI"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15094"
+  },
+  "hook": "A model trained on nearly a million brain scans outperforms frontier AI at neuroimaging reports.",
+  "hook_turn": "outperforms frontier AI at neuroimaging reports.",
+  "id": "arxiv-2611.15094",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Neuro-VL, a vision-language model trained on nearly one million routine clinical neuroimaging studies, reads full exams, answers questions, writes radiology reports and compares serial scans. The authors report it beating general and medical models, and resisting misleading clinical premises better than frontier chat models. The abstract gives no performance numbers, and the evaluation is retrospective rather than a clinical trial.",
+  "tags": [
+    "neuroimaging",
+    "medical AI"
+  ],
+  "title": "A frontier machine intelligence for human neuroimaging",
+  "url": "https://arxiv.org/abs/2611.15094",
+  "venue": "arXiv"
+}

@@ -1,0 +1,39 @@
+{
+  "abstract": "Electron hydrodynamics is an emerging framework that describes dynamics of interacting electron systems as conventional fluids. Although evidence for hydrodynamic-like transport has been reported in a variety of two-dimensional materials, precise quantitative measurement of the core parameter, electron viscosity, remains challenging. In this work, we demonstrate that magnetoresistance in Corbino-shaped graphene devices offers a simultaneous ohmmeter and viscosometer capability, allowing us to disentangle the individual ohmic and viscous contributions to transport, even near viscous-ohmic crossover. In both monolayer and bilayer graphene, the effective electron-electron scattering rate scales linearly with temperature, deviating markedly from the T2 dependence expected in conventional Fermi liquids. Instead, it is consistent with a recently identified tomographic fluid regime, theoretically predicted to be generic for two-dimensional electron systems.",
+  "arxiv_id": null,
+  "authors": [
+    "Yihang Zeng",
+    "Haoyu Guo",
+    "Olivia M Ghosh",
+    "Kenji Watanabe",
+    "Takashi Taniguchi",
+    "Leonid S Levitov",
+    "Cory R Dean"
+  ],
+  "categories": [],
+  "doi": "10.1126/science.adr5469",
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Graphene electrons flow like a fluid, with scattering rising linearly with temperature, not squared.",
+  "hook_turn": "not squared.",
+  "id": "doi-10.1126-science.adr5469",
+  "license": null,
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Magnetoresistance in ring-shaped Corbino graphene devices separated the ordinary resistance from the electron viscosity, even near the crossover between them. In monolayer and bilayer graphene the electron scattering rate grew in proportion to temperature, matching a predicted tomographic fluid regime. The match is with theory, and only two graphene types were measured.",
+  "tags": [
+    "electron hydrodynamics",
+    "graphene"
+  ],
+  "title": "Quantitative measurement of viscosity in two-dimensional electron fluids.",
+  "url": "https://doi.org/10.1126/science.adr5469",
+  "venue": "Science"
+}

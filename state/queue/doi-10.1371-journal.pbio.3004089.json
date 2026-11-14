@@ -1,0 +1,45 @@
+{
+  "abstract": "The convention that mutation is a random process has been challenged by suggestions that selection has acted on between-gene variation in the mutation rate, with claims that more important genes are protected from mutation in part, in prokaryotes, by being on the leading strand, while those required for rapid adaptive evolution have higher mutation rates, in part by being on the lagging strand. The original selectionist claims have proven contentious with several replication failures. However, none of the replication attempts fully allow for covariates and many employ data from mismatch repair (MMR) knockout strains. To address these limitations, we consider amassed mutation accumulation data for wild-type Escherichia coli, the focal species for adaptive claims, and Saccharomyces cerevisiae, in a multiple parameter-controlled analysis to predict between-gene variation in mutational density (mutations per base pair). Along with covariates, we consider putative selectively relevant parameters: protein level and essentiality to capture genic \"importance\", and, in E. coli, strand with respect to DNA replication. We consider deviation of correlation and partial correlation values from those expected under trinucleotide-controlled simulations. While in E. coli more highly transcribed genes may have slightly lower mutation rates, potentially consistent with a selectionist model, the same is not seen in yeast, and in neither species do genes for more abundant or essential proteins have lower mutation rates. In E. coli there is no difference in mutation rate between genes on different strands, a lack of difference replicated in other prokaryotes. The degree of purifying selection is also not predictive of mutation density. We additionally highlight a strong artefact seen using the standard off-the-shelf statistical approach and note that results from MMR-deficient strains are discordant. We conclude that as trends are nearly uniformly unsupportive, not consistent between species and of miniscule effect size, they present no challenge to convention.",
+  "arxiv_id": null,
+  "authors": [
+    "Sofia Radrizzani",
+    "Laurence D Hurst"
+  ],
+  "categories": [
+    "Escherichia coli",
+    "Saccharomyces cerevisiae",
+    "Evolution, Molecular",
+    "DNA Replication",
+    "Mutation",
+    "Models, Genetic",
+    "DNA Mismatch Repair",
+    "Selection, Genetic",
+    "Mutation Rate"
+  ],
+  "doi": "10.1371/journal.pbio.3004089",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Important genes are not shielded from mutation, contrary to claims that mutation is selected.",
+  "hook_turn": "contrary to claims that mutation is selected.",
+  "id": "doi-10.1371-journal.pbio.3004089",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Earlier claims said essential genes mutate less and adaptive genes mutate more. Using accumulated mutation data from wild-type E. coli and yeast with covariates controlled, the authors found trends that were weak, inconsistent between species, or absent, and no strand effect in E. coli. Mutation accumulation data is limited in size, and results from repair-deficient strains disagreed.",
+  "tags": [
+    "mutation rate",
+    "evolution",
+    "genomics"
+  ],
+  "title": "The importance of genes does not predict their mutation rate.",
+  "url": "https://doi.org/10.1371/journal.pbio.3004089",
+  "venue": "PLOS Biology"
+}

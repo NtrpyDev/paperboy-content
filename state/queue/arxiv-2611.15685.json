@@ -1,0 +1,36 @@
+{
+  "abstract": "Let $F$ be the diagonal flow on the modular space $X_2$, and let $\\mathcal{S}_f$ be the set of positive square-free numbers, which is identified with the set of all real quadratic fields via the natural map $d\\mapsto \\mathbb{Q}(\\sqrt d)$. In this paper, we prove that, for any finite subset $A\\subseteq\\mathcal{S}_f$, there exists a density-zero set $B\\subseteq\\mathcal{S}_f\\setminus A$ such that the set of all $F$-periodic measures with associated quadratic fields from $B$ is dense in the set of all $F$-invariant measures on $X_2$.",
+  "arxiv_id": "2611.15685",
+  "authors": [
+    "Lifan Guan",
+    "Chengyang Wu",
+    "Weisheng Wu"
+  ],
+  "categories": [
+    "math.DS"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15685"
+  },
+  "hook": "Periodic measures from a density-zero set of quadratic fields are dense among all invariant measures.",
+  "id": "arxiv-2611.15685",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "On the space of unimodular lattices, the authors prove that periodic measures of the diagonal flow, tied to real quadratic fields drawn from a density-zero set of fields, approximate any flow-invariant measure. The set can also avoid any chosen finite list of fields. This is a pure existence result and gives no explicit construction of the fields.",
+  "tags": [
+    "dynamical systems",
+    "quadratic fields"
+  ],
+  "title": "Density of periodic measures on $\\mathrm{SL}_2(\\mathbb Z)\\backslash\\mathrm{SL}_2(\\mathbb R)$ with prescribed arithmetic information",
+  "url": "https://arxiv.org/abs/2611.15685",
+  "venue": "arXiv"
+}

@@ -1,0 +1,40 @@
+{
+  "abstract": "Let $R_k$ be the worst-case ratio between the expected cost of the $k$ seeds chosen by $k$-means++ and the optimal $k$-means cost. In their seminal paper introducing $k$-means++, Arthur and Vassilvitskii (SODA 2007) showed that $2\\ln k\\le R_k\\le8(\\ln k+2)$, and Makarychev, Reddy and Shan (NeurIPS 2020) improved the upper bound to $5(\\ln k+2)$. We prove $R_k\\le\\frac{1163}{233}+2.108\\,H_{k-2}$ for every $k\\ge3$ by a computer-assisted argument, and $R_k\\le5+2.3139\\,H_{k-2}$ for every $k\\ge2$ by a short analytic argument; here $H_j$ is the $j$th harmonic number. Since $H_{k-2}\\le1+\\ln k$, this lowers the leading coefficient of $\\ln k$ from $5$ to $2.108$. We also determine $R_2=5$ and $R_3=185/32$ exactly; both are suprema that are approached but not attained. On the lower side we prove $R_k\\ge2(1+H_{k-1})$ for every $k$, and give a second family of lower bounds that is larger than this for $2\\le k\\le18$. Previous analyses bound the expected cost of a cluster just after it is first sampled by a constant times its optimal cost, and then charge that cost for the rest of the run. We instead track how a cluster's cost evolves after its first hit: a cluster left with a large residual cost is likely to be sampled again before it accumulates much of the logarithmic charge, and each repeat repairs it.",
+  "arxiv_id": "2611.14573",
+  "authors": [
+    "Aravind Reddy"
+  ],
+  "categories": [
+    "cs.DS",
+    "cs.LG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14573"
+  },
+  "hook": "k-means++ seeding is provably within 2.108 ln k of optimal on average, down from 5 ln k.",
+  "hook_turn": "down from 5 ln k.",
+  "id": "arxiv-2611.14573",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Leading coefficient of H_(k-2) in k-means++ bound",
+    "value": "2.108"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper lowers the proven worst-case bound on k-means++ seeding cost from 5(ln k + 2) to about 2.108 ln k, by tracking how a cluster's cost evolves after it is first sampled. It also gives exact values R_2 = 5 and R_3 = 185/32. The main bound relies on a computer-assisted argument, and a gap to the lower bounds remains.",
+  "tags": [
+    "clustering",
+    "algorithms"
+  ],
+  "title": "Beyond the First Hit: Towards Tight Guarantees for $k$-means++",
+  "url": "https://arxiv.org/abs/2611.14573",
+  "venue": "arXiv"
+}

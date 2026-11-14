@@ -1,0 +1,39 @@
+{
+  "abstract": "Abstract Our work establishes a three-term asymptotic expansion of the ground state energy of a dilute gas of spin $1/2$ 1 / 2 fermions with repulsive short-range interactions, validating a formula predicted by Huang and Yang in 1957. The formula is universal in the sense that it holds for a large class of interaction potentials and depends on those only via their scattering length. We have recently proved an upper bound on the ground state energy of the desired form, and the present work completes the program by proving the matching lower bound.",
+  "arxiv_id": "2505.22340",
+  "authors": [
+    "Emanuela L. Giacomelli",
+    "Christian Hainzl",
+    "Phan Thành Nam",
+    "Robert Seiringer"
+  ],
+  "categories": [
+    "math-ph",
+    "math.MP"
+  ],
+  "doi": "10.1007/s00222-026-01459-9",
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2505.22340"
+  },
+  "hook": "A 1957 formula for the energy of a dilute Fermi gas is proved, 69 years after Huang and Yang predicted it.",
+  "hook_turn": "69 years after Huang and Yang predicted it.",
+  "id": "arxiv-2505.22340",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 8,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "The paper proves the lower bound on the ground state energy of a dilute gas of spin 1/2 fermions with repulsive interactions, matching an earlier upper bound. Together they confirm the three-term Huang-Yang expansion, which depends on the interaction only through its scattering length. The result holds for low density, as a mathematical limit, not for a specific physical gas.",
+  "tags": [
+    "mathematical physics",
+    "Fermi gas"
+  ],
+  "title": "The Huang–Yang conjecture for the low-density Fermi gas",
+  "url": "https://doi.org/10.1007/s00222-026-01459-9",
+  "venue": "Inventiones mathematicae"
+}

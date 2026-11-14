@@ -1,0 +1,47 @@
+{
+  "abstract": "We present the first 3-D Global Climate Model simulations of an oxygen-rich, terraformed Mars. Assuming an O2-CO2 atmosphere, with additional warming from a well-mixed grey gas, we study (1) how surface temperatures change with atmospheric pressure and grey gas opacity, and (2) how temperature, pressure, and other effects limit life as oxygen builds up. We neglect the climate effects of dust and the water cycle, as well as possible soil-chemistry and nutrient limits to life. We find that (1) increasing grey gas opacity and increasing atmospheric pressure both moderate day-night temperature swings, but only slightly reduce seasonal temperature swings. Climate remains harsher in the Southern mid-latitudes relative to the Northern hemisphere. (2) For an atmospheric pressure of 30 hPa (5 times its present-day value), temperatures on Mars would be consistent with lichen and moss, followed at 60 hPa by forests (initially in the Hellas Basin). However, creating a human-breathable atmosphere through photosynthesis alone, at the oxygen production rates of biomes on Earth today, would take at least thousands of years, and require more oxygen than can be made via photosynthesis of known CO2 reserves on Mars alone (unless CO2 is recycled).",
+  "arxiv_id": "2611.13321",
+  "authors": [
+    "Ashwin S. Braude",
+    "Edwin S. Kite",
+    "Preston Cosslett Kemeny",
+    "Raymond T. Pierrehumbert",
+    "Alexandre Kling",
+    "Michael A. Mischna"
+  ],
+  "categories": [
+    "astro-ph.EP",
+    "physics.ao-ph",
+    "physics.geo-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13321"
+  },
+  "hook": "In simulation, Mars at 30 hPa could support lichen and moss, and at 60 hPa forests.",
+  "hook_turn": "and at 60 hPa forests.",
+  "id": "arxiv-2611.13321",
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Pressure at which Mars temperatures suit lichen and moss",
+    "unit": "hPa",
+    "value": "30"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "These are the first 3D climate simulations of an oxygen-rich, terraformed Mars with an O2-CO2 atmosphere and added grey gas warming. Building breathable air by photosynthesis alone would take at least thousands of years and more oxygen than Mars' known CO2 can supply, unless CO2 is recycled. The model leaves out dust, the water cycle, and soil chemistry.",
+  "tags": [
+    "Mars",
+    "terraforming"
+  ],
+  "title": "The climate and potential habitability of a warm and oxygenated Mars",
+  "url": "https://arxiv.org/abs/2611.13321",
+  "venue": "arXiv"
+}

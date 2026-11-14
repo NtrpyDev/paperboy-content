@@ -1,0 +1,37 @@
+{
+  "abstract": "We establish the anisotropic De Giorgi conjecture in $\\mathbb{R}^4$ under the limiting assumption. More precisely, every entire solution of the anisotropic Allen-Cahn equation satisfying $u_{x_4}>0$ and $u(x,x_4)\\to\\pm1$ as $x_4\\to\\pm\\infty$ for each $x\\in\\mathbb{R}^3$ is one-dimensional. We show that every nontrivial generalized subgraph globally minimizing the anisotropic perimeter in $\\mathbb{R}^4$ is a halfspace. Combining an anisotropic tilt-excess decay estimate with a Liouville argument, we then deduce one-dimensional symmetry.",
+  "arxiv_id": "2611.13745",
+  "authors": [
+    "Lu Chen",
+    "Jiali Lan",
+    "Haolin Liu"
+  ],
+  "categories": [
+    "math.AP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13745"
+  },
+  "hook": "In four dimensions, a stretched-direction version of the De Giorgi conjecture holds: solutions are flat.",
+  "hook_turn": "solutions are flat.",
+  "id": "arxiv-2611.13745",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The anisotropic De Giorgi conjecture is proved in R^4 for solutions that increase along one axis and approach -1 and 1 at the ends. Such solutions depend on a single variable. The proof shows minimal anisotropic surfaces are halfspaces, then uses tilt-excess decay and a Liouville argument. It needs the limiting assumption, so the fully general conjecture stays open.",
+  "tags": [
+    "pde",
+    "minimal surfaces"
+  ],
+  "title": "The anisotropic De Giorgi conjecture in $\\mathbb{R}^4$",
+  "url": "https://arxiv.org/abs/2611.13745",
+  "venue": "arXiv"
+}

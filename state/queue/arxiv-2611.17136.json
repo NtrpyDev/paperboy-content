@@ -1,0 +1,38 @@
+{
+  "abstract": "We study the multidimensional polynomial Szemer\\'{e}di theorem over prime fields. Let $P_1,\\dots,P_m\\in\\F_p[t]^k$ be block independent vector polynomials of degree at most $d$, with $P_i(0)=0$ for every $i$. We prove that there is a constant $c=c(k,m,d)>0$ such that, for every sufficiently large prime $p$, every set $A\\subset\\F_p^k$ with $|A|\\ge p^{k-c}$ contains a configuration $x,x+P_1(t),\\dots,x+P_m(t)$ with $t\\in\\F_p\\setminus\\{0\\}$.",
+  "arxiv_id": "2611.17136",
+  "authors": [
+    "Danqing He",
+    "Xuancheng Shao"
+  ],
+  "categories": [
+    "math.NT",
+    "math.CA",
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17136"
+  },
+  "hook": "Sets of density p^-c in prime-field grids must contain polynomial patterns, a power-saving bound.",
+  "hook_turn": "a power-saving bound.",
+  "id": "arxiv-2611.17136",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Any subset of F_p^k with at least p^(k-c) elements contains a configuration x, x+P1(t), ..., x+Pm(t) with t nonzero, when the vector polynomials are block independent, vanish at 0 and have bounded degree. This is a multidimensional polynomial Szemeredi theorem with a tiny density threshold. It holds only for sufficiently large primes and a small unspecified constant c.",
+  "tags": [
+    "additive combinatorics",
+    "Szemeredi theorem"
+  ],
+  "title": "On the multidimensional polynomial Szemer\\'{e}di theorem",
+  "url": "https://arxiv.org/abs/2611.17136",
+  "venue": "arXiv"
+}

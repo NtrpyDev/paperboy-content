@@ -1,0 +1,42 @@
+{
+  "abstract": "Many features of subcellular organelle architecture change throughout life and influence aging. However, our understanding of this structural dynamism relies on single cell systems or comparisons between data sets focused on a limited number of organelles or timepoints. To overcome this barrier, we developed Multiorganelle Mapper (MoMA), a C. elegans strain enabling simultaneous imaging of six organelles across all somatic cell types in fully intact, living animals via fluorescence microscopy. We use MoMA to generate an organism-level in vivo map of subcellular architecture throughout adult life to understand how and why organelle organization changes with age. Aging drives a widespread and consistent shift in subcellular architecture throughout the body. Strikingly, most of this remodeling does not accumulate progressively, but emerges abruptly within individuals at midlife, an inflection point we term the midlife architectural state shift (MASS). Through a targeted RNAi screen, we show the MASS is not unique to aging, but instead resembles a generalized reactive state which can be triggered by a range of distinct homeostatic challenges. Finally, we show the MASS both coincides with and can be driven by midlife physiological changes, suggesting that this remodeling may largely reflect a coordinated reaction to the aged organismal state. Together, we present MoMA as a practical approach for visualizing subcellular architecture at organismal scale and demonstrate how it can be used to uncover principles underlying the dynamic regulation of subcellular architecture throughout life.",
+  "arxiv_id": null,
+  "authors": [
+    "Morrow, C. S.",
+    "Prabhakar, A.",
+    "Kraft, J. D.",
+    "Silva-Garcia, C. G.",
+    "Anekal, P. V.",
+    "Montero Llopis, P.",
+    "Miller, J. W.",
+    "Mair, W. B."
+  ],
+  "categories": [
+    "cell biology"
+  ],
+  "doi": "10.64898/2026.11.11.765956",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/13/2026.11.11.765956.source.xml"
+  },
+  "hook": "In worms, organelle layout shifts abruptly at midlife across the body, not gradually.",
+  "hook_turn": "not gradually.",
+  "id": "doi-10.64898-2026.11.11.765956",
+  "license": "other",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "A worm strain tagged six organelles at once, letting researchers image all of them in living animals through adulthood. Organelle organization changed suddenly in midlife within individuals, and other stresses triggered a similar shift. This was in C. elegans, and whether the shift matters for lifespan in other animals is untested.",
+  "tags": [
+    "aging",
+    "organelles"
+  ],
+  "title": "A living organism-level model of subcellular architecture across adult life reveals a midlife architectural state shift",
+  "url": "https://doi.org/10.64898/2026.11.11.765956",
+  "venue": "bioRxiv"
+}

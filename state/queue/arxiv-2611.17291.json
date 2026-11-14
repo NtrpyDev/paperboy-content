@@ -1,0 +1,36 @@
+{
+  "abstract": "We consider the three-dimensional focusing energy-critical wave equation. We construct a bounded forward-global solution which starts arbitrarily close to a sign-changing stationary state and is asymptotic to a varying stationary profile plus one free wave. The core has two limits in distinct similarity orbits. A single energy-space norm identity identifies the radiation and reduces every competing fixed list to one profile; the two limits then give a contradiction. The construction uses summable radiation packets whose quadratic impulses produce fixed shape displacements on increasing time scales. We control the nonlinear error uniformly over these intervals and select the endpoints by a compact fixed-point map. A computer-assisted certificate validates the stationary state and its complete odd energy kernel.",
+  "arxiv_id": "2611.17291",
+  "authors": [
+    "Xuwen Chen",
+    "Justin Holmer",
+    "Shunlin Shen"
+  ],
+  "categories": [
+    "math.AP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17291"
+  },
+  "hook": "A wave equation solution defies soliton resolution: it settles toward a changing profile, not a fixed one",
+  "id": "arxiv-2611.17291",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For the 3D focusing energy-critical wave equation, the authors build a bounded solution that starts near a sign-changing stationary state and approaches a varying stationary profile plus one free wave. This is a counterexample to fixed-profile soliton resolution. The proof uses radiation packets and a fixed-point argument, with a computer-assisted certificate for the stationary state.",
+  "tags": [
+    "wave equations",
+    "soliton resolution"
+  ],
+  "title": "A counterexample to fixed-profile soliton resolution for the three-dimensional quintic wave equation",
+  "url": "https://arxiv.org/abs/2611.17291",
+  "venue": "arXiv"
+}

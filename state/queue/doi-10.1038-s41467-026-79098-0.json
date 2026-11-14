@@ -1,0 +1,49 @@
+{
+  "abstract": "As the global biodiversity crisis accelerates across terrestrial and shallow marine systems, the extent of this collapse remains unknown within the deep sea. Despite encompassing most of the ocean, deep-sea ecosystems remain the planet's final frontier. Within this vast realm, the mesopelagic zone represents a critical yet poorly understood habitat, particularly in terms of its conservation status. Here, we integrate genomic data with ecological niche modeling to assess and forecast the conservation status of five mesopelagic species in the Gulf of Mexico. Samples were collected from 2011 to 2023, representing one of the longest time-series datasets for mesopelagic fauna in oceanographic history. All species exhibit current effective population sizes below the minimum thresholds for long-term viability. Genomic diversity declined over a decade in some species at rates comparable to or exceeding those reported for threatened and endangered species. Demographic modeling indicates historical population declines across all species. Ecological niche models predict declining Gulf habitat suitability for most species under future climate change scenarios. Together, our results identify indicators associated with elevated extinction risk in Gulf mesopelagic species and raise the possibility of a broader, unnoticed crisis, challenging assumptions of stability and resilience in mesopelagic ecosystems.",
+  "arxiv_id": null,
+  "authors": [
+    "Pedro A Peres",
+    "Keith Sellers",
+    "Tracey T Sutton",
+    "Heather Bracken-Grissom"
+  ],
+  "categories": [
+    "Animals",
+    "Genomics",
+    "Conservation of Natural Resources",
+    "Ecosystem",
+    "Biodiversity",
+    "Population Density",
+    "Models, Biological",
+    "Oceans and Seas",
+    "Extinction, Biological",
+    "Genetic Variation",
+    "Endangered Species",
+    "Climate Change",
+    "Gulf of America"
+  ],
+  "doi": "10.1038/s41467-026-79098-0",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Five Gulf of Mexico deep-sea species have effective population sizes below viability thresholds.",
+  "id": "doi-10.1038-s41467-026-79098-0",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Genomes from samples collected 2011 to 2023 show small effective population sizes in five midwater species, with diversity falling in some at rates like those of threatened species. Habitat models also predict shrinking suitable range under climate change. Only five species in one gulf were studied, so a wider crisis is a possibility, not shown.",
+  "tags": [
+    "deep sea",
+    "conservation genomics"
+  ],
+  "title": "Extinction risks in deep-sea populations revealed by genomic data and ecological niche modeling.",
+  "url": "https://doi.org/10.1038/s41467-026-79098-0",
+  "venue": "Nature Communications"
+}

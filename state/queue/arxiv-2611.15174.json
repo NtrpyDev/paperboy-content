@@ -1,0 +1,37 @@
+{
+  "abstract": "We prove finite-time gradient blow-up with sharp $C^{(5-b)/(b+3)}$ H\\\"older regularity for a class of nonlocal transport equations extending the $b$-family, for all real $1<b<5$. This class includes the Camassa--Holm and Degasperis--Procesi equations and, after rescaling, the generalized hyperelastic-rod wave equation. In the blow-up regime, the nonlocal equations reduce at leading order to the generalized Hunter--Saxton (gHS) equation with parameter $\\ell=2/(b-1)$, whose self-similar scaling and corresponding profiles depend on $\\ell$. Consequently, standard approaches tailored to a fixed self-similar profile cannot be applied directly. To handle this parameter dependence, we develop a general framework for self-similar singularity formation in evolution equations whose leading-order dynamics are governed by the gHS family. The key ingredient is a family of profile inequalities established for all real $\\ell>1/2$, which we combine with a generalized maximum principle to close a parameter-dependent bootstrap argument. We identify model-specific hypotheses adapted to this framework, under which this argument yields the required stability estimates. This leads to a general theorem on singularity formation, which we apply to the entire class of nonlocal equations, thereby establishing finite-time gradient blow-up and sharp H\\\"older regularity. The theorem can also be applied to other evolution equations once the corresponding model-specific hypotheses are verified, without repeating the profile analysis or the common stability argument.",
+  "arxiv_id": "2611.15174",
+  "authors": [
+    "Yunjoo Kim",
+    "Bongsuk Kwon",
+    "Wanyong Shim"
+  ],
+  "categories": [
+    "math.AP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15174"
+  },
+  "hook": "Gradient blow-up with sharp Holder regularity is proved for a whole class of nonlocal wave equations.",
+  "hook_turn": "for a whole class of nonlocal wave equations.",
+  "id": "arxiv-2611.15174",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove that solutions develop infinite slopes in finite time for equations including Camassa-Holm and Degasperis-Procesi, for all b between 1 and 5. They build one framework for self-similar blow-up whose profiles depend on a parameter. The theorem needs model-specific hypotheses checked for each new equation.",
+  "tags": [
+    "nonlinear pdes",
+    "singularity formation"
+  ],
+  "title": "Self-similar cusp formation in a large class of nonlocal transport equations",
+  "url": "https://arxiv.org/abs/2611.15174",
+  "venue": "arXiv"
+}

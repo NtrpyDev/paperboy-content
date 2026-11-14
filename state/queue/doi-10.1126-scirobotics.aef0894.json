@@ -1,0 +1,44 @@
+{
+  "abstract": "Automation of heavy machinery offers the opportunity to improve productivity in mechanized industries such as construction, mining, and material handling. Yet, automation of such machines is challenged by their complex dynamics, in part because of hydraulic actuation that involves fluids, flexible elements, and nonlinear delays. A concomitant challenge is the size and weight of these machines, which can make experiments on the physical systems exceedingly dangerous. Here, we show that reinforcement learning (RL) in simulation, followed by transfer of the learned policies from simulation to reality, can successfully automate acrobatic maneuvers that push a heavy construction machine to the limits of its actuation and have only previously been accomplished by a small number of elite human operators in official world-record performances. We trained policies that perform autonomous acrobatic maneuvers on a John Deere 332G, an operational 5-tonne skid-steer loader. The policies can autonomously swing the machine up onto two wheels and, while balancing on two wheels, drive over rough terrain, trace out specified trajectories, spin around, and swing the bucket back and forth before landing it safely back onto four wheels. This work demonstrates that RL and sim-to-real transfer enable dynamic autonomous control of heavy machinery, directly contributing to greater automation in heavy equipment sectors.",
+  "arxiv_id": null,
+  "authors": [
+    "Pierre-Jean Lorentz",
+    "Pascal Egli",
+    "Edo Jelavic",
+    "Cliff Li",
+    "Ramitha Sundar",
+    "Harikrishnan Suresh",
+    "Paul Montgomery",
+    "Lee Redden",
+    "Matthias Müller",
+    "Ozan Sener",
+    "Vladlen Koltun",
+    "Marco Hutter"
+  ],
+  "categories": [],
+  "doi": "10.1126/scirobotics.aef0894",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A 5-tonne loader learned in simulation to balance on two wheels and drive, spin and land safely",
+  "hook_turn": "balance on two wheels and drive, spin and land safely",
+  "id": "doi-10.1126-scirobotics.aef0894",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Reinforcement learning trained in simulation was transferred to a real John Deere 332G skid-steer loader, which then performed stunts once limited to elite operators. It tips onto two wheels, drives rough terrain, spins and swings its bucket before landing. It is one machine and set of maneuvers, so other equipment may need retraining.",
+  "tags": [
+    "reinforcement learning",
+    "heavy machinery"
+  ],
+  "title": "Heavy metal acrobatics: Learning dynamic control for skid-steer loaders.",
+  "url": "https://doi.org/10.1126/scirobotics.aef0894",
+  "venue": "Science Robotics"
+}

@@ -1,0 +1,40 @@
+{
+  "abstract": "Electron spins in single molecules are a promising platform for quantum information processing. However, their practical implementation as qubits requires reliable control at the single-entity level, including an efficient state initialization. Here, we demonstrate the remote, all-electrical spin pumping of the electron spin in single molecules: Using electron spin resonance scanning tunneling microscopy, we investigate coupled pairs of S = 1/2 molecules, where one molecule serves as a readout and pumping unit for the neighboring one. We show that the exchange interaction between them enables angular momentum transfer, which allows for the control of the remote spin state via the direction and magnitude of the spin-polarized tunneling current and the exchange coupling strength. These results establish a general, all-electrical approach for remote spin pumping that is transferable to a wider range of spin-based quantum architectures.",
+  "arxiv_id": null,
+  "authors": [
+    "Paul Greule",
+    "Wantong Huang",
+    "Kwan Ho Au-Yeung",
+    "Máté Stark",
+    "Johannes Schwenk",
+    "Christoph Sürgers",
+    "Wolfgang Wernsdorfer",
+    "Philip Willke"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aei0428",
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "One molecule's electron spin was set remotely by current flowing through its neighbor.",
+  "hook_turn": "by current flowing through its neighbor.",
+  "id": "doi-10.1126-sciadv.aei0428",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "In coupled pairs of spin-1/2 molecules, one molecule reads out and pumps the other through their exchange interaction, which passes angular momentum. The target spin state is set by the direction and size of the spin-polarized tunneling current and by the coupling strength. It was shown with scanning tunneling microscopy on molecule pairs, not in a working qubit device.",
+  "tags": [
+    "molecular spins",
+    "quantum information"
+  ],
+  "title": "Electrical spin pumping in exchange-coupled molecules",
+  "url": "https://doi.org/10.1126/sciadv.aei0428",
+  "venue": "Science Advances"
+}

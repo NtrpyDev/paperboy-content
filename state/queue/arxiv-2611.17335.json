@@ -1,0 +1,66 @@
+{
+  "abstract": "Light can manipulate magnetic order and its excitations on ultrafast timescales, including through resonantly driven phonons. In antiferromagnets, light can also create correlated magnon pairs, or bimagnons. Unlike single magnons, whose damping has been measured and modeled in detail, little is known about the lifetime, interactions and decay of such correlated pairs: prior two-magnon measurements show broad linewidths or coherences that dephase within 200 fs. Here we pump the phonon-assisted two-magnon absorption of NiO with mid-infrared pulses, far below its bandgap, and probe the resulting magnetic dynamics at finite momentum with time-resolved resonant inelastic X-ray scattering (RIXS). Upon photoexcitation, the one-magnon linewidth and energy are essentially unchanged, indicating that the long-range magnetic order is preserved without the photocarrier-induced demagnetization characteristic of above-bandgap excitation. A pump-induced two-magnon signal appears on the energy-gain (anti-Stokes) side of the spectrum. Its spectral weight peaks 4 ps after the pump, well beyond our 0.5 ps time resolution, indicative of a delayed growth likely due to momentum redistribution of the light-induced magnon pairs across the Brillouin zone. This two-magnon signal decays with a time constant of $28\\pm11$ ps, exceeding the previously reported two-magnon dephasing time by more than two orders of magnitude. These results establish long-lived light-driven bimagnon correlations beyond the one-magnon state, akin to the higher-order correlations measured in ultracold gases.",
+  "arxiv_id": "2611.17335",
+  "authors": [
+    "Xian P. Yang",
+    "Christopher T. Parzyck",
+    "Martin Cross",
+    "Ella Blake",
+    "Octave Duros",
+    "Yinchuan Lv",
+    "Hari Paudyal",
+    "Che-Min Lin",
+    "Sharon S. Philip",
+    "Lingjia Shen",
+    "Daniel Jost",
+    "Giacomo Coslovich",
+    "Joshua J. Turner",
+    "Choongwon Seo",
+    "Elyse Schriber",
+    "Michael E. Flatt\\'e",
+    "Xiaoqin Li",
+    "Yuri Suzuki",
+    "Durga Paudyal",
+    "Harold Y. Hwang",
+    "Georgi L. Dakovski",
+    "Matthias C. Hoffmann",
+    "Wei-Sheng Lee",
+    "Alexander H. Reid"
+  ],
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci",
+    "physics.optics",
+    "quant-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17335"
+  },
+  "hook": "Light-driven magnon pairs in NiO last about 28 picoseconds, over 100 times longer than thought.",
+  "id": "arxiv-2611.17335",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Two-magnon signal decay time in NiO",
+    "unit": "picoseconds",
+    "value": "28"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Mid-infrared pulses created pairs of magnetic excitations (bimagnons) in the antiferromagnet NiO, and time-resolved X-ray scattering tracked them. Their signal peaks at 4 ps and decays with a 28 ps time constant, far beyond earlier dephasing times near 200 fs, while magnetic order stays intact. The decay time carries a large uncertainty, the time resolution is 0.5 ps, and only one material was tested.",
+  "tags": [
+    "magnons",
+    "antiferromagnets",
+    "ultrafast"
+  ],
+  "title": "Long-lived light-driven bimagnons at finite momentum in NiO",
+  "url": "https://arxiv.org/abs/2611.17335",
+  "venue": "arXiv"
+}

@@ -1,0 +1,40 @@
+{
+  "abstract": "Continuous gravitational waves (CWs) from neutron stars beyond the Galactic Center can be lensed by the supermassive black hole in Sgr A$^*$. Since the signal lasts far longer than the lensing time delay, the two geometric-optics images overlap and interfere. Transverse source motion during the observation makes their magnifications and relative time delay evolve, producing evolving amplitude and phase modulations absent from standard CW templates. Using lensed and unlensed injections in Gaussian noise, we quantify their effect on a Hough-based semicoherent search through a semicoherent mismatch. Recovery is governed by the competition between lensing amplification and waveform modulation. Smaller impact parameters generally improve recovery through stronger magnification, while higher transverse velocities partially offset this gain through faster modulation, especially at small impact parameters and short source-lens distances, where image interference is appreciable. The response also depends on the intrinsic signal strength. Loud signals exhibit small fractional changes, with net losses in some configurations, whereas weaker signals yield broader mismatch distributions extending to more negative values, indicating greater enhancement. A population study, sampling lensing parameters from astrophysically motivated velocity and source-lens distance distributions, reproduces the strong dependence on signal strength. Differences between populations are modest, but high-velocity, short source-lens distance populations tend towards larger mismatches. Lensing effects therefore cannot be accounted for by rescaling search sensitivity with the magnification alone; reinterpreting directed Galactic Center search sensitivities and upper limits under the lensing hypothesis requires injection studies with the full lensed waveform across the lensing parameter space.",
+  "arxiv_id": "2611.17153",
+  "authors": [
+    "Aditya Kumar Sharma",
+    "Alicia Calafat",
+    "Rodrigo Tenorio",
+    "David Keitel",
+    "Alicia M. Sintes"
+  ],
+  "categories": [
+    "gr-qc",
+    "astro-ph.HE"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17153"
+  },
+  "hook": "In simulations, Sgr A* lensing changes how well continuous gravitational-wave searches recover signals.",
+  "hook_turn": "changes how well continuous gravitational-wave searches recover signals.",
+  "id": "arxiv-2611.17153",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Neutron stars behind the Galactic Center could have their gravitational waves lensed by Sgr A*, with two overlapping images that evolve as the source moves. Injecting lensed and unlensed signals into Gaussian noise shows that recovery depends on magnification, source velocity and signal strength, so magnification alone cannot rescale search sensitivity. The study uses simulated noise and no real data.",
+  "tags": [
+    "gravitational waves",
+    "gravitational lensing"
+  ],
+  "title": "Effects of Lensing by Sgr A* on Semicoherent Searches for Continuous Gravitational Waves. I. Signal Model and Mismatch Studies",
+  "url": "https://arxiv.org/abs/2611.17153",
+  "venue": "arXiv"
+}

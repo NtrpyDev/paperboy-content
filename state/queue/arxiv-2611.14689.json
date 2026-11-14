@@ -1,0 +1,37 @@
+{
+  "abstract": "We prove that freeness is determined by the intersection lattice for arrangements of seventeen lines in the complex projective plane. The proof reduces a possible counterexample to smaller arrangements whose realisation spaces can be computed. A minimal logarithmic derivation defines a foliation; its inflection divisor and a local singularity count imply that the non-free member of a counterexample is nearly free with exponents $(7,10)$. Deleting four lines then produces a thirteen-line arrangement whose second Chern class is controlled by a combinatorial deficit. When the deficit is four, the remaining arrangement is free with exponents $(6,6)$. An exact covering argument places the necessary thirteen-line cores in four finite classes, containing $3{,}829{,}691$ lattices. We compute their realisation spaces and reconstruct all relevant seventeen-line extensions, including specialisations of positive-dimensional families. Among the candidate lattices, exactly sixteen admit a non-free realisation; they are rigid and have no free realisation. Together with the known cases, this establishes Terao's conjecture for central arrangements of at most seventeen planes in $\\mathbb{C}^3$.",
+  "arxiv_id": "2611.14689",
+  "authors": [
+    "Felipe Monteiro",
+    "Henrique N. S\\'a Earp",
+    "Tom\\'as S. R. Silva"
+  ],
+  "categories": [
+    "math.AG",
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14689"
+  },
+  "hook": "Terao's conjecture holds for up to seventeen lines: freeness is set by how the lines intersect.",
+  "id": "arxiv-2611.14689",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Terao's conjecture says whether a line arrangement is free depends only on its pattern of intersections. The authors prove it for seventeen lines in the complex plane by reducing any counterexample to thirteen-line cores, then computing realization spaces for about 3.8 million lattices. Sixteen candidates have a non-free realization but no free one, so none breaks the conjecture. The proof relies on large computer enumeration.",
+  "tags": [
+    "hyperplane arrangements",
+    "algebraic geometry"
+  ],
+  "title": "Foliations, free cores, and Terao's conjecture for seventeen lines",
+  "url": "https://arxiv.org/abs/2611.14689",
+  "venue": "arXiv"
+}

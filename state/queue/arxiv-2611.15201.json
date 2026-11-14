@@ -1,0 +1,38 @@
+{
+  "abstract": "We study sparse matrix multiplication in the low-bandwidth model: $n$ computers multiply two $n\\times n$ matrices, and each computer can send and receive one $O(\\log n)$-bit message per round. The input matrices are uniformly sparse, meaning that there are at most $d$ nonzero entries in each row and column, and the task is to compute a uniformly sparse part of their product. In prior work, Gupta et al.~(SPAA 2022) presented an $O(d^{1.907})$-round algorithm over fields for this problem when the sparsity structure is globally known in advance (this is referred to as the supported setting). The upper bound was later improved to $O(d^{1.832})$ rounds. In this work, we give a deterministic algorithm that solves this problem in $O(d^{3/2})$ rounds in the supported setting, improving the previous bounds over fields and semirings.",
+  "arxiv_id": "2611.15201",
+  "authors": [
+    "Chetan Gupta",
+    "Jukka Suomela",
+    "Hossein Vahidi"
+  ],
+  "categories": [
+    "cs.DC",
+    "cs.DS"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15201"
+  },
+  "hook": "Sparse matrices multiply in O(d^1.5) rounds in the low-bandwidth model, beating the d^1.832 record.",
+  "hook_turn": "beating the d^1.832 record.",
+  "id": "arxiv-2611.15201",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A deterministic algorithm multiplies uniformly sparse n by n matrices on n computers in O(d^(3/2)) rounds, improving the previous O(d^1.832) bound over fields and semirings. It is a theoretical round-count bound. It assumes the sparsity structure is known in advance (the supported setting).",
+  "tags": [
+    "distributed algorithms",
+    "sparse matrices"
+  ],
+  "title": "Sparse Matrix Multiplication Exponent 1.5 in the Low-bandwidth Model",
+  "url": "https://arxiv.org/abs/2611.15201",
+  "venue": "arXiv"
+}

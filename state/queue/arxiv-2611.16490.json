@@ -1,0 +1,54 @@
+{
+  "abstract": "We present the first stellar-dynamical supermassive black hole mass measurement in the nearby spiral galaxy NGC 5055 (M63) using near-infrared integral-field spectroscopy with Keck/OSIRIS assisted by the laser guide star adaptive optics system. The observations deliver two-dimensional stellar kinematics extracted from the CO bandhead absorption features via pPXF at an angular resolution of $0.045''$. The stellar velocity dispersion rises steeply from $\\sim90~{\\rm km~s^{-1}}$ at $r\\sim1''$ to a central peak of $\\sim135~{\\rm km~s^{-1}}$, kinematically tracing the gravitational influence of a central mass concentration. Modeling these kinematics with an ensemble of four JAM models, spanning cylindrical and spherical velocity-ellipsoid alignments and two independent MGE decompositions of archival HST imaging, yields a black hole mass of $M_{\\rm BH}=4.56^{+1.73}_{-1.82}\\times10^6~{\\rm M_\\odot}$. The stellar orbits are consistent with near-isotropy ($\\beta\\approx0$), typical of rotating late-type galaxies. NGC 5055 emerges as a remarkable local analogue to the Milky Way in terms of its black hole, nuclear star cluster, and total stellar mass. The surface brightness profile of NGC 5055 shows no evidence for a classical bulge; if confirmed bulgeless, NGC 5055 would join the rare class of spirals with a direct dynamical $M_{\\rm BH}$ determination in the absence of a bulge, a regime currently populated by only a handful of galaxies including NGC 2748 and NGC 4395. This measurement provides a new anchor for black hole scaling relations in late-type galaxies at the low-mass end of the black hole mass spectrum.",
+  "arxiv_id": "2611.16490",
+  "authors": [
+    "Tien H. T. Ho",
+    "Dieu D. Nguyen",
+    "Alister W. Graham",
+    "Mark Durr\\'e",
+    "Hai N. Ngo",
+    "Tinh Q. T. Le",
+    "Elena Gallo",
+    "Igor V. Chilingarian",
+    "Tuan N. Le",
+    "Roberto Soria",
+    "Fan Zou",
+    "Huy G. Tong",
+    "Nghi K. N. Le",
+    "Que T. Le"
+  ],
+  "categories": [
+    "astro-ph.GA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16490"
+  },
+  "hook": "The Sunflower Galaxy's central black hole weighs about 4.6 million Suns, a Milky Way twin.",
+  "hook_turn": "a Milky Way twin.",
+  "id": "arxiv-2611.16490",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "exponent": 6,
+    "label": "Black hole mass, NGC 5055",
+    "unit": "solar masses",
+    "value": "4.56"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Keck adaptive-optics spectra of the galaxy NGC 5055 show stars moving faster toward the center, and dynamical models of that motion give a black hole near 4.6 million solar masses. That makes the galaxy a close match to the Milky Way in black hole, nuclear cluster, and stellar mass. The uncertainty is large, roughly 40 percent, and the claim that the galaxy has no bulge is not yet confirmed.",
+  "tags": [
+    "black holes",
+    "galaxies"
+  ],
+  "title": "The Black Hole Mass of the Sunflower Galaxy NGC 5055: Direct Measurement via Stellar Kinematics with Keck/OSIRIS Laser Guide Star Adaptive Optics",
+  "url": "https://arxiv.org/abs/2611.16490",
+  "venue": "arXiv"
+}

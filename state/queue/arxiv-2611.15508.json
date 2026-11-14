@@ -1,0 +1,39 @@
+{
+  "abstract": "We propose natural definitions of cuts and flows for quantum graphs. For cuts we consider two notions: ordinary cuts, which partition the vertex set into two parts; and generalised cuts, defined as a continuous relaxation of the binary partition function. We show that our definitions satisfy a max-flow min-cut theorem: For any disjoint terminal sets $S$ and $T$, the maximum value of an $S$-$T$-flow of a quantum graph equals the minimum value of a generalised $S$-$T$ cut, while the minimum value of an ordinary $S$-$T$ cut can be larger. While for classical graphs the values of the minimum generalised cut and the minimum ordinary cut coincide---recovering the classical max-flow min-cut theorem---we also show how it is more natural to think of flows as duals of generalised cuts instead of ordinary cuts.",
+  "arxiv_id": "2611.15508",
+  "authors": [
+    "Gian Luca Spitzer",
+    "Ion Nechita"
+  ],
+  "categories": [
+    "math.QA",
+    "math-ph",
+    "math.MP",
+    "math.OA",
+    "quant-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15508"
+  },
+  "hook": "A max-flow min-cut theorem holds for quantum graphs when cuts are relaxed to continuous ones.",
+  "id": "arxiv-2611.15508",
+  "license": "cc-by-sa",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors define flows and two kinds of cuts for quantum graphs: ordinary vertex partitions and continuous generalised cuts. The maximum flow equals the minimum generalised cut, while the minimum ordinary cut can be larger. For classical graphs the two cuts agree, so the classic theorem is recovered. This is pure mathematics with no applications shown.",
+  "tags": [
+    "quantum graphs",
+    "graph theory"
+  ],
+  "title": "A Max-Flow Min-Cut Theorem for Quantum Graphs",
+  "url": "https://arxiv.org/abs/2611.15508",
+  "venue": "arXiv"
+}

@@ -1,0 +1,36 @@
+{
+  "abstract": "In this paper we describe the first fully real-time indexing solution for pattern matching over an arbitrary integer alphabet. Our data structure spends $O(1)$ worst-case time w.h.p. for processing each new letter appended to $T$ and worst-case $O(|P|+occ)$ time for reporting all occurrences of $P$, where $T$ and $P$ are strings over an integer alphabet. The main idea of our solution is a novel representation of the suffix tree, the path-decomposed suffix tree, which does not store the full topology of the suffix tree but instead decomposes it into paths, each stored in a dictionary that encodes parent--child relationships indirectly.",
+  "arxiv_id": "2611.13950",
+  "authors": [
+    "Gregory Kucherov",
+    "Yakov Nekrich"
+  ],
+  "categories": [
+    "cs.DS"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13950"
+  },
+  "hook": "A string index now takes constant time per appended letter and optimal time per query.",
+  "hook_turn": "optimal time per query.",
+  "id": "arxiv-2611.13950",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors give the first fully real-time index for pattern matching over integer alphabets, with O(1) worst-case time (with high probability) per appended letter and O(|P|+occ) per query. It rests on a path-decomposed suffix tree that stores paths in a dictionary instead of the full tree. It is a theoretical result, so practical speed is untested.",
+  "tags": [
+    "string algorithms",
+    "data structures"
+  ],
+  "title": "Real-Time String Indexing in Optimal Time",
+  "url": "https://arxiv.org/abs/2611.13950",
+  "venue": "arXiv"
+}

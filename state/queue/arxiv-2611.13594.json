@@ -1,0 +1,37 @@
+{
+  "abstract": "Large Language Models (LLMs) have achieved remarkable progress on complex reasoning tasks, yet the mechanisms by which they acquire reasoning capabilities and the efficiency of their reasoning remain poorly understood. In this paper, we investigate the path-finding problem over directed graphs, a symbolic abstraction of multi-step reasoning. We first characterize the architectural requirements for this task, proving that one-layer transformers require $\\Omega(N^2)$ size on dense graphs to implement the key DFS child-selection primitive. While a two-layer transformer implements full DFS with $O(N\\log(N))$ size. Thus, a second layer is necessary and sufficient for near-linear DFS reasoning. We then extend this expressivity analysis to deeper models: for every $k\\geq3$, a $k$-layer transformer implements a bounded-reachability DFS policy with look-ahead horizon $1+2^{k-3}$, establishing an exponential increase in reachability horizon with depth. Finally, going beyond expressivity, given appropriately curated training data, we show that two-layer transformers can provably learn to execute DFS via gradient flow and generalize to unseen graphs. Together, our results provide a mechanistic account of how transformers implement graph search, how depth expands bounded look-ahead, and how such reasoning algorithms can emerge through training.",
+  "arxiv_id": "2611.13594",
+  "authors": [
+    "Xutao Ma",
+    "Somayeh Sojoudi"
+  ],
+  "categories": [
+    "cs.AI"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13594"
+  },
+  "hook": "Two transformer layers are necessary and sufficient for efficient depth-first graph search",
+  "hook_turn": "necessary and sufficient for efficient depth-first graph search",
+  "id": "arxiv-2611.13594",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper proves one-layer transformers need quadratic size to pick the next DFS child on dense graphs, while two layers do full DFS with N log N size. Deeper models look ahead exponentially farther, and two-layer models provably learn DFS by gradient flow. The results hold for a stylized graph task with curated training data, not real language models.",
+  "tags": [
+    "transformers",
+    "reasoning",
+    "learning theory"
+  ],
+  "title": "Transformers Provably Learn Graph Search: Training Dynamics and the Exponential Power of Depth",
+  "url": "https://arxiv.org/abs/2611.13594",
+  "venue": "arXiv"
+}

@@ -1,0 +1,45 @@
+{
+  "abstract": "Abstract The molybdopterin-dependent ergothioneine synthase (MES) from Caldithrix abyssi is the first molybdoenzyme known to catalyze the formation of carbon–sulfur bonds. To complete its catalytic cycle, this bifunctional enzyme desulfurates l-cysteine at a pyridoxal 5′-phosphate binding site and transfers the harvested sulfur atom (S0) to the molybdenum center of a bis-molybdopterin guanine dinucleotide cofactor more than 50 Å away. Subsequently, the sulfurated Mo-center transfers the labile sulfur atom onto the imidazole ring of Nα-trimethyl histidine (TMH). Combining experimental observations from cryo-electron microscopy, X-ray crystallography, X-ray absorption spectroscopy, sequence-activity correlation, and substrate-specificity studies, we delineate the structural basis for long-distance sulfur transfer via a persulfide relay, the identity of the imidazole sulfurating species, and key sequence motifs that are indispensable for activity. Furthermore, the reversibility of MES-mediated sulfurization of TMH under physiological conditions suggests that ergothioneine may serve as a soluble reservoir of oxidizing equivalents, supporting anaerobic metabolism in deep-branching bacteria such as C. abyssi.",
+  "arxiv_id": null,
+  "authors": [
+    "Gladwin Suryatin Alim",
+    "Roman P. Jakob",
+    "Seseg B. Bolotova",
+    "Jing Yang",
+    "Martin L. Kirk",
+    "Timm Maier",
+    "Florian P. Seebeck"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c14677",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A molybdenum enzyme relays sulfur over 50 angstroms to build ergothioneine.",
+  "hook_turn": "to build ergothioneine.",
+  "id": "doi-10.1021-jacs.6c14677",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Sulfur transfer distance within the enzyme",
+    "unit": "angstroms",
+    "value": ">50"
+  },
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Cryo-EM, crystallography, and X-ray absorption show how one enzyme pulls sulfur from cysteine and passes it along a persulfide relay to a distant molybdenum site. The sulfur then attaches to a histidine derivative. The work covers one bacterial enzyme, and the physiological role is inferred.",
+  "tags": [
+    "enzymes",
+    "ergothioneine",
+    "structural biology"
+  ],
+  "title": "A Molybdoenzyme Mediates Carbon–Sulfur Bond Making and Breaking in Ergothioneine Biosynthesis",
+  "url": "https://doi.org/10.1021/jacs.6c14677",
+  "venue": "Journal of the American Chemical Society"
+}

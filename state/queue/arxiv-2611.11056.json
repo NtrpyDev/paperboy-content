@@ -1,0 +1,35 @@
+{
+  "abstract": "For any simple graph $G$ of order $n$, write its chromatic polynomial in the rising factorial basis as $P(G,x)=\\sum_{j=0}^{n}(-1)^{n-j}c_j(G)x^{\\langle j\\rangle}$, where $x^{\\langle j\\rangle}=\\prod_{i=0}^{j-1}(x+i)$ for $j\\ge1$ and $x^{\\langle 0\\rangle}=1.$ Brenti (1992) introduced the $\\tau$-polynomial of $G$ and its augmented version, defined by $$\\tau(G,x)=\\sum_{j=0}^n c_j(G)x^j~~~\\text{and}~~~\\overline \\tau(G,x)=\\sum_{j=0}^n j!c_j(G)x^j.$$ He asked whether $\\tau(G,x)$ is always real-rooted and whether the coefficient sequence of $\\overline \\tau(G,x)$ is always log-concave. In this paper, we prove that for every integer $d\\ge4$, there exists an integer $h_d\\ge3$ such that $c_2(G)^2<c_1(G)c_3(G)$ for every connected $d$-regular graph $G$ of girth at least $h_d$. For such graphs, the coefficient sequences of both polynomials fail log-concavity at $j=2$, and thus both polynomials have nonreal roots by Newton's inequalities. This gives counterexamples to both questions among connected regular graphs of arbitrarily large girth.",
+  "arxiv_id": "2611.11056",
+  "authors": [
+    "Meiqiao Zhang",
+    "Fengming Dong"
+  ],
+  "categories": [
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.11056"
+  },
+  "hook": "Graphs with large girth disprove Brenti's questions on real roots and log-concavity.",
+  "id": "arxiv-2611.11056",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-08",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Brenti asked whether the tau-polynomial of a graph always has only real roots and whether a related coefficient sequence is log-concave. The authors prove that regular graphs of degree at least 4 and large enough girth break log-concavity at j=2, answering both questions negatively. The counterexamples are existence results for large girth, not small explicit graphs.",
+  "tags": [
+    "graph theory",
+    "chromatic polynomials"
+  ],
+  "title": "Non-log-concave $\\tau$-polynomials of regular graphs",
+  "url": "https://arxiv.org/abs/2611.11056",
+  "venue": "arXiv"
+}

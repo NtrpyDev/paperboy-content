@@ -1,0 +1,40 @@
+{
+  "abstract": "Hybrids of plasmonic metals and van der Waals (vdW) materials combine electromagnetic field enhancement with the electronic properties of the vdW component, but the studies reported so far concern two-dimensional layers, and the near field at the metal/vdW interface is generally inferred from far-field measurements. Here we report the plasmonic coupling between Au nanoparticles and a one-dimensional (1D) vdW material, NbS3, and measure the near field at the Au-NbS3 contact directly. NbS3 nanowires and nanoribbons were grown by salt-assisted vapor-liquid-solid growth on graphene-covered TEM grids, and atomic-resolution electron microscopy shows atomically sharp Au/NbS3 interfaces. Photon-induced near-field electron microscopy at 1030 nm shows that an Au particle in contact with NbS3 produces a near field of higher intensity and larger extent than an isolated particle of similar size, and that the hot spot at a contact is excited only when the incident polarization is parallel to the particle-NbS3 axis. Finite-difference time-domain simulations reproduce these observations and quantify the dependence of the coupling on the particle-NbS3 gap, the NbS3 thickness, and the dimension ratio of the NbS3 structure. Size-specific Au nanoparticles on NbS3 nanowires enhance the Raman scattering of rhodamine 6G by a factor of 1.8-4.2 relative to Au nanoparticles alone, with a detection limit of 10^-7 M. These results extend plasmonic metal/vdW hybrids to 1D vdW crystals and establish a multimodal approach that correlates the atomic structure of a metal/vdW interface with its nanoscale plasmonic response.",
+  "arxiv_id": "2611.16132",
+  "authors": [
+    "Ibrahim Tanriover",
+    "Arindom Nag",
+    "Jong-Ho Lee",
+    "Huy Hoang",
+    "Haihua Liu",
+    "Thang Pham"
+  ],
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16132"
+  },
+  "hook": "A gold particle touching an NbS3 nanowire focuses light more intensely than gold alone.",
+  "hook_turn": "more intensely than gold alone.",
+  "id": "arxiv-2611.16132",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Electron microscopy of gold nanoparticles on NbS3 nanowires, a one-dimensional layered crystal, shows a stronger and wider light near field than an isolated particle. Simulations match, and the hybrid boosts Raman signal of a dye by 1.8 to 4.2 times. Only one material pair and one dye were tested.",
+  "tags": [
+    "plasmonics",
+    "van der Waals materials"
+  ],
+  "title": "Direct imaging of plasmonic coupling between gold nanoparticles and one-dimensional van der Waals materials",
+  "url": "https://arxiv.org/abs/2611.16132",
+  "venue": "arXiv"
+}

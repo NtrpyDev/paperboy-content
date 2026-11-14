@@ -1,0 +1,54 @@
+{
+  "abstract": "Glioblastoma remains highly refractory to immunotherapy, in part because of a profoundly immunosuppressive tumour microenvironment that limits effective T-cell responses. Although mRNA vaccines can induce anti-tumour immunity, how they reshape the glioblastoma immune ecosystem to support durable tumour control is not well understood. Here we use an immunocompetent EGFRvIII-driven syngeneic glioblastoma model and antigen-specific mRNA lipid nanoparticle (mRNA-LNP) vaccination to define the cellular and spatial mechanisms underlying therapeutic response. In our model, vaccination induced durable EGFRvIII-specific humoral and cellular immunity, resulting in complete tumour eradication and long-term protection against intracranial rechallenge. Integrative analyses incorporating flow cytometry, tumour interstitial fluid profiling, multiplex immunostaining, spatial transcriptomics and ligand-receptor modelling demonstrated extensive remodelling of the tumour microenvironment following vaccination. Early tumour control was associated with expansion of pro-inflammatory and antigen-presenting myeloid populations, increased cytotoxic CD8 T-cell infiltration and activation, enhanced interferon-responsive signalling, and the formation of immune-supportive spatial niches enriched for antigen presentation and chemokine-mediated cellular communication. Vaccination promoted inflammatory chemokine relay networks centred on the CXCL16-CXCR6 axis, a pathway linked to tissue residency programming in the central nervous system. Functional depletion studies identified CD4 and CD8 T cells as essential mediators of therapeutic efficacy, while durable protection was maintained by tumour-specific brain-resident memory CD8 T cells that persisted despite peripheral lymphocyte depletion. Together, these findings identify T-cell-driven microenvironmental remodelling as a critical mechanism linking mRNA vaccination to the establishment of long-term brain-resident anti-tumour immunity in glioblastoma.",
+  "arxiv_id": null,
+  "authors": [
+    "Snelling, S. M.",
+    "Manoharan, V. T.",
+    "Pyczek, J.",
+    "Lun, X.",
+    "Wang, J.",
+    "Liu, J.",
+    "Gold, M. J.",
+    "Nechanitzky, R.",
+    "Ellestad, K.",
+    "Patel, A.",
+    "Olsen, K.",
+    "Wu, Y.",
+    "Karpov, Y.",
+    "Menon, H.",
+    "Tan, Y.",
+    "Krishnan, R.",
+    "Mahoney, D. J.",
+    "Morrissy, S.",
+    "Martin-Orozco, N.",
+    "Chan, J. A."
+  ],
+  "categories": [
+    "cancer biology"
+  ],
+  "doi": "10.64898/2026.11.11.762754",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/13/2026.11.11.762754.source.xml"
+  },
+  "hook": "In mice, an mRNA vaccine cleared glioblastoma and left memory T cells in the brain to block relapse.",
+  "hook_turn": "left memory T cells in the brain to block relapse.",
+  "id": "doi-10.64898-2026.11.11.762754",
+  "license": "cc-by-nd",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "An mRNA vaccine against the EGFRvIII protein eradicated tumors in a mouse glioblastoma model and protected against a second tumor. Spatial transcriptomics and cell depletion showed CD4 and CD8 T cells were essential, and brain-resident memory CD8 T cells kept protection going. It is one engineered mouse model with a single target protein, so human benefit is unknown. This is a preprint.",
+  "tags": [
+    "glioblastoma",
+    "cancer immunotherapy"
+  ],
+  "title": "mRNA-LNP vaccination induces microenvironment remodeling and generation of tissue-resident memory T cells in glioblastoma",
+  "url": "https://doi.org/10.64898/2026.11.11.762754",
+  "venue": "bioRxiv"
+}

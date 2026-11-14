@@ -1,0 +1,39 @@
+{
+  "abstract": "We study inequalities between symmetric functions that hold in every number of variables. First, we prove that it is undecidable whether a symmetric function with rational coefficients is nonnegative in all dimensions, answering a question posed by Acevedo, Blekherman, Debus and Riener. As a consequence, the validity of dimension-free moment criteria for entanglement in quantum information is undecidable. Second, we present a homogeneous symmetric function of degree 8 which is positive definite in every dimension but admits no sum of squares multiplier that is uniform in the number of variables. Consequently, Artin's solution of Hilbert's 17th problem and the Krivine-Stengle Positivstellensatz have no any-dimensional analog and any-dimensional Positivstellens\\\"atze asked for by Levin and Chandrasekaran cannot hold in general.",
+  "arxiv_id": "2611.16690",
+  "authors": [
+    "Sebastian Debus",
+    "Robin Schabert"
+  ],
+  "categories": [
+    "math.AG",
+    "math.OC",
+    "quant-ph"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16690"
+  },
+  "hook": "No algorithm can decide whether a symmetric function is nonnegative in every number of variables.",
+  "hook_turn": "in every number of variables.",
+  "id": "arxiv-2611.16690",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove that checking nonnegativity of symmetric functions across all dimensions is undecidable, which also makes dimension-free entanglement moment criteria undecidable. They also give a degree 8 symmetric function that is positive in every dimension but has no uniform sum-of-squares certificate. So Hilbert's 17th problem has no any-dimensional analog in general.",
+  "tags": [
+    "undecidability",
+    "symmetric functions",
+    "positivstellensatz"
+  ],
+  "title": "Hilbert's 17th problem for symmetric functions: undecidability and a counterexample",
+  "url": "https://arxiv.org/abs/2611.16690",
+  "venue": "arXiv"
+}

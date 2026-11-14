@@ -1,0 +1,55 @@
+{
+  "abstract": "Outbreaks of Ebola and other viral diseases underscore the need for rapid molecular diagnostics that can be performed directly from blood, yet conventional PCR workflows require sample processing that limits testing in remote settings. Here, we establish an extraction-free workflow for quantitative PCR (qPCR) and reverse-transcription qPCR directly in whole blood. Using 2 uL of blood per reaction, we combine blood-compatible amplification chemistry, RNase inhibition for RNA targets, and longer-wavelength fluorescence detection to address both biochemical and optical interference. We demonstrate detection of hepatitis B virus DNA at 10 copies/uL and RNA from hepatitis C, Bundibugyo, Ebola, and Sudan viruses at 100 copies/uL in blood spiked with viral nucleic acid standards. A portable instrument detected the Bundibugyo target with less than two minutes of hands-on preparation and results within one hour. These findings establish analytical feasibility for simplified blood-based molecular testing and motivate validation using intact viruses and clinical specimens.",
+  "arxiv_id": null,
+  "authors": [
+    "Lim, J.",
+    "Stachler, E.",
+    "Nielsen, S.",
+    "Talwar, R.",
+    "Baek, S.",
+    "McMahon, K.",
+    "Abay, T.",
+    "Hsu, B.",
+    "Nabatanzi, D.",
+    "Espinoza, N.",
+    "Mitchell, R.",
+    "Knoll, H.",
+    "Wilkason, C.",
+    "Ozonoff, A.",
+    "Sabeti, P."
+  ],
+  "categories": [
+    "molecular biology"
+  ],
+  "doi": "10.64898/2026.11.10.765582",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/12/2026.11.10.765582.source.xml"
+  },
+  "hook": "PCR works straight in whole blood and spots Ebola-family RNA without extraction, in spiked samples",
+  "hook_turn": "in spiked samples",
+  "id": "doi-10.64898-2026.11.10.765582",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Hepatitis B DNA detected in spiked blood",
+    "unit": "copies/uL",
+    "value": "10"
+  },
+  "significance": 6,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "A workflow runs PCR on 2 microliters of unprocessed blood by combining blood-tolerant chemistry, RNA protection, and longer-wavelength fluorescence. It detected hepatitis B DNA and RNA from hepatitis C, Ebola, Sudan, and Bundibugyo viruses, and a portable device gave a result within an hour. Tests used blood spiked with viral standards, not intact virus or patient samples.",
+  "tags": [
+    "diagnostics",
+    "PCR",
+    "Ebola"
+  ],
+  "title": "Direct Whole-Blood PCR for Molecular Diagnostics",
+  "url": "https://doi.org/10.64898/2026.11.10.765582",
+  "venue": "bioRxiv"
+}

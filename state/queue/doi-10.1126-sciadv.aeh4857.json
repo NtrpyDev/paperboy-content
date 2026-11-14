@@ -1,0 +1,47 @@
+{
+  "abstract": "The multidomain scaffold RIM (Rab3-interacting molecule) is widely viewed as a broadly required organizer of the presynaptic active zone, clustering voltage-gated Ca2+ (Cav2) channels, priming synaptic vesicles, and supporting neurotransmitter release. Whether this reliance is uniform across synapses with distinct release probabilities, however, has been difficult to resolve at convergent inputs. Here, using neurotoxin-based silencing to isolate transmission at the Drosophila neuromuscular junction, we show that the requirement for RIM is highly input-specific: RIM is essential to empower transmission at a high-release probability phasic synapse, yet is largely dispensable at a neighboring low-release probability tonic synapse. This specificity extends to plasticity: RIM is required for acute homeostatic potentiation at the phasic input, but not for chronic potentiation at the tonic input. Super-resolution imaging reveals that RIM is positioned closer to Cav2 channels at phasic synapses and, during acute plasticity, coordinates their nanoscale reorganization to drive the rapid expansion of the readily releasable pool.",
+  "arxiv_id": null,
+  "authors": [
+    "Rebecca Stark",
+    "Prapti Patel",
+    "Wanying Dong",
+    "Caleb Dehn",
+    "Dion Dickman"
+  ],
+  "categories": [
+    "Neuromuscular Junction",
+    "Synapses",
+    "Synaptic Vesicles",
+    "Animals",
+    "Drosophila melanogaster",
+    "GTP-Binding Proteins",
+    "rab3 GTP-Binding Proteins",
+    "Drosophila Proteins",
+    "Synaptic Transmission",
+    "Neuronal Plasticity"
+  ],
+  "doi": "10.1126/sciadv.aeh4857",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "The protein RIM is essential at fruit fly high-release synapses but mostly dispensable at low-release ones.",
+  "id": "doi-10.1126-sciadv.aeh4857",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "At the fruit fly neuromuscular junction, RIM is needed for transmission and rapid plasticity at a high-release phasic synapse, but not at its low-release tonic neighbor. Super-resolution imaging shows RIM sits closer to calcium channels at phasic synapses. The results come from one fly synapse pair, so other species and synapse types may differ.",
+  "tags": [
+    "synapses",
+    "Drosophila"
+  ],
+  "title": "Input-specific deployment of the active zone scaffold RIM tunes synaptic release probability and plasticity.",
+  "url": "https://doi.org/10.1126/sciadv.aeh4857",
+  "venue": "Science Advances"
+}

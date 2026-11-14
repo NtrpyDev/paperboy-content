@@ -1,0 +1,36 @@
+{
+  "abstract": "A Latin square of order $n$ is an $n\\times n$ array over symbols $\\{0,1,\\ldots n-1\\}$, such that the same symbol does not appear twice in any row or any column. Two Latin squares of order $n$ are orthogonal if, when superimposed, they yield each of the $n^2$ ordered pairs of symbols exactly once. A set of two or more Latin squares are mutually orthogonal Latin squares (MOLS) if each pair of distinct squares is orthogonal. Let $N(n)$ be the maximum size of a set of MOLS of order $n$. For most $n$ which are not prime powers, there is a wide gap between known upper and lower bounds on $N(n)$. This has led to interest in constructing new larger sets of MOLS for explicit values of $n$, to incrementally improve the lower bounds on $N(n)$. This paper provides MOLS that improve the lower bound on $N(n)$ for 33 values of $n$ in the range from 22 through 494. The constructions were found by GPT-6 Astra, and use established techniques including difference matrices, quasi-difference matrices, orthogonal arrays, and projective planes. A highlight is 4 MOLS of order $n=22$; combined with pre-existing results, this establishes $N(n) \\geq 4$ for all $n>10$.",
+  "arxiv_id": "2611.16299",
+  "authors": [
+    "Christopher D. Rosin"
+  ],
+  "categories": [
+    "math.CO",
+    "cs.DM"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16299"
+  },
+  "hook": "Four mutually orthogonal Latin squares of order 22 exist, found by an AI system.",
+  "hook_turn": "found by an AI system.",
+  "id": "arxiv-2611.16299",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "An AI system, GPT-6 Astra, constructed sets of mutually orthogonal Latin squares that raise the known lower bound for 33 orders between 22 and 494. This includes 4 such squares of order 22, so at least 4 now exist for every order above 10. The constructions use known techniques, and the bounds are lower bounds only, not proof of the true maximum.",
+  "tags": [
+    "Latin squares",
+    "combinatorial design"
+  ],
+  "title": "Improved Lower Bounds for Mutually Orthogonal Latin Squares (MOLS) at 33 Orders",
+  "url": "https://arxiv.org/abs/2611.16299",
+  "venue": "arXiv"
+}

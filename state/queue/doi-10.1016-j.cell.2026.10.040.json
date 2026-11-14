@@ -1,0 +1,51 @@
+{
+  "abstract": "Juvenile social play is critical for neurodevelopment, yet the neural mechanisms organizing moment-to-moment interactions remain elusive. Using social behavior sequencing (Social-seq)-an occlusion-robust 3D pose estimation and unsupervised clustering pipeline-we found that nucleus accumbens (NAc) dopamine was tightly coupled to sub-second social syllables during naturalistic interactions. In wild-type juveniles, males exhibited a sharper dopaminergic contrast between proactive play and forced submission than females did, consistent with sex-divergent play strategies. In Shank3-deficient autism models, this process was fundamentally corrupted: proactive play-evoked dopamine responses were abolished in males and significantly sign-inverted in females, with male-specific enhancements during non-social behaviors, driving social play deficits. A multi-agent reinforcement learning model parameterized by disrupted, play-related dopaminergic reinforcement values recapitulated mutant phenotypes. Closed-loop optogenetic stimulation of ventral tegmental area (VTA)-NAc dopamine projections, time-locked to proactive play, restored reciprocal play in Shank3-deficient rats. Sub-second dopaminergic reinforcement thus orchestrates naturalistic social behavior, providing a behaviorally contingent interventional framework for neurodevelopmental disorders.",
+  "arxiv_id": null,
+  "authors": [
+    "Xinfeng Chen",
+    "Xianming Tao",
+    "Zhenchao Zhong",
+    "Fanyu Zhu",
+    "Yuanqing Zhang",
+    "Yangzhen Wang",
+    "Miao Wang",
+    "Yixuan Li",
+    "Le Sun",
+    "Ye Ouyang",
+    "Zhaoyi Ding",
+    "Min An",
+    "Yiyi Zhao",
+    "Jingfeng Zhou",
+    "Rong Zhang",
+    "Wei Xiong",
+    "Ni Ji",
+    "Ying Li"
+  ],
+  "categories": [],
+  "doi": "10.1016/j.cell.2026.10.040",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Sub-second dopamine bursts track rat play, and timed stimulation restores play in autism-model rats.",
+  "hook_turn": "timed stimulation restores play in autism-model rats.",
+  "id": "doi-10.1016-j.cell.2026.10.040",
+  "license": "cc-by-nc",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Using 3D pose tracking and clustering of juvenile rat play, researchers linked nucleus accumbens dopamine to split-second social behaviors. In Shank3-deficient rats the dopamine response to proactive play was lost in males and inverted in females, and stimulating dopamine fibers during play restored it. Findings come from one rat model and may not carry over to people.",
+  "tags": [
+    "social behavior",
+    "dopamine",
+    "autism"
+  ],
+  "title": "Sub-second dopamine reinforcement shapes juvenile social play.",
+  "url": "https://doi.org/10.1016/j.cell.2026.10.040",
+  "venue": "Cell"
+}

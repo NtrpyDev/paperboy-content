@@ -1,0 +1,46 @@
+{
+  "abstract": "PSEN1 variants are the most common cause of familial early-onset Alzheimer's disease (EOAD), but it is debated whether they act through a loss- or gain-of-function. Following a recent report of a duo with EOAD carrying a predicted loss-of-function (LoF) stop-gain variant (p.K109*) in PSEN1, we sought to determine whether PSEN1 LoF variants, as a class, cause EOAD. We identified 45 carriers of PSEN1 LoF variants predicted to trigger nonsense-mediated decay in the Alzheimer's Disease Sequencing Project, UK Biobank, and BioVU databases. None of these carriers had a recorded case of early-onset dementia, and 17 were older than 65 years at last follow-up with no dementia or AD reported. Re-analysis of the reported AD-associated variant p.K109* revealed a cryptic splice site predicted to produce an in-frame deletion of 5 amino acids (p.K109_L113del). These results suggest that PSEN1 variants must produce an altered PSEN1 protein product to cause EOAD, while true null LoF PSEN1 alleles do not cause EOAD.",
+  "arxiv_id": null,
+  "authors": [
+    "Farinas, A.",
+    "Pena-Tauber, A.",
+    "Hohman, T. J.",
+    "Contreras, A. G.",
+    "Jensen, T. D.",
+    "Le Guen, Y.",
+    "Greicius, M. D."
+  ],
+  "categories": [
+    "neurology"
+  ],
+  "doi": "10.64898/2026.11.13.26367865",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.medrxiv.org/content/early/2026/11/13/2026.11.13.26367865.source.xml"
+  },
+  "hook": "Knocking out PSEN1 does not cause early-onset Alzheimer's. Only altered proteins do.",
+  "hook_turn": "Only altered proteins do.",
+  "id": "doi-10.64898-2026.11.13.26367865",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "PSEN1 loss-of-function carriers examined",
+    "unit": "carriers",
+    "value": "45"
+  },
+  "significance": 7,
+  "source": "medrxiv",
+  "status": "preprint",
+  "summary": "Researchers searched three large genetic databases and found 45 people carrying PSEN1 variants predicted to destroy the gene's product, none with early-onset dementia. A reported case variant turned out to cause a small in-frame deletion instead. The carriers are few and mostly one-copy, and many were still young at last follow-up.",
+  "tags": [
+    "Alzheimer's disease",
+    "PSEN1"
+  ],
+  "title": "PSEN1 loss-of-function variants do not cause early-onset Alzheimer's disease",
+  "url": "https://doi.org/10.64898/2026.11.13.26367865",
+  "venue": "medRxiv"
+}

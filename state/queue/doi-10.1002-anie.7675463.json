@@ -1,0 +1,45 @@
+{
+  "abstract": "Selective electrooxidation of 1,2-butanediol (1,2-BDO) to 1-hydroxy-2-butanone (1-HB) offers an attractive strategy for upgrading vicinal diols into value-added α-hydroxy ketones but remains challenged by poor regioselectivity and the rapid base-induced transformation of 1-HB under alkaline conditions. Herein, we report a spontaneous interfacial dehydrogenation process on PtPdNi/NF that proceeds through coupled α-C─H and O─H activation of the secondary alcohol in 1,2-BDO, inducing pronounced H2 evolution under open-circuit conditions in alkaline media. This spontaneous dehydrogenation is self-limiting and ceases after a finite period owing to the absence of continuous electron extraction. Upon applying an external potential, sustained electron extraction maintains the dehydrogenation process, delivering an ultrahigh current density of 800 mA cm-2 at only 0.56 V versus RHE. Furthermore, by integrating a 25 cm2 single-pass flow cell with in-line neutralization, the exposure of generated 1-HB to the alkaline electrolyte is minimized, thereby suppressing its base-induced transformation while simultaneously alleviating catalyst deactivation caused by the accumulation of products and product accumulation, achieving a Faradaic efficiency of 87% toward 1-HB at 60°C under the investigated flow-cell conditions. This work establishes an integrated catalyst-reactor strategy that couples spontaneous interfacial dehydrogenation with rapid product extraction, enabling highly efficient and selective electrooxidative upgrading of vicinal diols.",
+  "arxiv_id": null,
+  "authors": [
+    "Yang Xiang",
+    "Yanminzi Zhang",
+    "Yanhui Tang",
+    "Haiming Li",
+    "Siyu Liu",
+    "Renqin Yu",
+    "Xun Huang",
+    "Li Li",
+    "Zidong Wei"
+  ],
+  "categories": [],
+  "doi": "10.1002/anie.7675463",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A PtPdNi catalyst oxidizes 1,2-butanediol to a useful ketone at 87% Faradaic efficiency in a flow cell.",
+  "id": "doi-10.1002-anie.7675463",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Faradaic efficiency toward 1-HB, flow cell",
+    "unit": "%",
+    "value": "87"
+  },
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "A platinum-palladium-nickel catalyst dehydrogenates 1,2-butanediol even with no applied voltage, and an applied potential sustains it at 800 mA cm-2. A flow cell with in-line neutralization protects the product from alkaline breakdown. The 87% figure holds for the stated 60 C flow-cell conditions in a 25 cm2 cell.",
+  "tags": [
+    "electrocatalysis",
+    "green chemistry"
+  ],
+  "title": "Spontaneous Interfacial Dehydrogenation Enables Selective Electrooxidation of 1,2-Butanediol to 1-Hydroxy-2-butanone.",
+  "url": "https://doi.org/10.1002/anie.7675463",
+  "venue": "Angewandte Chemie International Edition"
+}

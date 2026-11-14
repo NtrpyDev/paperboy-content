@@ -1,0 +1,37 @@
+{
+  "abstract": "Duck-billed dinosaurs evolved complex cornified oral structures whose soft-tissue biology remains poorly understood. Here we investigate the rostral anatomy of the hadrosauroid Tethyshadros insularis using gross morphology and micro-computed tomography (micro-CT) data, focusing on the premaxillae and predentary. Structures previously interpreted as anomalous 'spiked' beak ornamentation are reinterpreted as osteological correlates of an extensive neurovascular network. Circumflex vessels, palatine and narial circulation and a median premaxillary sinus supplied a hypertrophied keratinous rhamphotheca that probably exceeded the extent of the underlying bone in both size and morphological complexity. Comparative evidence indicates that marginal denticulations reflect vascular excavation and/or ossified dermal papillary structures, implying vascular and somato-sensory functions analogous to avian beaks. Mesowear marks and functional correlates support a major role in cropping abrasive, grit-laden vegetation, while the dense vascularization suggests an additional thermoregulatory function via beak-nares heat exchange. These findings re-evaluate the hadrosauroid beak as a multifunctional sensory, mechanical and thermal organ, representing a key innovation that may have underpinned the ecological expansion and gigantism of later diverging hadrosaurids.",
+  "arxiv_id": null,
+  "authors": [
+    "Marco Muscioni",
+    "Filippo Maria Rotatori",
+    "Alfio Alessandro Chiarenza",
+    "Diego Dreossi",
+    "Federico Fanti"
+  ],
+  "categories": [],
+  "doi": "10.1098/rsos.260392",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "europepmc",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13750933/fullTextXML"
+  },
+  "hook": "Dinosaur beak 'spikes' were blood vessel channels that fed a large horny beak.",
+  "hook_turn": "fed a large horny beak.",
+  "id": "doi-10.1098-rsos.260392",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Micro-CT scans of the duck-billed dinosaur Tethyshadros showed that bony features once read as ornament mark nerve and blood vessel networks. The authors infer a large keratin beak with a rich blood supply, similar to bird beaks, used for cropping tough plants and possibly shedding heat. The soft beak is inferred from bone, not preserved, and rests on one specimen.",
+  "tags": [
+    "dinosaurs",
+    "paleontology"
+  ],
+  "title": "The bird-like complexity of hadrosauroid beaks.",
+  "url": "https://europepmc.org/articles/PMC13750933",
+  "venue": "Royal Society open science"
+}

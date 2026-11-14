@@ -1,0 +1,43 @@
+{
+  "abstract": "Bacteria deploy specialised secretion systems to transfer proteins and DNA into other cells, driving microbial evolution, virulence and the spread of antibiotic resistance1. Among these, type IV secretion systems (T4SSs) are unique in mediating both effector delivery and conjugative DNA transfer via extracellular pili that establish contact with recipient cells2. How these molecular machines couple recipient-cell engagement to the opening of a secretion channel is a central unresolved question across direct-contact secretion systems. Here we present the first high-resolution structure of a conjugative pilus tip from the R388 T4SS. The tip comprises the major pilin VirB2 and the minor pilin VirB5 together with two unexpected components: VirB6, repositioned from the inner-membrane stalk to the pilus apex where it forms a dynamic gate, and KikA, a modular distal adhesin likely involved in recipient-cell engagement. These findings unify pilus biogenesis, entry exclusion and recipient-cell engagement into a single structural mechanism in which VirB6 acts as a gatekeeper that couples tip contact to channel opening, while KikA shapes a pointed adhesin at the apex. By comparing this architecture to the type III and type VI secretion systems, we reveal convergent gating and penetration principles to contact-dependent bacterial secretion.",
+  "arxiv_id": null,
+  "authors": [
+    "Paillard, P.",
+    "Rouger, Q.",
+    "Thomet, M.",
+    "Legros, J.",
+    "Georgeault, S.",
+    "Chat, S.",
+    "Giudice, E.",
+    "Mace, K."
+  ],
+  "categories": [
+    "molecular biology"
+  ],
+  "doi": "10.64898/2026.11.11.765378",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/12/2026.11.11.765378.source.xml"
+  },
+  "hook": "A conjugative pilus tip is imaged at high resolution. VirB6 sits at the apex as a gate.",
+  "hook_turn": "VirB6 sits at the apex as a gate.",
+  "id": "doi-10.64898-2026.11.11.765378",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "First high-resolution structure of the tip of the pilus used by the R388 type IV secretion system to pass DNA between bacteria. It shows the protein VirB6 moved to the apex, where it appears to act as a gate, plus a new adhesin called KikA. The gating role is inferred from structure; it was not tested by function in this abstract.",
+  "tags": [
+    "bacterial conjugation",
+    "secretion systems",
+    "cryo-EM"
+  ],
+  "title": "Conjugative pilus tip structure reveals convergence in secretion systems",
+  "url": "https://doi.org/10.64898/2026.11.11.765378",
+  "venue": "bioRxiv"
+}

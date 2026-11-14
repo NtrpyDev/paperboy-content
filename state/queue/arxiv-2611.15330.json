@@ -1,0 +1,36 @@
+{
+  "abstract": "We exhibit examples of K-stable Fano varieties with obstructed qG-deformations; more precisely, their miniversal qG-deformation spaces can be non-reduced. As a consequence, we show that both the K-moduli stack and the K-moduli space can be non-reduced, and hence non-smooth, at points corresponding to K-stable Fano varieties.",
+  "arxiv_id": "2611.15330",
+  "authors": [
+    "Andrea Petracci",
+    "Alice Villa"
+  ],
+  "categories": [
+    "math.AG"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15330"
+  },
+  "hook": "Some Fano varieties are K-stable yet cannot be deformed smoothly, so their moduli space is non-reduced.",
+  "hook_turn": "so their moduli space is non-reduced.",
+  "id": "arxiv-2611.15330",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors build explicit examples of K-stable Fano varieties whose space of qG-deformations is non-reduced, meaning it carries hidden extra structure. This shows the K-moduli stack and space can be non-reduced, and so non-smooth, at points of K-stable varieties. The finding comes from specific examples, so it does not say how common the behavior is.",
+  "tags": [
+    "algebraic geometry",
+    "Fano varieties"
+  ],
+  "title": "K-stable Fano varieties can have obstructed deformations",
+  "url": "https://arxiv.org/abs/2611.15330",
+  "venue": "arXiv"
+}

@@ -1,0 +1,58 @@
+{
+  "abstract": "In electroencephalography, hair remains a major barrier to electrode-skin contact, limiting signal quality. Here, we introduce electronic hair (eHAIR), a strategy that converts hair into a bioelectronic interface using mixed ionic-electronic conductive polymer dyes. Hair, a keratinized filament anchored within the skin, provides a stable and naturally distributed platform for interfacing. Two complementary approaches based on polythiophene derivatives enable rapid, washable functionalization of hair bundles or semipermanent coating of individual strands. The resulting eHAIR forms conformal, low-impedance interfaces that support electrophysiological recordings with increased signal amplitude and spectral power while preserving the underlying neural dynamics without gels or rigid hardware. Beyond passive sensing, eHAIR-based organic electrochemical transistors enable local signal amplification, with gain defined by hair geometry. By repurposing hair as an active bioelectronic interface, eHAIR establishes a wearable and biointegrated platform that can be implemented from individual hairs to larger hair-covered regions.",
+  "arxiv_id": null,
+  "authors": [
+    "Shweta Shweta",
+    "Malamati Giompliaki",
+    "Linta Sohail",
+    "Rémy Cornuéjols",
+    "Preston D Donaldson",
+    "Tobias Abrahamsson",
+    "Dina Kc",
+    "Maria Ntzouni",
+    "Sıla Yıldız Cengiz",
+    "Sofia Drakopoulou",
+    "Mary J Donahue",
+    "Maria Seitanidou",
+    "Zifang Zhao",
+    "Daniel T Simon",
+    "Magnus Berggren",
+    "Sarah Mclntyre",
+    "Robrecht Raedt",
+    "Xenofon Strakosas",
+    "George D Spyropoulos"
+  ],
+  "categories": [
+    "Hair",
+    "Humans",
+    "Thiophenes",
+    "Polymers",
+    "Electrodes",
+    "Wearable Electronic Devices"
+  ],
+  "doi": "10.1126/sciadv.aei3615",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Coating hair with conductive polymer dyes turns it into a gel-free EEG electrode.",
+  "hook_turn": "turns it into a gel-free EEG electrode.",
+  "id": "doi-10.1126-sciadv.aei3615",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Polythiophene dyes applied to hair bundles or single strands make hair conduct ions and electrons, giving low-impedance contact and stronger EEG signals while preserving brain dynamics. Hair-based transistors can also amplify signals locally. The abstract gives no long-term wear or large-cohort results, so durability and everyday reliability remain open.",
+  "tags": [
+    "EEG",
+    "wearable electronics"
+  ],
+  "title": "Electronic hair: Transforming hair into a scalable bioelectronic interface.",
+  "url": "https://doi.org/10.1126/sciadv.aei3615",
+  "venue": "Science Advances"
+}

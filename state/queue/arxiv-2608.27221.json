@@ -1,0 +1,40 @@
+{
+  "abstract": "Robots that can change their morphologies and behaviors for different tasks and environments hold great promise for adaptable, multifunctional systems. Modular reconfigurable robots (MRRs) can achieve such functionalities by docking and rearranging individual units, but most rely on rigid modules that lack structural compliance, resulting in limited capabilities. Continuum robots offer compliance through flexible backbones, yet they cannot self-reconfigure into task-adaptive multi-robot configurations. Here, we introduce an MRR that unifies the advantages of both architectures by combining a tensegrity-based compliant body with claw-based connection mechanisms. Each robot can manipulate and locomote independently, and multiple robots can self-reconfigure into different morphologies (e.g., chains, loops, branches) for cooperative manipulation and locomotion. We demonstrate the robots' capability across diverse tasks and environments, including coordinated object manipulation and transport, multimodal locomotion, and loco-manipulation in real-world scenarios. These results lay a foundation for adaptable and multifunctional robotic collectives, with broad potential applications in manufacturing, space exploration, and search-and-rescue operations.",
+  "arxiv_id": "2608.27221",
+  "authors": [
+    "Mahmud Hasan Saikot",
+    "Sydney Spiegel",
+    "Sudheera Akalanka Kariyawasam",
+    "Andrew Stefka",
+    "Josh Chrisler",
+    "Jianguo Zhao"
+  ],
+  "categories": [
+    "cs.RO"
+  ],
+  "doi": "10.1038/s42256-026-01335-4",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2608.27221"
+  },
+  "hook": "Soft tensegrity robots dock into chains, loops, and branches to move and manipulate objects together.",
+  "hook_turn": "to move and manipulate objects together.",
+  "id": "arxiv-2608.27221",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Each robot has a compliant tensegrity body with claw connectors, can move and manipulate alone, and can join others into different shapes. Demonstrations include object transport, several locomotion modes, and combined tasks in real settings. The abstract reports demonstrations only, with no quantitative comparison to other modular robots.",
+  "tags": [
+    "modular robots",
+    "tensegrity"
+  ],
+  "title": "Tensegrity continuum robots enable task-adaptive morphologies for cooperative behaviours",
+  "url": "https://doi.org/10.1038/s42256-026-01335-4",
+  "venue": "Nature Machine Intelligence"
+}

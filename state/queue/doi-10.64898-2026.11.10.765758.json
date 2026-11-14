@@ -1,0 +1,44 @@
+{
+  "abstract": "Oncogenic alleles of KRAS drive colorectal cancers (CRC) growth and are associated with worse disease outcomes. Despite potent allele-specific and pan-RAS inhibitors targeting now in clinical test, CRC patients are not experiencing the same therapeutic benefit as patients with other cancers. PI3-Kinase (PI3K) is a direct RAS effector and is co-mutated in about 45% of CRC cases, raising the possibility that frequent oncogenic PI3K mutations contribute to the limited benefit of KRAS inhibition in CRC. Using isogenic colorectal cancer cells engineered to harbor either of the two most common activating PIK3CA mutations, we show that oncogenic PI3K promotes resistance to the pan-RAS inhibitor daraxonrasib (RMC-6236). Global phosphoproteomic profiling revealed that PIK3CA-mutant cells undergo a distinct adaptive response to RAS inhibition, characterized by sustained PI3K-AKT signaling and extensive remodeling of pathways controlling cell-cell adhesion and junction signaling, alongside suppression of apoptotic signaling. Combined RAS and PI3K inhibition overcame this resistance, suppressed signaling through both pathways and induced apoptosis in PIK3CA-mutant cells. Together, these findings identify oncogenic PIK3CA as a determinant of resistance to RAS inhibition in KRAS-mutant colorectal cancer and provide a mechanistic rationale for combined KRAS and PI3K inhibition in KRAS/PIK3CA co-mutant tumors.",
+  "arxiv_id": null,
+  "authors": [
+    "Ferret, L.",
+    "Montano, J. L.",
+    "Nayak, K. B.",
+    "Turnham, R. E.",
+    "Rivera, C. G.",
+    "Xu, R.",
+    "Kongpracha, P.",
+    "Swaney, D. L.",
+    "Krogan, N. J.",
+    "Gordan, J. D."
+  ],
+  "categories": [
+    "cancer biology"
+  ],
+  "doi": "10.64898/2026.11.10.765758",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/12/2026.11.10.765758.source.xml"
+  },
+  "hook": "Mutant PIK3CA lets colorectal cancer cells resist a RAS drug; blocking PI3K too restores cell death",
+  "hook_turn": "blocking PI3K too restores cell death",
+  "id": "doi-10.64898-2026.11.10.765758",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "In engineered colorectal cancer cells carrying common PIK3CA mutations, the pan-RAS inhibitor daraxonrasib worked poorly because PI3K-AKT signaling stayed on. Adding a PI3K inhibitor shut down both pathways and triggered apoptosis. The evidence is from cultured cell lines, so it needs testing in animals and patients.",
+  "tags": [
+    "colorectal cancer",
+    "drug resistance"
+  ],
+  "title": "Overcoming resistance to KRAS inhibition in KRAS/PIK3CA co-mutated colorectal cancer",
+  "url": "https://doi.org/10.64898/2026.11.10.765758",
+  "venue": "bioRxiv"
+}

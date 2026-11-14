@@ -1,0 +1,35 @@
+{
+  "abstract": "For $c>0$ let $f_c(n)$ be the largest size of a set $A\\subseteq\\{1,\\dots,\\lfloor cn\\rfloor\\}$ such that $n$ is not a sum of distinct elements of $A$. Erd\\H{o}s and Graham asked whether $f_c(n)$ depends on $n$ in an irregular way (Erd\\H{o}s Problem \\#361). We prove that $f_c(n)=\\lfloor cn\\rfloor-\\lceil n/2\\rceil$ for $c\\ge 1$, while for $0<c<1$ the ratio $f_c(n)/n$ has $\\limsup$ equal to $c/2$, attained along odd $n$, and, along the integers $n$ whose least non-divisor equals a prime power $q$, tends to \\[ \\max\\Bigl\\{\\frac cq,\\; c-\\frac12+\\frac{1-c}{q}\\Bigr\\} \\qquad\\text{whenever } 2^{q-2}\\min\\{c,1-c\\}\\le 1 . \\] Consequently $f_c(n)/n$ converges if and only if $c\\ge1$; for $0<c<1$ it has at least two limit points, and arbitrarily many as $c\\to0^+$ or $c\\to1^-$. For $c=1/2$ the set of limit points is exactly $\\{1/6,1/4\\}$. The upper bounds follow from an inverse theorem of independent interest: if $s\\ge1$, $q$ is the least positive integer not dividing $s$, and $\\varepsilon>0$, then every $A\\subseteq\\{1,\\dots,E\\}$ with $|A|\\ge E/q+\\varepsilon T$ has a subset summing to $sT$, uniformly for all sufficiently large $T$ and all $E\\le sT/2^{q-2}$. For $s=2$, this extends Alon's theorem on subsets of $\\{1,\\dots,N\\}$ with no subset sum equal to $2N$. The results for $c\\ge1$ and the $\\limsup$, as well as the limits and the inverse theorem for $q\\in\\{2,3\\}$, have been formalized and machine-checked in the Lean~4 proof assistant.",
+  "arxiv_id": "2611.17205",
+  "authors": [
+    "Mateo Matijasevick"
+  ],
+  "categories": [
+    "math.CO",
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17205"
+  },
+  "hook": "The Erdos-Graham subset-sum ratio does not settle down: it has several limit points when c is below 1",
+  "id": "arxiv-2611.17205",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper answers an Erdos problem on the largest set of integers up to cn that cannot sum to n using distinct elements. For c at least 1 the answer is exact, while for c below 1 the ratio to n keeps oscillating, with limit points tied to the smallest non-divisor of n. The key inverse theorem is only partly machine-checked in Lean 4, covering the smallest cases.",
+  "tags": [
+    "additive combinatorics",
+    "subset sums"
+  ],
+  "title": "Forbidden subset sums in a linear range: an inverse theorem and the Erd\\H{o}s-Graham irregularity problem",
+  "url": "https://arxiv.org/abs/2611.17205",
+  "venue": "arXiv"
+}

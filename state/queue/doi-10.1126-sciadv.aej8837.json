@@ -1,0 +1,59 @@
+{
+  "abstract": "The basal streptophyte Mesostigma viride represents a critical evolutionary transition toward land plants, yet the molecular basis of its ancestral light-harvesting strategy remains elusive. Here, we present a 2.25-angstrom resolution cryo-EM structure of the M. viride PSII-LHCII-LHCP supercomplex, revealing a unique C2S2Mp2Lp2-type architecture. Our structure reveals a nearly complete set of conserved PSII core subunits, indicating that much of the PSII structural framework found in terrestrial plants was established early in the streptophyte lineage. At the periphery, the complex features a specialized antenna module in which two ancestral LHCP monomers flank CP29. These ancestral antenna proteins bind an unusually high number of carotenoids, with seven carotenoids per subunit, and extensively incorporate marine-type keto carotenoids, siphonaxanthin, and siphonein, throughout the complex, thereby broadening absorption in the blue-green region. The canonical LHCII trimer exhibits a distinctive chlorophyll b macrocluster and a 96-femtosecond ultrafast energy transfer component. Together, these findings provide a high-resolution molecular framework for an evolutionary intermediate that combines high-capacity aquatic light harvesting with structural features potentially relevant to photoprotection during the transition toward terrestrial life.",
+  "arxiv_id": null,
+  "authors": [
+    "Tianyu Bai",
+    "Zhiyuan Mao",
+    "Dapeng Sun",
+    "Fei Ma",
+    "Bingxin Ma",
+    "Yingjie Gao",
+    "Yuelin Li",
+    "Yi Yang",
+    "Wenqiang Tang",
+    "Andrew Hitchcock",
+    "Matthew P Johnson",
+    "Pu Qian",
+    "Yumei Wang",
+    "Lirong Tian"
+  ],
+  "categories": [
+    "Carotenoids",
+    "Light-Harvesting Protein Complexes",
+    "Photosystem II Protein Complex",
+    "Cryoelectron Microscopy",
+    "Evolution, Molecular",
+    "Models, Molecular",
+    "Streptophyta"
+  ],
+  "doi": "10.1126/sciadv.aej8837",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A 2.25-angstrom structure shows an ancient alga's photosystem already had a land-plant core",
+  "hook_turn": "already had a land-plant core",
+  "id": "doi-10.1126-sciadv.aej8837",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Cryo-EM resolution, PSII-LHCII-LHCP complex",
+    "unit": "angstroms",
+    "value": "2.25"
+  },
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Cryo-EM of the photosystem II supercomplex from Mesostigma viride shows most core subunits match those of land plants. Its antenna proteins carry seven carotenoids each, including marine-type pigments that widen blue-green absorption. This is one structure of one species, so how it relates to the actual move onto land is inferred.",
+  "tags": [
+    "photosynthesis",
+    "cryo-EM"
+  ],
+  "title": "Structural insights into light harvesting and photosystem II evolution in the basal streptophyte Mesostigma viride.",
+  "url": "https://doi.org/10.1126/sciadv.aej8837",
+  "venue": "Science Advances"
+}

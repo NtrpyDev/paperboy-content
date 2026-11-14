@@ -1,0 +1,37 @@
+{
+  "abstract": "High-energy cosmic rays produce atmospheric muons through cascades of hadronic interactions, yet simulations often underestimate the muon content of extensive air showers. Whether the same problem affects energetic atmospheric muons, which probe a different part of the cascade, is less clear. Here we compare published atmospheric-muon measurements from four experiments with reference predictions based on a shared choice of hadronic interaction model and primary cosmic-ray flux. We find that the measurements predominantly exceed the central predictions across different experimental techniques, from surface measurements to deep detectors. This recurring excess is more consistent across the measurements than any inferred dependence on energy or zenith angle. These atmospheric muons preferentially originate from energetic mesons produced early in the cascade, whereas the total muon content of extensive air showers also reflects interactions at later stages. A common explanation of both excesses must therefore increase the effective supply of energetic muon parents, rather than merely increasing the multiplicity of soft particles. This provides a way to distinguish between competing explanations of the cosmic-ray muon puzzle.",
+  "arxiv_id": "2611.13833",
+  "authors": [
+    "G.I. Rubtsov",
+    "S.V. Troitsky"
+  ],
+  "categories": [
+    "astro-ph.HE",
+    "hep-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13833"
+  },
+  "hook": "Atmospheric muon measurements from four experiments mostly exceed predictions.",
+  "hook_turn": "mostly exceed predictions.",
+  "id": "arxiv-2611.13833",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors compared published muon data from four experiments with predictions built on one shared hadronic model and cosmic-ray flux, and the data mostly sit above the central prediction. The excess points to extra energetic muon parents early in the cascade. It reuses published data and one reference model, so model choice could shift the size of the excess.",
+  "tags": [
+    "cosmic rays",
+    "muon puzzle"
+  ],
+  "title": "Cross-experiment tests of the atmospheric-muon excess",
+  "url": "https://arxiv.org/abs/2611.13833",
+  "venue": "arXiv"
+}

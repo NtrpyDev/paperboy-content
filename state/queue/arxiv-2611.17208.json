@@ -1,0 +1,57 @@
+{
+  "abstract": "We present an analysis of the ultraviolet (UV) continuum slopes $(\\beta)$ of $55$ galaxies at $z\\gtrsim 12$, selected from a wide-area ($>0.6$ sq. deg) search across publicly available JWST/NIRCam imaging. Our sample spans the absolute UV magnitude ($M_{\\mathrm{UV}}$) range $-21.6 \\leq M_{\\mathrm{UV}} \\leq -17.3$ and we find an inverse variance-weighted mean $\\langle\\beta\\rangle = -2.57\\pm0.04$ indicating that, on average, the galaxy population is extremely blue at $z\\gtrsim 12$. The average $\\beta$ at these redshifts is consistent with the intrinsic stellar plus nebular continuum limit in the absence of UV dust-attenuation. Consistent with earlier JWST works, our analysis suggests that the moderately dust-attenuated galaxies at $z \\lesssim 10$ become essentially attenuation-free by $z \\simeq 11$. We find no evidence for a $\\beta-M_{\\mathrm{UV}}$ relation in our $z\\gtrsim 12$ sample, indicating that the attenuation-free interpretation applies across all observed UV magnitudes. By augmenting our sample with previous JWST constraints down to $z=9$, and incorporating $M_{\\mathrm{UV}}$-matched HST studies down to $z=4$, we find a smooth evolution in $\\beta(z)$ over a wide range in redshift. The average value of $\\beta$ becomes progressively bluer at $z>4$, with $\\mathrm{d}\\beta/\\mathrm{d}z \\simeq -0.1$. Finally, although we find that the typical galaxy at $z \\gtrsim 12$ is consistent with the attenuation-free limit, the scatter in our individual $\\beta$ measurements is consistent with the existence of a small population of dust-reddened galaxies with $\\beta \\gtrsim -2$.",
+  "arxiv_id": "2611.17208",
+  "authors": [
+    "C. Bondestam",
+    "D. J. McLeod",
+    "F. Cullen",
+    "R. J. McLure",
+    "J. S. Dunlop",
+    "S. Antonogiannaki",
+    "H.-H. Leung",
+    "R. Begley",
+    "A. C. Carnall",
+    "C. T. Donnan",
+    "R. S. Ellis",
+    "A. Fontana",
+    "N. A. Grogin",
+    "I. J. B. Holst",
+    "G. D. Illingworth",
+    "A. M. Koekemoer",
+    "F.-Y. Liu",
+    "T. M. Stanton",
+    "S. D. Stevenson",
+    "E. Taylor"
+  ],
+  "categories": [
+    "astro-ph.GA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17208"
+  },
+  "hook": "Galaxies at redshift 12 and beyond look extremely blue, with almost no dust reddening",
+  "id": "arxiv-2611.17208",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Mean UV slope of z>12 galaxies",
+    "value": "-2.57"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Across 55 galaxies at redshift 12 and above found in JWST images, the average ultraviolet slope is -2.57, matching what stars alone would give with no dust. Combined with earlier samples, galaxies get steadily bluer with redshift beyond z of 4. The sample comes from photometric selection, so the redshifts are not confirmed by spectra.",
+  "tags": [
+    "early galaxies",
+    "JWST"
+  ],
+  "title": "The ultraviolet continuum slopes of galaxies at $\\mathbf{z \\gtrsim 12}$ selected from ${\\mathbf{0.6 \\, deg}^2}$ of JWST imaging",
+  "url": "https://arxiv.org/abs/2611.17208",
+  "venue": "arXiv"
+}

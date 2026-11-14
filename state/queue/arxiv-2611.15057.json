@@ -1,0 +1,38 @@
+{
+  "abstract": "We consider a fundamental quantum sensing task: detecting weak oscillating fields with unknown strength and frequency. Recent work by Allen et al. established a fundamental lower bound on the required sensing time, which they named the \"Grover-Heisenberg limit\", and gave a protocol attaining this limit. The protocol relies on auxiliary qubits, which are used to run Grover's algorithm as a subroutine, leaving open the question of whether a single sensing qubit can achieve the same scaling. We show that a single qubit suffices for a discrete version of this problem, in which the signal strength is known and the frequency belongs to an arbitrary, but known, finite set of candidate frequencies. Our protocol's sensing time grows only as the square root of the number of candidate frequencies. We prove that this square-root dependence, which we refer to as the \"discrete Grover-Heisenberg limit\", is optimal in the worst case.",
+  "arxiv_id": "2611.15057",
+  "authors": [
+    "Boyang Chen",
+    "Andrea Coladangelo",
+    "Jerry Li",
+    "Haocheng Zhang"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15057"
+  },
+  "hook": "A single qubit can search for a hidden oscillating field as fast as schemes needing helper qubits.",
+  "hook_turn": "as fast as schemes needing helper qubits.",
+  "id": "arxiv-2611.15057",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Earlier work reached the best possible sensing time for a field of unknown frequency using auxiliary qubits running Grover's algorithm. This paper shows one qubit is enough when the frequency lies in a known finite set, with sensing time growing as the square root of the set size, and proves that is optimal in the worst case. It is a theory result limited to known signal strength and a discrete frequency set.",
+  "tags": [
+    "quantum sensing",
+    "Grover search"
+  ],
+  "title": "Sensing frequencies at the discrete Grover-Heisenberg limit using a single qubit",
+  "url": "https://arxiv.org/abs/2611.15057",
+  "venue": "arXiv"
+}

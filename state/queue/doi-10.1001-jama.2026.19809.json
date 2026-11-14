@@ -1,0 +1,43 @@
+{
+  "abstract": "Importance Current treatments approved by the US Food and Drug Administration for internal actinide contamination (pentetate calcium trisodium and pentetate zinc trisodium) require intravenous injection or nebulized inhalation under medical supervision and have limited radionuclide coverage. HOPO 14-1, an oral form of 3,4,3-LI(1,2-HOPO), is the first shelf-stable, broad-spectrum actinide chelator in clinical development that does not require intravenous access or trained personnel. In preclinical models, 3,4,3-LI(1,2-HOPO) removed a broad range of actinides, and its oral route supports scalable emergency medical use. Objective To evaluate the safety, tolerability, pharmacokinetic parameters, and excretion of a single dose of HOPO 14-1 in healthy adults. Design, setting, and participants This was a phase 1 nonrandomized clinical trial including 42 healthy adults (6 per dose level) with evaluations for 14 days after administration of a single dose and conducted at a single site in the US. Participants were recruited and screened between March 2023 and July 2025 and follow-up was completed in August 2025. Intervention Single oral dose of HOPO 14-1 administered at 1 of 7 dose levels (100 mg, 200 mg, 500 mg, 1200 mg, 2500 mg, 5000 mg, or 7500 mg) with follow-up through day 14 after dose administration. Main outcomes and measures The primary outcomes were the incidence and severity of adverse events, drug-related adverse events, and serious adverse events. The secondary outcomes were plasma pharmacokinetic parameters and cumulative urinary and fecal excretion. Results Of the 42 healthy adults enrolled (median age, 43 [IQR, 34-51] years; 64% female), all received a single dose of HOPO 14-1 (administered across all dose levels as assigned). There were no serious adverse events or dose-limiting toxic effects. The drug-related adverse events included diarrhea (31%), vomiting (14%), headache (12%), and fatigue (7%); all were mild to moderate in severity. Gastrointestinal adverse events were the principal tolerability findings and most evident at the highest doses. The plasma pharmacokinetic parameters demonstrated rapid absorption (median time of maximum plasma concentration, 0.86 [range, 0.53-1.60] hours to 1.90 [range, 1.40-2.90] hours) and dose-dependent increases in systemic exposure, with greater than proportional increases at higher doses. Fecal excretion was the primary route of elimination; urinary excretion was minimal. Conclusions and relevance Single oral doses of HOPO 14-1 up to 7500 mg were administered without dose-limiting toxicity or serious adverse events in healthy adults. Gastrointestinal tolerability defined the practical single-dose ceiling. These findings establish the first human safety and pharmacokinetic profile of a novel, orally administered actinide chelator and support further clinical evaluation of HOPO 14-1 as a countermeasure for internal radionuclide and heavy metal contamination. Development of a deployable and population-level emergency intervention addresses a long-standing unmet need with important implications for public health preparedness. Trial registration ClinicalTrials.gov Identifier: NCT05628961.",
+  "arxiv_id": null,
+  "authors": [
+    "Sascha N Goonewardena",
+    "Laura Atleski",
+    "Deborah I Bunin",
+    "Anna M Furimsky",
+    "Sandra Pui",
+    "Carol E Green",
+    "Polly Y Chang"
+  ],
+  "categories": [],
+  "doi": "10.1001/jama.2026.19809",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "An oral drug to clear radioactive metals from the body was safe in 42 healthy adults up to 7500 mg",
+  "id": "doi-10.1001-jama.2026.19809",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Highest single oral dose tested, phase 1",
+    "unit": "mg",
+    "value": "7500"
+  },
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "In a phase 1 trial of single oral doses of HOPO 14-1, an actinide chelator, there were no serious adverse events or dose-limiting toxicity. Mild to moderate gastrointestinal effects, mainly diarrhea, set the practical dose ceiling, and most of the drug left in feces. The trial was nonrandomized, single-site, single-dose, in healthy volunteers, so it says nothing yet about removing contamination.",
+  "tags": [
+    "chelation therapy",
+    "radiation countermeasures"
+  ],
+  "title": "HOPO 14-1, an Oral Actinide Chelator: A Phase 1 Nonrandomized Clinical Trial.",
+  "url": "https://doi.org/10.1001/jama.2026.19809",
+  "venue": "JAMA"
+}

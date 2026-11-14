@@ -1,0 +1,35 @@
+{
+  "abstract": "We introduce a new method for encoding polarization-angle-dependent molecular alignment signals directly into the transverse spatial profile of a femtosecond laser beam. The approach employs a pump-probe setup in a common-path geometry. A radial-azimuthal polarization converter placed in the probe beam produces a doughnut-shaped beam whose local polarization varies continuously with azimuthal angle, thereby encoding the full range of linear polarization orientations from 0 to $2\\pi$ within a single transverse beam profile. Consequently, the angular dependence of the molecular response can be recorded simultaneously rather than reconstructed through sequential measurements at different polarization angles. By varying only the pump-probe delay, this spatial encoding enables single-shot acquisition of the complete angular response at each delay and real-time visualization of the evolving molecular alignment pattern as the delay stage is scanned. This technique has enabled the experimental realization of an alignment microscope.",
+  "arxiv_id": "2611.14034",
+  "authors": [
+    "J. Strohaber"
+  ],
+  "categories": [
+    "physics.optics"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14034"
+  },
+  "hook": "One laser beam profile records molecular alignment at every polarization angle at once.",
+  "hook_turn": "records molecular alignment at every polarization angle at once.",
+  "id": "arxiv-2611.14034",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A polarization converter turns the probe beam into a doughnut whose local polarization rotates around the ring, so every angle is encoded in one image. Scanning only the pump-probe delay then shows the alignment pattern evolving in real time. It is a methods demonstration, and the abstract gives no accuracy comparison to conventional scans.",
+  "tags": [
+    "ultrafast optics",
+    "molecular alignment"
+  ],
+  "title": "An Alignment Microscope for Imaging Rotational Wavepacket Dynamics",
+  "url": "https://arxiv.org/abs/2611.14034",
+  "venue": "arXiv"
+}

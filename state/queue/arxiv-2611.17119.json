@@ -1,0 +1,38 @@
+{
+  "abstract": "We present a new, simple and self-contained technique for proving a mass gap for Euclidean quantum field theories in the high-temperature regime using the stochastic quantisation approach. As an application, we establish exponential decay of spatial correlations for the fractional $\\Phi^4$ model on the plane in the Wick-ordering regime. The key idea is to analyse the propagation of perturbations using the linearised stochastic quantisation equation. Spatial propagation is controlled by an auxiliary random walk, while the potentially destabilising effect of the renormalised nonlinearity is controlled by combining dissipative energy estimates for the nonlinear dynamic with the Bou\\'e-Dupuis variational formula.",
+  "arxiv_id": "2611.17119",
+  "authors": [
+    "Pawe{\\l} Duch",
+    "Massimiliano Gubinelli"
+  ],
+  "categories": [
+    "math.PR",
+    "math-ph",
+    "math.MP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17119"
+  },
+  "hook": "A simpler proof shows exponential decay of correlations in a quantum field model at high temperature.",
+  "hook_turn": "at high temperature.",
+  "id": "arxiv-2611.17119",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper gives a self-contained method for proving a mass gap, meaning correlations die off exponentially with distance, for Euclidean field theories at high temperature. It tracks how perturbations spread in the linearized stochastic quantisation equation, using a random walk and variational energy estimates. The application is the fractional Phi^4 model on the plane, and only in the Wick-ordering regime.",
+  "tags": [
+    "mathematical physics",
+    "quantum field theory"
+  ],
+  "title": "Mass gap for the fractional $\\Phi^4_2$ model",
+  "url": "https://arxiv.org/abs/2611.17119",
+  "venue": "arXiv"
+}

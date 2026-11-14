@@ -1,0 +1,67 @@
+{
+  "abstract": "Planetary transits require a fortuitous alignment between a planet's orbit and our line of sight, but dynamical interactions can render this geometric coincidence only temporary. We report the discovery of the hot Jupiter TOI-2535 b, the first confirmed planet orbiting a single star whose transits have been directly observed to disappear. Over seven years of photometry from NASA's Transiting Exoplanet Survey Satellite (TESS), the planet's transit chord traversed and eventually moved off the stellar disk entirely, with an impact parameter changing at the rate of $\\dot{b} = 0.16\\,\\mathrm{yr}^{-1}$. The transit mid-times also show significant departures of $\\pm 6$ hours from a linear ephemeris. Joint modeling of the transit timing and duration variations (TTVs and TDVs) and NEID radial-velocity data indicates the presence of a nearby, mutually inclined ($i_\\mathrm{mut} \\gtrsim 5^\\circ$) planetary perturber, with the TDV being primarily due to precession of the planets' orbital planes. Our dynamical modeling reveals that the perturber is likely of Saturn-mass or greater and in a mean-motion resonance with TOI-2535 b, making this an unusual system that contains two short-period giant planets. The TDVs measured for TOI-2535 b represent one of the most extreme examples of planet-planet interactions driving orbital evolution on human timescales.",
+  "arxiv_id": "2611.13343",
+  "authors": [
+    "Samuel W. Yee",
+    "Erik A. Petigura",
+    "Rafael Brahm",
+    "Karen A. Collins",
+    "Gregor Srdoc",
+    "David W. Latham",
+    "Allyson Bieryla",
+    "Victoria DiTomasso",
+    "Thomas Henning",
+    "Andr\\'es Jord\\'an",
+    "Trifon Trifonov",
+    "Khalid Barkaoui",
+    "Phil Evans",
+    "Mourad Ghachoui",
+    "Micha\\\"el Gillon",
+    "Eric Girardin",
+    "Emmanuel Jehin",
+    "Felipe Murgas",
+    "Enric Palle",
+    "Adam Popowicz",
+    "Don J. Radford",
+    "Howard M. Relles",
+    "Richard P. Schwarz",
+    "Avi Shporer",
+    "Abderahmane Soubkiou",
+    "David Watanabe",
+    "Francis P. Wilkin",
+    "Carl Ziegler"
+  ],
+  "categories": [
+    "astro-ph.EP"
+  ],
+  "doi": "10.3847/2041-8213/aeb4a4",
+  "explain": true,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13343"
+  },
+  "hook": "A hot Jupiter's transits vanished over seven years as its orbit tilted away from our view.",
+  "hook_turn": "as its orbit tilted away from our view.",
+  "id": "arxiv-2611.13343",
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Impact parameter drift rate, TOI-2535 b",
+    "unit": "per year",
+    "value": "0.16"
+  },
+  "significance": 8,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "TESS photometry shows the planet TOI-2535 b's transit drifting off the star's disk, the first such disappearance seen around a single star. Modeling of transit timing and duration plus radial velocities points to a nearby giant perturber in resonance, tilted relative to the hot Jupiter. The perturber is inferred from models and has not been detected directly.",
+  "tags": [
+    "exoplanets",
+    "transits"
+  ],
+  "title": "A TESS Disappearing Act: The Vanishing Transits of TOI-2535 b",
+  "url": "https://arxiv.org/abs/2611.13343",
+  "venue": "arXiv"
+}

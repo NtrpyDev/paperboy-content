@@ -1,0 +1,45 @@
+{
+  "abstract": "Abstract The 14 C content of tree‐rings serves as a valuable proxy for inferring past solar activity and environment change. Here we present an annually resolved tree‐ring Δ 14 C record (1850–1933 CE) from eastern China, where Δ 14 C data are rare. The weighted mean deviation between our record and IntCal20 calibration curve is −0.40 ± 0.26‰, revealing no significant regional offset. In addition, our record exhibits a strong El Niño‐Southern Oscillation (ENSO) signal and a weak solar activity signal compared to those from high‐latitude regions. During El Niño events, weakened Walker Circulation and reduced equatorial Pacific upwelling result in less 14 C‐depleted CO 2 being transported to eastern China, leading to trees using more 14 CO 2 during photosynthesis, imprinting the ENSO signal in tree‐ring Δ 14 C. This finding enhances our understanding of the global distribution of 14 C and underscores the pervasive influence of ENSO on the atmospheric circulation in tropical and subtropical regions.",
+  "arxiv_id": null,
+  "authors": [
+    "Peng Yu Lin",
+    "Hua Yu Lu",
+    "Ye Si Zhao",
+    "Jiang Feng Shi",
+    "Hong Yan Zhang",
+    "Yao Gu",
+    "Ming Shui Zhao"
+  ],
+  "categories": [],
+  "doi": "10.1029/2026gl125917",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Tree rings in eastern China carry a strong El Niño signal in their carbon-14 and only a weak solar one.",
+  "hook_turn": "a weak solar one.",
+  "id": "doi-10.1029-2026gl125917",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Mean offset from IntCal20 curve",
+    "unit": "per mil",
+    "value": "-0.40"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "A new annual tree-ring carbon-14 record from eastern China, 1850 to 1933, matches the IntCal20 calibration curve with no regional offset. Its year-to-year swings track El Niño, because weaker Pacific upwelling sends less carbon-14-depleted CO2 to the region, while the solar signal is faint. It rests on trees from a single region and one time span.",
+  "tags": [
+    "radiocarbon",
+    "ENSO",
+    "tree rings"
+  ],
+  "title": "Annual Atmospheric Δ 14 C Variations in the Subtropics During 1850–1933 CE Linked to ENSO",
+  "url": "https://doi.org/10.1029/2026gl125917",
+  "venue": "Geophysical Research Letters"
+}

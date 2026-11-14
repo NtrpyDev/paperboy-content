@@ -1,0 +1,44 @@
+{
+  "abstract": "Abstract Iodine chemistry has an outsized role in the atmosphere and environment due to its highly reactive nature. Unlike chlorine and bromine, around 80% of atmospheric iodine is emitted directly from the ocean through the reaction of iodide and ozone at the sea surface. Uncertainties remain, however, in the effects of hydration, salinity, temperature, and other factors on this globally significant reaction. Using linear ion-trap mass spectrometry, a single water molecule is shown here to provide a 23 (±6)-fold acceleration to the rate of iodide oxidation. The first step in reaction of both I– and I–·H2O with ozone is oxidation to IO– with subsequent fast reactions to yield IO3–. No evidence is found for direct routes from I–·H2O to IO2– nor any incorporation of the water oxygen into ionic products. Ab initio calculations show that the initial rate-determining step for both reactions proceeds on the singlet surface with water playing an active role to lower the barrier through hydrogen bonding. Kinetic modeling based on the computed energetics is in excellent agreement with experimental measurements and enables extrapolation of this reaction to lower temperatures relevant to polar regions and the ozone layer. This analysis shows that (i) I– may outcompete I• for ozone destruction as temperature decreases, and (ii) I–·H2O reacts more than an order of magnitude faster than I• over 350 to 230 K. This work demonstrates that iodide has a previously underappreciated role in multiphase ozone destruction in the atmosphere and lays the foundation for understanding microscopic environmental influences in salt clusters and nanodroplets.",
+  "arxiv_id": null,
+  "authors": [
+    "Samuel C. Brydon",
+    "Péter Szabó",
+    "David L. Marshall",
+    "Adam J. Trevitt",
+    "Evan J. Bieske",
+    "Jeremy N. Harvey",
+    "Stephen J. Blanksby"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c15483",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "One water molecule makes iodide react with ozone 23 times faster.",
+  "hook_turn": "23 times faster.",
+  "id": "doi-10.1021-jacs.6c15483",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Rate boost from one water molecule",
+    "unit": "fold",
+    "value": "23"
+  },
+  "significance": 7,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Ion-trap mass spectrometry, quantum calculations, and kinetic modeling show a single attached water lowers the barrier by hydrogen bonding. Extrapolated to cold temperatures, iodide may destroy ozone faster than iodine atoms do. The measurements are gas-phase clusters, so real sea surfaces remain untested.",
+  "tags": [
+    "atmospheric chemistry",
+    "ozone"
+  ],
+  "title": "A Single Water Molecule Drives a 20-Fold Acceleration in the Gas-Phase Reaction of Iodide with Ozone",
+  "url": "https://doi.org/10.1021/jacs.6c15483",
+  "venue": "Journal of the American Chemical Society"
+}

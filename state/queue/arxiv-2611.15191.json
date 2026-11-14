@@ -1,0 +1,35 @@
+{
+  "abstract": "Let \\(X\\) be a smooth projective complex variety with a boundary divisor \\(\\Delta=\\sum_{i=1}^s(1-1/m_i)D_i\\) of simple normal crossings support and integers $m_i$. We prove that, if \\(-(K_X+\\Delta)\\) is nef and big, then \\((X,\\Delta)\\) is Campana rationally connected. We do this by constructing a free Campana rational curve whose class lies in the interior of the nef cone of curve classes and whose contacts with \\(D_i\\) have order \\(m_i\\) and avoid deeper strata. We construct such a curve from a free Campana curve by attaching to it free rational curves which intersect positively with divisors that span the cone of effective divisors, and smooth the resulting comb.",
+  "arxiv_id": "2611.15191",
+  "authors": [
+    "Jiun-Cheng Chen",
+    "Hsian-Hua Tseng"
+  ],
+  "categories": [
+    "math.AG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15191"
+  },
+  "hook": "Smooth weak log Fano orbifolds are proved Campana rationally connected.",
+  "id": "arxiv-2611.15191",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For a smooth projective variety with a boundary divisor whose negative log canonical class is nef and big, the pair is Campana rationally connected. The proof builds a free Campana rational curve with the right contact orders by attaching free rational curves and smoothing the comb. Applies only to smooth varieties with simple normal crossings boundary.",
+  "tags": [
+    "algebraic geometry",
+    "rational connectedness"
+  ],
+  "title": "Smooth weak log Fano orbifolds are Campana rationally connected",
+  "url": "https://arxiv.org/abs/2611.15191",
+  "venue": "arXiv"
+}

@@ -1,0 +1,39 @@
+{
+  "abstract": "The Mpemba effect, in which an initially hotter system relaxes faster than a colder one, has been widely studied in both classical and quantum systems, yet identifying the specific effects of quantization requires a consistent comparison with the corresponding classical dynamics. Starting from the Caldeira-Leggett model, we establish a quantum-classical correspondence for thermal relaxation. We find that the locality of classical energy diffusion forbids the Mpemba effect in single-well and symmetric double-well potentials. Conversely, quantum dynamics allows for direct transitions between nonadjacent energy levels, overcoming the constraints of classical local energy diffusion and enabling the Mpemba effect in these potentials. In the semiclassical limit $\\hbar\\to0$, the nonlocal transitions become increasingly suppressed, restoring the classical constraints. Our findings reveal that quantization fundamentally unlocks anomalous relaxation pathways, rather than merely modifying relaxation rates.",
+  "arxiv_id": "2611.15349",
+  "authors": [
+    "Yue Liu",
+    "Tan Van Vu",
+    "Fr\\'ed\\'eric van Wijland",
+    "Hisao Hayakawa"
+  ],
+  "categories": [
+    "quant-ph",
+    "cond-mat.stat-mech"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15349"
+  },
+  "hook": "Quantum systems can cool faster from hot starts, a Mpemba effect classical physics forbids in simple wells.",
+  "hook_turn": "classical physics forbids in simple wells.",
+  "id": "arxiv-2611.15349",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Starting from the Caldeira-Leggett model, the authors compare quantum and classical thermal relaxation. Classical energy diffusion moves only between neighboring levels, which rules out the Mpemba effect in single-well and symmetric double-well potentials. Quantum jumps between distant levels allow it, and the effect fades as Planck's constant goes to zero. The results are theoretical, for model potentials.",
+  "tags": [
+    "Mpemba effect",
+    "quantum thermodynamics"
+  ],
+  "title": "Quantization Breaks Classical Mpemba Constraints",
+  "url": "https://arxiv.org/abs/2611.15349",
+  "venue": "arXiv"
+}

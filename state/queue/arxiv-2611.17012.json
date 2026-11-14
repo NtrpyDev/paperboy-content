@@ -1,0 +1,39 @@
+{
+  "abstract": "In July 2026, the European Commission (EC) set out the anonymization measures Alphabet must implement to share Google Search data with competing search engines under Article 6(11) of the Digital Markets Act. As the first concrete illustration of how the EC operationalizes anonymization under the EU digital rulebook, this methodology could become a regulatory benchmark. In this paper, we show why it should not. We critically review the anonymization measures proposed by the EC, from the characterization of residual risk to the suppression thresholds and the reliance on contractual safeguards. For each of those issues, we highlight significant conceptual flaws, and, where applicable, we illustrate these flaws with empirical observations from real Google Search data provided by Alphabet and protected under the EC's measures. Importantly, we present examples of low-effort reidentification, record linkage, and confidential attribute inference achieved through straightforward and automatable attack patterns. Our findings show that the approach of the EC relies on unjustified heuristics rather than formal privacy guarantees, underestimates the risks inherent in free-text search queries, and sacrifices data utility without achieving meaningful protection. We also demonstrate that the proposed measures do not meet any of the three anonymization criteria established by the European Data Protection Board (EDPB): no record isolation, no linkage, and no inference. Practitioners and regulators are therefore cautioned against treating these measures as a sound anonymization practice.",
+  "arxiv_id": "2611.17012",
+  "authors": [
+    "David S\\'anchez",
+    "Benet Manzanares",
+    "Josep Domingo-Ferrer"
+  ],
+  "categories": [
+    "cs.CR",
+    "cs.IR"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17012"
+  },
+  "hook": "Search data anonymized under the EU's rules can be reidentified with simple, automatable attacks.",
+  "hook_turn": "can be reidentified with simple, automatable attacks.",
+  "id": "arxiv-2611.17012",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors critique the European Commission's anonymization measures for sharing Google Search data and test them on real data supplied under those measures. They show record linkage, reidentification and attribute inference with simple attacks, and argue the measures meet none of three European Data Protection Board criteria. The tests are examples, not a measured rate of reidentification across the whole dataset.",
+  "tags": [
+    "privacy",
+    "anonymization",
+    "data protection"
+  ],
+  "title": "Anonymous in Name Only: A Critical Review and a Reidentification Exercise on the European Commission's Anonymization Measures for Google Search Data under Article 6(11) of the DMA",
+  "url": "https://arxiv.org/abs/2611.17012",
+  "venue": "arXiv"
+}

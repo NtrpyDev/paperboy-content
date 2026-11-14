@@ -1,0 +1,45 @@
+{
+  "abstract": "Augmented reality (AR) displays, originating from early optical see-through head-mounted systems1, have evolved towards lightweight glasses that seamlessly integrate digital information with the physical world2,3. However, their widespread adoption requires compact optical systems that enable bright, wide-field and comfortable viewing. Diffractive waveguides (WGs) offer a promising approach towards lightweight AR displays yet face inherent trade-offs among field of view (FoV), optical efficiency and eyebox size owing to limited degrees of freedom in light control. Here we show an all-day-wearable AR glass prototype based on spatially varying, interwoven metasurfaces that provide several grating vectors for multidirectional light control. The resulting dual-layer metasurface-based waveguide (meta-WG) achieves a 30° FoV and an 8 × 8-mm2 two-dimensional (2D) eyebox while maintaining an average luminance efficiency of 1,938 nits lm-1 (up to 4,225 nits lm-1) within a 1.5-mm-thick form factor. The prototype produces bright and stable virtual images under outdoor ambient illumination, demonstrating the compatibility of meta-WGs with practical wearable display requirements. By expanding the degrees of freedom for light routing beyond conventional diffractive WGs, our approach provides a scalable framework for balancing efficiency, viewing range and form factor, bringing high-performance AR glasses closer to practical consumer applications.",
+  "arxiv_id": null,
+  "authors": [
+    "Jeong-Geun Yun",
+    "Hyunjung Kang",
+    "Myongjo Choi",
+    "Kyookeun Lee",
+    "Youngmo Jeong",
+    "Jongchul Choi",
+    "Sanghyun Yi",
+    "Kyusub Kwak",
+    "Junsuk Rho"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41586-026-11277-x",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Metasurface waveguides make slim AR glasses with a 30° view and an 8 × 8 mm eyebox.",
+  "id": "doi-10.1038-s41586-026-11277-x",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Average luminance efficiency of AR waveguide",
+    "unit": "nits/lm",
+    "value": "1,938"
+  },
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Two layers of interwoven metasurfaces steer light in several directions inside a 1.5-mm-thick lens. The prototype gave bright images in outdoor light, with an average efficiency of 1,938 nits per lumen. A 30° field of view is still modest, and it is one prototype.",
+  "tags": [
+    "augmented reality",
+    "metasurfaces"
+  ],
+  "title": "Metasurface waveguides for all-day augmented reality glasses.",
+  "url": "https://doi.org/10.1038/s41586-026-11277-x",
+  "venue": "Nature"
+}

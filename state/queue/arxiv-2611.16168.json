@@ -1,0 +1,37 @@
+{
+  "abstract": "When two black holes merge, a common horizon appears around them as a single surface, which immediately splits into an outer and an inner one. We show that this event has a universal local form. Without any symmetry assumption, the two surfaces separate as $(t-t_*)^{1/2}$ along a single, everywhere positive mode and share a drift linear in $t-t_*$. Three numerical simulations, including an eccentric, precessing one, confirm the exponent to half a percent, and the reconstructed formation surface is marginally stable, as predicted.",
+  "arxiv_id": "2611.16168",
+  "authors": [
+    "Yu-Cun Xie",
+    "Vaishak Prasad"
+  ],
+  "categories": [
+    "gr-qc",
+    "hep-th"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16168"
+  },
+  "hook": "In simulations, a merging black hole pair's new horizon splits in two as the square root of time.",
+  "hook_turn": "as the square root of time.",
+  "id": "arxiv-2611.16168",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "When two black holes merge, a common horizon appears and splits into outer and inner surfaces. The authors derive that they separate as the square root of elapsed time, with no symmetry assumption. Three numerical simulations confirm the exponent to half a percent. Only three simulations were checked.",
+  "tags": [
+    "black holes",
+    "gravitational physics"
+  ],
+  "title": "A Universal Law for Horizon Formation in Black Hole Mergers",
+  "url": "https://arxiv.org/abs/2611.16168",
+  "venue": "arXiv"
+}

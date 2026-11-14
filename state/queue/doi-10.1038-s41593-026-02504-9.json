@@ -1,0 +1,44 @@
+{
+  "abstract": "Abstract Autism spectrum disorder (ASD) is a highly heritable condition with diverse clinical presentations. Approximately 15% of the genetic susceptibility of ASD is imparted by de novo haploinsufficient mutations of major effect. We mapped enhancers of two high-confidence autism genes, CHD8 and SCN2A , and used CRISPR-based gene activation targeting enhancers (eCRISPR-A) in human pluripotent stem cell (hPSC)-derived excitatory neurons and cerebral forebrain organoids to correct the effects of haploinsufficiency, taking advantage of the presence of a wild-type allele of each gene and endogenous gene regulation. Here we show that eCRISPR-A induced a sustained increase in CHD8 and SCN2A expression specifically in mutant neurons and cortical organoids, with rescue of gene expression levels and mutation-associated phenotypes, including gene expression and physiology. These data support gene activation via targeting enhancers of haploinsufficient genes as a therapeutic intervention in ASD and other neurodevelopmental disorders.",
+  "arxiv_id": null,
+  "authors": [
+    "George T. Chen",
+    "Gayatri Nair",
+    "Aubrey J. Osorio",
+    "Sandra M. Holley",
+    "Kimiya Ghassemzadeh",
+    "Yixuan Zhou",
+    "Jose Gonzalez",
+    "Jacqueline M. Martin",
+    "Congyi Lu",
+    "Neville E. Sanjana",
+    "Carlos Cepeda",
+    "Daniel H. Geschwind"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41593-026-02504-9",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Boosting enhancers restored autism-gene activity in human neurons and brain organoids",
+  "id": "doi-10.1038-s41593-026-02504-9",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "CRISPR activation aimed at enhancers raised CHD8 and SCN2A expression only in mutant cells, rescuing gene expression and physiology in stem-cell neurons and cortical organoids. It works by turning up the healthy copy of each gene. Evidence is from lab-grown cells, not animals or patients.",
+  "tags": [
+    "autism",
+    "gene therapy",
+    "crispr"
+  ],
+  "title": "Enhancer-targeted CRISPR-A rescues haploinsufficiency and mutant phenotypes in organoid models of autism",
+  "url": "https://doi.org/10.1038/s41593-026-02504-9",
+  "venue": "Nature Neuroscience"
+}

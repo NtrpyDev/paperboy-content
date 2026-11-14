@@ -1,0 +1,53 @@
+{
+  "abstract": "Tissue morphogenesis and postdevelopmental homeostasis rely on efficient information exchange between communicating cells. Cytonemes are actin-based protrusions that contribute to precise information flow by facilitating contact-mediated directional transport of diverse signaling cargoes. How pathway-specific cytonemes are formed is poorly understood, as are the molecular mechanisms promoting actin organization for elongation and stability of the dynamic cellular extensions. We investigated biogenesis of Sonic Hedgehog (SHH) cytonemes, revealing functional repurposing of cell adhesion molecule-related proteins Brother of CDON (BOC) and Cell adhesion molecule-related, Down-regulated by Oncogenes (CDON) into recruiters of actin regulators FARP1 and Cdc42 for cytoneme elongation. Loss of BOC and CDON function blunts protrusion-localized Cdc42 activity, reducing cytoneme lengths and occurrence in SHH-expressing cells. Live imaging of developing murine spinal cords reveals that CDON loss in SHH-expressing cells reduces the frequency of neuroepithelial cytonemes and alters neuronal cell fate specification. These results inform a model whereby SHH-binding proteins promote ligand transport through stimulating formation of long cytonemes.",
+  "arxiv_id": null,
+  "authors": [
+    "Christina A Daly",
+    "Miriam E Dillard",
+    "Eric T Hall",
+    "Alfonso Lavado",
+    "Jonathon Klein",
+    "Jinbin Zhai",
+    "Shondra M Pruett-Miller",
+    "Vishwajeeth R Pagala",
+    "Anthony A High",
+    "Alexandre F Carisey",
+    "Christopher C Hom",
+    "Nikki Koehler",
+    "Stacey K Ogden"
+  ],
+  "categories": [
+    "Animals",
+    "Mice",
+    "Actins",
+    "Immunoglobulin G",
+    "Cell Adhesion Molecules",
+    "Receptors, Cell Surface",
+    "Signal Transduction",
+    "Hedgehog Proteins"
+  ],
+  "doi": "10.1126/sciadv.aei4501",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "BOC and CDON proteins recruit actin regulators to grow the long cell protrusions that carry Sonic Hedgehog.",
+  "id": "doi-10.1126-sciadv.aei4501",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Cell adhesion proteins BOC and CDON pull in the actin regulators FARP1 and Cdc42, which lengthens the thin protrusions called cytonemes that move Sonic Hedgehog between cells. Losing CDON in mouse spinal cord reduced cytoneme frequency and shifted neuron fate. Much of the mechanism comes from cultured cells, so how fully it holds in tissue is less certain.",
+  "tags": [
+    "cell signaling",
+    "cytonemes"
+  ],
+  "title": "Cell adhesion molecule-related proteins signal to promote cytoneme elongation from Sonic Hedgehog-producing cells.",
+  "url": "https://doi.org/10.1126/sciadv.aei4501",
+  "venue": "Science Advances"
+}

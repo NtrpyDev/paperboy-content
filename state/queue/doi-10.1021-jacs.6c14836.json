@@ -1,0 +1,41 @@
+{
+  "abstract": "Abstract Lipids are essential for membrane structure, signaling, and stress adaptation. Their diverse biological roles are largely dictated by the presence of C═C bonds in unsaturated fatty acids (FAs), which vary in both position and geometry. However, unambiguous characterization and in situ mapping of these two structural features have remained longstanding analytical challenges. Here, we present a stereochemistry-preserved chemical derivatization strategy coupled with trapped ion mobility spectrometry-tandem MS (TIMS-MS/MS), enabling complete resolution of both FA C═C bond position and geometry within a single workflow. This approach facilitates rapid and quantitative profiling of dynamic cis–trans isomerization in bacteria under diverse stress conditions and, notably, reveals a previously unrecognized dose-dependent antibiotic adaptation mechanism in Pseudomonas aeruginosa, a multidrug-resistant pathogen. To translate this strategy to spatially resolved analyses, we developed an in situ derivatization workflow for mass spectrometry imaging, which uncovers the spatial heterogeneity of FA isomers in proximally cocultured, clinically relevant polymicrobial pathogens. These findings highlight colony-specific spatial dynamics of cis and trans lipid isomers and suggest lipid-mediated metabolic interactions between co-occurring microbial species. Together, this integrated platform enables both quantitative and spatial interrogation of lipid isomerization, providing new opportunities to systematically investigate its roles in microbial physiology, pathogenesis, and beyond.",
+  "arxiv_id": null,
+  "authors": [
+    "Zhijun Zhu",
+    "Shuling Xu",
+    "William J. Heelan",
+    "Penghsuan Huang",
+    "Hua Zhang",
+    "Gaoyuan Lu",
+    "Amy B. Banta",
+    "Jason M. Peters",
+    "Lingjun Li"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c14836",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A mass spectrometry method tells fatty acid double-bond position and geometry apart in bacteria.",
+  "hook_turn": "in bacteria.",
+  "id": "doi-10.1021-jacs.6c14836",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "A chemical tagging step that keeps stereochemistry, paired with ion mobility mass spectrometry, resolves both features of fatty acid double bonds. It showed Pseudomonas aeruginosa shifting cis and trans forms with antibiotic dose and mapped isomers across cocultured colonies. The metabolic interaction claims are suggestive.",
+  "tags": [
+    "lipidomics",
+    "mass spectrometry"
+  ],
+  "title": "Anti -Dihydroxylation-Enabled Dual-Resolution Profiling and Imaging of Fatty Acid C═C Bond Isomers",
+  "url": "https://doi.org/10.1021/jacs.6c14836",
+  "venue": "Journal of the American Chemical Society"
+}

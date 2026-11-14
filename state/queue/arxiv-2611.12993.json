@@ -1,0 +1,39 @@
+{
+  "abstract": "We prove that for arbitrary two-qutrit quantum states, the semidefinite programming lower-bound hierarchy for the PPT entanglement cost terminates at the second level. Therefore, under operations preserving positive partial transpose, its zero-error asymptotic entanglement cost can be obtained by a semidefinite program involving only three Hermitian matrix variables. The key to the proof is to shorten the feasible dual chain by one level; to this end, we combine finite certificates verified by exact rational arithmetic with analytic estimates near the boundary of the parameter domain. This result shows that a unified terminating level exists for two-qutrit systems, whereas no unified terminating level exists for all dimensions.",
+  "arxiv_id": "2611.12993",
+  "authors": [
+    "Wei Song",
+    "Xiao-Lan Zong",
+    "Ming Yang"
+  ],
+  "categories": [
+    "quant-ph",
+    "math-ph",
+    "math.MP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.12993"
+  },
+  "hook": "Two-qutrit entanglement cost needs only a small semidefinite program, since its hierarchy ends at level two.",
+  "hook_turn": "since its hierarchy ends at level two.",
+  "id": "arxiv-2611.12993",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-08",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For pairs of three-level quantum systems, the chain of lower bounds on entanglement cost under PPT operations stops improving at the second level. The proof combines exact rational-arithmetic checks with analytic estimates near the edge of the parameter space. It holds only for two qutrits; other dimensions have no common stopping level.",
+  "tags": [
+    "entanglement",
+    "quantum information"
+  ],
+  "title": "Second-level termination of the PPT entanglement-cost hierarchy for two qutrits",
+  "url": "https://arxiv.org/abs/2611.12993",
+  "venue": "arXiv"
+}

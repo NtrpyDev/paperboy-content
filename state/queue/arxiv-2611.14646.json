@@ -1,0 +1,61 @@
+{
+  "abstract": "$\\beta$ Pictoris is a nearby (19.7 pc), young ($\\sim$ 24 Myr), bright ($V = 3.85$) planetary system hosting three directly imaged planets. Previous high-resolution spectroscopy of $\\beta$ Pic b has detected H$_2$O and CO, but not CH$_4$ or NH$_3$. Combining observations across a broad wavelength range has been shown to maximise sensitivity to such weak molecular signals. We searched for previously undetected molecular species in the atmosphere of $\\beta$ Pic b using high-resolution near-infrared spectra. We combined 44 CRIRES+ spectral settings covering the H, K, L, and M bands and cross-correlated the extracted planetary spectra with molecular templates. For species with uncertain detectability, we weighted the observations by their molecular information content and data quality, independent of the measured candidate-species cross-correlation functions. We recover H$_2$O and CO at cross-correlation S/N values of approximately 200 and 50, respectively. We additionally identify tentative CH$_4$ and NH$_3$ signals near the expected radial velocity of $\\beta$ Pic b, with S/N values of approximately 5.3 and 5.7. Equivalent extractions at the same projected separation on the opposite side of the star show no comparable peaks. We classify the CH$_4$ and NH$_3$ signals as tentative because their cross-correlation S/N values do not fully account for possible residual systematics. If confirmed, these would be the first detections of both species in the atmosphere of $\\beta$ Pic b.",
+  "arxiv_id": "2611.14646",
+  "authors": [
+    "A. Barone",
+    "M. Janson",
+    "A. Brandeker",
+    "T. Stolker",
+    "A. Vigan",
+    "K. Hoy",
+    "P. Molliere",
+    "A. Denis",
+    "H. Anwand-Heerwart",
+    "Y. Charles",
+    "J. C. Costes",
+    "A. Costille",
+    "M. El Morsy",
+    "J. Garcia",
+    "M. Houll\\'e",
+    "M. Lopez",
+    "G. Murray",
+    "E. Muslimov",
+    "G. P. P. L. Otten",
+    "J. Paufique",
+    "M. Phillips",
+    "U. Seemann",
+    "A. Viret",
+    "G. Zins"
+  ],
+  "categories": [
+    "astro-ph.EP"
+  ],
+  "doi": "10.1051/0004-6361/202663736",
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14646"
+  },
+  "hook": "Methane and ammonia are tentatively detected in the atmosphere of the young planet beta Pictoris b.",
+  "id": "arxiv-2611.14646",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Tentative CH4 signal-to-noise ratio",
+    "value": "~5.3"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Earlier spectra of this directly imaged planet showed only water and carbon monoxide. By combining 44 CRIRES+ settings and weighting them by how informative they are for each molecule, the authors found faint methane and ammonia signals, and none at the mirrored position across the star. The authors call both tentative because leftover instrument systematics could still produce signals this size.",
+  "tags": [
+    "exoplanets",
+    "atmospheres"
+  ],
+  "title": "Signatures of CH$_4$ and NH$_3$ in the atmosphere of $\\beta$ Pictoris b",
+  "url": "https://arxiv.org/abs/2611.14646",
+  "venue": "arXiv"
+}

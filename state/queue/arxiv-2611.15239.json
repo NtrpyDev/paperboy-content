@@ -1,0 +1,37 @@
+{
+  "abstract": "Understanding boundary-layer detachment and its consequences for the infinite-Reynolds-number limit remains a major challenge in fluid mechanics. Here, direct numerical simulations of incompressible flow in a two-dimensional periodic channel with no-slip walls are used to investigate this problem. Reynolds-number-dependent initial conditions are constructed with a boundary layer of Prandtl thickness that converge in the energy norm to an analytic, stationary Euler flow, while the associated Prandtl system develops a finite-time singularity. Highly resolved simulations show boundary-layer detachment and departures from Prandtl scaling, yet provide numerical evidence that the Navier--Stokes solutions continue to converge to the Euler flow over the simulated time interval. In particular, the squared energy norm of the velocity difference and the time-averaged energy dissipation both scale approximately as $Re^{-1/2}$, consistently with established convergence criteria. Although the detached vortices become more numerous and intense as the Reynolds number increases, their characteristic size and occupied area appear to decrease. These observations suggest how boundary-layer detachment and the breakdown of the Prandtl description can coexist with convergence to a smooth Euler flow.",
+  "arxiv_id": "2611.15239",
+  "authors": [
+    "Ciro S. Campolina",
+    "J\\'er\\'emie Bec"
+  ],
+  "categories": [
+    "physics.flu-dyn",
+    "math.AP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15239"
+  },
+  "hook": "Boundary layers detach in simulation, yet the flow still converges to the ideal Euler solution.",
+  "hook_turn": "yet the flow still converges to the ideal Euler solution.",
+  "id": "arxiv-2611.15239",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Simulations of flow in a 2D channel start from a boundary layer whose Prandtl equations are known to blow up in finite time. The detached vortices grow stronger and more numerous as the Reynolds number rises, but the flow still approaches a smooth Euler flow, with energy differences scaling roughly as Re^(-1/2). This is numerical evidence over a limited time interval in two dimensions, not a proof.",
+  "tags": [
+    "fluid dynamics",
+    "boundary layers"
+  ],
+  "title": "Boundary-layer detachment and infinite-Reynolds limit of two-dimensional wall-bounded flows",
+  "url": "https://arxiv.org/abs/2611.15239",
+  "venue": "arXiv"
+}

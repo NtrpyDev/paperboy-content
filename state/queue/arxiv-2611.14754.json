@@ -1,0 +1,36 @@
+{
+  "abstract": "A chess queen in $d$-dimensions can move any distance in the direction of any edge or diagonal of the $d$-dimensional hypercube. (That is, a queen can move from a position $x$ to $x+cv$ for any $c$ and any nonzero $v\\in\\{-1,0,1\\}^d$.) We prove that one can place $n^{d-1}$ non-attacking queens on the $d$-dimensional modular board $(\\mathbb Z/n\\mathbb Z)^d$ if and only if all prime factors of $n$ exceed $2^d$. The $d=3$ case of this result is a conjecture of van Rees from 1981. Our proof involves both human ideas and substantial AI assistance.",
+  "arxiv_id": "2611.14754",
+  "authors": [
+    "Zachary Halberstam",
+    "Mitchell Lee",
+    "Carl Schildkraut"
+  ],
+  "categories": [
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14754"
+  },
+  "hook": "Non-attacking queens fill a d-dimensional modular board exactly when n's prime factors exceed 2^d.",
+  "id": "arxiv-2611.14754",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper proves that n^(d-1) queens can sit on the d-dimensional modular board with none attacking if and only if every prime factor of n exceeds 2^d. This settles a 1981 conjecture of van Rees for d=3. The proof combines human ideas with substantial AI assistance, which readers may want to weigh when checking it.",
+  "tags": [
+    "combinatorics",
+    "n-queens"
+  ],
+  "title": "Modular $n$-queens in higher dimensions",
+  "url": "https://arxiv.org/abs/2611.14754",
+  "venue": "arXiv"
+}

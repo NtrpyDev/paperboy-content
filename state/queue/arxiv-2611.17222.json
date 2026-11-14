@@ -1,0 +1,46 @@
+{
+  "abstract": "The optical excitation of circular phonons has opened up non-equilibrium phenomena with no equilibrium counterparts, ranging from the generation of synthetic magnetic fields to the control of topological order or the manipulation of ferroaxial states. In this area, significant controversy has arisen on whether sizeable \"true\" magnetizations accompany circular phonons. Several confounding factors cloud the interpretation of the experiments, which are based on probing polarization rotation in the driven material. These range from the interpretation of the Faraday effect in non-equilibrium conditions to spurious nonlinear optical contributions in pump probe experiments. Here we resolve these ambiguities by measuring both polarization rotation inside the driven material and the stray magnetic field generated outside it with a proximate Faraday detector. For a 5 MV/cm mid-infrared drive, we observe a colossal polarization rotation inside a driven SiC crystal, similar to what was reported in previous work. Depending on the assumptions made, this could correspond to magnetizations as high as $\\mu_0 M = 0.3 T$ or as low as 4 $\\mu T$. However, when measuring the magnetic stray field outside the driven sample we unambiguously determine that the magnetization in SiC is negligibly small ($\\mu_0 M \\lt 0.001 T$).",
+  "arxiv_id": "2611.17222",
+  "authors": [
+    "C-C. Wu",
+    "M. Buzzi",
+    "A. Iudica",
+    "R. Romero III",
+    "G. De Vecchi",
+    "R. Merlin",
+    "A. Cavalleri"
+  ],
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17222"
+  },
+  "hook": "Circular phonons in SiC make almost no magnetization, despite a colossal optical polarization rotation",
+  "hook_turn": "despite a colossal optical polarization rotation",
+  "id": "arxiv-2611.17222",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Magnetization bound in driven SiC",
+    "unit": "T",
+    "value": "<0.001"
+  },
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Light rotation inside driven SiC had suggested a large magnetization, from 4 microtesla to 0.3 T depending on assumptions. A magnetic detector placed outside the crystal measured the stray field directly and found the magnetization below 0.001 T. The result is for one material and one drive strength.",
+  "tags": [
+    "phonons",
+    "magnetization"
+  ],
+  "title": "Circular phonons generate negligible magnetization in insulators",
+  "url": "https://arxiv.org/abs/2611.17222",
+  "venue": "arXiv"
+}

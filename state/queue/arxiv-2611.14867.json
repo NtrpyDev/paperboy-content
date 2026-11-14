@@ -1,0 +1,36 @@
+{
+  "abstract": "OpenAI proved that a compact set $E\\subset{\\mathbb R}^d$ of Hausdorff dimension greater than $\\frac{d}{2}$ determines a set of Euclidean distances of positive length. We give a complete proof of this theorem which follows the overall architecture of the OpenAI argument, from the construction of the initial pair measures to the final Fourier estimate, but which modifies that argument substantially at the points where the geometric costs are paid and where the estimates are reassembled. The reductions are organized by the descent and chaining viewpoint of Burstein, Iosevich, and Krause: one potential, built from two separated depths together with a penalty for insufficient separation, pays for every reduction on every interval of scales, the terminal intervals included, and a finite-record chaining lemma keeps the fixed power losses attached to the few reductions which incur them. In odd dimensions the radial improvement is obtained directly at each finite scale from a quantitative contact interval, chosen by minimizing a mass curve against lines of two slopes, with explicit margins in place of a compactness argument, and the conditional estimates on the three parts of that interval are multiplied by a lemma on full source fibers. A random sign identity represents the coarse pair filter by products of endpoint multipliers and reduces the cost of reassembling the spatial pieces inside the shell estimate. The argument gives more than positive length. Since the mass first excluded near heavy hyperplanes at each late scale is summable with a power rate, all the Fourier estimates compare with one fixed measure, and the distance set supports a probability measure with an $L^p$ density for some $p>1$ and with power Fourier decay, so that $\\Delta(E)$ has positive Fourier dimension.",
+  "arxiv_id": "2611.14867",
+  "authors": [
+    "Will Burstein",
+    "Alex Iosevich",
+    "Alexia Yavicoli"
+  ],
+  "categories": [
+    "math.CA"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14867"
+  },
+  "hook": "Any set of dimension above d/2 has a distance set of positive length, a full proof of Falconer's problem.",
+  "id": "arxiv-2611.14867",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 8,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "This paper gives a complete proof that a compact set in d dimensions with Hausdorff dimension above d/2 determines a distance set of positive length, following an argument first announced by OpenAI. It also shows the distance set has positive Fourier dimension. It is a new preprint, not yet refereed.",
+  "tags": [
+    "Falconer conjecture",
+    "harmonic analysis"
+  ],
+  "title": "Falconer's conjecture through descent and chaining",
+  "url": "https://arxiv.org/abs/2611.14867",
+  "venue": "arXiv"
+}

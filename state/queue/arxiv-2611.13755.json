@@ -1,0 +1,56 @@
+{
+  "abstract": "Quantum hardware can provide feedback for training circuit generators beyond the reach of exact classical simulation. We train generative quantum eigensolver (GQE) policies, transformers conditioned on molecular descriptors, to generate the state-preparation circuits for sample-based quantum diagonalization (SQD). Training runs first on a noiseless simulator and then with the IBM Heron processor ibm_kobe inside the loop, at 46 and 70 qubits ($1.2 \\times 10^8$ shots for the four main training runs). A classical CCSD(T) reference energy of the training molecules enters only an admission gate and two auxiliary reward terms. During hardware training, a reward penalty prevents collapse to circuits that sample only the Hartree-Fock determinant. Policies trained on transition-metal complexes are applied without retraining to Sn(OH)$_3$-Me and its hydrates, minimal models of organotin photoresists for extreme-ultraviolet lithography, from 32 to 70 qubits. After one round of hardware sampling, followed by classical ranking and recovery of the cached counts with the molecular Hamiltonian and no further QPU calls, 27 of 28 runs at 46-70 qubits are within 15 mHa of the density-matrix renormalization group (DMRG) reference (median 4.5 mHa), and in all eight runs with an untrained control the trained policy is more accurate. At 56-70 qubits the selected circuits use 34-72 times fewer two-qubit gates than the local unitary cluster Jastrow (LUCJ) circuit transpiled for the same device. These results demonstrate that circuit generators can be trained with quantum hardware at 70 qubits.",
+  "arxiv_id": "2611.13755",
+  "authors": [
+    "Kunal Kumar",
+    "Kimberlee Keithley",
+    "Toshiya Iwamori",
+    "Shu Kanno",
+    "Ikko Hamamura",
+    "Takao Kobayashi",
+    "Akira Koseki",
+    "Qi Gao",
+    "Naoki Yamamoto",
+    "Hiroshi Horii",
+    "Yuri Kobayashi",
+    "Borja Peropadre",
+    "Kouhei Nakaji",
+    "Toru Imai",
+    "Takayuki Osogami"
+  ],
+  "categories": [
+    "quant-ph",
+    "cs.AI",
+    "physics.chem-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13755"
+  },
+  "hook": "A quantum chip trained a circuit generator at 70 qubits, and 27 of 28 runs landed near the reference energy.",
+  "hook_turn": "27 of 28 runs landed near the reference energy.",
+  "id": "arxiv-2611.13755",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Median error versus DMRG reference",
+    "unit": "mHa",
+    "value": "4.5"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Transformer models learned to propose quantum circuits for chemistry while an IBM Heron processor gave feedback during training. After one round of hardware sampling, 27 of 28 runs on organotin models were within 15 mHa of a DMRG reference. The test molecules are small models and the comparison is to a classical approximation, not to an exact answer or a clear quantum advantage.",
+  "tags": [
+    "quantum computing",
+    "quantum chemistry"
+  ],
+  "title": "A Hardware-Trained Generative Quantum Eigensolver for Sample-Based Quantum Diagonalization of Organotin Hydroxides up to 70 Qubits",
+  "url": "https://arxiv.org/abs/2611.13755",
+  "venue": "arXiv"
+}

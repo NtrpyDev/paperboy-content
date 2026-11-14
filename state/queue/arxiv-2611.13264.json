@@ -1,0 +1,52 @@
+{
+  "abstract": "Interlayer excitons (IXs) combine spatially separated electron and hole wavefunctions with electrically tunable dipole moments, but their reduced wavefunction overlap generally limits optical emission, particularly for high-energy states. Here we report a bright, spectrally narrow high-energy interlayer exciton (h-IX) near 2.23 eV in few-layer WSe2 and investigate how its optical activity evolves with layer number and sliding-ferroelectric polarization. In pristine 2H-WSe2, we observe thickness-dependent brightening of high-energy exciton emission. GW-BSE calculations reveal mixed intralayer and interlayer configurations with enhanced optical weight, suggesting that multilayer hybridization contributes to the observed brightening. In parallel-stacked 3L/3L WSe2 containing a sliding-ferroelectric interface, the h-IX exhibits polarization-dependent energies and Stark responses that distinguish Pup and Pdown domains. Electric-field-driven domain-wall motion produces hysteretic transfer of spectral weight between the two h-IX branches, enabling optical tracking of ferroelectric switching. These results establish multilayer hybridization as a route to optically active high-energy interlayer excitons and sliding ferroelectricity as a complementary degree of freedom for controlling their energy, dipole and emission.",
+  "arxiv_id": "2611.13264",
+  "authors": [
+    "Youngki Yeo",
+    "Idan Kizel",
+    "Dror Hershkovitz",
+    "Omri Meron",
+    "Iva Plutnarova",
+    "Zdenek Sofer",
+    "Watanabe Kenji",
+    "Takashi Taniguchi",
+    "Elad Katash",
+    "Dan Oron",
+    "Haim Suchowski",
+    "Jing-Yang You",
+    "Moshe Ben Shalom"
+  ],
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13264"
+  },
+  "hook": "Few-layer WSe2 hosts a bright high-energy interlayer exciton whose energy flips with ferroelectric domain.",
+  "hook_turn": "whose energy flips with ferroelectric domain.",
+  "id": "arxiv-2611.13264",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Energy of the bright interlayer exciton in WSe2",
+    "unit": "eV",
+    "value": "~2.23"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Optical spectra of few-layer WSe2 show a narrow emission line that brightens with layer number, which GW-BSE calculations tie to mixed intralayer and interlayer states. In 3L/3L stacks, sliding ferroelectric polarization shifts its energy, so emission tracks domain-wall switching. Results come from a few device types, and the brightening explanation rests partly on calculation.",
+  "tags": [
+    "excitons",
+    "2D materials"
+  ],
+  "title": "Hybridization-brightened interlayer excitons in multilayer WSe2 controlled by sliding ferroelectricity",
+  "url": "https://arxiv.org/abs/2611.13264",
+  "venue": "arXiv"
+}

@@ -1,0 +1,36 @@
+{
+  "abstract": "Far-field optical imaging inevitably involves low-pass spatial filtering, limiting the resolution. Moreover, conventional imaging suppresses high spatial frequency components close to the cutoff, making them invisible under noise-particularly the shot noise arising from discrete and random nature of quantum light. Here, we propose and implement a method for reducing the effect of this noise by optically preprocessing the incoming light before detection, thereby optimizing the quantum measurement performed on it. Our scheme, termed Fourier domain division (FDD), partitions the Fourier plane into multiple regions for independent detection and subsequent post-processing for image reconstruction. By analyzing the quantum and classical Fisher information, we show that our method is advantageous with respect to direct imaging for high spatial-frequency components. As a result, the number of photons required to achieve a certain signal-to-noise ratio in the Fourier domain is reduced, thus enhancing the overall resolution in the photon-starved regime. We demonstrate our method in microscopy, achieving fivefold improvement of Fisher information on high spatial frequency components. Unlike active super-resolution methods, FDD is passive, making it broadly applicable in microscopy and other imaging scenarios, where active illumination is impractical, including astronomy and remote sensing, in the photon-starved regime. Our work establishes a general strategy for designing quantum optimized superresolution imaging systems, bridging fundamental quantum limits, practical image analysis, and computer vision applications.",
+  "arxiv_id": null,
+  "authors": [
+    "Li Gong",
+    "Aonan Zhang",
+    "Madhura Ghosh Dastidar",
+    "Alexander Duplinskii",
+    "A I Lvovsky"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aei1896",
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Splitting light in the Fourier plane before detection gives fivefold more information on fine image detail.",
+  "id": "doi-10.1126-sciadv.aei1896",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Dividing the Fourier plane into regions that are detected separately, then recombining them, lowers the photons needed to see fine detail in dim scenes. A microscopy demonstration gave a fivefold gain in Fisher information at high spatial frequencies. The method is passive, but the gain is shown for specific test imaging setups, not general scenes.",
+  "tags": [
+    "quantum imaging",
+    "superresolution"
+  ],
+  "title": "Passive imaging with quantum advantage.",
+  "url": "https://doi.org/10.1126/sciadv.aei1896",
+  "venue": "Science Advances"
+}

@@ -1,0 +1,36 @@
+{
+  "abstract": "The Erd\\H os similarity conjecture says that for every infinite set $A \\subset \\mathbb{R}$, there exists a set $E$ of positive Lebesgue measure which does not contain any affine copy of $x + tA$ of $A$ (with $t \\neq 0$). Kolountzakis proved that for every infinite $A$, there exists $E$ of positive Lebesgue measure so that the exceptional sets $D_E(A)$ of scales $t$, and $\\mathcal E_E(A)$ of affine maps $(x,t)$, for which $x+tA\\subseteq E$, are both Lebesgue null. We show that these exceptional parameter sets are small in two finer senses. First, given any countable family of Fourier decay rates, a single $E$ can be constructed so that $D_E(A)$ is null with respect to every measure whose Fourier transform decays at one of these rates. Consequently, there are compact sets $K$ of measure arbitrarily close to $1$ for which $D_K(A)$ and $\\mathcal E_K(A)$ have modified Fourier dimension zero. Second, we give a criterion, depending both on the growth of a gauge function $h$ and on the gaps between elements of lacunary sequences in $A$, which guarantees that $\\mathcal H^h(D_E(A))=0$ for gauges with $h(u)/u\\to\\infty$, as well as a similar result for $\\mathcal E_K(A)$. For sets such as $A = \\{1/n!\\}$ and $A = \\{e^{-n^q}\\}$, this yields explicit gauges of the form $h(u) = u\\exp((\\log 1/u)^\\theta)$ with $0 < \\theta < 1$.",
+  "arxiv_id": "2611.15734",
+  "authors": [
+    "Neeraja Kulkarni",
+    "Natalia Mora Cu\\'ellar"
+  ],
+  "categories": [
+    "math.CA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15734"
+  },
+  "hook": "Scales at which a large set contains copies of an infinite set are shown to be very small.",
+  "hook_turn": "are shown to be very small.",
+  "id": "arxiv-2611.15734",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For the Erdos similarity problem, the authors show that for any infinite set a positive-measure set can be built whose exceptional scales have Fourier dimension zero and small Hausdorff gauge measure. They use constructions based on Fourier decay and lacunary sequences. The conjecture itself stays open.",
+  "tags": [
+    "harmonic analysis",
+    "Erdos similarity"
+  ],
+  "title": "Exceptional parameters in the Erd\\H{o}s similarity problem",
+  "url": "https://arxiv.org/abs/2611.15734",
+  "venue": "arXiv"
+}

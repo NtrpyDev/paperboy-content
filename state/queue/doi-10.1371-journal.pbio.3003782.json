@@ -1,0 +1,36 @@
+{
+  "abstract": "Neural tracking of slow temporal modulations in speech supports extraction of the prosodic and syllabic structure thought to be critical for language acquisition by Temporal Sampling (TS) theory, yet whether these automatic cortical tracking mechanisms are altered in children with developmental language disorder (DLD) remains unclear. We recorded MEG while children with and without DLD listened to a story, and quantified source-level lagged speech-brain coherence and frequency-specific cortical functional connectivity across bilateral cortical regions. As expected a priori by TS theory, children with DLD showed significantly reduced coherence in the 0.9–2.5 Hz range associated with prosodic information in the story, spanning bilateral auditory and speech-related cortex. The strongest regional group differences were in left supramarginal gyrus ( p < 0.001) and right inferior frontal gyrus ( p = 0.001). In the 2.5–5 Hz range, linked to syllabic-rate modulations in the story, children with DLD showed reduced coherence in right temporal regions (all p < 0.02). Stronger low-frequency speech-brain coherence was associated with better language performance, indicating that individual differences in cortical speech tracking were behaviourally meaningful. No reliable differences were observed at higher modulation rates (5–9 Hz or 12–40 Hz). Exploratory functional connectivity analyses did not reveal network-level group differences that were robust across ROI time-series extraction methods. These findings indicate that atypical low-frequency neural tracking of speech is functionally relevant to language outcomes in DLD.",
+  "arxiv_id": null,
+  "authors": [
+    "Mahmoud Keshavarzi",
+    "Georgia Feltham",
+    "Susan Richards",
+    "Lyla Parvez",
+    "Usha Goswami"
+  ],
+  "categories": [],
+  "doi": "10.1371/journal.pbio.3003782",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Children with language disorder show weaker brain tracking of slow speech rhythms.",
+  "id": "doi-10.1371-journal.pbio.3003782",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Children with developmental language disorder followed the slow rhythms of a spoken story less closely in the brain than other children, mainly at 0.9 to 2.5 Hz. The team recorded MEG while children listened and measured coherence between speech and cortical activity. Stronger tracking went with better language scores, but this is a correlation and says nothing about whether weak tracking causes the disorder.",
+  "tags": [
+    "language disorder",
+    "speech perception"
+  ],
+  "title": "Children with developmental language disorder show selective impairments in low-frequency neural tracking of speech",
+  "url": "https://doi.org/10.1371/journal.pbio.3003782",
+  "venue": "PLOS Biology"
+}

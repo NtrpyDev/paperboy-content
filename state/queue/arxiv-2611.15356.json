@@ -1,0 +1,37 @@
+{
+  "abstract": "Cellular timing often relies on the accumulation of a regulatory protein to a threshold. For a stable protein produced at a constant rate, the threshold alone sets timing precision: the squared coefficient of variation of the first-passage time is the inverse of the threshold number of molecules. This counting limit appears to be a fundamental constraint. However, production rates vary across the cell cycle. By solving exactly a stochastic model coupling DNA replication and protein accumulation, we show that when a gene replicates at an optimal time, precision exceeds the counting limit.",
+  "arxiv_id": "2611.15356",
+  "authors": [
+    "Juan David Marmolejo-Lozano",
+    "Nikola Popovi\\'c",
+    "Ramon Grima"
+  ],
+  "categories": [
+    "q-bio.MN"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15356"
+  },
+  "hook": "Replicating a gene at the right moment lets cells time events more precisely than molecule counting allows.",
+  "hook_turn": "more precisely than molecule counting allows.",
+  "id": "arxiv-2611.15356",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For a protein made at a constant rate, timing noise is limited by the threshold number of molecules. The authors solve exactly a stochastic model linking DNA replication to protein accumulation and show that replication at an optimal time beats this counting limit. The result is from a theoretical model, with no experimental test in the abstract.",
+  "tags": [
+    "gene expression",
+    "stochastic models"
+  ],
+  "title": "The impact of DNA replication on the timing of cellular events",
+  "url": "https://arxiv.org/abs/2611.15356",
+  "venue": "arXiv"
+}

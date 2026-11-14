@@ -1,0 +1,39 @@
+{
+  "abstract": "The most famous chemicals produced by mushrooms are the psychedelic compound psilocybin from \"magic mushrooms\" and amatoxins from deadly poisonous mushrooms.1,2,3,4,5,6,7,8,9 These compounds are known to occur in several distantly related groups of fungi but have never been shown to co-occur within a single species. Here, we show that the \"dark magic mushroom\" Galerina indica produces both psilocybin and amatoxins. Mass spectrometry revealed psilocybin and amatoxins in mushroom tissues, and genomic analyses identified corresponding biosynthetic genes. Phylogenetic analyses suggest that G. indica acquired psilocybin biosynthesis via horizontal gene transfer after amatoxin biosynthesis was already established. These findings reveal how horizontal gene transfer can combine powerful bioactive systems in a single species, potentially altering the ecological roles of both compound classes and the evolutionary fitness of the species.10,11.",
+  "arxiv_id": null,
+  "authors": [
+    "Andrew R Kunik",
+    "Michael W Christopher",
+    "Benjamin Lemmond",
+    "Bryn T M Dentinger",
+    "Jason C Slot",
+    "Timothy J Garrett",
+    "Matthew E Smith"
+  ],
+  "categories": [],
+  "doi": "10.1016/j.cub.2026.10.041",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Galerina indica mushrooms make both psilocybin and deadly amatoxins, never seen together before.",
+  "id": "doi-10.1016-j.cub.2026.10.041",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Mass spectrometry found both compound classes in tissue of the \"dark magic mushroom,\" and its genome holds the genes for each. Family-tree analysis suggests it picked up psilocybin genes by horizontal gene transfer after amatoxin production was already in place. The ecological effect of carrying both compounds is not tested.",
+  "tags": [
+    "fungi",
+    "horizontal gene transfer",
+    "psilocybin"
+  ],
+  "title": "The \"dark magic mushroom\" co-produces amatoxins and psilocybin.",
+  "url": "https://doi.org/10.1016/j.cub.2026.10.041",
+  "venue": "Current Biology"
+}

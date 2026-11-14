@@ -1,0 +1,42 @@
+{
+  "abstract": "Magnetic domain walls (DWs) are central to emerging spintronic technologies for memory, logic and neuromorphic computing, where their controlled displacement is a key functionality. While current-induced DW motion driven by spin-orbit torques is well established under direct currents, it remains unclear how radio-frequency (RF) currents couple to DWs and whether they can generate directed motion under a symmetric periodic drive. Here we show that RF currents drive DW oscillations, which can be rectified into directed motion through symmetry breaking. Using time-resolved and static magneto-optical Kerr microscopy, we demonstrate that RF spin-orbit torques efficiently excite low-frequency DW oscillations well below the ferromagnetic resonance frequency. Whereas these oscillations remain symmetric in the absence of perturbations, symmetry breaking by a transverse magnetic field produces self-propulsion, while symmetry breaking by an initial current pulse gives rise to sustained DW motion. We further show that in initially uniform magnetic states, RF-driven expansion of a pulse-generated edge domain ultimately results in efficient RF-assisted magnetic switching. Together, these results establish a general framework for understanding how RF-driven DW oscillations are rectified into directed motion, providing new opportunities for their high-frequency control.",
+  "arxiv_id": "2611.15305",
+  "authors": [
+    "Lukas Fischer",
+    "Rouven Dreyer",
+    "Simon Arnold",
+    "Jae-Chun Jeon",
+    "Georg Woltersdorf",
+    "Stuart S. P. Parkin"
+  ],
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci",
+    "physics.app-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15305"
+  },
+  "hook": "RF currents make magnetic domain walls oscillate, and breaking symmetry turns this into directed motion.",
+  "hook_turn": "breaking symmetry turns this into directed motion.",
+  "id": "arxiv-2611.15305",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Using magneto-optical Kerr microscopy, the team shows that radio-frequency spin-orbit torques make domain walls oscillate at low frequencies. A transverse magnetic field or an initial current pulse breaks the symmetry and rectifies the oscillation into net motion, and RF can also assist magnetic switching. The demonstration covers specific thin-film samples, so generality to other materials is untested.",
+  "tags": [
+    "spintronics",
+    "domain walls"
+  ],
+  "title": "Directed Domain Wall Motion by Radio-Frequency Currents",
+  "url": "https://arxiv.org/abs/2611.15305",
+  "venue": "arXiv"
+}

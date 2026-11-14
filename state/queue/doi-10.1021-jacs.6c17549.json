@@ -1,0 +1,48 @@
+{
+  "abstract": "Abstract Widespread deployment of sodium-ion batteries demands both high energy density and reliable low-temperature (LT) operation, but is constrained by a persistent trade-off between high-voltage stability (cathode/electrolyte) and LT ion-transport kinetics. Herein, we report a solvent/anion codepleted solvation engineering strategy to construct low-coordination electrolytes through competitive anion complexation mediated by a bulky electron-deficient additive, TMSB (tris(trimethylsilyl)borate). We reveal that TMSB preferentially complexes with PF6– to suppress direct anion-Na+ coordination, while its bulky steric backbone disrupts conventional ion-pair networks and restricts excessive solvent-Na+ coordination. This strategy fundamentally boosts ionic conductivity (from 2.41 to 5.34 mS cm–1) and lowers the desolvation energy barrier (from 44.82 to 33.97 kJ mol–1). Moreover, such a strategy enables a high-modulus (2.7 GPa), inorganic-rich cathode-electrolyte interphase (CEI), which can not only mitigate surface degradation, but also suppress bulk phase transitions of cathode materials. Consequently, the electrolyte demonstrates broad compatibility across diverse cathodes (NFM, NVP, and P2-NNMO) under extreme voltage (up to 4.5 V) and temperature (−40 to 25 °C) conditions. Remarkably, the scaled-up 6.8 Ah pouch cell achieves a record-high energy density of 200 Wh kg–1 at 25 °C, while maintaining 162 Wh kg–1 even at −20 °C, offering a generalizable molecular paradigm for extreme-environment energy storage.",
+  "arxiv_id": null,
+  "authors": [
+    "Xinhong Hu",
+    "Qinhao Shi",
+    "Jinyu Wan",
+    "Meiyi Zhang",
+    "Yongfeng Zhao",
+    "Zi-Feng Ma",
+    "Yang Si",
+    "Pengyan Wang",
+    "Yang Liu",
+    "Feng Huo",
+    "Yufeng Zhao"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c17549",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A borate additive lifts sodium-ion cells to 200 Wh/kg. They keep 162 Wh/kg at -20 °C.",
+  "hook_turn": "They keep 162 Wh/kg at -20 °C.",
+  "id": "doi-10.1021-jacs.6c17549",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Pouch cell energy density at 25 C",
+    "unit": "Wh/kg",
+    "value": "200"
+  },
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "An additive, tris(trimethylsilyl)borate, ties up PF6 anions and loosens how solvent surrounds sodium ions, doubling conductivity and easing ion release. Tested in several cathodes and a 6.8 Ah pouch cell from -40 to 25 °C. The record claim is the authors' own, and long-term cycle life of the pouch cell is not stated.",
+  "tags": [
+    "sodium-ion batteries",
+    "electrolytes"
+  ],
+  "title": "Solvent/Anion Codepleted Solvation Engineering Enables Low-Coordination Electrolytes for High-Energy and Low-Temperature Sodium-Ion Pouch Cells",
+  "url": "https://doi.org/10.1021/jacs.6c17549",
+  "venue": "Journal of the American Chemical Society"
+}

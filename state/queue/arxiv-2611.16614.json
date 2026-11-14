@@ -1,0 +1,38 @@
+{
+  "abstract": "Sample distance correlation can remain large between independent random walks. For centred walks with independent, identically distributed increments of finite, positive variance, we prove convergence in distribution to the distance correlation of the joint occupation measure of two independent Brownian paths. This universal limit lies strictly between zero and one almost surely and has full support on the unit interval. We calculate the expected squared distance covariance of the limiting measure and show that ordinary permutation calibration rejects independence with probability tending to one at every fixed nominal level. Gaussian simulations illustrate the persistent dispersion of random-walk correlations and the failure of permutation calibration.",
+  "arxiv_id": "2611.16614",
+  "authors": [
+    "Liping Zhu",
+    "Zhongming Xie"
+  ],
+  "categories": [
+    "math.PR",
+    "math.ST",
+    "stat.ME",
+    "stat.TH"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16614"
+  },
+  "hook": "Independent random walks show high distance correlation, so permutation tests wrongly reject independence.",
+  "id": "arxiv-2611.16614",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Distance correlation, a measure of any dependence between two series, does not shrink to zero for independent random walks. The authors prove it converges to a random limit strictly between 0 and 1, so permutation tests reject independence with probability tending to one. The proof covers centred walks with finite variance, and simulations are Gaussian.",
+  "tags": [
+    "spurious correlation",
+    "statistics"
+  ],
+  "title": "Nonsense nonlinear correlations between independent random walks",
+  "url": "https://arxiv.org/abs/2611.16614",
+  "venue": "arXiv"
+}

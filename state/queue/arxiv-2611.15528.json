@@ -1,0 +1,47 @@
+{
+  "abstract": "In the standard cosmological model, the distribution of cold dark matter (CDM) can be reshaped by baryonic processes through gravity, as gas outflows alter the central potential and transform steep cusps into nearly constant-density cores. However, such feedback-generated cores are generally expected to have sizes comparable to the visible stellar body of a galaxy. Here we report the discovery of an exceptionally extended dark matter core in a nearby gas-rich dwarf galaxy UGCA 320. We combine high-resolution MUSE H$\\alpha$ kinematics in the inner region with high-, medium-, and low-resolution MeerKAT HI observations from the MHONGOOSE survey tracing the galaxy out to large radii. After accounting for an additional non-circular kinematic component identified in the central HI spectra, we construct an extended rotation curve to constrain the dark matter distribution. The resulting rotation curve is poorly reproduced by a cuspy Navarro-Frenk-White (NFW) halo but well described by cored pseudo-isothermal (ISO) and Burkert halo models. Consistently, a fit with a generalized NFW model yields an inner density slope of $\\gamma=0.36\\pm0.12$, quantitatively supporting a shallow central density profile. The best-fit ISO model gives a dark matter core radius of $7.62\\pm0.80$ kpc, approximately four times the stellar half-light radius and substantially larger than typically found in dwarf galaxies. We investigate the main systematic uncertainties and find that the resulting core radii remain large, all lying within 3$\\sigma$ of the fiducial fit. The exceptionally large core in UGCA 320 may pose a challenge to the standard CDM paradigm. While its properties are broadly consistent with self-interacting dark matter (SIDM), they may be difficult to reconcile with warm and fuzzy dark matter models, as well as the stellar feedback-driven core formation scenario.",
+  "arxiv_id": "2611.15528",
+  "authors": [
+    "Qinwei Yuan",
+    "Yong Shi",
+    "Xin Li",
+    "Zhiyu Zhang",
+    "Zhiyuan Zheng",
+    "Qiusheng Gu",
+    "Xiaoling Yu",
+    "Fuyan Bian"
+  ],
+  "categories": [
+    "astro-ph.GA"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15528"
+  },
+  "hook": "A dwarf galaxy has a dark matter core 7.6 kpc wide, four times its stellar half-light radius.",
+  "hook_turn": "four times its stellar half-light radius.",
+  "id": "arxiv-2611.15528",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Dark matter core radius, UGCA 320",
+    "unit": "kpc",
+    "value": "7.62"
+  },
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Combining MUSE and MeerKAT gas rotation data for UGCA 320, the authors find its rotation curve fits cored halos, not a cuspy NFW halo, with an inner slope of 0.36. Such a large core is hard to explain by stellar feedback and fits self-interacting dark matter better. It is a single galaxy, and non-circular gas motions in the center add uncertainty.",
+  "tags": [
+    "dark matter",
+    "dwarf galaxies"
+  ],
+  "title": "A giant dark matter core extending far beyond the stars of a dwarf galaxy",
+  "url": "https://arxiv.org/abs/2611.15528",
+  "venue": "arXiv"
+}

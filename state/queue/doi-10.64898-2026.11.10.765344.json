@@ -1,0 +1,46 @@
+{
+  "abstract": "The bacterial flagellar motor is a rotary nanomachine that powers motility by driving the rotation of a helical filament. Most of our mechanistic understanding of this motor derives from studies of model organisms, particularly Escherichia coli and Salmonella enterica serovar Typhimurium, yet recent structural work has revealed substantial architectural diversity, raising questions about the universality of established biophysical models. Here, we present the first single-motor measurements of torque output and stator dynamics in Campylobacter jejuni, a species with a structurally elaborate motor adapted for motility in high-viscosity environments. The C.~jejuni motor generates an exceptionally high stall torque (~3600~pN{middle dot}nm) and, rather than the biphasic torque--speed relationship characteristic of model systems, exhibits an approximately linear decline in torque with increasing speed over the measured range. Time-resolved measurements reveal discrete speed changes, indicating that the stator output remains dynamic despite the presence of a scaffolded stator ring. The inferred number of active stator units averaged 11{+/-}4, below the 17-unit complement observed structurally, and showed no clear dependence on viscous load despite substantial motor-to-motor heterogeneity. Following transient collapse of the proton motive force, motor activity recovers rapidly, consistent with reversible activation of pre-associated stator units. Together, these findings reveal a distinct mode of flagellar motor operation, consistent with dynamic regulation of a preassembled stator ring rather than regulation through physical stator exchange, and show that the canonical behavior defined in model organisms is not universal.",
+  "arxiv_id": null,
+  "authors": [
+    "Hoffmann, W. H.",
+    "Leturcq, S.",
+    "Giannetti, A.",
+    "Cohen, E. J.",
+    "Beeby, M.",
+    "Pedaci, F.",
+    "Nord, A. L."
+  ],
+  "categories": [
+    "biophysics"
+  ],
+  "doi": "10.64898/2026.11.10.765344",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/12/2026.11.10.765344.source.xml"
+  },
+  "hook": "Campylobacter's flagellar motor is unusually strong and follows a different torque-speed rule than E. coli's.",
+  "hook_turn": "follows a different torque-speed rule than E. coli's.",
+  "id": "doi-10.64898-2026.11.10.765344",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Stall torque, C. jejuni motor",
+    "unit": "pN nm",
+    "value": "~3600"
+  },
+  "significance": 7,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "The authors measured torque from single C. jejuni motors and found a stall torque far above model species and a roughly linear decline with speed. Active stator count averaged 11, below the 17 seen structurally, and motors recovered quickly after the proton gradient collapsed. Limit: the stator numbers are inferred, and motors varied widely.",
+  "tags": [
+    "flagellar motor",
+    "biophysics"
+  ],
+  "title": "Torque generation and regulation in the flagellar motor of Campylobacter jejuni differ from those of model organisms",
+  "url": "https://doi.org/10.64898/2026.11.10.765344",
+  "venue": "bioRxiv"
+}

@@ -1,0 +1,49 @@
+{
+  "abstract": "Interleukin-6 (IL-6) is a pleiotropic cytokine that drives macrophage functions ranging from tissue homeostasis to inflammation, yet how STAT3 specifies these divergent outcomes remains unclear. By integrating transcriptomic and epigenomic profiling with selective STAT3 degradation, we show that STAT3 controls IL-6-induced epigenomic remodeling and restrains a latent STAT1-associated interferon program in human macrophages. Graded STAT3 chromatin recruitment scales with locus-specific H3K27ac deposition and transcriptional output across homeostatic and inflammatory programs. STAT3 degradation permits STAT1 recruitment at a subset of regulatory regions and engages a delayed amplification loop that is partially dependent on STING and type I IFN signaling. In severe COVID-19, monocytes exhibit exaggerated STAT3-associated inflammatory signatures together with attenuated STAT1-associated interferon responses, consistent with a skewed STAT3-STAT1 balance. These findings define a framework in which STAT3 calibrates IL-6-induced chromatin output while maintaining pathway fidelity by limiting STAT1 cross-talk.",
+  "arxiv_id": null,
+  "authors": [
+    "Yebin Park",
+    "Geunho Kwon",
+    "Junho Noh",
+    "Jaehyun Lee",
+    "Keunsoo Kang",
+    "Kyung-Hyun Park-Min",
+    "Kyuho Kang"
+  ],
+  "categories": [
+    "Chromatin",
+    "Macrophages",
+    "Humans",
+    "Interferon Type I",
+    "Interleukin-6",
+    "Signal Transduction",
+    "Epigenesis, Genetic",
+    "STAT1 Transcription Factor",
+    "STAT3 Transcription Factor"
+  ],
+  "doi": "10.1126/sciadv.aek8053",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Without STAT3, IL-6 switches on an interferon program in human macrophages that STAT3 normally holds back",
+  "hook_turn": "that STAT3 normally holds back",
+  "id": "doi-10.1126-sciadv.aek8053",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Degrading STAT3 let STAT1 bind regulatory regions and trigger a delayed interferon response partly dependent on STING. Chromatin and gene-expression profiling support this, and severe COVID-19 monocytes show a similar STAT3-heavy, STAT1-light imbalance. The COVID link is an association, and the main work is in cultured cells.",
+  "tags": [
+    "macrophages",
+    "STAT3"
+  ],
+  "title": "STAT3 controls IL-6-induced epigenomic remodeling and restrains a latent STAT1-associated interferon program in human macrophages.",
+  "url": "https://doi.org/10.1126/sciadv.aek8053",
+  "venue": "Science Advances"
+}

@@ -1,0 +1,38 @@
+{
+  "abstract": "Efficiently locating rare targets requires balancing the exploration of novel space with the exploitation of local vicinities. While this tradeoff is well documented in simplified environments, its behavior in realistic three-dimensional environments remains unclear. Here, we analyze intermittent Lévy walks in three dimensions and show that search efficiency becomes strongly dependent on target geometry, with volume, surface area, and elongation governing performance across the Lévy spectrum. Against this geometric complexity, the Cauchy walk ([Formula: see text]) emerges as a robust, near-optimal solution across a wide range of target geometries. Specifically, we prove that for convex targets of surface area [Formula: see text] in a domain of volume [Formula: see text], the optimal expected detection time scales as [Formula: see text], and that the Cauchy walk achieves this scaling up to polylogarithmic factors, while other Lévy strategies are suboptimal in different geometric regimes. Our findings provide a theoretical framework for biological movement patterns, including marine predator foraging and immune surveillance, and inform the design of efficient search algorithms for engineered systems such as autonomous nanoscale explorers.",
+  "arxiv_id": "2603.10655",
+  "authors": [
+    "Matteo Stromieri",
+    "Emanuele Natale",
+    "Amos Korman"
+  ],
+  "categories": [
+    "cs.DS",
+    "math.PR"
+  ],
+  "doi": "10.1073/pnas.2614625123",
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2603.10655"
+  },
+  "hook": "A Cauchy walk finds targets of nearly any 3D shape close to as fast as any search strategy can.",
+  "hook_turn": "close to as fast as any search strategy can.",
+  "id": "arxiv-2603.10655",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "The authors analyze intermittent Lévy walks in three dimensions and prove the best possible detection time for convex targets depends on volume and surface area. The Cauchy walk reaches that scaling up to polylogarithmic factors, while other Lévy walks fail in some geometries. This is a theoretical result for idealized targets, not tested on real foragers.",
+  "tags": [
+    "random walks",
+    "search algorithms"
+  ],
+  "title": "Intermittent Cauchy walks enable optimal 3D search across target shapes and sizes.",
+  "url": "https://doi.org/10.1073/pnas.2614625123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

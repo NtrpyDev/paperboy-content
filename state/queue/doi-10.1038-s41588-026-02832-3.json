@@ -1,0 +1,48 @@
+{
+  "abstract": "Germline pathogenic BRCA1 variants predispose women to breast and ovarian cancer. Despite accumulation of functional evidence, over half of reported single-nucleotide variants in BRCA1 lack a definitive clinical interpretation. Furthermore, the consistency of variant effects across cell types remains largely unexplored. Here we performed saturation genome editing (SGE) of BRCA1 in HAP1 cells to score 4,113 previously unassayed variants. Additionally, we developed an SGE assay in human mammary epithelial cells (HMECs), allowing comparison of effects across cell lines, drug treatments and genetic backgrounds. We identified 538 variants impacting gene function through distinct mechanisms. HAP1 function scores discriminate between known pathogenic and benign variants with near-perfect accuracy. Intriguingly, however, nearly half of HAP1 loss-of-function variants scored neutrally in HMECs. We show that discordantly scored variants are hypomorphic and confer intermediate cancer risk. Overall, this work demonstrates how performing SGE across cell models improves the functional interpretation of rare variants.",
+  "arxiv_id": null,
+  "authors": [
+    "Phoebe Dace",
+    "Nicole M Forrester",
+    "Maria Zanti",
+    "Laura Cubitt",
+    "Chloé Terwagne",
+    "Megan Buckley",
+    "Elke M van Veen",
+    "Thomas Stuart Wilson",
+    "Paola Scaffidi",
+    "Kyriaki Michailidou",
+    "Gregory M Findlay"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41588-026-02832-3",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Nearly half of BRCA1 variants that kill function in HAP1 cells look neutral in breast cells.",
+  "hook_turn": "look neutral in breast cells.",
+  "id": "doi-10.1038-s41588-026-02832-3",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Previously unassayed BRCA1 variants scored",
+    "unit": "variants",
+    "value": "4,113"
+  },
+  "significance": 7,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Researchers edited BRCA1 across the genome of two cell types and scored how each single-letter change affects function. HAP1 scores separated known harmful from harmless variants almost perfectly, but many loss-of-function calls vanished in mammary epithelial cells. Those discordant variants appear hypomorphic and carry intermediate cancer risk. All results come from cultured cells, not patients.",
+  "tags": [
+    "BRCA1",
+    "genome editing"
+  ],
+  "title": "Saturation genome editing of BRCA1 across cell types improves interpretation of variant pathogenicity.",
+  "url": "https://doi.org/10.1038/s41588-026-02832-3",
+  "venue": "Nature Genetics"
+}

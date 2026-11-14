@@ -1,0 +1,55 @@
+{
+  "abstract": "Super-carbon-chain compounds (SCCCs), marine long-carbon-chain polyketides featuring numerous carbon stereocenters, fall into untapped chemical space in between drug-like small molecules and biopolymers. Due to mass-material unavailability and flexible-structure complexity, the reliable stereochemical assignment of SCCCs has long remained stagnant. In this work, a modern microalgal biomass production-platform is created for pilot-scale cultivation of marine dinoflagellates to produce over 100 milligrams of minor SCCCs. The modular fragment-based identification (MFBI) approach is successfully employed to establish the relative and absolute configurations of SCCCs. As an example, 157.7 mg of a minor SCCC, named amphidiketol A, featuring a highly-flexible C76-linear carbon backbone and thirty-three carbon stereocenters, is obtained from Amphidinium sp. in our platform. Its hybrid architecture contains eleven‌ distinct modular fragments. Its relative and absolute configurations are successfully established by the MFBI approach. Collectively, an undescribed paradigm for stereochemical assignment of SCCCs is presented. Nine senescence-associated protein targets of amphidiketol A in lung cancer A549 cells are identified.",
+  "arxiv_id": null,
+  "authors": [
+    "Fen Liu",
+    "Ge Xu",
+    "Hong-Yu Chen",
+    "Ding-Ming Li",
+    "Xin-Yu Xiao",
+    "Attila Mándi",
+    "Jun Wu",
+    "Ke-Wu Zeng",
+    "Tibor Kurtán",
+    "Li Shen"
+  ],
+  "categories": [
+    "Humans",
+    "Dinoflagellida",
+    "Carbon",
+    "Biomass",
+    "Stereoisomerism",
+    "Microalgae",
+    "Polyketides"
+  ],
+  "doi": "10.1126/sciadv.ael2086",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Growing algae at pilot scale yields 157.7 mg of a giant 33-stereocenter molecule whose shape is then solved",
+  "hook_turn": "whose shape is then solved",
+  "id": "doi-10.1126-sciadv.ael2086",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Amphidiketol A isolated from Amphidinium sp.",
+    "unit": "milligrams",
+    "value": "157.7"
+  },
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "A microalgae cultivation platform supplied enough of a rare polyketide, amphidiketol A, for its 3D configuration to be assigned by a fragment-by-fragment method. The molecule has a 76-carbon chain and thirty-three stereocenters. The method has been shown on one compound, and the protein-target findings come from a single lung cancer cell line.",
+  "tags": [
+    "natural products",
+    "stereochemistry"
+  ],
+  "title": "Integrating biomass production platform and identification approach for stereochemical assignment of super-carbon-chain compounds.",
+  "url": "https://doi.org/10.1126/sciadv.ael2086",
+  "venue": "Science Advances"
+}

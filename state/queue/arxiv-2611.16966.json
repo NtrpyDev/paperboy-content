@@ -1,0 +1,37 @@
+{
+  "abstract": "We present a polynomial-time approximation scheme (PTAS) for all Boolean arity-two maximum constraint satisfaction problems (Boolean Max-2-CSP) where the constraint graph is either interval or has bounded rank-width. This class of problems includes, for example, Max-Cut, Max-DiCut, Max-2-Lin(2), and Max-2-SAT. In particular, this settles the approximability of Max-Cut on interval graphs. To achieve these results, we show the following. 1. For any $\\varepsilon > 0$, there is an $n^{\\mathcal O(r \\varepsilon^{-2})}$-time $(1 - \\varepsilon$)-approximation for Boolean Max-2-CSP on graphs of rank-width at most $r$. 2. There is a polynomial-time algorithm that, for any interval graph $G = (V, E)$ and $\\varepsilon > 0$, finds a subgraph $H = (V, F)$ of $G$ such that $|F| \\geq (1 - \\varepsilon) |E|$ and $H$ has rank-width at most $\\operatorname{poly}(\\varepsilon^{-1})$. Our techniques additionally extend to all bounded-alphabet arity-two max CSPs.",
+  "arxiv_id": "2611.16966",
+  "authors": [
+    "Ian DeHaan",
+    "Euiwoong Lee"
+  ],
+  "categories": [
+    "cs.DS"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16966"
+  },
+  "hook": "Max-Cut on interval graphs can be approximated to any accuracy in polynomial time.",
+  "hook_turn": "in polynomial time.",
+  "id": "arxiv-2611.16966",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors give a polynomial-time approximation scheme for Max-Cut, Max-2-SAT and related two-variable constraint problems when the constraint graph is an interval graph or has bounded rank-width. The key step prunes an interval graph to a nearly identical subgraph of small rank-width. Running time grows quickly with accuracy and rank-width, so this is a theoretical guarantee, not a practical solver.",
+  "tags": [
+    "approximation algorithms",
+    "max-cut",
+    "graph theory"
+  ],
+  "title": "A PTAS for Constraint Satisfaction Problems on Interval Graphs and Bounded Rank-Width Graphs",
+  "url": "https://arxiv.org/abs/2611.16966",
+  "venue": "arXiv"
+}

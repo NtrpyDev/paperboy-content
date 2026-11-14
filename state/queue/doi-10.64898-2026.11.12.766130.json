@@ -1,0 +1,45 @@
+{
+  "abstract": "TIGR-Tas system holds great promise for genome-engineering applications owing to its compact size and PAMless targeting capability. However, its low editing efficiency in mammalian cells severely limits its broader utility. Here, we engineered a highly active variant of ParTasR, termed eTasR, through structure-guided rational design of ParTasR combined with fusion to the exonuclease TREX2. eTasR increased mammalian editing efficiency from the original 4.29% to 48.94% with an average 26.52-fold increase, significantly surpassing the efficiency of SpRY, a reported version of PAM-free nuclease. More importantly, single-AAV delivery enabled efficient Hpd disruption in vivo, resulting in robust phenotypic rescue. Thus, eTasR provides a compact, PAMless and highly efficient platform for genome editing and therapeutic applications.",
+  "arxiv_id": null,
+  "authors": [
+    "Zhang, X.",
+    "Zhu, Q.",
+    "Zhang, Z.",
+    "Cao, Q.",
+    "Ma, X.",
+    "Zeng, Y.",
+    "Shang, M."
+  ],
+  "categories": [
+    "molecular biology"
+  ],
+  "doi": "10.64898/2026.11.12.766130",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/13/2026.11.12.766130.source.xml"
+  },
+  "hook": "A compact gene editor that needs no PAM sequence now edits far more cells in mammals.",
+  "id": "doi-10.64898-2026.11.12.766130",
+  "license": "other",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Top eTasR editing efficiency, mammalian cells",
+    "unit": "%",
+    "value": "48.94"
+  },
+  "significance": 6,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "TIGR-Tas editors are small and can target any DNA site, but worked poorly in mammalian cells. Structure-guided redesign plus a fused TREX2 exonuclease produced eTasR, which raised editing from 4.29% to 48.94% on average and beat SpRY. A single AAV disrupted Hpd in mice with phenotypic rescue, but off-target effects are not described.",
+  "tags": [
+    "genome editing",
+    "TIGR-Tas"
+  ],
+  "title": "Engineered Miniature ParTasR Enables Efficient PAMless Genome Editing",
+  "url": "https://doi.org/10.64898/2026.11.12.766130",
+  "venue": "bioRxiv"
+}

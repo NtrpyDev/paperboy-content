@@ -1,0 +1,51 @@
+{
+  "abstract": "Untethered microrobots could enable localized delivery, sensing, and intervention in confined biological and engineered environments. Magnetic actuation is especially attractive for such systems because it provides remote, fuel-free control, but practical magnetic microrobots remain difficult to manufacture and functionalize. High magnetic loading can interfere with polymerization and structural integrity, while integrating application-specific payloads directly into the robot body often requires the entire material formulation to be redesigned. Here, we introduce Ferrybots, programmable hydrogel microrobots that physically separate magnetic navigation from functional cargo. An automated droplet-on-demand microfluidic flow-lithography process confines high-concentration ferrofluid cores within photopolymerized poly (ethylene glycol) diacrylate (PEGDA) structures, enabling magnetic loading to be programmed through core number and spacing without uniformly dispersing magnetic particles throughout the hydrogel. The process achieved a minimum fabrication cycle time of 15 s. Ferrybots exhibited magnetic-dose-dependent translation and rotation, branched-channel steering, out-of-plane obstacle traversal, and rapid translation, with two-core robots following an external magnet at speeds up to the 9000 mm/min limit of the actuation system. Differences in magnetic loading also enabled sequential selective navigation of distinct Ferrybot populations. Using PEGDA 575 as a common interface material, independently formulated hydrogel cargo modules could subsequently be fused to preformed Ferrybots while preserving navigation. Separately, cargo modules enabled composition-dependent molecular release and oxygen-responsive sensing through 1-mm-thick skin-mimicking optical phantoms representing a broad range of skin types. By decoupling locomotion from function, Ferrybots provide a common magnetic vehicle that can be combined with interchangeable delivery, sensing, or responsive-material modules, offering a general strategy for rapidly adapting microrobots to different applications.",
+  "arxiv_id": null,
+  "authors": [
+    "Rajasenan, V.",
+    "Vernon, T.",
+    "Pradhan, R.",
+    "Goncharov, A.",
+    "Hosseini-Toudeshki, H.",
+    "Begole, A.",
+    "Ye, S.",
+    "Zou, Y.",
+    "Rajagopal, N.",
+    "Phung, T.",
+    "McShane, M.",
+    "Ozcan, A.",
+    "Di Carlo, D."
+  ],
+  "categories": [
+    "bioengineering"
+  ],
+  "doi": "10.64898/2026.11.11.763821",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/13/2026.11.11.763821.source.xml"
+  },
+  "hook": "Hydrogel microrobots keep magnetic cores apart from cargo, so one body can ferry many payloads.",
+  "id": "doi-10.64898-2026.11.11.763821",
+  "license": "cc-by-nc",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Minimum fabrication cycle time per robot",
+    "unit": "seconds",
+    "value": "15"
+  },
+  "significance": 5,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Ferrybots are hydrogel microrobots whose magnetic cores are separate from swappable cargo modules, so the steering part and the function part can be designed independently. An automated microfluidic process makes one in as little as 15 seconds, and the robots followed magnets and carried release and oxygen-sensing cargo. Tests were in channels and skin-mimicking phantoms, not living tissue. This is a preprint.",
+  "tags": [
+    "microrobots",
+    "hydrogels"
+  ],
+  "title": "Ferrybots: Programmable Hydrogel Microbots for Rapid Magnetic Navigation and Modular Function",
+  "url": "https://doi.org/10.64898/2026.11.11.763821",
+  "venue": "bioRxiv"
+}

@@ -1,0 +1,46 @@
+{
+  "abstract": "Gravitational-wave observations have opened new opportunities to study massive object events like merging binary black holes. When combined with electromagnetic counterparts, accurate localization of gravitational-wave sources could allow us to identify their host galaxies and carry out follow-up studies, such as study the environment of merging black holes and determine the Hubble constant. One of the possible methods for precise localization is strong gravitational-wave lensing. Previous studies have considered strong gravitational-wave lensing with galaxy lenses. However, galaxy clusters have yet to be investigated due to the complexity of their mass structures. Here we take the list of known cluster lenses from the Hubble Frontier Fields, simulate lensing properties of gravitational waves from their reconstructions as they would be observed by the ground-based gravitational-wave detectors. When same model family is used in simulation and localization, we find that the correct lens is identified for around 90\\% of the simulated events. We also show that the source positions within the cluster can be pinpointed at sub-arcsecond precision with an estimate on source redshift. When we marginalize over all possible lens models for the clusters, the lens identification and localizations remain valid as long as the correct lens model is contained in the available cluster lens models. However, most localization attempts fail at initialization if the correct cluster model is excluded. These tests establish a proof of concept of localization under idealized conditions, while more work is needed to understand the cluster lens modeling discrepancies and reconstruction bias to validate the approach further.",
+  "arxiv_id": "2611.16916",
+  "authors": [
+    "Brian H. Y. Cheng",
+    "Laura Uronen",
+    "Souvik Jana",
+    "Samuel Lange",
+    "Thomas E. Collett",
+    "Otto A. Hannuksela"
+  ],
+  "categories": [
+    "astro-ph.CO",
+    "gr-qc"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16916"
+  },
+  "hook": "Lensed gravitational waves could pinpoint a black hole merger behind a galaxy cluster, in simulation.",
+  "hook_turn": "in simulation.",
+  "id": "arxiv-2611.16916",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Correct lens identified, simulated events",
+    "unit": "%",
+    "value": "~90"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Using Hubble Frontier Fields cluster models, the team simulated lensed gravitational-wave events and tried to recover the lens and source position. With the right model family the correct lens was found about 90% of the time, with sub-arcsecond source positions. Most attempts fail if the true cluster model is missing from the candidates, so real clusters remain a hurdle.",
+  "tags": [
+    "gravitational lensing",
+    "gravitational waves"
+  ],
+  "title": "Localization of gravitational-wave source behind galaxy clusters by gravitational-wave lensing",
+  "url": "https://arxiv.org/abs/2611.16916",
+  "venue": "arXiv"
+}

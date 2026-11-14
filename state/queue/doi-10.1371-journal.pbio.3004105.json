@@ -1,0 +1,45 @@
+{
+  "abstract": "Pigs and chickens are not only the most important livestock species for global food production but also serve as key model organisms in various research disciplines. The pig is widely used in translational research due to its anatomical and physiological similarity to humans, providing valuable insights into immunology, metabolism, and disease mechanisms. In contrast, the chicken has become an essential model for studies related to poultry health, animal welfare, and developmental biology. Its externally developing embryo offers exceptional accessibility for experimental manipulation. Recent advances in genome editing technologies, particularly CRISPR/Cas9, have further expanded the potential of these species for functional genomic studies, although the efficient delivery of such tools remains a major challenge. Here, we overcome this delivery limitation by using virus-like particles (VLPs). We evaluated VLPs as delivery vehicles for genome engineering tools in porcine and avian cultures, two key livestock species at the human-animal interface. VLP-mediated delivery enabled efficient Cre recombination and high CRISPR/Cas9 editing rates in porcine cells, organoids, and oocytes, particularly when multiplexed. In chickens, VLPs supported robust Cre recombination and Cas9-mediated editing in cell culture, tracheal organ cultures, and in ovo. Reporter VLPs and dCas9 VLPs further demonstrated the versatility of this platform across porcine and avian systems. Together, these findings establish VLPs as an efficient and time-saving strategy for gene editing in livestock cultures across in vitro, ex vivo and in ovo systems, with potential future applications for animal health, agricultural productivity, and translational One Health research.",
+  "arxiv_id": null,
+  "authors": [
+    "Theresa M Pauli",
+    "Theresa von Heyl",
+    "Beate Rieblinger",
+    "Sabrina Teresa Schleibinger",
+    "Wei Liang",
+    "Antonia Schmauser",
+    "Mithuoshni Arullmoli",
+    "Paul Derrer",
+    "Anika Eckstein",
+    "Sirradu Jagana",
+    "Camila Gatti Corrêa",
+    "Krzysztof Flisikowski",
+    "Tatiana Flisikowska",
+    "Benjamin Schusser"
+  ],
+  "categories": [],
+  "doi": "10.1371/journal.pbio.3004105",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Virus-like particles delivered gene editors into pig and chicken cells, organoids, oocytes and eggs.",
+  "id": "doi-10.1371-journal.pbio.3004105",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Virus-like particles, which carry proteins but no viral genome, delivered Cre and CRISPR/Cas9 tools into pig cells, organoids and oocytes, and into chicken cells, tracheal cultures and eggs. Editing rates were high, especially when several guides were combined. The work shows editing in culture and early systems, not edited, living animals.",
+  "tags": [
+    "gene editing",
+    "livestock"
+  ],
+  "title": "Virus-like particles enable highly efficient gene editing across porcine and avian in vitro, ex vivo, and in ovo models.",
+  "url": "https://doi.org/10.1371/journal.pbio.3004105",
+  "venue": "PLOS Biology"
+}

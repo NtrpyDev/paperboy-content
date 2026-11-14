@@ -1,0 +1,36 @@
+{
+  "abstract": "We construct smooth solutions of the three-dimensional incompressible free-boundary Euler equations with surface tension whose vorticity remains bounded while its full spatial gradient blows up in finite time. The solutions are axisymmetric without swirl and occupy bounded domains in which a tubular cavity collapses onto a circle at time $T$, while the outer free surface converges smoothly. The vorticity $\\omega$ can be chosen arbitrarily small in $L^\\infty$, uniformly up to collapse, and satisfies $\\|\\nabla\\omega(t)\\|_{L^\\infty}\\asymp (T-t)^{-1/2}|\\log(T-t)|^{1/4}$ as $t\\uparrow T$. A nonconstant material trace of the relative vorticity on the shrinking surface determines direction-dependent limits of the terminal vorticity, which therefore has no continuous extension across the collapse circle. The kinetic energy measure converges to the sum of a uniform line measure on this circle and a nonzero bulk part carried by a bounded rotational field. The construction couples vorticity transport to the boundary dynamics through weighted estimates in the collapsing collar and a cancellation in the normal acceleration.",
+  "arxiv_id": "2611.16868",
+  "authors": [
+    "Tao Luo",
+    "Siqi Yang"
+  ],
+  "categories": [
+    "math.AP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16868"
+  },
+  "hook": "A collapsing cavity in a free-surface fluid can keep vorticity small while its gradient blows up.",
+  "id": "arxiv-2611.16868",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors construct smooth solutions of the 3D free-boundary Euler equations with surface tension in which a tube-shaped cavity collapses onto a circle. The vorticity stays arbitrarily small in size, yet its spatial gradient diverges in finite time. The proof couples vorticity transport to the boundary motion with weighted estimates. These are special axisymmetric solutions without swirl, not generic flows.",
+  "tags": [
+    "fluid dynamics",
+    "Euler equations",
+    "blow-up"
+  ],
+  "title": "Cavity collapse and vorticity gradient blow-up in free-boundary Euler flow",
+  "url": "https://arxiv.org/abs/2611.16868",
+  "venue": "arXiv"
+}

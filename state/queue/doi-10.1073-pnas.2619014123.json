@@ -1,0 +1,55 @@
+{
+  "abstract": "Endometriosis is a steroid-dependent gynecologic disease characterized by progesterone (P4) resistance, subfertility/infertility, and pelvic pain; however, the molecular mechanisms underlying impaired P4 responsiveness in endometriosis tissue are not fully understood. RE1 silencing transcription factor (REST), a transcriptional regulator implicated in steroid hormone signaling, has emerged as a potential mediator of P4 responsiveness. Here, we investigated the role of REST in endometriosis using human tissues and a uterine-specific Rest conditional knockout mouse model. Immunohistochemical analysis of eutopic endometrium and ectopic lesions from patients with endometriosis revealed significantly reduced nuclear REST expression compared with control endometrium, suggesting loss of functional REST in disease. To assess the physiological consequences of REST deficiency, uterine-specific Rest knockout (Rest d/d) mice were generated. Rest d/d females exhibited progressive subfertility and hyperestrogenic uterine tissue characteristics that displayed a blunted responsiveness to P4 treatment. Loss of Rest selectively altered expression of P4-responsive genes associated with endometriosis pathology, despite preserved P4 receptor expression. Following induction of experimental endometriosis, female mice that developed endometriotic-like lesions using Rest-deficient donor tissue developed significantly larger lesions that were less responsive to P4 treatment compared to lesions induced using control tissue. Mechanical sensitivity was modestly increased in mice receiving Rest-deficient tissue, whereas vaginal hyperalgesia was unaffected. These findings identify loss of nuclear REST as a feature of endometriosis and support a role of REST in subfertility, lesion progression, and blunted response to P4. REST may represent a molecular contributor to altered P4 responsiveness and a potential therapeutic target in endometriosis.",
+  "arxiv_id": null,
+  "authors": [
+    "Paige Minchella",
+    "Ayushi Vashisht",
+    "Riley Peterson",
+    "Amanda Graham",
+    "Sumedha Gunewardena",
+    "Wei Cui",
+    "Austin Findley",
+    "Julie A Christianson",
+    "Vargheese Chennathukuzhi",
+    "Warren B Nothnick"
+  ],
+  "categories": [
+    "Uterus",
+    "Endometrium",
+    "Animals",
+    "Mice, Knockout",
+    "Humans",
+    "Mice",
+    "Endometriosis",
+    "Disease Models, Animal",
+    "Progesterone",
+    "Repressor Proteins",
+    "Female",
+    "RE1-Silencing Transcription Factor"
+  ],
+  "doi": "10.1073/pnas.2619014123",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Endometriosis tissue lacks a protein called REST. Mice without it resist progesterone.",
+  "hook_turn": "Mice without it resist progesterone.",
+  "id": "doi-10.1073-pnas.2619014123",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Patient endometriosis tissue had much less nuclear REST than normal endometrium. Mice with REST deleted in the uterus became less fertile, had a blunted response to progesterone, and grew larger endometriosis-like lesions. The link to patients is correlational, and the lesions and pain tests come from a mouse model.",
+  "tags": [
+    "endometriosis",
+    "progesterone"
+  ],
+  "title": "RE1 silencing transcription factor is reduced in endometriosis, and uterine deletion in mice alters progesterone responsiveness.",
+  "url": "https://doi.org/10.1073/pnas.2619014123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

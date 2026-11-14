@@ -1,0 +1,40 @@
+{
+  "abstract": "The best known lower bound on the determinantal complexity of the 4x4 permanent is 10. In this short note, I prove that this value is exactly 15: the 4x4 permanent is the determinant of a 15x15 matrix of affine linear forms, and cannot be that of any smaller matrix. To do so, I must establish both a lower and upper bound. To establish the upper bound, I use Grenet's construction of size 2^n-1. Hence that construction is optimal at n=4 (and n=3). This now constitutes the first knwon exact value of the determinantal complexity of the permanent at n=4. Only the value at n=3 was exactly known, prior to this note. The general quadratic bound only gives 8 for n=4. To establish the lower bound, I work from a normal form at a zero of the permanent. In the first row (and column) of the normal form, the linear forms vanish on a linear space inside the singular locus of the permanent. A hessian inequality bounds the size of the matrix in terms of that space. Then, a matrix of sie 14 foces the space into any of nine corordinate types. The forcing is either up to symmetry, or else into a family that degenerates to one of them. I then rule out every case. All involved computations are exact. In respect of the claim, I have made all certificates public.",
+  "arxiv_id": "2611.06658",
+  "authors": [
+    "Karthik Sheshadri"
+  ],
+  "categories": [
+    "cs.CC"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.06658"
+  },
+  "hook": "Writing a 4x4 permanent as a determinant takes a 15x15 matrix, and no smaller one works",
+  "hook_turn": "and no smaller one works",
+  "id": "arxiv-2611.06658",
+  "license": "cc-by",
+  "published": "2026-11-04",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Determinantal complexity of 4x4 permanent",
+    "unit": "",
+    "value": "15"
+  },
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The best known lower bound for the determinantal complexity of the 4x4 permanent was 10. The note proves it is exactly 15, using Grenet's construction for the upper bound and a normal-form and Hessian argument with exact computations for the lower bound. It is a single-author preprint relying on a long case analysis, so independent checking of the certificates matters.",
+  "tags": [
+    "computational complexity",
+    "permanent"
+  ],
+  "title": "The determinantal complexity of the 4*4 permanent is 15",
+  "url": "https://arxiv.org/abs/2611.06658",
+  "venue": "arXiv"
+}

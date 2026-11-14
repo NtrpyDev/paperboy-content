@@ -1,0 +1,34 @@
+{
+  "abstract": "We show that, given a very general cubic threefold $X$, any smooth cubic threefold stably birational to $X$ must be isomorphic to $X$. The method applies as well to other Fano 3-folds, like the sextic double solid, and the quartic threefold. We also discuss the higher-dimensional case.",
+  "arxiv_id": "2611.14417",
+  "authors": [
+    "Claire Voisin"
+  ],
+  "categories": [
+    "math.AG"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14417"
+  },
+  "hook": "A very general cubic threefold is stably birational to no other smooth cubic threefold",
+  "id": "arxiv-2611.14417",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For a very general cubic threefold X, any smooth cubic threefold that is stably birational to X must be isomorphic to it. The method also works for the sextic double solid and the quartic threefold. The result is for very general members, not every cubic, and higher dimensions are only discussed.",
+  "tags": [
+    "algebraic geometry",
+    "birational geometry"
+  ],
+  "title": "On the stable birational type of Fano threefolds",
+  "url": "https://arxiv.org/abs/2611.14417",
+  "venue": "arXiv"
+}

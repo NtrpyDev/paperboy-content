@@ -1,0 +1,47 @@
+{
+  "abstract": "Abstract The sustainable synthesis of nitric acid (HNO3) directly from air via N2 oxidation is a dream reaction but remains a long-standing challenge, owing to formidable thermodynamic and kinetic barriers. Here, we report a photoassisted thermocatalytic strategy in which acetaldehyde as a key medium enables efficient N2 oxidation to HNO3 under mild conditions. Acetaldehyde is oxidized to peracetic acid over 316L stainless steel, which subsequently generates radicals (CH3COOO•) under visible-light irradiation. These CH3COOO• radicals are highly reactive and can oxidize N2 at 200 °C and near-ambient pressures (1–5 bar), affording an HNO3 formation rate of 110.8 μmol h–1 with a concentration of 13,961 ppm and an N2 conversion of 0.45% within 2 h─approximately 2 to 4 orders of magnitude higher than previously reported systems. Notably, the kinetic irrelevance of H2O enables operation in a gas-phase flow configuration, allowing continuous and stable HNO3 production and gram-scale accumulation at the laboratory scale. This work introduces a groundbreaking reaction paradigm that couples organic radical chemistry and surface catalysis, offering a scalable and energy-efficient pathway for the green synthesis of HNO3.",
+  "arxiv_id": null,
+  "authors": [
+    "Zhiwei Liang",
+    "Linlin Zhang",
+    "Ping Wang",
+    "Mingzhu Li",
+    "Zhezheng Ding",
+    "Lixue Zhang",
+    "Ruixue Zhao",
+    "Xia Liu",
+    "Xin Ding",
+    "Yong Wang"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c14148",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Air's nitrogen was turned into nitric acid at 200 degrees C and low pressure, using light and acetaldehyde.",
+  "hook_turn": "using light and acetaldehyde.",
+  "id": "doi-10.1021-jacs.6c14148",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "HNO3 concentration after 2 hours",
+    "unit": "ppm",
+    "value": "13,961"
+  },
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Acetaldehyde is oxidized to peracetic acid on stainless steel, and visible light turns that into radicals that oxidize nitrogen to nitric acid. Output beat earlier systems by 2 to 4 orders of magnitude, though only 0.45% of the nitrogen reacted. Tests were gram-scale in the lab.",
+  "tags": [
+    "nitrogen fixation",
+    "catalysis"
+  ],
+  "title": "Acetaldehyde-Mediated Direct Conversion of Air to Nitric Acid",
+  "url": "https://doi.org/10.1021/jacs.6c14148",
+  "venue": "Journal of the American Chemical Society"
+}

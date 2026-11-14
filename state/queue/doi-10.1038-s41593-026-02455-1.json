@@ -1,0 +1,46 @@
+{
+  "abstract": "Chronic pain is highly prevalent worldwide, yet its genetic architecture remains to be fully elucidated. Here we leveraged data from 1,235,695 European-ancestry individuals across three biobanks. In a meta-analytic genome-wide association study of multidimensional pain (MP), we identified 343 independent loci, 92 of which were new pain associations. Sex-specific meta-analyses revealed 115 independent loci (12 of which were new) among males (n = 583,066) and 12 loci (2 of which were new) among females (n = 241,266). Multi-omic gene prioritization analyses highlighted 490 genes associated with MP through their effects on brain-specific and blood-specific regulation. Mendelian randomization analyses showed causal associations between MP and psychiatric disorders, substance use disorders and C-reactive protein levels. MP variants also showed pleiotropic associations with several brain imaging-derived phenotypes. This study expands our knowledge of the genetics of pain and its pathogenesis, highlighting the importance of its pleiotropy with multiple disorders and elucidating its multi-omic pathophysiology.",
+  "arxiv_id": null,
+  "authors": [
+    "Sylvanus Toikumo",
+    "Christal Davis",
+    "Zeal Jinwala",
+    "Yousef Khan",
+    "Mariela Jennings",
+    "Lea Davis",
+    "Sandra Sanchez-Roige",
+    "Rachel L Kember",
+    "Henry R Kranzler"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41593-026-02455-1",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A 1.2 million person study finds 343 genome regions tied to pain, 92 of them new.",
+  "hook_turn": "92 of them new.",
+  "id": "doi-10.1038-s41593-026-02455-1",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Independent pain loci, multidimensional pain GWAS",
+    "unit": "loci",
+    "value": "343"
+  },
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Researchers pooled three biobanks and scanned the genomes of over 1.2 million people for variants linked to a combined measure of pain. They found 343 regions, and statistical genetics methods tied pain to psychiatric and substance use disorders and to inflammation. Participants were all of European ancestry, and the causal claims rest on Mendelian randomization assumptions.",
+  "tags": [
+    "pain genetics",
+    "GWAS"
+  ],
+  "title": "Gene discovery and pleiotropic architecture of multidimensional pain in a genome-wide association study of >1.2 million individuals.",
+  "url": "https://doi.org/10.1038/s41593-026-02455-1",
+  "venue": "Nature Neuroscience"
+}

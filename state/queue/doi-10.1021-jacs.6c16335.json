@@ -1,0 +1,42 @@
+{
+  "abstract": "Abstract Here, we disclose a catalytic strategy that merges visible-light photoredox with cobalt catalysis to realize a previously elusive three-component enantioselective reductive coupling of readily available aldehydes, amines, and alkynes. This transformation provides a direct, step-economical route to high-value chiral allylic amines with broad substrate scope and high chemo-, regio-, and enantioselectivity, while overcoming long-standing challenges, including parasitic single-electron over-reduction, competitive aldehyde–alkyne coupling, and the inherent regioselectivity issues of unsymmetrical internal alkynes, and circumventing the moisture sensitivity and limited scope of pre-isolated imines. Central to this breakthrough is the rational design of a chiral phosphoramidite ligand featuring a tricyclic tetrahydrobenzoquinoline core, which avoids coordination saturation at cobalt and establishes a unique electronic “push–pull” synergy with a coordinated iodide anion. Mechanistic studies support an anion-promoted, single-ligand catalytic model wherein a high-spin cobaltacyclopentene intermediate serves as the key stereocontrol element. The monodentate, π-accepting phosphoramidite functions as a flexible electronic buffer, mitigating Pauli repulsion and dramatically lowering the oxidative cyclization barrier. The synthetic utility is demonstrated by late-stage functionalization of complex bioactive molecules and a concise synthesis of the antiplatelet drug prasugrel.",
+  "arxiv_id": null,
+  "authors": [
+    "Hengrui Zhou",
+    "Fang Zhang",
+    "Yongxian Huang",
+    "Daping Jin",
+    "He Huang",
+    "Genglin Wu",
+    "Linna Guo",
+    "Cheng-Yong Su",
+    "Zhiwei Jiao"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c16335",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A cobalt and light-driven catalyst joins aldehydes, amines and alkynes into single-handed allylic amines.",
+  "hook_turn": "into single-handed allylic amines.",
+  "id": "doi-10.1021-jacs.6c16335",
+  "license": "other",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "A new chiral phosphoramidite ligand lets cobalt and visible-light photoredox catalysis couple three simple components in one step with high enantioselectivity and regioselectivity. Mechanistic work points to a cobaltacyclopentene intermediate, and the method was used to make the drug prasugrel. The scope was shown on lab-scale examples, and the abstract gives no yields.",
+  "tags": [
+    "asymmetric catalysis",
+    "photoredox",
+    "cobalt"
+  ],
+  "title": "Enantioselective Three-Component Reductive Coupling of Aldehydes, Amines, and Alkynes via Ligand-Enabled Cobalt/Photoredox Dual Catalysis for Modular Synthesis of Allylic Amines",
+  "url": "https://doi.org/10.1021/jacs.6c16335",
+  "venue": "Journal of the American Chemical Society"
+}

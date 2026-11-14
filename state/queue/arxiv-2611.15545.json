@@ -1,0 +1,43 @@
+{
+  "abstract": "Solar filaments exhibit oscillatory motions in different directions, including large-amplitude longitudinal oscillations (LALOs), which are commonly interpreted as magnetoacoustic oscillations with gravity providing the main restoring force In the standard pendulum model, the magnetic-field geometry imposes an upper limit on the oscillation period of approximately 167 min near the solar surface. Here, we report a longitudinal oscillation observed in a solar filament using SDO/AIA 193 and 171 angstroms observations, with periods ranging from 178-184 min. These values are longer than the near-surface cut-off period derived under the assumptions of the standard pendulum model. To investigate this discrepancy, we consider two possible effects: the prominence height above the solar surface and the three-dimensional geometry of the magnetic field. The former increases the theoretical cut-off period by reducing the local gravitational acceleration, while the latter can modify the longitudinal restoring force through the inclination of the plane containing the local field-line curvature. Specifically, a locally concave-down field-line geometry can reduce the restoring force and permit longer periods, provided that the equilibrium remains stable. However, the available observations do not allow us to independently constrain the prominence height, field-line curvature, and inclination. This result highlights the importance of considering the three-dimensional geometry and curvature of filaments when interpreting their longitudinal oscillations. Since LALOs provide a potential seismological diagnostic for estimating the magnetic-field strength supporting filaments, neglecting their curvature may introduce systematic errors in such estimates. Therefore, accounting for the geometry of the oscillating structure is essential for the accurate application of filament seismology.",
+  "arxiv_id": "2611.15545",
+  "authors": [
+    "Miguel Rojas-Quesada",
+    "Manuel Luna",
+    "Lela Talishvilli",
+    "Heidy Gutierrez"
+  ],
+  "categories": [
+    "astro-ph.SR"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15545"
+  },
+  "hook": "A solar filament swung with a 178-184 minute period, longer than the standard model allows.",
+  "hook_turn": "longer than the standard model allows.",
+  "id": "arxiv-2611.15545",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Standard-model upper limit on period",
+    "unit": "minutes",
+    "value": "~167"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "SDO images show a filament oscillating along its length with periods of 178 to 184 minutes, above the roughly 167 minute pendulum-model limit. Filament height and 3D field-line curvature could both explain it, but the data cannot separate them. This matters because the oscillations are used to estimate filament magnetic fields.",
+  "tags": [
+    "solar filaments",
+    "solar physics"
+  ],
+  "title": "Long-period longitudinal oscillations in a solar filament beyond the theoretical period limit",
+  "url": "https://arxiv.org/abs/2611.15545",
+  "venue": "arXiv"
+}

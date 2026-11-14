@@ -1,0 +1,36 @@
+{
+  "abstract": "Modern human genomes harbor DNA inherited from interbreeding with Neanderthals. Genetic variants inherited from Neanderthals associate with variation in many immune and metabolic phenotypes, two systems with direct relevance to cancer. However, the influence of Neanderthal variants on germline cancer risk has not been comprehensively evaluated. Here, we evaluated genome-wide association study (GWAS) hits for 17 cancer types for Neanderthal ancestry. Twelve cancers have multiple Neanderthal alleles significantly associated with variation in risk. Next, we fine-mapped these risk loci and identified 32 associations across seven cancers where Neanderthal variants are likely causal (>= posterior inclusion probability). Fine-mapped loci include Neanderthal alleles that both increase and decrease cancer risk. Nine of the 32 Neanderthal associations, including the high frequency BNC2 Neanderthal variants, have signatures of adaptive introgression, and several suggest evidence of both mediated and antagonistic pleiotropy. Finally, we tested for enrichment of cancer heritability in genomic regions with Neanderthal ancestry. As expected, Neanderthal variants are depleted of heritability for most cancers. However, Neanderthal variants were enriched for heritability in breast cancer GWAS in both East Asian and Europeans, and this enrichment replicated using individual-level UK Biobank data. These results suggest that Neanderthal alleles that influence germline cancer risk were largely selected against. However, introgressed Neanderthal variants implicated in many cancers persist, potentially due to adaptive pleiotropic effects. This evolutionary perspective provides new insights into the complex evolution and etiology of cancer risk among modern human populations.",
+  "arxiv_id": null,
+  "authors": [
+    "Brand, C. M.",
+    "Chen, Y.",
+    "Capra, J. A."
+  ],
+  "categories": [
+    "genetic and genomic medicine"
+  ],
+  "doi": "10.64898/2026.11.10.26367742",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.medrxiv.org/content/early/2026/11/13/2026.11.10.26367742.source.xml"
+  },
+  "hook": "Neanderthal gene variants affect risk of 12 cancers and were mostly selected against.",
+  "id": "doi-10.64898-2026.11.10.26367742",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "medrxiv",
+  "status": "preprint",
+  "summary": "Gene variants inherited from Neanderthals are tied to risk in 12 of 17 cancer types, raising some risks and lowering others. Fine-mapping of genome-wide association hits found 32 likely causal links, and breast cancer heritability was enriched in Neanderthal regions. These are statistical associations in existing datasets, so the specific causal variants and mechanisms remain unproven. This is a preprint.",
+  "tags": [
+    "Neanderthal ancestry",
+    "cancer genetics"
+  ],
+  "title": "The contribution of Neanderthal ancestry to cancer risk",
+  "url": "https://doi.org/10.64898/2026.11.10.26367742",
+  "venue": "medRxiv"
+}

@@ -1,0 +1,37 @@
+{
+  "abstract": "For every origin-symmetric convex body $K\\subseteq\\R^n$, we prove that there exists a volume-preserving linear transformation $T\\in\\SL_n(\\R)$, such that for every $\\varepsilon\\in (0,1)$ there is an origin-symmetric convex body $L$ with $(1-\\varepsilon)TK\\subseteq L \\subseteq TK$ and the isoperimetric quotient $\\iq(L)\\le 40\\varepsilon^{-1}\\sqrt n$. This resolves the Naor isomorphic reverse isoperimetry conjecture.",
+  "arxiv_id": "2611.16898",
+  "authors": [
+    "Su Mengwei",
+    "Sun Qiang",
+    "Xiong Ge"
+  ],
+  "categories": [
+    "math.MG"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16898"
+  },
+  "hook": "A 'reverse isoperimetry' conjecture about convex shapes is proved: a volume-preserving squeeze exists.",
+  "hook_turn": "a volume-preserving squeeze exists.",
+  "id": "arxiv-2611.16898",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For any centrally symmetric convex body, the authors show a volume-preserving linear map exists after which the shape can be approximated by one whose surface area is small relative to volume, with a bound scaling as the square root of the dimension. This settles a conjecture of Naor. It is a preprint and the proof has not yet been checked by the community.",
+  "tags": [
+    "convex geometry",
+    "isoperimetric inequality"
+  ],
+  "title": "A complete solution to the Naor isomorphic reverse isoperimetry conjecture",
+  "url": "https://arxiv.org/abs/2611.16898",
+  "venue": "arXiv"
+}

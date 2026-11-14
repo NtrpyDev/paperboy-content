@@ -1,0 +1,35 @@
+{
+  "abstract": "We disprove a 1939 conjecture of Erd\\H{o}s and Mahler by constructing, for every real $\\tau\\ge4$, a Cantor set of numbers of irrationality exponent $\\tau$, each having infinitely many regular continued-fraction convergents of the form $2^a/3^b$.",
+  "arxiv_id": "2611.13604",
+  "authors": [
+    "Diego Marques"
+  ],
+  "categories": [
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13604"
+  },
+  "hook": "A 1939 Erdos-Mahler conjecture is false: counterexamples exist for every exponent 4 or above",
+  "hook_turn": "exist for every exponent 4 or above",
+  "id": "arxiv-2611.13604",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Erdos and Mahler conjectured something about continued-fraction convergents of the form 2^a/3^b. The paper builds, for each irrationality exponent tau of at least 4, a Cantor set of numbers that have infinitely many such convergents, disproving it. The construction covers only exponents from 4 upward.",
+  "tags": [
+    "number theory",
+    "continued fractions"
+  ],
+  "title": "A counterexample to the Erd\\H{o}s--Mahler conjecture",
+  "url": "https://arxiv.org/abs/2611.13604",
+  "venue": "arXiv"
+}

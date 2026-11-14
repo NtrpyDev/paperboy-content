@@ -1,0 +1,48 @@
+{
+  "abstract": "The quantity and distribution of spiral ganglion neurons (SGNs) greatly influence speech and hearing ability. Historically, approaches to quantify SGNs from archival human temporal bones (TBs) have utilized only every 10th section to estimate the total SGN count. The current study evaluates a novel deep-learning pipeline for SGN quantification to produce the first complete three-dimensional SGN map of the human cochlea using every tissue section. The reconstruction is based on one adult human cochlea in which all 421 consecutive, 20 um thick, celloidin-embedded sections were H&E stained, mounted and digitized. SGN nuclei were manually labeled in training sections which were subsequently used to create UNet++ models for SGN detection. These models were then applied to all other sections and compared to manual counts by three experienced histopathologists. After quantification, serial sections were aligned and SGNs were assigned percent distances along Rosenthal's canal and characteristic frequencies using a modified Greenwood formula. Models to automatically identify SGN nuclei from digitized tissue sections performed with great accuracy: SGNs were counted in 191 sections with 97% accuracy compared to manual counts. When tissue sections were systematically omitted, counting only every 10th section was determined sufficient to ensure a median inferred total count accuracy of 98%. We present a new, flexible machine learning pipeline for identifying SGNs in digitized human TBs. Further, we show the first full 3D visualization of all 27,880 SGNs in an adult human cochlea, with associated tonotopic maps and basal-to-apical SGN distributions.",
+  "arxiv_id": null,
+  "authors": [
+    "Giardina, C. K.",
+    "O'Malley, J. T.",
+    "Hall, A. K.",
+    "Dharmarajan, A.",
+    "Eckhard, A. H.",
+    "Liberman, C.",
+    "Arenberg, J. G.",
+    "Quesnel, A. M."
+  ],
+  "categories": [
+    "neuroscience"
+  ],
+  "doi": "10.64898/2026.11.10.765480",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/11/2026.11.10.765480.source.xml"
+  },
+  "hook": "A deep-learning tool counted all 27,880 hearing nerve cells in one human cochlea in 3D.",
+  "hook_turn": "counted all 27,880 hearing nerve cells in one human cochlea in 3D.",
+  "id": "doi-10.64898-2026.11.10.765480",
+  "license": "cc-by-nc",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Spiral ganglion neurons in one adult cochlea",
+    "unit": "neurons",
+    "value": "27,880"
+  },
+  "significance": 5,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Researchers trained UNet++ models to find spiral ganglion neurons in 421 stained sections of one adult cochlea, matching manual counts at 97% accuracy. Counting only every tenth section still gave a total within about 98%. The map covers a single ear, so natural variation between people is not captured.",
+  "tags": [
+    "cochlea",
+    "deep learning",
+    "hearing"
+  ],
+  "title": "A Complete Three-Dimensional Spiral Ganglion Neuron Map in a Human Adult using a Deep Learning Pipeline",
+  "url": "https://doi.org/10.64898/2026.11.10.765480",
+  "venue": "bioRxiv"
+}

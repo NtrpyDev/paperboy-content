@@ -1,0 +1,38 @@
+{
+  "abstract": "We construct a smooth projective Calabi--Yau threefold $X_5$ over $\\mathbb F_5$ with $b_3(X_5)=0$ and $b_2(X_5)=31$. Consequently, $X_5$ has no smooth proper lifting to characteristic zero, including over ramified bases. To our knowledge, this is the first smooth projective Calabi--Yau threefold with this property in characteristic $p>3$. The threefold is a crepant resolution of the Kummer quotient of the self-fiber product of a rational elliptic surface. We prove the vanishing of its third Betti number by semistable reduction and point counts. A birational double-octic model gives a direct obstruction to lifting to the ring of Witt vectors of length two, through an explicit inconsistent system of linear equations for the branch data. We also determine the Hodge and crystalline cohomology: the threefold is infinitesimally rigid, its crystalline cohomology is torsion-free, and its third de Rham cohomology vanishes. Its Hodge-de Rham spectral sequence has exactly two nonzero differentials, both of rank one on the second page.",
+  "arxiv_id": "2611.15943",
+  "authors": [
+    "Dominik Burek",
+    "Tymoteusz Chmiel",
+    "S{\\l}awomir Cynk",
+    "Marcin Oczko"
+  ],
+  "categories": [
+    "math.AG",
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15943"
+  },
+  "hook": "A Calabi-Yau threefold in characteristic 5 is shown that cannot be lifted to characteristic zero.",
+  "id": "arxiv-2611.15943",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors construct a Calabi-Yau threefold over the field with five elements whose third Betti number is zero, which rules out any lift to characteristic zero. They show this with point counts, semistable reduction, and an explicit inconsistent linear system. It is the first such example they know of for characteristic above 3. The result is a single example, not a general classification.",
+  "tags": [
+    "algebraic geometry",
+    "calabi-yau"
+  ],
+  "title": "A projective Calabi--Yau threefold in characteristic 5 non-liftable to characteristic 0",
+  "url": "https://arxiv.org/abs/2611.15943",
+  "venue": "arXiv"
+}

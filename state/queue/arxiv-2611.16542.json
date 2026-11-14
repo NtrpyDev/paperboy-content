@@ -1,0 +1,65 @@
+{
+  "abstract": "Free-electron lasers (FELs) deliver high-brilliance radiation from the infrared to X-rays, enabling atomic-scale studies on femtosecond-to-attosecond timescales. Yet conventional facilities rely on large, costly radio-frequency accelerators. Laser wakefield accelerators (LWFAs), combining high accelerating gradients with ultra-high peak currents, offer a compact alternative and open up new prospects for advanced FEL operation. Here, we demonstrate a tabletop superradiant FEL driven by single-spike, pre-bunched electron beams from a LWFA. By manipulating the energy chirp during acceleration and compressing the bunch to sub-wavelength duration, we obtain coherent radiation extending into the vacuum-ultraviolet (VUV) regime within a remarkably compact 3-metre beamline--from gas target to radiator. Under optimized conditions, the measured photon yield reaches 2.8x10^10 per pulse after transmission through a 500-um slit, with a reproducibility of approximately 70%. This approach uniquely exploits the energy chirp and high-current characteristics inherent to LWFA beams without recourse to exponential gain, substantially minimizing device length while obviating the need for external synchronization and offering enhanced tolerance to jitter--thereby establishing a practical route toward efficient, compact FELs suitable for applications in academic, industrial, and clinical settings.",
+  "arxiv_id": "2611.16542",
+  "authors": [
+    "Ke Feng",
+    "Runshu Hu",
+    "Yanjie Ge",
+    "Hai Jiang",
+    "Kangnan Jiang",
+    "Xizhuan Chen",
+    "Hao Wang",
+    "Gaojie Zeng",
+    "Zixiao Guo",
+    "Guiyao Wang",
+    "Jia Wang",
+    "Song Li",
+    "Jiayan Gui",
+    "Kegui Xia",
+    "Zongxin Zhang",
+    "Xiaojun Yang",
+    "Yi Xu",
+    "Yuxin Leng",
+    "Luyang Yu",
+    "Wei Zhang",
+    "Zhiqiang Jiang",
+    "Bo Liu",
+    "Chao Feng",
+    "Wentao Wang",
+    "Zhentang Zhao",
+    "Ruxin Li"
+  ],
+  "categories": [
+    "physics.acc-ph"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16542"
+  },
+  "hook": "A tabletop laser-wakefield electron beam drove a superradiant free-electron laser into the vacuum ultraviolet.",
+  "id": "arxiv-2611.16542",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "exponent": 10,
+    "label": "Photon yield per pulse, 500-um slit",
+    "unit": "photons per pulse",
+    "value": "2.8"
+  },
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Researchers produced coherent vacuum-ultraviolet light from a 3-metre setup by compressing short electron bunches from a laser wakefield accelerator and passing them through a radiator. Yield reached 2.8x10^10 photons per pulse with about 70 percent reproducibility. The source is far from the brightness of large facilities, and shot-to-shot stability is only moderate.",
+  "tags": [
+    "free-electron laser",
+    "laser wakefield"
+  ],
+  "title": "Single-spike superradiant free-electron lasers",
+  "url": "https://arxiv.org/abs/2611.16542",
+  "venue": "arXiv"
+}

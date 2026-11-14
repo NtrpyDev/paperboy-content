@@ -1,0 +1,38 @@
+{
+  "abstract": "A damped harmonic oscillator kicked by a pulsed periodic potential can be chaotic although every local Jacobian has eigenvalues inside the unit circle. Damped rotation between kicks lets non-normal shears of opposite curvature compound, so ordered products of contracting Jacobians amplify perturbations. We derive the exact joint spectral radius of the Jacobian family and an exact Lyapunov-exponent decomposition showing how this geometric pumping overcomes dissipation. The proposed mechanism can be realized with laser-cooled trapped ions in a pulsed optical lattice.",
+  "arxiv_id": "2611.15525",
+  "authors": [
+    "Vincenzo Citro",
+    "Giuseppe Petrillo",
+    "Didier Sornette"
+  ],
+  "categories": [
+    "nlin.CD",
+    "physics.data-an"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15525"
+  },
+  "hook": "A damped kicked oscillator can be chaotic even though every step contracts perturbations locally.",
+  "hook_turn": "even though every step contracts perturbations locally.",
+  "id": "arxiv-2611.15525",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "In a damped oscillator hit by periodic kicks, each step shrinks perturbations on its own, yet ordered products of the steps amplify them because non-normal shears compound. The authors derive the exact joint spectral radius and a Lyapunov exponent decomposition. They suggest laser-cooled trapped ions could realize it, but this is a theoretical proposal only.",
+  "tags": [
+    "chaos",
+    "nonlinear dynamics"
+  ],
+  "title": "Chaos without Local Spectral Instability in a Kicked Oscillator",
+  "url": "https://arxiv.org/abs/2611.15525",
+  "venue": "arXiv"
+}

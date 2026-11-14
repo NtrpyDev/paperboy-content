@@ -1,0 +1,39 @@
+{
+  "abstract": "Optical trapping of neutral atoms is almost universally described as an electric-dipole (E1) effect. We show that the magnetic field of light, acting on a magnetic-dipole (M1) transition, can induce an ac Zeeman shift significantly larger than the ac Stark shift, thereby enabling magnetic trapping. We construct the M1 polarizability tensor and identify a critical detuning $\\delta_c$, independent of optical power, below which the magnetic interaction dominates. We analyze suitable trapping parameters and possible loss mechanisms, particularly for the intraconfigurational transitions $^3H_6\\rightarrow{}^3H_5$ of erbium at $1437.13$~nm and $^5I_8\\rightarrow{}^5I_7$ of dysprosium at $2418.84$~nm. We propose two trapping configurations: a hybrid magnetic/electric optical tweezer and an optical lattice with separated magnetic and electric antinodes, producing state-dependent purely magnetic and purely electric trapping wells. Our results present optical magnetic fields as a suitable resource to expand the toolbox for atomic manipulation.",
+  "arxiv_id": "2611.14607",
+  "authors": [
+    "E. Orellana-Paillaleo",
+    "N. Vera",
+    "P. Solano"
+  ],
+  "categories": [
+    "physics.atom-ph",
+    "physics.optics",
+    "quant-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14607"
+  },
+  "hook": "In theory, light's magnetic field can trap atoms more strongly than its electric field does.",
+  "hook_turn": "more strongly than its electric field does.",
+  "id": "arxiv-2611.14607",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For atoms with a magnetic-dipole transition, such as erbium at 1437.13 nm and dysprosium at 2418.84 nm, the light's magnetic field can produce an ac Zeeman shift larger than the usual ac Stark shift. The authors derive a critical detuning below which the magnetic effect wins and propose a hybrid tweezer and a lattice with separate magnetic and electric wells. It is a calculation only, with no trapping experiment yet.",
+  "tags": [
+    "optical trapping",
+    "cold atoms"
+  ],
+  "title": "Optical trapping of neutral atoms via magnetic-dipole transitions",
+  "url": "https://arxiv.org/abs/2611.14607",
+  "venue": "arXiv"
+}

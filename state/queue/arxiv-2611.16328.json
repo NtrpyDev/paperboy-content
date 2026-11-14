@@ -1,0 +1,36 @@
+{
+  "abstract": "Let $\\mathcal{P}$ be a bounded Kleinian circle packing with symmetry group $\\Gamma$, and let $N_{\\mathcal{P}}(T)$ denote the number of circles in $\\mathcal{P}$ of radius at least $T^{-1}$. We obtain an asymptotic formula for $N_{\\mathcal{P}}(T)$ in which the eigenvalues of the Laplace operator below the continuous spectrum contribute a finite sum of main terms, with an error term having the same exponent as in the counting theorem of Lax--Phillips for $\\Gamma$-orbits in $\\mathbb H^3$.",
+  "arxiv_id": "2611.16328",
+  "authors": [
+    "Samuel C. Edwards"
+  ],
+  "categories": [
+    "math.SP",
+    "math.GT",
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16328"
+  },
+  "hook": "Circles in a Kleinian circle packing are counted with main terms from Laplacian eigenvalues.",
+  "id": "arxiv-2611.16328",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper gives an asymptotic count of circles above a given size in a bounded Kleinian packing. Eigenvalues of the Laplace operator below the continuous spectrum each add a main term, and the error exponent matches the Lax-Phillips orbit-counting theorem. It is a technical result for specialists in a narrow class of packings.",
+  "tags": [
+    "circle packings",
+    "spectral theory"
+  ],
+  "title": "Counting circles in Kleinian circle packings",
+  "url": "https://arxiv.org/abs/2611.16328",
+  "venue": "arXiv"
+}

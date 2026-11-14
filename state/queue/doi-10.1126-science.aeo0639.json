@@ -1,0 +1,37 @@
+{
+  "abstract": "Work guided by Claude shows bacteria and viruses likely make the odd structures, suggesting ancient origins.",
+  "arxiv_id": null,
+  "authors": [
+    "John Travis"
+  ],
+  "categories": [
+    "Bacteria",
+    "Viruses"
+  ],
+  "doi": "10.1126/science.aeo0639",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "AI-guided work suggests bacteria and viruses make mysterious cell vaults, pointing to ancient origins.",
+  "hook_turn": "pointing to ancient origins.",
+  "id": "doi-10.1126-science.aeo0639",
+  "license": null,
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Research guided by the AI model Claude suggests that bacteria and viruses likely make vaults, odd cellular structures whose purpose is still unknown. That would point to an ancient origin. This is a news summary built on a one-line teaser, so the evidence and methods are not described.",
+  "tags": [
+    "vaults",
+    "cell biology",
+    "evolution"
+  ],
+  "title": "AI research deepens mystery of cellular 'vaults'.",
+  "url": "https://doi.org/10.1126/science.aeo0639",
+  "venue": "Science"
+}

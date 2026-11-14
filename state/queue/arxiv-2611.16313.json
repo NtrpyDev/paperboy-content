@@ -1,0 +1,35 @@
+{
+  "abstract": "A $k$-edge-failure strong connectivity preserver of a directed graph on $N$ vertices is a spanning subgraph that has the same strongly connected components as the input after each set of at most $k$ edge deletions. The lower-bound construction of Baswana, Choudhary, and Roditty [BCR18], adapted to strong connectivity in [CC20], gives the previous best bound of $\\Omega(2^kN)$ necessary edges. Hoppenworth, Saranurak, and Wang [HSW25] prove an $O(k4^kN\\log N)$ upper bound, leaving a logarithmic gap for fixed $k$. We close this gap by giving an explicit strongly connected graph on $N=2^d$ vertices with $N-1+(N/2)\\log_2N$ edges, every one of which is necessary in a two-failure preserver. Together with the upper bound of [HSW25], this proves that the optimal size in the worst case is $\\Theta_k(N\\log N)$ for every fixed $k\\geq2$, whereas it is $\\Theta(N)$ for $k=1$ [GIP20]. The same graph has a one-failure preserver with at most $3(N-1)$ edges. We also give a randomized algorithm that either returns a spanning subgraph or reports failure. For every fixed $c,\\varepsilon>0$, with probability at least $1-N^{-c}$ it returns a correct preserver for $k=2$ with $O(N\\log N)$ edges, in $\\widetilde O(N^{(\\omega+3)/2+\\varepsilon})$ time and $\\widetilde O(N^2)$ space. Here $\\omega$ is the matrix multiplication exponent over a fixed finite field.",
+  "arxiv_id": "2611.16313",
+  "authors": [
+    "Wanhee Lee",
+    "Chenglin Fan"
+  ],
+  "categories": [
+    "cs.DS"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16313"
+  },
+  "hook": "Keeping a directed graph strongly connected through two edge failures can need about N log N edges.",
+  "id": "arxiv-2611.16313",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors give an explicit graph on N vertices where every one of roughly (N/2)log N extra edges is needed to survive two failures. With earlier upper bounds, the optimal worst-case size is Theta(N log N) for every fixed k of at least 2, unlike the linear case for k=1. A randomized algorithm builds such preservers for k=2, but it is a superquadratic-time method that may report failure.",
+  "tags": [
+    "graph algorithms",
+    "fault tolerance"
+  ],
+  "title": "Optimal-Size Strong Connectivity Preservers under Two Edge Failures in Subcubic Time",
+  "url": "https://arxiv.org/abs/2611.16313",
+  "venue": "arXiv"
+}

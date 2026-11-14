@@ -1,0 +1,48 @@
+{
+  "abstract": "The precision of brown dwarf spectra from JWST enables unprecedented insight into the atmospheric and cloud properties of sub-stellar atmospheres. Here, we compare both self-consistent radiative-convective equilibrium (RCE) and retrieval atmosphere models to high-SNR 1--18~$\\mu$m spectra of two field L-dwarfs from JWST, J0624 (L5) and J2148 (L6--L6.5). Our observations include spectral features from H$_2$O, CO, CO$_2$, CH$_4$, Na, and K and cover approximately 98\\% of the outgoing thermal emission from the two objects. We first compare the data to three independent grids of 1D-RCE models: BT-Settl, exoREM, and Sonora Diamondback. While exoREM provides the best fit of the grid models, no 1D-RCE model provides a satisfactory fit to the data, highlighting the complexity of fitting cloudy L-dwarf spectra. Nonetheless, the temperature and cloud properties can be constrained with the 1D-RCE models, while metallicity, C/O ratio, and surface gravity are not well-measured. Next, we use petitRADTRANS to retrieve atmosphere and cloud properties, finding strong evidence for the presence of SiO$_2$ clouds in both objects. The SiO$_2$ is found to be amorphous in structure for J0624 but crystalline in J2148, highlighting important differences in objects of similar spectral type. We also used a non-Bayesian optimization framework to explore a wider variety of cloud scenarios, finding evidence for the inclusion of iron-rich magnesium silicates (Mg$_{0.5}$Fe$_{0.5}$SiO$_3$, MgFeSiO$_4$) in addition to SiO$_2$ in both objects. These results show both the complexity and diversity of brown dwarf cloud properties, while also highlighting the constraining power of broad-wavelength JWST observations of cloudy L-dwarfs.",
+  "arxiv_id": "2611.16783",
+  "authors": [
+    "Joshua D. Lothringer",
+    "Jeff A. Valenti",
+    "Sarah E. Moran",
+    "Rhys Collins",
+    "Siddharth Gandhi",
+    "Seti Norris",
+    "William O. Balmer",
+    "Peter Gao",
+    "Brayden Roberts",
+    "Mark S. Marley",
+    "Hannah R. Wakeford",
+    "David K. Sing"
+  ],
+  "categories": [
+    "astro-ph.SR",
+    "astro-ph.EP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16783"
+  },
+  "hook": "JWST spectra show silica clouds in two L-dwarfs, amorphous in one and crystalline in the other.",
+  "hook_turn": "amorphous in one and crystalline in the other.",
+  "id": "arxiv-2611.16783",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Two brown dwarfs of similar type, J0624 and J2148, were observed with JWST from 1 to 18 microns. Retrieval models find strong evidence for SiO2 clouds in both, amorphous in J0624 and crystalline in J2148, with hints of iron-rich silicates as well. No standard 1D model fit the spectra well, so the cloud makeup depends on modeling choices and only two objects were studied.",
+  "tags": [
+    "brown dwarfs",
+    "JWST",
+    "clouds"
+  ],
+  "title": "The Same But Different: SiO$_2$ Clouds in Two L-Dwarfs with JWST",
+  "url": "https://arxiv.org/abs/2611.16783",
+  "venue": "arXiv"
+}

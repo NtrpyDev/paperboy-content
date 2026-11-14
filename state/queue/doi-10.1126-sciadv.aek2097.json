@@ -1,0 +1,46 @@
+{
+  "abstract": "Miniaturized low-frequency antennas are essential for underwater, underground, and biomedical communications, yet their performance is constrained by the fundamental size-efficiency trade-off, a long-standing physical bottleneck. Here, we introduce a radiation mechanism that circumvents this constraint by replacing the time-varying currents in conventional antennas with the mechanical twisting oscillation of a magnetic dipole. Using piezoelectrically actuated, biomimetic twisting resonators with ultrahigh mechanical quality factors, we demonstrate that low-frequency antennas operating at 15.4 and 668 hertz can be miniaturized to centimeter- and millimeter-scale, respectively, with radiation efficiencies exceeding those of size-matched loop antennas by factors of 49,000 and 5000, respectively. This electromechanical-magnetic transduction enables underwater cross-medium communication over 115 meters with only milliwatt-level power consumption, using 99.9% less power than loop antennas. It also supports implantable wireless devices that achieve a fourfold increase in communication range at identical power consumption, opening a route to long-range, low-power wireless systems capable of operating in some of the most demanding environments.",
+  "arxiv_id": null,
+  "authors": [
+    "Jianglei Chang",
+    "Bohan Li",
+    "Xiangyu Gao",
+    "Kexin Song",
+    "Yaojin Wang",
+    "Jie Jiao",
+    "Davresh Hasanyan",
+    "Shujun Zhang",
+    "Fei Li"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aek2097",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Twisting a tiny magnet radiates low-frequency signals far more efficiently than a same-size loop antenna",
+  "hook_turn": "far more efficiently than a same-size loop antenna",
+  "id": "doi-10.1126-sciadv.aek2097",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Efficiency over loop antenna at 15.4 Hz",
+    "unit": "times",
+    "value": "49,000"
+  },
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Instead of driving current, the antenna mechanically twists a magnetic dipole with a piezoelectric resonator. Centimeter- and millimeter-scale devices at 15.4 and 668 hertz beat size-matched loops in efficiency, and sent signals 115 meters underwater on milliwatts. Tests are small prototypes, and data rates are not given in the abstract.",
+  "tags": [
+    "antennas",
+    "piezoelectrics"
+  ],
+  "title": "Piezoelectrically actuated magnetic dipole twisting resonators enable miniaturized low-frequency antennas.",
+  "url": "https://doi.org/10.1126/sciadv.aek2097",
+  "venue": "Science Advances"
+}

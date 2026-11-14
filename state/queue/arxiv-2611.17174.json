@@ -1,0 +1,38 @@
+{
+  "abstract": "The two-dimensional one-component plasma is a system of point charges that repel each other logarithmically, in a uniform neutralizing background. When the inverse temperature $\\beta$ is at most $2$, we prove that its correlations decay exponentially, and that its Gibbs state is unique among point processes whose fluctuations are controlled. This constitutes part of the fluid phase predicted by physicists. As a consequence, we obtain the existence of an infinite-volume limit, extending the Ginibre point process, which we call $\\mathrm{Gin}_\\beta$. We show that its truncated two-point function, at the scale of the Debye length, is given to first order in $\\beta$ by the Debye-H\\\"uckel approximation.",
+  "arxiv_id": "2611.17174",
+  "authors": [
+    "Jeanne Boursier",
+    "Thomas Lebl\\'e"
+  ],
+  "categories": [
+    "math-ph",
+    "math.MP",
+    "math.PR"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17174"
+  },
+  "hook": "The 2D one-component plasma is proven to be a fluid with exponentially decaying correlations up to beta 2.",
+  "hook_turn": "with exponentially decaying correlations up to beta 2.",
+  "id": "arxiv-2611.17174",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For a gas of logarithmically repelling point charges in two dimensions at inverse temperature beta at most 2, the authors prove correlations decay exponentially and the Gibbs state is unique among controlled point processes. This yields an infinite-volume limit extending the Ginibre process, whose two-point function matches Debye-Huckel to first order in beta. The proof covers only beta up to 2, short of the full predicted fluid range.",
+  "tags": [
+    "Coulomb gas",
+    "statistical mechanics"
+  ],
+  "title": "Existence of a fluid phase for the two-dimensional one-component plasma",
+  "url": "https://arxiv.org/abs/2611.17174",
+  "venue": "arXiv"
+}

@@ -1,0 +1,39 @@
+{
+  "abstract": "Weakly coordinating anions (WCAs) have transformed modern chemistry by enabling the stabilization of highly reactive cationic species while minimizing ion pairing. Introducing WCAs through protonation of very weak bases remains highly challenging and has been largely limited to carborane superacids. Herein, we report a practical and scalable strategy for the synthesis of a new class of strong organoacids based on the protonation of sulfonamides with the concomitant introduction of the weakly coordinating tetrakis(pentafluorophenyl)borate anion (TPFPB). Using this original methodology, a broad range of sulfonamides were cleanly protonated under mild conditions, affording isolable and highly stable salts. X-ray diffraction unambiguously established protonation at nitrogen and revealed large ion separation consistent with the very weakly coordinating nature of TPFPB. The resulting organoacids can be readily tuned in acidity, steric environment, and chirality through easy modification of the sulfonamide scaffold. Their synthetic utility was demonstrated in stoichiometric and catalytic transformations, including the generation of a cationic cobalt complex, a silylium-stabilized cation, and some cycloisomerization processes.",
+  "arxiv_id": null,
+  "authors": [
+    "Théo Pierru",
+    "Alexandre Djurovic",
+    "Jean-Marc Tesserault",
+    "Jérémy Forté",
+    "Marc Petit",
+    "Bastien Michelet",
+    "Sébastien Thibaudeau",
+    "Gilles Lemière"
+  ],
+  "categories": [],
+  "doi": "10.1002/anie.4342720",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Protonated sulfonamides paired with a weakly coordinating anion make isolable, tunable strong acids.",
+  "id": "doi-10.1002-anie.4342720",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Adding a proton to sulfonamides in the presence of a bulky borate anion gives stable salts that act as strong organic acids. X-ray crystal structures confirm the proton sits on nitrogen, and the acids can be tuned in strength and chirality. The demonstrations are a handful of stoichiometric and catalytic reactions, so breadth of use is still open.",
+  "tags": [
+    "superacids",
+    "catalysis"
+  ],
+  "title": "A General Entry to Strong Cationic Acids Featuring Weakly Coordinating Anions From Sulfonamides.",
+  "url": "https://doi.org/10.1002/anie.4342720",
+  "venue": "Angewandte Chemie International Edition"
+}

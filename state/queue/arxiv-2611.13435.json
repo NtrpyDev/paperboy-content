@@ -1,0 +1,37 @@
+{
+  "abstract": "For every integer $m\\ge4$, we prove that the saddle-shaped solution of the Allen--Cahn equation in $\\R^{2m}$ constructed by Cabr\\'e and Terra \\cite{CabreTerra2009} is a global minimizer. Moreover, up to sign, it is the unique global minimizer whose nodal set at infinity is a normal graph over the Simons cone with a height that decays faster than that of the Hardt--Simon leaves.",
+  "arxiv_id": "2611.13435",
+  "authors": [
+    "Sanghoon Lee",
+    "Lorenzo Sarnataro"
+  ],
+  "categories": [
+    "math.AP",
+    "math.DG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13435"
+  },
+  "hook": "The saddle-shaped Allen-Cahn solution in dimensions 8 and up is a true global minimizer, and a unique one",
+  "hook_turn": "and a unique one",
+  "id": "arxiv-2611.13435",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper proves that a known saddle-shaped solution of the Allen-Cahn equation (a model of phase boundaries) in R^2m, m at least 4, minimizes energy globally. It is also the only global minimizer, up to sign, whose boundary approaches the Simons cone with faster-than-Hardt-Simon decay. The proof covers even dimensions 8 and higher only.",
+  "tags": [
+    "pde",
+    "minimal surfaces"
+  ],
+  "title": "A uniqueness theorem for Allen--Cahn global minimizers asymptotic to the Simons cone",
+  "url": "https://arxiv.org/abs/2611.13435",
+  "venue": "arXiv"
+}

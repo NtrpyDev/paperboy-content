@@ -1,0 +1,35 @@
+{
+  "abstract": "We give a polynomial-time construction for a sixth-power excluded-grid theorem. Every graph whose treewidth is at least $g^6$ times a fixed polylogarithmic factor contains a $g\\times g$ grid minor that our randomized algorithm finds with constant probability. The algorithm outputs an explicit minor model, and the exponent in its running time is independent of $g$. This improves the ninth-power existence bound of Chuzhoy and Tan~\\cite{CT21} and the $g^{98}$ threshold in the polynomial-time construction of Chekuri and Chuzhoy~\\cite{CC16}. Quantitative bounds relating treewidth to grid size are central to bidimensionality, developed by Demaine, Hajiaghayi, and collaborators~\\cite{DH05,DH08}. The main ingredient is an asymmetric local routing theorem that uses substantially fewer attachment paths than backbone paths. A balanced recursion preserves connectivity by charging deletions to the boundary of a fixed reference cluster. We construct the smaller attachment sets through a routing hierarchy: either it exposes an accessible well-linked boundary, or its quotient graphs contain the desired grid. These arguments implement cluster splitting using approximate cuts and flow computations. An explicit cut-matching construction and a constructive grid-extraction procedure complete the algorithm. We also give a general packing--covering hypothesis for trees meeting three prescribed terminal sets under which the exponent can be reduced below six. A companion Lean development verifies the new construction, its success guarantee, and the composition of its polynomial running time, using explicit interfaces for the published algorithms and standard finite-data operations.",
+  "arxiv_id": "2611.16755",
+  "authors": [
+    "Mohammad Hajiaghayi"
+  ],
+  "categories": [
+    "cs.DS"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16755"
+  },
+  "hook": "Any graph with treewidth about g^6 contains a g by g grid, and a polynomial-time algorithm finds it.",
+  "hook_turn": "and a polynomial-time algorithm finds it.",
+  "id": "arxiv-2611.16755",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper gives a randomized polynomial-time algorithm that finds a g by g grid minor when treewidth is at least g^6 times a polylogarithmic factor, improving on a g^98 constructive threshold. It builds on asymmetric local routing, cut-matching and flow computations, with a Lean development checking the construction. The exponent 6 is still above the best conjectured bounds.",
+  "tags": [
+    "graph minors",
+    "treewidth"
+  ],
+  "title": "A Polynomial-Time Sixth-Power Excluded Grid Theorem",
+  "url": "https://arxiv.org/abs/2611.16755",
+  "venue": "arXiv"
+}

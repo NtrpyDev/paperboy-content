@@ -1,0 +1,43 @@
+{
+  "abstract": "Understanding how solid catalysts transform over space and time can guide the development of more efficient materials, yet spatiotemporal changes remain challenging to probe under working conditions using conventional analytical techniques. Here, we apply operando full field transmission X-ray micro-imaging (FF-TXM) with quick X-ray absorption spectroscopy (XAS) with ∼15 µm spatial and ∼10 s temporal resolution to monitor Ni/Al2O3, Ni/MgAl2O4, and Ni/MgO catalysts during dry reforming of methane (DRM). This spatiotemporal operando approach enables the quantitative extraction of the Ni oxidation state and its related reduction and reoxidation rates throughout the catalyst bed, a capability inaccessible with conventional XAS. During H2 reduction, activation initiated from the hottest bed region, and temperature variations created oxidation state gradients that persisted even after 30 min at 750°C. Under CO2 regeneration, Ni/Al2O3 oxidized rapidly and uniformly with parabolic kinetics, while Ni/MgAl2O4 showed a delayed reoxidation front propagating from inlet to outlet. During a subsequent DRM step, Ni reduction propagated oppositely, from outlet to inlet due to in situ H2 production. These spatially resolved apparent kinetic measurements reveal how support composition governs local redox dynamics and reaction front propagation, demonstrating the importance of spatial resolution to resolve gradients that bulk techniques miss.",
+  "arxiv_id": null,
+  "authors": [
+    "Sofie Ferwerda",
+    "Valerie Briois",
+    "Anthony Beauvois",
+    "Sebastian Weber",
+    "Nils Bottke",
+    "Matteo Monai",
+    "Bert M Weckhuysen"
+  ],
+  "categories": [],
+  "doi": "10.1002/anie.5531620",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "X-ray imaging shows nickel catalysts oxidize and reduce in moving fronts across the reactor bed.",
+  "id": "doi-10.1002-anie.5531620",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Spatial resolution of operando imaging",
+    "unit": "micrometers",
+    "value": "~15"
+  },
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Full-field X-ray microscopy with fast absorption spectroscopy tracked nickel oxidation state across working methane dry-reforming catalysts. Temperature gradients left oxidation gradients, and the support set whether reoxidation spread evenly or as a front. Only three nickel catalysts were studied, at roughly 15 micrometer and 10 second resolution.",
+  "tags": [
+    "operando imaging",
+    "heterogeneous catalysis"
+  ],
+  "title": "Operando X-Ray Micro-Imaging Reveals Spatiotemporal Evolution of the Oxidation State of Nickel During Dry Methane Reforming.",
+  "url": "https://doi.org/10.1002/anie.5531620",
+  "venue": "Angewandte Chemie International Edition"
+}

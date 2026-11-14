@@ -1,0 +1,36 @@
+{
+  "abstract": "We strictly improve the K\\\"orner-Marton lower bound $\\frac14\\log \\frac{9}{5}$ on the asymptotic rate of trifferent codes. We obtain this improvement by constructing non-perfect $(9,3)$-hash codes with rate above $\\log(9/5)$ and then applying the Tetra-code construction, which gives $R_3\\ge\\frac14R_{9,3}$. More generally, for every $q\\ge4$, we prove $R_{q,3}>B_{q,3}+\\frac1{250000}$. We also extend the method to $(p,2,3)$-list recovery. For every $q\\ge4$ and $0\\le p<\\frac{q-2}{12(q-1)}$, we prove $R_q^{\\mathrm{LR}}(p)>B_q^{\\mathrm{LR}}(p)$. Here $B_{q,3}$ and $B_q^{\\mathrm{LR}}(p)$ denote the respective probabilistic lower bounds. For every fixed $0\\le p<1/18$, the rate improvement is bounded below by a positive constant independent of $q\\ge4$. For every fixed $0\\le p<1/12$, we also obtain a positive rate improvement independent of $q$ for all sufficiently large $q$.",
+  "arxiv_id": "2611.11262",
+  "authors": [
+    "Chen Yuan",
+    "Ruiqi Zhu"
+  ],
+  "categories": [
+    "cs.IT",
+    "math.IT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.11262"
+  },
+  "hook": "Trifferent codes get a higher rate than the Korner-Marton lower bound.",
+  "id": "arxiv-2611.11262",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-08",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper builds non-perfect (9,3)-hash codes with rate above log(9/5) and feeds them into the Tetra-code construction, beating the Korner-Marton lower bound on trifferent code rate. It also improves probabilistic bounds for q of at least 4 and for list recovery. The gain is small, about 1/250000 in rate, and the true asymptotic rate is still unknown.",
+  "tags": [
+    "coding theory",
+    "hash codes"
+  ],
+  "title": "Improving the Trifference Lower Bound via Non-Perfect Hashing",
+  "url": "https://arxiv.org/abs/2611.11262",
+  "venue": "arXiv"
+}

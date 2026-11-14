@@ -1,0 +1,42 @@
+{
+  "abstract": "We prove that the multiplicative complexity of the three-bit low-half multiplier is six, giving a structural, enumeration-free lower-bound proof valid against unrestricted nonlinear reuse in Boolean XOR-AND circuits. The value was previously established by SAT searches of the second author. An explicit six-AND circuit supplies the upper bound. The lower bound combines derivatives, quadratic products, complementary minors, and extraction modulo a Boolean ideal. Independent finite checks accompany the arguments. $\\mathrm{MC}(M_3)=6$ is fully formalized in Lean 4. The kernel-checked proof uses only the axioms propext, Classical.choice and Quot.sound.",
+  "arxiv_id": "2611.15992",
+  "authors": [
+    "Bshara Alhodali",
+    "Gregory Morse"
+  ],
+  "categories": [
+    "cs.CC",
+    "cs.LO",
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15992"
+  },
+  "hook": "Multiplying two 3-bit numbers (low half) needs exactly six AND gates, proved and checked in Lean.",
+  "id": "arxiv-2611.15992",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Multiplicative complexity of 3-bit low-half multiplier",
+    "unit": "AND gates",
+    "value": "6"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors prove that the three-bit low-half multiplier needs six AND gates, matching an explicit six-gate circuit. Earlier evidence came from SAT searches, while this proof is structural and does not enumerate cases. It is fully verified in the Lean 4 proof assistant. The result covers this one small multiplier.",
+  "tags": [
+    "circuit complexity",
+    "formal proof"
+  ],
+  "title": "The multiplicative complexity of the three-bit low-half multiplier",
+  "url": "https://arxiv.org/abs/2611.15992",
+  "venue": "arXiv"
+}

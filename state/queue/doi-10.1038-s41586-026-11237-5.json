@@ -1,0 +1,51 @@
+{
+  "abstract": "In 2025, a Lancet Commission proposed distinguishing clinical obesity, defined by adiposity-related organ dysfunction, from preclinical obesity, defined by excess adiposity with preserved function, and recommended using anthropometric measures beyond body mass index (BMI) to confirm obesity status1. Here we report the comparative performance of this framework versus conventional BMI-based classification using prevalence, incidence and mortality data from 844,108 adults across four cohorts in China, the UK, the USA and Spain. Complementing BMI with waist circumference and waist-to-height ratio data showed that BMI alone overestimated obesity in 1.2-3.1% and underestimated it in 5.2-8.6% of participants across cohorts. The combined anthropometric definition increased overall obesity prevalence by 3.3-7.4% relative to BMI-based classification. Clinical obesity accounted for 22.7-31.3% of total obesity, with an overall population prevalence of 5.6-10.9%. A large proportion of individuals (between 77.4% and 91.3%) with preclinical obesity at baseline showed no progression to clinical obesity over 10 years. Increased mortality risk was associated with the combined anthropometric definition of obesity, but not with BMI-only obesity. Clinical obesity was associated with substantially higher all-cause mortality (hazard ratio 1.69, 95% confidence interval 1.64-1.73), whereas preclinical obesity conferred only modest risk (1.19, 1.14-1.24). These findings support the global adoption of the Lancet Commission diagnostic framework to improve obesity care and policy.",
+  "arxiv_id": null,
+  "authors": [
+    "An Pan",
+    "Shengping Yang",
+    "Rafael Ramos",
+    "Xianli Li",
+    "Jinchi Xie",
+    "Robert H Eckel",
+    "Geltrude Mingrone",
+    "Jordi Blanch",
+    "Jingyuan Jiang",
+    "Hongmin Liu",
+    "Shuohua Chen",
+    "Tingting Geng",
+    "Shouling Wu",
+    "Eric Ravussin",
+    "José Manuel Fernández-Real",
+    "Francesco Rubino"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41586-026-11237-5",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Obesity with organ dysfunction carries far higher death risk than obesity without it, in 844,108 adults.",
+  "id": "doi-10.1038-s41586-026-11237-5",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Mortality hazard ratio, clinical obesity",
+    "value": "1.69"
+  },
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Applying the 2025 Lancet Commission framework to four cohorts in China, the UK, the USA and Spain, clinical obesity carried a hazard ratio of 1.69 for death versus 1.19 for preclinical obesity. Adding waist measures to BMI corrected misclassification in both directions. The data are observational, so the links are associations.",
+  "tags": [
+    "obesity",
+    "epidemiology"
+  ],
+  "title": "Validation of clinical and preclinical obesity across global cohorts.",
+  "url": "https://doi.org/10.1038/s41586-026-11237-5",
+  "venue": "Nature"
+}

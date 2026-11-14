@@ -1,0 +1,34 @@
+{
+  "abstract": "Abstract Protein thiyl radicals are transient reactive intermediates involved in oxidative stress and enzymatic catalysis. However, their proteome-wide, site-resolved profiling in living cells remains challenging due to the lack of suitable tools. Here, we report chemoproteomic probes enabling covalent capture and site-resolved identification of protein thiyl radicals in living cells. Designed to leverage sulfur-mediated stabilization of a vinyl radical intermediate, our thioacetylene-based probes selectively capture cysteine thiyl radicals while minimizing cross-reactivity with nucleophilic thiolates and nonradical amino acid residues. In vitro validation and live-cell chemoproteomic analysis established radical-dependent labeling and site-resolved detection of protein thiyl radicals. Notably, the probes enabled site-specific mapping of thiyl radical-associated cysteine residues in live E. coli, including Cys439 of ribonucleotide reductase A (NrdA), a canonical enzymatic thiyl radical site. Expanded residue profiling further confirmed cysteine-predominant labeling and detected probe modification at established and putative glycyl radical residues in PflB, NrdD, and YjjI, suggesting that the platform may extend beyond thiyl radicals to other protein-centered radicals. Application of the probe under oxidative and nitrosative stress revealed condition-dependent changes in cellular protein radical-associated labeling, including decreased labeling at established glycyl radical residues and bidirectional changes in cysteine radical-associated labeling. Together, these findings establish thioacetylene probes as a platform for site-resolved mapping and comparative monitoring of endogenous protein-centered radicals in living cells.",
+  "arxiv_id": null,
+  "authors": [
+    "Seungmin Ahn",
+    "Jung-Min Kee"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c21586",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Chemical probes tag short-lived sulfur radicals on proteins inside living bacteria.",
+  "hook_turn": "inside living bacteria.",
+  "id": "doi-10.1021-jacs.6c21586",
+  "license": "other",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Thiyl radicals are fleeting reactive forms of cysteine that had been hard to map in living cells. The authors built thioacetylene probes that bond to them, and mass spectrometry located the labeled sites in E. coli, including a known site in ribonucleotide reductase. Evidence comes from one bacterium, and the glycyl radical hits are only suggestive of wider use.",
+  "tags": [
+    "chemoproteomics",
+    "free radicals"
+  ],
+  "title": "Mechanism-Guided Development of Thioacetylene Probes for Chemoproteomic Profiling of Cellular Protein Thiyl Radicals",
+  "url": "https://doi.org/10.1021/jacs.6c21586",
+  "venue": "Journal of the American Chemical Society"
+}

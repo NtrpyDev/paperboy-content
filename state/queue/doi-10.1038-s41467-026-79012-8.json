@@ -1,0 +1,44 @@
+{
+  "abstract": "Abstract Monolayer transition metal dichalcogenides (TMDs) are promising laser-gain media for their direct bandgap and strong excitonic effects. However, existing TMD lasers typically rely on mechanically exfoliated or high-temperature chemical-vapor-deposition-grown materials, with their atomic-scale thickness inherently limiting the available optical gain volume. Here, we report room-temperature continuous-wave lasing-like emission from solution-processed bulk monolayer MoS 2 (BM-MoS 2 ) thin films in whispering-gallery-mode (WGM) cavities. Using solution exfoliation and spray coating under ambient conditions, we produce area- and thickness-scalable BM-MoS 2 films composed of electronically decoupled MoS 2 monolayers separated by organic spacers. This layered architecture preserves the intrinsic monolayer excitonic properties while providing a tunable gain volume beyond that of an isolated monolayer. Integrated with WGM cavities, the thickness-scalable BM-MoS 2 films enable a balance between the quality ( Q ) and optical confinement ( $$\\varGamma$$ Γ ) factors. Power-dependent measurements reveal key lasing signatures, including a threshold-like input-output crossover accompanied by linewidth narrowing at a pump power of approximately 1.4 nW, and pump-induced polarization selection. Solution-processable BM-MoS 2 thus offers a scalable gain medium for thin-film laser photonics.",
+  "arxiv_id": null,
+  "authors": [
+    "Boxuan Zhou",
+    "Haoyang Li",
+    "Bangyao Hu",
+    "Jingxuan Zhou",
+    "Chen Li",
+    "Jingyuan Zhou",
+    "Yu Huang",
+    "Xiangfeng Duan"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-79012-8",
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Solution-processed MoS2 films show lasing-like emission at room temperature from about 1.4 nW pump",
+  "id": "doi-10.1038-s41467-026-79012-8",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Lasing-like threshold pump power",
+    "unit": "nW",
+    "value": "~1.4"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Sprayed films of stacked MoS2 monolayers separated by organic spacers were placed in whispering-gallery cavities and showed a threshold-like response with linewidth narrowing at about 1.4 nW. The authors call it lasing-like, not proven lasing. Results come from small cavity devices.",
+  "tags": [
+    "2d materials",
+    "lasers"
+  ],
+  "title": "Room-temperature continuous-wave lasing-like emission from solution-processed bulk monolayer MoS2 thin films",
+  "url": "https://doi.org/10.1038/s41467-026-79012-8",
+  "venue": "Nature Communications"
+}

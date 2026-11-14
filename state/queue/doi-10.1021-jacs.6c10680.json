@@ -1,0 +1,42 @@
+{
+  "abstract": "Abstract The asymmetric kinetic resolution polymerization (AKRP) of racemic diazoacetates mediated by a [Rh(cod)Cl]2/chiral amine dual catalyst system exhibits dynamic nonlinear effects (DNLEs) in the relative rate constant (Krel). The overall Krel increases nonlinearly with the monomer conversion during polymer chain propagation and reaches a plateau at a medium conversion. These DNLEs originate from synergistic chirality amplification between the catalytic chain end and the evolving helical conformation of the growing polymer chain. Under optimized conditions, Krel increases from 15 at 3% monomer conversion to ∼ 138 at 33% conversion, and then reaches a plateau. The steric bulk of both the pendant groups of monomers and the chiral amine ligand critically regulates the magnitude and evolution of DNLEs, and reducing this bulk leads to a pronounced decrease in Krel. Chain extension experiments using the preformed helical macroinitiators exhibited a constant Krel, confirming that a well-formed helical conformation maintains stable enantioselectivity for AKRP. Computational studies further revealed that, during chain propagation, decameric species with well-developed helical conformations exhibit more pronounced energy differences between the R- and S-enantiomers than the corresponding initial monomer-inserted species. These results suggest that the one-handed helical conformation is associated with the enhanced enantiomer recognition at the catalytic center. This study reveals DNLEs in AKRP in which enantioselectivity evolves nonlinearly during polymer chain propagation, highlighting a dynamic chiral amplification mechanism that can surpass the intrinsic selectivity of a static catalyst through the cooperative action of chiral chain ends and helical conformation.",
+  "arxiv_id": null,
+  "authors": [
+    "Xun-Hui Xu",
+    "Shu-Ming Kang",
+    "Jiaqi Yu",
+    "Jie Zhang",
+    "Xinhua Wan"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c10680",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A polymerization catalyst gets pickier as its chain grows, a helix amplifying its handedness choice.",
+  "hook_turn": "a helix amplifying its handedness choice.",
+  "id": "doi-10.1021-jacs.6c10680",
+  "license": "other",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Krel at 33% conversion",
+    "value": "~138"
+  },
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Selectivity for one mirror-image monomer rose from a relative rate of 15 at 3% conversion to about 138 at 33%, then leveled off. The growing polymer's one-handed helix and the chiral chain end reinforce each other. Evidence comes from kinetics, chain-extension tests and computation on diazoacetate monomers, so it applies to this catalyst system only.",
+  "tags": [
+    "polymerization",
+    "chirality",
+    "catalysis"
+  ],
+  "title": "Dynamic Nonlinear Effects in the Asymmetric Kinetic Resolution Polymerization of Racemic Diazoacetates to One-Handed Helical Polycarbenes",
+  "url": "https://doi.org/10.1021/jacs.6c10680",
+  "venue": "Journal of the American Chemical Society"
+}

@@ -1,0 +1,35 @@
+{
+  "abstract": "Let $\\Gamma\\subset\\mathrm{O}^+(n,2)$ be a rational arithmetic group with $n\\geq 3$. A non-constant modular form for $\\Gamma$ is called strongly reflective if its zero divisor is a reduced union of mirrors of reflections in $\\Gamma$. We show that, up to conjugation and multiplication by a nonzero scalar, there are only finitely many strongly reflective modular forms. As a consequence, we establish the finiteness of holomorphic automorphic products of singular weight. These results answer a question posed by Borcherds in 1995 and settle a conjecture of Gritsenko--Nikulin from 1998. As an application, up to conjugation, we prove the finiteness of $\\Gamma$ whose corresponding algebra of modular forms is freely generated. The key ingredient is a uniform upper bound on the covolume of $\\Gamma$, obtained by adapting the higher-rank lattice convergence theorem of Ab\\'ert et al. to the study of the degrees of reflective branch divisors.",
+  "arxiv_id": "2611.16819",
+  "authors": [
+    "Jialin Li",
+    "Haowu Wang"
+  ],
+  "categories": [
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16819"
+  },
+  "hook": "Only finitely many strongly reflective modular forms exist, settling a 1995 question of Borcherds.",
+  "id": "arxiv-2611.16819",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Strongly reflective modular forms vanish exactly on mirrors of reflections in an arithmetic group. The authors prove there are finitely many up to conjugation, which settles a 1995 question of Borcherds and a 1998 conjecture of Gritsenko and Nikulin. It follows that only finitely many such groups have freely generated algebras of modular forms. The key is a uniform bound on the covolume of the group.",
+  "tags": [
+    "modular forms",
+    "number theory"
+  ],
+  "title": "Finiteness of strongly reflective modular forms",
+  "url": "https://arxiv.org/abs/2611.16819",
+  "venue": "arXiv"
+}

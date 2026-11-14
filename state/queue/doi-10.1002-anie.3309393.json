@@ -1,0 +1,39 @@
+{
+  "abstract": "Utilization of lattice oxygen redox electrochemistry is the holy grail for achieving high-capacity layered cathodes. However, prior to this, the large voltage hysteresis must be overcome. In this work, we uncover a novel scientific nature of layered stacking structure-governed interlayer transition‑metal migration that substantially modulates the reversibility of the high-voltage oxygen plateau. It is discovered that a kind of ribbon superlattice can facilitate the reversible high-voltage oxygen redox plateau in the P3-Na0.6Li0.2Mn0.6Ti0.2O2 with the oxygen stacking series of \"ABBCCA…\", but plays no role in the P2-Na0.6Li0.2Mn0.6Ti0.2O2 counterpart with the oxygen stacking series of \"ABBA…\". Combined with the experiments and theoretical calculations, it is unraveled that the P3 stacking framework can suppress O-type stacking faults and in turn elevates steric hindrance to the transition metal migration and the formation of molecular oxygen, thus enabling reversible high-voltage oxygen redox. In contrast, the P2 phase can transform into O2 phase at de-sodiated state, which accelerates severe interlayer transition metal migration, and triggers in-plane structural reconstruction and molecular oxygen, leading to loss of high-voltage plateau. This finding reveals how the layer stacking structure modulates the reversible oxygen redox plateau.",
+  "arxiv_id": null,
+  "authors": [
+    "Bo Peng",
+    "Jing-Chang Li",
+    "Lingling Hu",
+    "Sheng Xu",
+    "Feng Zhu",
+    "Shaohua Guo",
+    "Haoshen Zhou"
+  ],
+  "categories": [],
+  "doi": "10.1002/anie.3309393",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "P3 layer stacking keeps a battery cathode's oxygen redox reversible; P2 stacking loses it.",
+  "hook_turn": "P2 stacking loses it.",
+  "id": "doi-10.1002-anie.3309393",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Two sodium-lithium-manganese-titanium oxide cathodes with the same composition but different layer stacking behave differently at high voltage. The P3 stacking resists stacking faults and metal migration, while P2 turns into an O2 phase and loses its plateau. The conclusion rests on one composition studied with experiments and calculations.",
+  "tags": [
+    "battery cathodes",
+    "oxygen redox"
+  ],
+  "title": "Layer Stacking Structure Governed Transition-Metal Interlayer Migration for Reversible High-Voltage Oxygen Redox Plateau.",
+  "url": "https://doi.org/10.1002/anie.3309393",
+  "venue": "Angewandte Chemie International Edition"
+}

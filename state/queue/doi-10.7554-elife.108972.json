@@ -1,0 +1,51 @@
+{
+  "abstract": "Cholinergic dysfunction is a hallmark of Alzheimer's disease and other memory disorders. Yet, the neurophysiological mechanisms linking cholinergic signaling to memory remain poorly understood. In this study, we administered scopolamine, a muscarinic cholinergic antagonist, to neurosurgical patients with intracranial electrodes as they performed an associative recognition memory task. When scopolamine was present at encoding, we observed disruptions to hippocampal slow theta oscillations (2-4 Hz), with selective impairments to recollection-based memory. However, when scopolamine was present during retrieval alone, we observed disruptions to slow theta without impaired memory performance. These disruptions included dose-dependent reductions in theta power, theta phase reset, and encoding-retrieval pattern reinstatement. Together, our results challenge the notion that theta oscillations are necessary for memory retrieval, and instead suggest that theta universally reflects an encoding-related neural state. These findings motivate updates to current models of acetylcholine's role in memory and may inform future therapies targeting rhythmic biomarkers of memory dysfunction.",
+  "arxiv_id": null,
+  "authors": [
+    "Tamara Gedankien",
+    "Jennifer Kriegel",
+    "Erfan Zabeh",
+    "David McDonagh",
+    "Bradley C Lega",
+    "Joshua Jacobs"
+  ],
+  "categories": [
+    "Hippocampus",
+    "Humans",
+    "Scopolamine",
+    "Muscarinic Antagonists",
+    "Theta Rhythm",
+    "Memory",
+    "Mental Recall",
+    "Adult",
+    "Middle Aged",
+    "Female",
+    "Male"
+  ],
+  "doi": "10.7554/elife.108972",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Blocking acetylcholine disrupted human hippocampal theta at retrieval without harming memory.",
+  "hook_turn": "without harming memory.",
+  "id": "doi-10.7554-elife.108972",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Neurosurgical patients with implanted electrodes took scopolamine, which blocks acetylcholine receptors, during a memory task. Given at learning, it disrupted slow theta waves in the hippocampus and hurt recollection. Given only at recall, it disrupted theta but memory held up, suggesting theta matters for encoding more than retrieval. Patient numbers are small, as is usual for intracranial studies.",
+  "tags": [
+    "hippocampus",
+    "theta oscillations",
+    "memory"
+  ],
+  "title": "Cholinergic blockade reveals a role for human hippocampal theta in memory encoding but not retrieval.",
+  "url": "https://doi.org/10.7554/elife.108972",
+  "venue": "eLife"
+}

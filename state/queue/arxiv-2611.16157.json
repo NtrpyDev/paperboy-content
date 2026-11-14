@@ -1,0 +1,39 @@
+{
+  "abstract": "We resolve Erd\\H{o}s Problem~521 by proving that the normalized real-root count $N_n/\\log n$ of Rademacher polynomials almost surely has no limit. More generally, consider the Kac polynomials \\[ P_n(x)=\\sum_{j=0}^{n}\\xi_jx^j \\] with i.i.d.\\ real coefficients of mean zero, variance one, and a finite absolute exponential moment. Let $N_n$ denote the number of distinct real roots of $P_n$. We prove that, almost surely, \\[ \\liminf_{n\\to\\infty}\\frac{N_n}{\\log n}=\\frac1\\pi, \\qquad \\limsup_{n\\to\\infty}\\frac{N_n}{\\log n}=\\frac1\\pi+C_*, \\] and the set of subsequential limits is exactly \\[ \\left[\\frac1\\pi,\\;\\frac1\\pi+C_*\\right]. \\] Here $C_*>1/\\pi$ is a constant uniquely determined by an equation. The lower-limit identity remains valid under the weaker assumption that $\\mathbb{E}|\\xi_0|^{2+\\delta}<\\infty$ for some $\\delta>0$.",
+  "arxiv_id": "2611.16157",
+  "authors": [
+    "Zengjing Chen",
+    "Xiaodong Liu",
+    "Jie Peng",
+    "Hanchao Wang",
+    "Mingjian Zhang"
+  ],
+  "categories": [
+    "math.PR"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16157"
+  },
+  "hook": "Real roots of random polynomials never settle to a steady growth rate, answering an Erdős question.",
+  "hook_turn": "answering an Erdős question.",
+  "id": "arxiv-2611.16157",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For random polynomials with independent coefficients, the count of real roots divided by log n keeps oscillating forever between two constants, one of them 1/pi. This settles Erdős Problem 521 and generalizes it to many coefficient distributions. The upper constant is defined only implicitly by an equation.",
+  "tags": [
+    "random polynomials",
+    "probability"
+  ],
+  "title": "the limit point set of real roots of random polynomials: a resolution of erd\\H{o}s problem 521",
+  "url": "https://arxiv.org/abs/2611.16157",
+  "venue": "arXiv"
+}

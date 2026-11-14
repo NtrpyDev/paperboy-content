@@ -1,0 +1,36 @@
+{
+  "abstract": "Let $\\varphi_d$ be the Chebyshev polynomial with $\\varphi_d(t+t^{-1})=t^d+t^{-d}$, and let $H_d$ be the hyperelliptic curve $y^2=\\varphi_d(x)$. We determine all pairs $(d,p)$, with $p\\nmid2d$ prime, for which $H_d$ is maximal over some finite field of characteristic $p$, together with all such fields. For $p\\equiv1\\pmod4$ only partial results were known. In this case, for odd $d$ we show that the Jacobian of $H_d$ is supersingular if and only if $H_d$ is maximal over a finite extension of $\\mathbb{F}_p$, and that this happens precisely when $d=\\ell^n$ with $\\ell\\equiv1\\pmod4$ prime and $p$ a generator of $(\\mathbb{Z}/\\ell^n\\mathbb{Z})^\\times$; we also compute the Frobenius polynomial. Necessity comes from the Shimura--Taniyama formula together with the non-vanishing of the value at $0$ of certain Dirichlet L-series and information about the action of Frobenius on $2$-torsion. The case of even $d$ and $p\\equiv1\\pmod 4$ follows from the odd case, by a short reduction.",
+  "arxiv_id": "2611.14198",
+  "authors": [
+    "Saeed Tafazolian",
+    "Jaap Top"
+  ],
+  "categories": [
+    "math.NT",
+    "math.AG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14198"
+  },
+  "hook": "For odd d and p = 1 mod 4, Chebyshev curves are maximal only when d is a power of a prime l = 1 mod 4.",
+  "id": "arxiv-2611.14198",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper lists every case where the curve y^2 = Chebyshev polynomial has the most points allowed by the Hasse-Weil bound over some finite field. For p congruent to 1 mod 4 and odd d, this happens exactly when d is a power of a prime l congruent to 1 mod 4 and p generates the units mod d. The proof uses the Shimura-Taniyama formula and is purely theoretical.",
+  "tags": [
+    "algebraic curves",
+    "number theory"
+  ],
+  "title": "A Complete Classification of Maximal Hyperelliptic Curves Related to Chebyshev Polynomials",
+  "url": "https://arxiv.org/abs/2611.14198",
+  "venue": "arXiv"
+}

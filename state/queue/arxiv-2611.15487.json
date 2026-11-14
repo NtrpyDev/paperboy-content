@@ -1,0 +1,37 @@
+{
+  "abstract": "Noise degrades quantum coherence and limits the precision of quantum sensors. Quantum control can counteract these effects, but existing strategies typically assume that the noise is known. In practice, noise is often only partially characterized, so its parameters must be estimated jointly with the Hamiltonian parameters of interest. Here we show that uncertainty in the noise parameters can destroy otherwise attainable Heisenberg scaling, even when coherence is preserved. For general Markovian dynamics under arbitrary quantum control, we derive a necessary and sufficient condition for each Hamiltonian parameter to retain this scaling and determine its optimal asymptotic precision when the condition holds. When the condition fails, we propose a protocol that uses a suitable noisy reference system to restore this scaling, and prove that a reference insensitive to the Hamiltonian parameters but subject to an independent copy of the sensor's noise recovers the optimal precision attainable with known noise. Our results reveal how incomplete knowledge of the noise affects the fundamental limits of quantum metrology, with broad implications for achieving quantum-enhanced precision in realistic environments.",
+  "arxiv_id": "2611.15487",
+  "authors": [
+    "Yan Luo",
+    "Lingna Wang",
+    "Hongzhen Chen"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15487"
+  },
+  "hook": "Uncertain noise can destroy a quantum sensor's Heisenberg scaling, but a noisy reference can restore it.",
+  "hook_turn": "but a noisy reference can restore it.",
+  "id": "arxiv-2611.15487",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Quantum sensors reach Heisenberg scaling in precision, but only if noise is known. The authors derive a necessary and sufficient condition for scaling to survive when noise parameters must be estimated too, and propose a reference system with copied noise to recover the optimal precision. The results are theoretical and assume Markovian noise.",
+  "tags": [
+    "quantum metrology",
+    "quantum sensing"
+  ],
+  "title": "Restoring Heisenberg Scaling in Hamiltonian Estimation despite Noise Uncertainty",
+  "url": "https://arxiv.org/abs/2611.15487",
+  "venue": "arXiv"
+}

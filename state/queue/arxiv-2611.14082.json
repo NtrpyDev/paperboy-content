@@ -1,0 +1,44 @@
+{
+  "abstract": "We study how two atoms scatter light when they are closer than an optical wavelength and observe multiple new phenomena due to the strong interactions between laser-induced electric dipole moments. We identify a narrow range of densities where a fraction of the scattered light is coherent and shows a collective enhancement factor of two compared to independent atoms. The dynamics of the two-atom wavefunction can be observed through momentum distributions which reveal resonant ejection and depletion. Due to the tight confinement, the total fluorescence intensity strongly depends on the scattering length, since it originates from a narrow resonant (Franck-Condon) region. Furthermore, we measure how the probe laser intensity modifies the scattering length, which establishes a new way to shift Feshbach resonances. Our work provides microscopic insight into what occurs during photoassociation and parity projection in optical tweezers.",
+  "arxiv_id": "2611.14082",
+  "authors": [
+    "Hanzhen Lin",
+    "Yoo Kyung Lee",
+    "Nabeel Rasheed",
+    "Vitaly Fedoseev",
+    "Cicely Motamedi",
+    "Wolfgang Ketterle"
+  ],
+  "categories": [
+    "physics.atom-ph",
+    "quant-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14082"
+  },
+  "hook": "Two atoms closer than a light wavelength scatter together, with a collective enhancement factor of two.",
+  "id": "arxiv-2611.14082",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Collective enhancement factor of scattered light",
+    "value": "2"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "In optical tweezers, the team observes coherent scattering from atom pairs in a narrow density range, plus resonant ejection and a probe-intensity shift of the scattering length that offers a new way to move Feshbach resonances. The results come from a two-atom system under tight confinement, so they may not carry over to many-atom gases.",
+  "tags": [
+    "ultracold atoms",
+    "light scattering"
+  ],
+  "title": "Two atoms with strong light-induced dipolar interactions",
+  "url": "https://arxiv.org/abs/2611.14082",
+  "venue": "arXiv"
+}

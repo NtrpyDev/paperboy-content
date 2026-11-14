@@ -1,0 +1,43 @@
+{
+  "abstract": "The brain-skull interface governs the boundary/contact conditions of the brain in computational head models, yet its mechanical behaviour remains poorly characterised experimentally. We characterised the brain-skull interface by testing brain-skull complex samples (skull bone, meninges and brain tissue in their native arrangement) excised from 19 sheep cadaver heads under uniaxial tension and compression at strain rates of 0.002, 0.02 and 0.2 s$^{-1}$ and simple shear at 0.02 s$^{-1}$. Histology confirmed that the meningeal layers remained intact and attached to the brain and skull after excision. We acquired magnetic resonance images of every sample, reconstructed their geometry and developed a sample-specific finite element model of each experiment. We represented the brain tissue using a second-order Ogden hyperelastic model and the brain-skull interface using a cohesive zone model. Using inverse finite element analysis, we first calibrated the brain tissue parameters for each subject. Keeping these parameters fixed, we then identified the interface parameters from the corresponding brain-skull complex specimen. The brain tissue shear modulus increased with strain rate from 0.94 $\\pm$ 0.16 kPa at 0.002 s$^{-1}$ to 1.60 $\\pm$ 0.30 kPa at 0.2 s$^{-1}$. In contrast, the interface properties (maximum normal traction 2.35 $\\pm$ 0.81 kPa, maximum tangential traction 4.14 $\\pm$ 0.97 kPa, and fracture energy 0.35 $\\pm$ 0.14 N m$^{-1}$) showed no significant dependence on strain rate or loading mode. In all samples, failure occurred within the subarachnoid space. Neither a rigid brain-skull connection nor frictionless sliding contact with separation reproduced the measured mechanical response or failure mode of the brain-skull interface. Our experimentally derived cohesive zone model provides a realistic representation of the brain-skull interface for computational head models.",
+  "arxiv_id": "2611.16197",
+  "authors": [
+    "Sajjad Arzemanzadeh",
+    "Karol Miller",
+    "Ron Kikinis",
+    "Adam Wittek"
+  ],
+  "categories": [
+    "cs.CE"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16197"
+  },
+  "hook": "In sheep, the brain-skull bond fails at 2 to 4 kPa whatever the loading rate.",
+  "hook_turn": "whatever the loading rate.",
+  "id": "arxiv-2611.16197",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Fracture energy of sheep brain-skull interface",
+    "unit": "N/m",
+    "value": "0.35"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Samples from 19 sheep heads were pulled, squeezed and sheared, and matched to finite element models. Brain tissue stiffened with loading speed, but the interface strength did not, and failure always occurred in the subarachnoid space. Tests used cadaver tissue, so living-brain behavior may differ.",
+  "tags": [
+    "biomechanics",
+    "head injury"
+  ],
+  "title": "Mechanical behaviour of the intact brain-skull interface under tension, compression and shear",
+  "url": "https://arxiv.org/abs/2611.16197",
+  "venue": "arXiv"
+}

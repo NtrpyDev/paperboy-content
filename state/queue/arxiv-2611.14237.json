@@ -1,0 +1,37 @@
+{
+  "abstract": "On bounded domains, the mass-conserving parabolic-elliptic Keller-Segel system admits smooth equilibria at every mass. Nevertheless, we prove that on a disk, an open dense set of positive initial densities leads to finite-time blow-up or infinite-time grow-up whenever the effective mass is at least the critical value $4\\pi$. This threshold is sharp: below $4\\pi$, every solution exists globally, remains uniformly bounded, and converges to a smooth equilibrium. At the critical mass, all solutions are global, while infinite-time grow-up accompanied by boundary concentration is generic. We extend the result to other bounded planar domains and closed surfaces, obtaining sharp mass thresholds for the round sphere and the flat square torus.",
+  "arxiv_id": "2611.14237",
+  "authors": [
+    "Beomjun Choi",
+    "Geuntaek Seo"
+  ],
+  "categories": [
+    "math.AP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14237"
+  },
+  "hook": "Above a critical mass of 4 pi, almost every starting cell density blows up or piles up on a disk.",
+  "hook_turn": "almost every starting cell density blows up or piles up on a disk.",
+  "id": "arxiv-2611.14237",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For the Keller-Segel model of cells attracting each other, smooth steady states exist at every mass, yet the authors prove that on a disk most initial densities at or above mass 4 pi blow up in finite time or grow without bound over infinite time. Below 4 pi every solution stays bounded and settles to equilibrium. The proof is mathematical and covers the parabolic-elliptic version of the model, not the full biological system.",
+  "tags": [
+    "PDE",
+    "chemotaxis",
+    "blow-up"
+  ],
+  "title": "Generic singularity formation in two-dimensional Keller-Segel systems",
+  "url": "https://arxiv.org/abs/2611.14237",
+  "venue": "arXiv"
+}

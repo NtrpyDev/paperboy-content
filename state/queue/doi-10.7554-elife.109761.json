@@ -1,0 +1,49 @@
+{
+  "abstract": "Mitochondrial dysfunction and declining ATP production are common features of aging, yet whether ATP availability itself directly regulates cellular lifespan is unclear. However, the causal relationship between cellular ATP homeostasis and aging has not been established. Here, we developed a synthetic system to manipulate intracellular ATP independently of endogenous energy production by expressing a plasma membrane-targeted nucleotide transporter, NTT1, from the intracellular parasite Encephalitozoon cuniculi in Saccharomyces cerevisiae. NTT1 expression depleted intracellular ATP in the absence of extracellular ATP, whereas ATP supplementation produced robust NTT1-dependent ATP uptake, and increased intracellular ATP abundance. ATP availability strongly influenced replicative lifespan: ATP depletion shortened lifespan, whereas ATP supplementation restored and extended lifespan in NTT1-expressing cells. Unexpectedly, extracellular ATP also extended lifespan in wild-type cells that lack ATP import, revealing an NTT1-independent response to extracellular ATP. Transcriptomic analyses showed that NTT1-mediated ATP import suppresses glucose uptake, carbohydrate catabolism, mitochondrial respiration, and autophagy, whereas extracellular ATP elicits a distinct transcriptional response in wild-type cells involving metabolic, mitochondrial, and signaling pathways. Single-cell aging analyses further showed that ATP supplementation extends lifespan across distinct aging trajectories and shifts cells away from the mitochondrial dysfunction-associated aging state. Finally, experiments in cells lacking mitochondrial DNA separated these effects mechanistically: NTT1-associated lifespan phenotypes and high-ATP toxicity required functional mitochondria, whereas extracellular ATP extended lifespan in wild-type cells independently of mitochondrial respiration. Together, these findings demonstrate that ATP availability is a direct regulator of cellular aging and reveal distinct metabolic and extracellular ATP-responsive routes through which cellular energy state influences longevity.",
+  "arxiv_id": null,
+  "authors": [
+    "Naci Oz",
+    "Hetian Su",
+    "Vedat Sari",
+    "Paraveen Patnaik",
+    "Rohil Hameed",
+    "Jong Hee Song",
+    "Derek C Prosser",
+    "Vyacheslav M Labunskyy",
+    "Vadim N Gladyshev",
+    "Nan Hao",
+    "Alaattin Kaya"
+  ],
+  "categories": [
+    "Mitochondria",
+    "Saccharomyces cerevisiae",
+    "Nucleotide Transport Proteins",
+    "Adenosine Triphosphate",
+    "Biological Transport"
+  ],
+  "doi": "10.7554/elife.109761",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "europepmc",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13754279/fullTextXML"
+  },
+  "hook": "Feeding yeast ATP through an added transporter extended their replicative lifespan.",
+  "id": "doi-10.7554-elife.109761",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "The team gave yeast a parasite transporter that imports ATP from outside, letting them set cellular ATP apart from the cell's own production. Less ATP shortened lifespan, and added ATP restored and extended it. Plain yeast also lived longer with external ATP, through a separate route. Results are in yeast only and may not carry over to animals.",
+  "tags": [
+    "aging",
+    "atp",
+    "yeast"
+  ],
+  "title": "Engineering ATP import in yeast uncovers a synthetic route to extend cellular lifespan.",
+  "url": "https://europepmc.org/articles/PMC13754279",
+  "venue": "eLife"
+}

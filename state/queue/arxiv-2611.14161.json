@@ -1,0 +1,35 @@
+{
+  "abstract": "We establish an asymptotic form of Sun's conjecture concerning representations by the ternary quadratic polynomial \\[ P(x,y,z)=x(5x+1)+\\dfrac{y(5y+1)}{2}+\\dfrac{z(5z+1)}{2}. \\] More precisely, we prove that every sufficiently large integer is represented by $P$, with an effectively computable threshold. The proof begins by reducing the representation problem to that of a positive definite ternary quadratic form. We then study its genus and associated theta series, using explicit representation identities to determine the Shimura lift of the relevant weight-$3/2$ cusp form. Through Waldspurger's formula, this allows us to relate its Fourier coefficients to central values of quadratic twists of a weight-two modular form. Finally, effective lower bounds for class numbers, together with subconvexity estimates, show that the cuspidal contribution is dominated by the genus average for all sufficiently large integers, yielding the desired result.",
+  "arxiv_id": "2611.14161",
+  "authors": [
+    "Shilun Wang"
+  ],
+  "categories": [
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14161"
+  },
+  "hook": "Every large enough integer is a value of Sun's ternary quadratic polynomial, with a computable threshold.",
+  "hook_turn": "with a computable threshold.",
+  "id": "arxiv-2611.14161",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper proves an asymptotic version of a conjecture of Sun: all sufficiently large integers are represented by x(5x+1)+y(5y+1)/2+z(5z+1)/2. The proof uses theta series, a Shimura lift, Waldspurger's formula and class number bounds to show the cuspidal part is small. It settles only large integers; the small cases of the full conjecture are not covered.",
+  "tags": [
+    "number theory",
+    "quadratic forms"
+  ],
+  "title": "Sun's conjecture on a certain ternary quadratic form",
+  "url": "https://arxiv.org/abs/2611.14161",
+  "venue": "arXiv"
+}

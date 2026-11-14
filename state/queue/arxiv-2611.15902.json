@@ -1,0 +1,41 @@
+{
+  "abstract": "It has been suggested that the photosphere of the Sun is depleted in the abundances of the refractory elements relative to the photospheres of nearby solar twin stars and that the degree of depletion depends on condensation temperature $T_{\\text{c}}$. While the formation of the solar system's terrestrial and/or giant planets may play some role in the refractory depletion of the solar photosphere, it has also been shown that other processes can produce similar results. If the terrestrial and/or giant planet formation explanations are correct, then the depletion of refractory elemental abundances in the photospheres of terrestrial/giant exoplanet host stars should be more pronounced and therefore observable even without achieving the highest possible elemental abundance inference precisions in systems with host star surface convective zones less massive than the Sun's. For stars that host Kepler-discovered systems of terrestrial exoplanets and have low-mass surface convective zones, we do not observe the dependence of depletion on $T_{\\text{c}}$ predicted by the terrestrial planet formation scenario. For a sample of stars that has been uniformly searched with the Doppler technique for giant exoplanets, we likewise show that giant exoplanet host stars are not depleted but enhanced by about $0.0063\\pm 0.0004$ dex in refractory abundances compared to stars of similar masses and metallicities without giant exoplanets. Since gaps opened in protoplanetary disks by giant planets are thought to produce photospheric refractory depletion in their host stars, our observations imply that at constant metallicity giant planets are more likely to form in disks with high refractory abundances.",
+  "arxiv_id": "2611.15902",
+  "authors": [
+    "Le-Chris Wang",
+    "Kevin C. Schlaufman"
+  ],
+  "categories": [
+    "astro-ph.EP"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15902"
+  },
+  "hook": "Stars with giant planets hold slightly more refractory elements than others, not fewer.",
+  "hook_turn": "not fewer.",
+  "id": "arxiv-2611.15902",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Refractory enrichment of giant-planet hosts",
+    "unit": "dex",
+    "value": "0.0063"
+  },
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Stars that host giant planets are enriched by about 0.0063 dex in refractory elements compared with similar stars without them. Kepler stars with terrestrial planets show no condensation-temperature trend either. The authors compared host and non-host samples of matched mass and metallicity. The offset is tiny, so it depends on careful sample matching.",
+  "tags": [
+    "exoplanets",
+    "stellar abundances"
+  ],
+  "title": "Elemental Abundance Trends with Condensation Temperature are Unrelated to Planet Formation",
+  "url": "https://arxiv.org/abs/2611.15902",
+  "venue": "arXiv"
+}

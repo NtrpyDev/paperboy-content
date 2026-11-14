@@ -1,0 +1,55 @@
+{
+  "abstract": "Omega Centauri ($\\omega$ Cen; NGC 5139), the likely stripped nucleus of a dwarf galaxy accreted by the Milky Way, is one of the few galactic nuclei resolvable into individual stars. Because of its long relaxation time, the kinematics of its stars may still retain memory of how this nucleus formed. We combine HST proper motions and MUSE line-of-sight velocities from the oMEGACat survey to compare populations defined by abundance variations (the chromosome map), metallicity, and age within the half-light radius. The chromosome-map division separates two dynamically distinct components. The primordial stars have a flattened dispersion field, with kinematic ellipticity $\\epsilon \\approx 0.7$ ($\\sigma_{\\rm minor} / \\sigma_{\\rm major} \\approx 0.8$), which we recover independently in the line-of-sight velocities and the proper motions. The enriched stars are consistent with $\\epsilon=0$ in the line-of-sight velocities and are no more flattened than the full sample in the proper motions, and the two components show no strong difference in rotation. Metallicity bins show no comparable structure, because each bin mixes stars from both components, and the age-metallicity sample covers only the cluster core, where it cannot test for the flattening. The present-day central concentration of the most enriched (P2) stars suggests that they formed more centrally concentrated than the primordial stars, independent of assembly scenario. These results favor a picture in which the primordial stars retain the flattened orbital structure of the progenitor, while the enriched stars fell inward as dense clumps or formed in compact, centrally concentrated starbursts.",
+  "arxiv_id": "2611.15866",
+  "authors": [
+    "Peter J. Smith",
+    "N. Neumayer",
+    "A. C. Seth",
+    "C. Clontz",
+    "M. H\\\"aberle",
+    "S. O. Souza",
+    "Z. Wang",
+    "G. van de Ven",
+    "M. S. Nitschai",
+    "M. Libralato",
+    "A. Feldmeier-Krause",
+    "S. Kamann",
+    "F. I. Aros",
+    "R. Leaman",
+    "A. Bellini",
+    "R. Pechetti",
+    "M. Alfaro-Cuello"
+  ],
+  "categories": [
+    "astro-ph.GA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15866"
+  },
+  "hook": "Omega Centauri's primordial stars move in a flattened pattern. Enriched stars do not.",
+  "hook_turn": "Enriched stars do not.",
+  "id": "arxiv-2611.15866",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Kinematic ellipticity of primordial stars",
+    "value": "~0.7"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Hubble proper motions and MUSE velocities for stars in Omega Centauri show that primordial stars have a flattened velocity spread, while enriched stars look round. The enriched stars are also more centrally concentrated. This favors primordial stars keeping the orbits of the original dwarf galaxy's nucleus, but it only covers stars within the half-light radius.",
+  "tags": [
+    "globular clusters",
+    "Omega Centauri"
+  ],
+  "title": "oMEGACat. XI. Kinematic Characterization of Omega Centauri's Subpopulations: A Flattened Primordial Component",
+  "url": "https://arxiv.org/abs/2611.15866",
+  "venue": "arXiv"
+}

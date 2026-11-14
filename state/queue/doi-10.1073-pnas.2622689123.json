@@ -1,0 +1,52 @@
+{
+  "abstract": "The translocase of the outer membrane (TOM) mediates the import of most mitochondrial preproteins. In the protozoan parasite Trypanosoma brucei, this machinery is replaced by the atypical translocase of the outer membrane (ATOM), whose composition differs substantially from the canonical TOM complexes of fungi and metazoans. Here, we report the cryoelectron microscopy structure of the T. brucei ATOM complex at 2.8 Å resolution. The structure resolves all previously identified components together with an additional, previously uncharacterized subunit. Despite its divergent composition, ATOM retains a conserved dimeric channel architecture and a protein-conducting pathway closely resembling those of opisthokont TOM complexes, indicating that the core mechanism of mitochondrial protein translocation was established early in eukaryotic evolution. In contrast, the receptor and intermembrane-space regions exhibit distinct architectures, revealing extensive evolutionary diversification and multiple examples of convergent evolution. Together, these findings provide a near-atomic view of the ATOM translocase and offer insights into the origin, conservation, and diversification of the mitochondrial protein import machinery across eukaryotes.",
+  "arxiv_id": null,
+  "authors": [
+    "Shanshan Wang",
+    "Congxi Zhang",
+    "Hongjun Cai",
+    "De-Hua Lai",
+    "Long Li"
+  ],
+  "categories": [
+    "Mitochondria",
+    "Trypanosoma brucei brucei",
+    "Mitochondrial Proteins",
+    "Protozoan Proteins",
+    "Cryoelectron Microscopy",
+    "Evolution, Molecular",
+    "Protein Transport",
+    "Models, Molecular"
+  ],
+  "doi": "10.1073/pnas.2622689123",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A trypanosome's mitochondrial import gate is built differently but works like ours.",
+  "hook_turn": "works like ours.",
+  "id": "doi-10.1073-pnas.2622689123",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Cryo-EM resolution of trypanosome ATOM complex",
+    "unit": "angstroms",
+    "value": "2.8"
+  },
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Cryo-electron microscopy of the parasite's ATOM complex revealed a new subunit and a two-channel core much like the one in yeast and animals. The receptor and inner regions look quite different, suggesting the core mechanism is ancient while other parts diverged. It is a static structure, so how the pieces move during import is not shown.",
+  "tags": [
+    "mitochondria",
+    "cryo-EM",
+    "parasites"
+  ],
+  "title": "Structural insights into the evolution of mitochondrial protein import from the trypanosome ATOM complex.",
+  "url": "https://doi.org/10.1073/pnas.2622689123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

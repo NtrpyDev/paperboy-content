@@ -1,0 +1,38 @@
+{
+  "abstract": "We experimentally implement the scheme introduced by Ding, D'Incao, and Greene [Phys. Rev. A {\\bf 95}, 022709 (2017)] for controlling the scattering length near a magnetic Feshbach resonance using an rf dressing field. Specifically, we observe Autler--Townes splitting of the 1007 G Feshbach resonance in dipole-trapped $^{87}\\mathrm{Rb}$ by coupling the associated quasibound molecular state to a deeper-lying bound state with a different spin projection. At a fixed magnetic field away from the bare resonance, we further demonstrate rf switching of the collisional response. Our experimental observable is atom loss, which is consistent with enhanced three-body recombination arising from an increase in the magnitude of the real part of the scattering length. Our observation of Autler--Townes splitting establishes the feasibility of generating the strong rf magnetic fields required for sufficient molecular dressing and provides an important basis for further experimental tests of the predicted elastic nature of the rf-controlled interactions.",
+  "arxiv_id": "2611.15016",
+  "authors": [
+    "Samyajit Gayen",
+    "Matthew Chilcott",
+    "Chongwu Xie",
+    "Niels Kj{\\ae}rgaard"
+  ],
+  "categories": [
+    "cond-mat.quant-gas"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15016"
+  },
+  "hook": "A radio-frequency field splits a rubidium Feshbach resonance, a step toward tuning atom interactions.",
+  "hook_turn": "a step toward tuning atom interactions.",
+  "id": "arxiv-2611.15016",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The team trapped 87Rb atoms and coupled the molecular state behind the 1007 G Feshbach resonance to a deeper bound state with an rf field, producing the predicted Autler-Townes splitting. They also switched atom collisions on and off with rf at a fixed magnetic field. The only observable is atom loss, so the predicted elastic nature of the controlled interactions is not yet tested.",
+  "tags": [
+    "ultracold atoms",
+    "Feshbach resonance"
+  ],
+  "title": "Observing Autler--Townes splitting of an rf-dressed Feshbach resonance",
+  "url": "https://arxiv.org/abs/2611.15016",
+  "venue": "arXiv"
+}

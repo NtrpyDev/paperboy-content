@@ -1,0 +1,35 @@
+{
+  "abstract": "We prove that all mod $2$ Galois representations of a global field lift modulo $4$. In contrast, for every odd prime $p$, we exhibit examples of global Galois representations modulo $p$ that do not lift modulo $p^2$. Our methods also allow us to prove liftability of generalized quaternion groups and hence to complete the classification of liftable finite groups initiated by Khare and Merkurjev.",
+  "arxiv_id": "2611.17255",
+  "authors": [
+    "Federico Scavia"
+  ],
+  "categories": [
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17255"
+  },
+  "hook": "Every mod 2 Galois representation of a global field lifts mod 4, but odd primes can fail",
+  "hook_turn": "but odd primes can fail",
+  "id": "arxiv-2611.17255",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper proves that mod 2 Galois representations of any global field lift to mod 4, while for every odd prime p there are examples that do not lift mod p squared. It also handles generalized quaternion groups, completing the classification of liftable finite groups begun by Khare and Merkurjev. The work is purely theoretical algebra.",
+  "tags": [
+    "number theory",
+    "Galois representations"
+  ],
+  "title": "The lifting problem for Galois representations of global fields",
+  "url": "https://arxiv.org/abs/2611.17255",
+  "venue": "arXiv"
+}

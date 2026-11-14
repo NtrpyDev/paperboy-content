@@ -1,0 +1,46 @@
+{
+  "abstract": "Rapid data-center expansion is raising concerns about electricity affordability, yet how the costs of serving these large new loads reach residential customers remains poorly understood. Here, we quantify the potential impact of 371 announced Texas data-center projects, totaling 38.9 GW by 2030, on residential electricity costs by linking power system expansion, wholesale electricity markets, transmission reinforcement, and retail cost allocation. We find that accommodating this demand increases modeled residential electricity costs in one representative case by 1.64 cents/kWh, with 68% arising from higher wholesale electricity prices and 32% from regulated transmission charges. Allowing new gas generation near data centers reduces the 2023 residential cost increase to 0.92 cents/kWh, whereas excluding data centers from the transmission cost-sharing base raises it to 1.87 cents/kWh. These findings reveal that the residential cost burden of data-center growth is driven primarily by wholesale electricity price increases, rather than direct transmission investment costs, and depends critically on generation siting, infrastructure planning, and cost allocation.",
+  "arxiv_id": "2611.16095",
+  "authors": [
+    "Lingdong Zhou",
+    "Wenjia Xia",
+    "Jiyu Wang",
+    "Fei Ding",
+    "Xiangqi Zhu"
+  ],
+  "categories": [
+    "eess.SY",
+    "cs.SY",
+    "econ.GN",
+    "q-fin.EC"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16095"
+  },
+  "hook": "Texas data centers could raise household power costs 1.64 cents/kWh, mostly via wholesale prices",
+  "id": "arxiv-2611.16095",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Modeled residential cost rise, one case",
+    "unit": "cents/kWh",
+    "value": "1.64"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A model linking grid expansion, wholesale markets, transmission and retail cost allocation was applied to 371 announced Texas data centers totaling 38.9 GW by 2030. In one representative case 68% of the rise comes from wholesale prices and 32% from transmission charges. Results come from modeling one scenario set and depend on assumptions about siting and cost sharing.",
+  "tags": [
+    "data centers",
+    "electricity prices"
+  ],
+  "title": "Data-center growth impacts household electricity costs more through wholesale prices than through grid reinforcement",
+  "url": "https://arxiv.org/abs/2611.16095",
+  "venue": "arXiv"
+}

@@ -1,0 +1,44 @@
+{
+  "abstract": "Groundwater preserves continental hydroclimate signals, but its use as a Late Pleistocene archive is limited by uncertainties in radiocarbon ( 14 C) dating caused by carbon geochemical processes. The noble gas isotope 81 Kr has simpler transport behavior, yet its effective dating limit was traditionally ∼50 thousand years (ka) because of analytical constraints. Here, we extended the 81 Kr dating lower limit to ∼10 ka using high-precision atom trap trace analysis, thus covering the entire Late Pleistocene. We conducted a direct 14 C- 81 Kr comparison in the North China Plain. Within the 10- to 30-ka range, 81 Kr independently validates 14 C ages; beyond this range, it provides reliable ages for older groundwater. The dual-tracer approach reduces model uncertainty in 14 C correction and identifies mixing-affected samples. After screening, groundwater δ 18 O records closely match polar ice-core climate archives. High-precision 81 Kr dating, combined with 14 C, offers a robust age framework for reconstructing Late Pleistocene hydroclimate.",
+  "arxiv_id": null,
+  "authors": [
+    "Hao Li",
+    "Guo-Min Yang",
+    "Xilin Bao",
+    "Wei Jiang",
+    "Zheng-Tian Lu",
+    "Huifeng Yang",
+    "Mengjie Zhang",
+    "Lei Zhao"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aef6864",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Krypton-81 dating now reaches groundwater as young as 10,000 years, covering the Late Pleistocene.",
+  "id": "doi-10.1126-sciadv.aef6864",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "New lower limit of 81Kr groundwater dating",
+    "unit": "thousand years",
+    "value": "~10"
+  },
+  "significance": 7,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Using atom trap trace analysis, the team extended 81Kr dating of groundwater down to about 10 thousand years and compared it directly with radiocarbon in the North China Plain. The two agree between 10 and 30 ka, and 81Kr gives reliable ages for older water, so the pair flags mixed samples. Oxygen isotope records from screened samples match polar ice cores. The test covers one region.",
+  "tags": [
+    "groundwater dating",
+    "paleoclimate"
+  ],
+  "title": "High-precision 81 Kr dating overcomes radiocarbon limits in Late Pleistocene groundwater",
+  "url": "https://doi.org/10.1126/sciadv.aef6864",
+  "venue": "Science Advances"
+}

@@ -1,0 +1,51 @@
+{
+  "abstract": "Electrodermal activity (EDA), a primary stress-sensing signal in today’s wearables, requires skin-electrode contact that drifts and degrades over time, limiting long-term use. Here, we present an artificial intelligence (AI)–powered ring for all-optical sensing of dermal activity (ODA), using light rather than electrodes to track sweat gland activation, thereby enhancing durability and comfort. An optimized dual-wavelength design (960 and 1250 nanometers) captures perspiration dynamics while concurrently recording photoplethysmography. The ODA ring integrates temperature and motion sensors for multimodal monitoring with on-device inference. In correlation studies, ODA and EDA signals showed 86% agreement. In classification tasks, the ODA ring achieved 92.3% binary accuracy versus 77.95% for EDA. In multiclass tasks, ODA outperforms EDA by 100 to 74.58% (short term) and 89.72 to 43.20% (long term). On-device one-dimensional convolutional neural network inference enabled 87.53% autonomous accuracy. This electrode-free modality establishes a scalable, all-optical platform for rings, watches, and patches for accurate, robust, and long-term stress monitoring.",
+  "arxiv_id": null,
+  "authors": [
+    "Md Farhad Hassan",
+    "Shounak Das",
+    "Dolendra Vikas Addepalli",
+    "Leikhang Xiong",
+    "Mohammad Shafiqul Islam",
+    "A. K. M. Rakib",
+    "Samiha Tasnim",
+    "Xiao Yu",
+    "Emily Rawson",
+    "Mohammed Arfan",
+    "Antonin Brun",
+    "Gale M. Lucas",
+    "Burçin Becerik-Gerber",
+    "Adam Frank",
+    "Yasser Khan"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aeh0459",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A ring that senses sweat-gland activity with light instead of electrodes flags stress.",
+  "id": "doi-10.1126-sciadv.aeh0459",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Binary stress classification accuracy",
+    "unit": "%",
+    "value": "92.3"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "An optical ring using 960 and 1250 nm light tracks perspiration and pulse, and an on-device neural network classifies stress. Its signals agreed 86% with standard electrodermal activity, and it reached 92.3% binary accuracy against 77.95% for electrodes. Participant numbers and real-life conditions are not given in the abstract, so generalization is unclear.",
+  "tags": [
+    "wearables",
+    "stress monitoring"
+  ],
+  "title": "All-optical sensing of dermal activity enables an AI-powered wearable ring for continuous stress monitoring",
+  "url": "https://doi.org/10.1126/sciadv.aeh0459",
+  "venue": "Science Advances"
+}

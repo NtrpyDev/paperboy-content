@@ -1,0 +1,39 @@
+{
+  "abstract": "We develop a general method, in finite cyclic groups, for constructing nonnegative rational functions $f$, normalized by $f(0)=1$, that satisfy the Coven-Meyerowitz condition $(T1)$ but fail $(T2)$, such that $f$ is a weak complement for a set tile $A$. Motivated by the unsupported-divisor questions in arXiv:2507.11672, we show that if a set tile $A$ admits an unsupported divisor, then a suitable dilation of $A$ admits such a rational weak complement $f$. Using this method, we construct an explicit example in the group $\\mathbb{Z}_{180}$. The weak complements in our explicit perturbative constructions are not positive definite because of restrictions on the Fourier support of the perturbations. Thus these constructions do not resolve the proposed extension of the Coven-Meyerowitz conditions to positive-definite weak tilings (arXiv:2411.03854, Problem 1.2).",
+  "arxiv_id": "2611.13593",
+  "authors": [
+    "Gergely Kiss",
+    "Caleb Marshall",
+    "M\\'at\\'e Matolcsi",
+    "G\\'abor Somlai"
+  ],
+  "categories": [
+    "math.CO",
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13593"
+  },
+  "hook": "Rational weak tilings can satisfy the Coven-Meyerowitz T1 condition yet fail T2, shown in Z_180",
+  "hook_turn": "yet fail T2, shown in Z_180",
+  "id": "arxiv-2611.13593",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors give a general way to build nonnegative rational functions that meet condition T1 but not T2 while acting as weak complements to a set tile, and give an explicit example in the cyclic group Z_180. The examples are not positive definite, so they do not settle the open positive-definite version of the problem.",
+  "tags": [
+    "tilings",
+    "combinatorics"
+  ],
+  "title": "Nonnegative weak tilings and the Coven-Meyerowitz condition (T2)",
+  "url": "https://arxiv.org/abs/2611.13593",
+  "venue": "arXiv"
+}

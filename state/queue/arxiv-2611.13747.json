@@ -1,0 +1,36 @@
+{
+  "abstract": "Let $p$ be a prime and $F$ a field of characteristic different from $p$. For integers $n\\ge2$ and $1\\le m\\le n$, we complete the determination of the essential $p$-dimension of the class of central simple algebras of degree $p^n$ and exponent dividing $p^m$. In particular, we have $\\operatorname{ed}_p(\\operatorname{PGL}(p^n))=p^{2n-2}+1$, extending a result of Merkurjev for $n=2$. Using the comparison theorem of Chernousov and Merkurjev, we also determine the essential $p$-dimension of every split simple group of type $A$. To obtain the lower bounds, we apply a theorem of Ofek to block centralizers. As an application, we prove the existence of division algebras of exponent $p$ over field extensions of $F$ which remain noncrossed products after any field extension of degree prime to $p$, and answer in the negative a problem in the survey by Auel, Brussel, Garibaldi, and Vishne. The algebras can be chosen to have degree $p^n$ for every $n\\ge3$ if $p$ is odd and every $n\\ge4$ if $p=2$. For $p=2$ and every $n\\ge3$, we also determine the essential $2$-dimensions of the classes of central simple algebras of degree $2^n$ with orthogonal involution and with symplectic involution.",
+  "arxiv_id": "2611.13747",
+  "authors": [
+    "Sanghoon Baek"
+  ],
+  "categories": [
+    "math.AG",
+    "math.RA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13747"
+  },
+  "hook": "The essential p-dimension of the group PGL(p^n) is p^(2n-2)+1, settling the general case.",
+  "hook_turn": "settling the general case.",
+  "id": "arxiv-2611.13747",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper computes how many parameters are needed to describe central simple algebras of degree p^n, finding p^(2n-2)+1 for the general case and extending a known n=2 result. Lower bounds come from a theorem of Ofek applied to block centralizers. It also yields division algebras of prime exponent that stay noncrossed products. The results are pure algebra and assume the field characteristic differs from p.",
+  "tags": [
+    "algebra",
+    "essential dimension"
+  ],
+  "title": "Essential $p$-dimension of simple algebras and noncrossed products of prime exponent",
+  "url": "https://arxiv.org/abs/2611.13747",
+  "venue": "arXiv"
+}

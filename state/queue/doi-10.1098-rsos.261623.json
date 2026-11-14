@@ -1,0 +1,41 @@
+{
+  "abstract": "Changing their behaviour is animals' first line of defence in response to environmental disturbance. However, changes in behaviour towards social group members and mutualistic partners can also lead to reduced fitness and resilience. Here, we use clown anemonefish, Amphiprion percula, to understand how disturbances alter social and mutualistic behaviours directly and indirectly via degraded mutualistic partners. We measured fish behaviour from video recordings made during a marine heatwave in Kimbe Bay, Papua New Guinea. Since some of the hosting anemones bleached, lost symbiotic algae, and others did not, we were able to estimate the effects of heat stress separate from the indirect effects through stressed mutualistic partners. Neither stressor significantly impacted activity levels or interactions with the mutualistic partner, which made up a high proportion of behaviours throughout. However, bleaching did increase aggression between group members and defensive behaviours. Our results provide an example of behavioural plasticity in response to environmental disturbance where different behaviours were adjusted to the stressor itself or to the changing habitat. We show that some species will prioritize interactions with mutualistic partners, while their social cohesion is weakened.",
+  "arxiv_id": null,
+  "authors": [
+    "Fletcher John Noble",
+    "Melissa Versteeg",
+    "Kirstin Gaffney",
+    "Alexandra Grace Adams",
+    "Anoushka Pinto",
+    "Eve Stephenson-Archibald",
+    "Laura Sullivan",
+    "Theresa Rueger"
+  ],
+  "categories": [],
+  "doi": "10.1098/rsos.261623",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "europepmc",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13750922/fullTextXML"
+  },
+  "hook": "During a marine heatwave, anemonefish kept up partner care but fought more when anemones bleached.",
+  "hook_turn": "fought more when anemones bleached.",
+  "id": "doi-10.1098-rsos.261623",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Video of clown anemonefish in Papua New Guinea during a heatwave compared fish on bleached and unbleached host anemones. Heat stress did not change activity or contact with the anemone, but bleaching raised aggression within groups and defensive behavior. It is one heatwave at one bay, and group sizes are not given.",
+  "tags": [
+    "coral reefs",
+    "animal behavior",
+    "heatwave"
+  ],
+  "title": "Anemonefish prioritize mutualistic partner over social group during a marine heatwave.",
+  "url": "https://europepmc.org/articles/PMC13750922",
+  "venue": "Royal Society open science"
+}

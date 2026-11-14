@@ -1,0 +1,43 @@
+{
+  "abstract": "We present the first systematic parameter-estimation analysis of 42 candidate gravitational-wave signals identified in GWTC-4.0 with a probability of astrophysical origin $p_\\mathrm{astro} \\geq 0.5$, but a false-alarm rate of at least $1\\,\\mathrm{yr}^{-1}$, which were therefore not selected for parameter estimation in the catalogue. We use a catalogue-style analysis workflow and publicly available strain data to obtain posterior samples for these candidates, of which 29 pass our validation criteria. Of the remaining 13 candidates, seven are consistent with noise or impacted by instrumental artefacts, while six yield results that cannot be reliably interpreted. We identify several interesting candidates: a possible neutron star-black hole merger, GW230920_064709, and two candidates with evidence for non-zero effective spin: GW230902_172430 and GW230823_142524. The latter also shows mild evidence of precession, although further analysis is needed to establish the robustness of this result. We quantify the information gained from these observations using the Kullback-Leibler divergence, finding that the inferred spin parameters are generally only weakly constrained. We present a reproducible analysis workflow that uses publicly available data and software, without access to LVK collaboration resources, and incorporates automated posterior-validation tools. We also provide a data release containing results in a format compatible with those from GWTC-4.0. Our results demonstrate that useful parameter constraints can be obtained for many candidates below the catalogue's parameter-estimation significance threshold, while highlighting the challenges of analysing marginal signals and the importance of careful validation.",
+  "arxiv_id": "2611.16985",
+  "authors": [
+    "Daniel Williams",
+    "Michael Williams"
+  ],
+  "categories": [
+    "gr-qc",
+    "astro-ph.HE"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16985"
+  },
+  "hook": "29 of 42 weak gravitational-wave candidates yield usable data, one a possible neutron star-black hole merger.",
+  "hook_turn": "one a possible neutron star-black hole merger.",
+  "id": "arxiv-2611.16985",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Near-threshold GWTC-4.0 candidates analyzed",
+    "unit": "candidate signals",
+    "value": "42"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The team reanalyzed 42 candidates from the GWTC-4.0 catalogue that were too uncertain for the official parameter-estimation step, using public strain data and software. Twenty-nine passed validation, seven look like noise or artefacts, and six are uninterpretable. The spin and precession hints are weak, and the possible neutron star-black hole event is only a candidate.",
+  "tags": [
+    "gravitational waves",
+    "black holes",
+    "neutron stars"
+  ],
+  "title": "Lurkers at the Threshold: GWTC-4.0's near-threshold events",
+  "url": "https://arxiv.org/abs/2611.16985",
+  "venue": "arXiv"
+}

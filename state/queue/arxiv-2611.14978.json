@@ -1,0 +1,40 @@
+{
+  "abstract": "Third-party low-rank adaptation (LoRA) adapters are tailored to perform decision tasks such as content moderation and function selection. However, in the real world, quantized deployments carry a potential threat in that an adapter can pass an audit with the unquantized base, yet hijack decisions when the same base is quantized for deployment. Demonstrating this threat requires an adapter that preserves benign behavior before quantization, but hijacks decisions afterward. Further, this must hold without modifying the trusted base or knowing the victim's quantization configuration. We therefore present QHijack-LoRA, an adapter-only attack that uses the base model's natural quantization residual to activate decision hijacking. The attacker modifies neither the trusted base model nor the victim's quantization configuration. With QHijack-LoRA, a four-objective training procedure separates full-precision dormancy from quantized target activation, while preserving clean-input behavior. The adapter is trained across several different quantization methods, while adaptive reweighting and residual-direction augmentation extend the attack to unseen configurations. Our results show that auditing performed exclusively under full-precision conditions does not provide assurance of decision integrity in quantized deployment environments. Thus, we also propose a cross-precision paired audit that checks the candidate adapter in its intended deployment configuration. This work shows the critical need to audit third-party adapters in any potential quantized deployment.",
+  "arxiv_id": "2611.14978",
+  "authors": [
+    "Jiayang Li",
+    "Tianqing Zhu",
+    "Huan Huo",
+    "Heng Xu",
+    "Shang Wang",
+    "Wanlei Zhou"
+  ],
+  "categories": [
+    "cs.CR"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14978"
+  },
+  "hook": "A LoRA adapter can pass audits at full precision, then hijack decisions once the model is quantized",
+  "hook_turn": "then hijack decisions once the model is quantized",
+  "id": "arxiv-2611.14978",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "QHijack-LoRA is an adapter that behaves normally on the unquantized base model but flips target decisions after the base is quantized, without altering the base or knowing the victim's settings. It is trained against several quantization methods with extra augmentation to generalize to unseen ones. The authors propose a paired audit across precisions as a defense. The attack is shown on chosen decision tasks and models, so reach beyond them is untested.",
+  "tags": [
+    "AI security",
+    "quantization"
+  ],
+  "title": "Hijacking a Trusted LLM in Real-World Quantized Deployments Only Requires a Disguised Adapter",
+  "url": "https://arxiv.org/abs/2611.14978",
+  "venue": "arXiv"
+}

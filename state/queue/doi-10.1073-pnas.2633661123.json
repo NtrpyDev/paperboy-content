@@ -1,0 +1,41 @@
+{
+  "abstract": "Theory predicts that strong species interactions drive instability in large ecosystems, but strong interactions are common in nature while strong instability appears rare. This discrepancy motivates enduring interest in ecological mechanisms that limit or counteract instability. Dormancy-reversible metabolic suppression-may be one. Dormancy is a ubiquitous life history trait found in organisms ranging from bacteria to trees. Dormant individuals form \"seed banks\" that are temporarily disengaged from demographic processes and species interactions, creating a memory of past ecological dynamics. Seed banks can stabilize predator-prey interactions, but whether, when, and how they affect the stability of larger ecological networks is uncertain. We show that dormancy stabilizes oscillatory dynamics in a minimal mathematical model and illustrate how dormancy converts high oscillation frequency into strong restoring force. We find that dormancy can have qualitative stabilizing effects in structured food webs that undergo Hopf bifurcations and exhibit oscillatory instability, but rarely in unstructured networks or networks with symmetric (competitive or mutualistic) interactions. This classification remains accurate when only some species go dormant and drive stabilization. Our results clarify when dormancy can promote stability, indicating that it may be an important but overlooked stabilizing factor in food webs.",
+  "arxiv_id": null,
+  "authors": [
+    "Zachary R Miller",
+    "David A Vasseur",
+    "Pincelli M Hull"
+  ],
+  "categories": [
+    "Animals",
+    "Seeds",
+    "Ecosystem",
+    "Food Chain",
+    "Models, Biological"
+  ],
+  "doi": "10.1073/pnas.2633661123",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "In models, dormancy stabilizes structured food webs but rarely random or symmetric ones.",
+  "id": "doi-10.1073-pnas.2633661123",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Mathematical models show that dormant individuals, acting as a seed bank, can turn fast oscillations into a strong restoring force. This steadied food webs that would otherwise oscillate unstably, but rarely networks without structure or with only competition or mutualism. The work is theoretical and was not tested on real ecosystems.",
+  "tags": [
+    "ecology",
+    "food webs",
+    "dormancy"
+  ],
+  "title": "Dormancy stabilizes structured food webs.",
+  "url": "https://doi.org/10.1073/pnas.2633661123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

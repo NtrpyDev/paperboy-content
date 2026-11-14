@@ -1,0 +1,48 @@
+{
+  "abstract": "Solid-state quantum defects (point crystal imperfections with optically addressable spins) are among the most promising platforms for quantum information science due to their long-lived electron and nuclear spin lifetimes. The negatively-charged nitrogen-vacancy (NV$^-$) and negatively-charged group IV vacancies (G4V's) in diamond are some the most promising quantum defects but, the NV$^-$ is highly susceptible to charge noise and has low emission from its zero-phonon line while the G4V's require low operating temperatures. Here we report the physical properties of the newly discovered negatively-charged gallium-vacancy in diamond, GaV$^-$. We find that the GaV$^-$, created through FIB implantation and high-pressure high-temperature annealing, exhibits a combination of the best properties of both the NV$^-$ and G4V's: optically-detectable spin coherence at room temperature ($T_2(293K) = 1.06 \\mu$s), a large Debye-Waller factor $\\sim$0.4, a short radiative lifetime ($\\sim$3.83 ns), strong temperature dependence of the zero-field splitting (16x that of the NV$^-$), and charge-noise-protected D$_{3d}$ symmetry. These features (along with improved performance at low temperature) position the newly discovered GaV$^-$ as a key resource for quantum sensing, networking, and computation.",
+  "arxiv_id": "2611.16281",
+  "authors": [
+    "Adam D. Dodson",
+    "Tiamike Dudley",
+    "Luca Basso",
+    "Leopold Diaz",
+    "Jesse J. Lutz",
+    "Raj Patel",
+    "Matthew Markham",
+    "Jacob Henshaw",
+    "Andrew M. Mounce"
+  ],
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "quant-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16281"
+  },
+  "hook": "A gallium vacancy in diamond keeps its spin readable at room temperature, with 1.06 microsecond coherence.",
+  "id": "arxiv-2611.16281",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Spin coherence T2 at 293 K",
+    "unit": "microseconds",
+    "value": "1.06"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The newly found gallium-vacancy defect in diamond, made by focused ion beam implantation and high-pressure annealing, combines traits of two leading quantum defects. It shows room-temperature spin coherence, a Debye-Waller factor near 0.4, and a radiative lifetime near 3.83 ns. The coherence time is short, and the claims for sensing and networking are projections rather than demonstrations.",
+  "tags": [
+    "quantum defects",
+    "diamond"
+  ],
+  "title": "Optically-detected room-temperature spin-coherence from the GaV$^-$ in diamond",
+  "url": "https://arxiv.org/abs/2611.16281",
+  "venue": "arXiv"
+}

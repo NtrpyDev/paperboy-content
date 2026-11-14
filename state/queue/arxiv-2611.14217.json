@@ -1,0 +1,48 @@
+{
+  "abstract": "Context. Anti-glitches are rare and enigmatic timing anomalies. High-cadence monitoring has revealed radiatively quiet anti-glitches in several pulsar populations, but radiatively loud anti-glitches and their links to magnetospheric activity remain poorly understood. Aims. We characterize a new, large anti-glitch in the magnetar 1E 2259+586 and compare its phenomenology with other magnetars. Methods. We analyze timing, flux, pulse-profile evolution, and spectra using EP, NICER, and IXPE X-ray observations. Results. We report a 2025 anti-glitch in 1E 2259+586, the largest in this source, with $\\Delta\\nu\\approx-1.174(7)\\times10^{-7}$ Hz and $\\Delta\\nu/\\nu\\approx-8.19(4)\\times10^{-7}$. Unlike its 2019 anti-glitch, this event was radiatively loud: the persistent X-ray flux roughly doubled (~106% increase), followed by a recovery exceeding 320 days. The pulse profile changed modestly but significantly: the valley between the main and secondary peaks became shallower and then recovered with the flux. Spectral properties also changed, and Fermi-GBM detected a short soft gamma-ray burst near the event. These features resemble the radiatively loud 2012 anti-glitch. Conclusions. 1E 2259+586 is unique among magnetars: its anti-glitch rate is comparable to normal spin-up glitch rates, and its anti-glitches can be radiatively loud or relatively quiescent. The fractional anti-glitch amplitudes appear to increase monotonically; further verification is needed. Regular monitoring of 1E 2259+586 is essential for understanding anti-glitch mechanisms.",
+  "arxiv_id": "2611.14217",
+  "authors": [
+    "Han-Long Peng",
+    "Ming-Yu Ge",
+    "Shan-Shan Weng",
+    "Roberto Taverna",
+    "Shuang-Nan Zhang",
+    "Hua Feng",
+    "Yu-Jia Zheng",
+    "Kai-Ge Chang",
+    "Shi-Jie Zheng"
+  ],
+  "categories": [
+    "astro-ph.HE"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14217"
+  },
+  "hook": "Magnetar 1E 2259+586 suffered a big spin-down glitch in 2025 while its X-ray flux doubled.",
+  "hook_turn": "while its X-ray flux doubled.",
+  "id": "arxiv-2611.14217",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "exponent": -7,
+    "label": "Fractional spin change of the 2025 anti-glitch",
+    "value": "-8.19"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "X-ray data from EP, NICER and IXPE show the 2025 anti-glitch, a sudden spin-down, was the source's largest and came with a roughly 106% flux rise that took over 320 days to recover. A short soft gamma-ray burst was seen nearby in time. The claim that fractional amplitudes grow steadily rests on few events and the authors say it needs verification.",
+  "tags": [
+    "magnetars",
+    "pulsar glitches"
+  ],
+  "title": "A large radiatively loud anti-glitch in 1E 2259+586 with a protracted recovery",
+  "url": "https://arxiv.org/abs/2611.14217",
+  "venue": "arXiv"
+}

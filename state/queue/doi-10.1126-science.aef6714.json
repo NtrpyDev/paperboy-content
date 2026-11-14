@@ -1,0 +1,50 @@
+{
+  "abstract": "Humans and many other animals live in interconnected social communities that are essential for survival and well-being. In principle, communities can persist despite changes in constituent members. However, gradually accumulating changes to membership could push systems past critical thresholds into alternate states, restructuring patterns of connectivity. Such changes can further affect systemic resilience against disturbance. We investigated social network dynamics for 443 wild female Asian elephants over 12 years by tracking community membership and structure. Following accumulated demographic turnover, networks fractured into smaller and more isolated communities. Connections changed not only owing to loss of members but also modifications in relationships among remaining individuals. This provides empirical evidence of a persistent state change in the social network of a long-lived terrestrial mammal following gradually accumulating demographic turnover.",
+  "arxiv_id": null,
+  "authors": [
+    "Anastasia E Madsen",
+    "T V Pushpakumara",
+    "U Sameera Weerathunga",
+    "Devaka K Weerakoon",
+    "Shermin de Silva"
+  ],
+  "categories": [
+    "Animals",
+    "Elephants",
+    "Social Behavior",
+    "Social Isolation",
+    "Population Dynamics",
+    "Female"
+  ],
+  "doi": "10.1126/science.aef6714",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Wild elephant social networks split into small, isolated groups after enough members were replaced.",
+  "hook_turn": "after enough members were replaced.",
+  "id": "doi-10.1126-science.aef6714",
+  "license": null,
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Wild Asian elephants tracked for 12 years",
+    "unit": "female elephants",
+    "value": "443"
+  },
+  "significance": 7,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Tracking 443 wild female Asian elephants over 12 years, the researchers saw social networks fracture into smaller, more isolated communities as turnover accumulated. Relationships among surviving members also changed, not just the loss of individuals. The data come from one population, so how far the pattern generalizes to other species is untested.",
+  "tags": [
+    "elephants",
+    "social networks",
+    "animal behavior"
+  ],
+  "title": "Increased demographic turnover and isolation precede social fragmentation in Asian elephants.",
+  "url": "https://doi.org/10.1126/science.aef6714",
+  "venue": "Science"
+}

@@ -1,0 +1,43 @@
+{
+  "abstract": "Whether all fast radio burst (FRB) sources repeat, or whether some produce only a single burst, remains an open question. Using 3,950 bursts from the CHIME/FRB Catalog 2, we measure how the numbers of apparently single and repeating sources change with observing time, correcting for the declination-dependent, beam-weighted exposure and possible variations in the detection rate. Both source counts increase approximately linearly over 300--44,000~hr, as $N_{\\rm s}\\propto\\Delta t^{0.98\\pm0.02}$ for single sources and $N_{\\rm r}\\propto\\Delta t^{1.06\\pm0.14}$ for repeaters. Consequently, the observed repeater fraction remains nearly constant at $2.6^{+0.4}_{-0.6}\\%$. We interpret these results using population models that account for a distribution of detected burst rates and temporal clustering. The source counts are reproduced by a population spanning a range of rates, including sources expected to produce approximately one detectable burst over the observing time. Its detected burst rates follow a distribution close to $r^{-2}$ over 0.01--1.5~hr$^{-1}$. The burst timing and burst multiplicities provide additional constraints. Among 77 repeaters, only 6 have their first two detected bursts within a single CHIME transit, the median interval between them is 101 days, and 31 of the 52 repeaters with at least three bursts have five or more. These observations support this population and favor moderately clustered emission (Weibull shape $k\\simeq0.5$) and active phases lasting months to about a year. Our results are consistent with both a single population of repeaters whose rate distribution steepens below the range probed by CHIME and a mixed population that includes genuinely one-off sources. Thus, the current data do not require a one-off population, but cannot exclude one. Longer observing baselines are needed to distinguish these possibilities.",
+  "arxiv_id": "2611.15099",
+  "authors": [
+    "Shotaro Yamasaki",
+    "Tetsuya Hashimoto",
+    "Tomoki Wada",
+    "Tomotsugu Goto"
+  ],
+  "categories": [
+    "astro-ph.HE"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15099"
+  },
+  "hook": "CHIME data do not require one-off fast radio burst sources, but cannot rule them out.",
+  "hook_turn": "but cannot rule them out.",
+  "id": "arxiv-2611.15099",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Observed repeater fraction, CHIME Catalog 2",
+    "unit": "percent",
+    "value": "2.6"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Using 3,950 bursts from CHIME Catalog 2, the authors find that counts of single and repeating sources both grow linearly with observing time, keeping the repeater fraction near 2.6 percent. Population models fit by a spread of burst rates and clustered emission reproduce this, so one repeating population is enough, though a mixed population also fits. Longer observing baselines are needed to tell them apart.",
+  "tags": [
+    "fast radio bursts",
+    "CHIME"
+  ],
+  "title": "Fast Radio Burst Population Constrained by Source-Count Growth and Burst Clustering",
+  "url": "https://arxiv.org/abs/2611.15099",
+  "venue": "arXiv"
+}

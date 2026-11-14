@@ -1,0 +1,40 @@
+{
+  "abstract": "Recently, OpenAI proved that Hilbert's Tenth Problem over the field $\\mathbb Q$ of rational numbers has a negative solution. Motivated by this work, G. Conant et al. showed that $\\mathbb Z$ is diophantine over $\\mathbb Q$, i.e., there is an integer-coefficient polynomial $F(x,y_1,\\ldots,y_n)$ such that for any $x\\in\\mathbb Q$ we have $$ x\\in\\mathbb Z\\quad\\iff \\exists\\,y_1,\\ldots,y_{n}\\in\\mathbb Q\\ [F(x,y_1,\\ldots,y_{n})=0].$$ They constructed such a polynomial $F$ with deg $F=4$ and $n=393$. In this paper, we prove the existence of such a polynomial $F$ with $n=28$.",
+  "arxiv_id": "2611.14605",
+  "authors": [
+    "Zhi-Wei Sun"
+  ],
+  "categories": [
+    "math.NT",
+    "math.LO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14605"
+  },
+  "hook": "One polynomial equation with 28 hidden unknowns picks the integers out of the rationals.",
+  "id": "arxiv-2611.14605",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Unknowns in a polynomial defining Z over Q",
+    "unit": "unknowns",
+    "value": "28"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper shows the integers are diophantine over the rationals: a single integer polynomial F has a rational solution in 28 extra unknowns exactly when x is an integer. This cuts the earlier construction of Conant et al., which needed 393 unknowns. It is an existence result, and the paper does not claim 28 is the minimum.",
+  "tags": [
+    "Hilbert's tenth problem",
+    "number theory"
+  ],
+  "title": "$\\mathbb Z$ is Diophantine over $\\mathbb Q$ with 28 unknowns",
+  "url": "https://arxiv.org/abs/2611.14605",
+  "venue": "arXiv"
+}

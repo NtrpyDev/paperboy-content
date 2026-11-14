@@ -1,0 +1,37 @@
+{
+  "abstract": "For any given uncountable cardinal $\\kappa$, we show that every $\\kappa$-edge-connected graph admits a minor embedding of the graph $T_{\\kappa}\\star1$ (the $\\kappa$-regular tree with a new apex vertex adjacent to all its nodes), which is itself $\\kappa$-edge-connected. This extends a previous result of Kurkofka regarding unavoidable minors of $\\aleph_0$-edge-connected graphs to all uncountable cardinalities $\\kappa$.",
+  "arxiv_id": "2611.13390",
+  "authors": [
+    "Max Pitz",
+    "Lucas Real",
+    "Roman Schaut"
+  ],
+  "categories": [
+    "math.LO",
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13390"
+  },
+  "hook": "Every graph with uncountable edge-connectivity kappa contains a kappa-connected tree-plus-apex minor.",
+  "id": "arxiv-2611.13390",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A highly connected infinite graph must contain a specific connected pattern: a regular tree with one extra vertex joined to every node. The authors prove this for every uncountable cardinal kappa, extending a known result for the countable case. It is a pure existence proof for infinite graphs, with no construction for finite settings.",
+  "tags": [
+    "graph theory",
+    "infinite graphs"
+  ],
+  "title": "The unavoidable minor in graphs of uncountable edge-connectivity",
+  "url": "https://arxiv.org/abs/2611.13390",
+  "venue": "arXiv"
+}

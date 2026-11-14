@@ -1,0 +1,46 @@
+{
+  "abstract": "Abstract Cu-based catalysts offer high methanol steam reforming (MSR) activity but are limited by unstable Cu+–Cu0 interconversions due to the redox and sintering labilities of Cu. Herein, we developed a universal amino-functionalized “gripper” strategy for firmly and precisely anchoring atomically dispersed metals (e.g., Cu, Co, Ni) within Beta-zeolite. Triatomic Cu oxide (Cu3Ox) sites lower the methanol dehydrogenation activation barrier, and the synergistic interplay with adjacent OH groups from silanol nests accelerates H2 evolution and the MSR reaction. Spatially decoupling Cu-mediated methanol activation from silanol-driven H2 evolution at silanol nests as proton transport channels within the confining zeolite framework also effectively protected Cu from sintering, achieving a high specific activity of 951 molH2·molCu–1·h–1 and over 600 h of stability under continuous regeneration. This work provides a universal strategy for synthesizing atomically dispersed metal catalysts and a new design principle for maintaining the Cu structure during MSR.",
+  "arxiv_id": null,
+  "authors": [
+    "Yongbin Yao",
+    "Maoshuai Jiang",
+    "Fan Wang",
+    "Ligang Zhang",
+    "Rudong Liu",
+    "Shihao Wang",
+    "Kuo Liu",
+    "Tao Zhang"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c15075",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Three-atom copper oxide sites locked in zeolite make hydrogen from methanol and last over 600 hours.",
+  "hook_turn": "and last over 600 hours.",
+  "id": "doi-10.1021-jacs.6c15075",
+  "license": "other",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Specific activity, Cu in Beta zeolite",
+    "unit": "molH2/molCu/h",
+    "value": "951"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "An amino 'gripper' strategy anchors single-site metals in Beta zeolite, where Cu3Ox sites activate methanol and nearby silanol OH groups help release hydrogen. The catalyst reached 951 mol H2 per mol Cu per hour and stayed stable for over 600 hours with continuous regeneration. Tests were at lab scale, and stability depended on regeneration cycles.",
+  "tags": [
+    "hydrogen production",
+    "zeolite catalysts",
+    "single-atom catalysts"
+  ],
+  "title": "Zeolite-Confined Triatomic Cu Oxides at Silanol Nests as Hydrogen Transport Channels for H2 Production from Methanol Steam Reforming",
+  "url": "https://doi.org/10.1021/jacs.6c15075",
+  "venue": "Journal of the American Chemical Society"
+}

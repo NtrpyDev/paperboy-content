@@ -1,0 +1,43 @@
+{
+  "abstract": "Abstract Molecular solar thermal (MOST) energy storage compounds capture solar photon energy in the strained chemical bonds of metastable photoisomers and release it on demand as heat, yet simultaneously achieving visible-light absorption and high energy storage density has remained a persistent challenge. Here we introduce 9-aryl acridine N-oxides as MOST compounds based on visible-light-driven dearomative ring expansion. Irradiation at 470 nm, near the solar irradiance maximum at 482 nm, quantitatively converts these compounds to metastable 1,2-oxazepines, which thermally revert to the parent N-oxides and discharge the stored energy. The system achieves energy storage densities of up to 0.54 MJ/kg, comparable to Dewar anthracenes, while absorbing substantially more red-shifted light and offering nearly 3 orders of magnitude longer storage lifetimes of up to 1.4 years in the solid state. The thermal half-lives of the 1,2-oxazepines are tunable through para-substitution on the aryl ring and solvation, enabling up to a 1,300-fold reduction in half-life. Crucially, the 9-aryl substituent biases the transient oxaziridine intermediate toward selective reversion to the N-oxide over competing decomposition pathways, overcoming the limitations of other acridine N-oxides reported to date. This work establishes light-induced ring expansion as an effective strategy for MOST and expands the scope of viable MOST compounds.",
+  "arxiv_id": null,
+  "authors": [
+    "Han P. Q. Nguyen",
+    "Binzhou Lin",
+    "Junichi Usuba",
+    "Subhayan Chakraborty",
+    "Abigail M. McDowell",
+    "Madeleine G. Shehadey",
+    "Grace G. D. Han"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c19284",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Acridine N-oxides store sunlight as strained bonds for up to 1.4 years, charged by blue light.",
+  "id": "doi-10.1021-jacs.6c19284",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Maximum energy storage density",
+    "unit": "MJ/kg",
+    "value": "0.54"
+  },
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Blue light at 470 nm converts 9-aryl acridine N-oxides into metastable oxazepines that later revert and release heat. Storage lasts up to 1.4 years as a solid, nearly 1000 times longer than for Dewar anthracenes, with similar energy density. Energy density is modest in absolute terms and results are for small-scale samples.",
+  "tags": [
+    "solar energy storage",
+    "photochemistry"
+  ],
+  "title": "Visible-Light-Driven Dearomatization via Electrocyclic Ring Expansion for Solar Energy Storage",
+  "url": "https://doi.org/10.1021/jacs.6c19284",
+  "venue": "Journal of the American Chemical Society"
+}

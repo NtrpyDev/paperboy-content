@@ -1,0 +1,53 @@
+{
+  "abstract": "Immunoglobulin A (IgA) is the most abundant antibody isotype produced by mammals, and has a specialized role in mucosal homeostasis1. IgA is constantly secreted into the intestinal lumen and binds to commensal microorganisms to regulate their colonization and function2,3, with unclear implications for health. IgA deficiency is common in humans, but difficult to study, because of its complex aetiology and comorbidities4-8. Here we use genetically and environmentally controlled mice to show that various models of IgA deficiency result in increased susceptibility to several models of endogenous colorectal cancer. Cellular and molecular analyses revealed that, in the absence of IgA, colonic epithelial cells induce antibacterial factors and accelerate cell cycling in response to the microbiota. Oral treatment with IgA was sufficient to reduce steady-state proliferation and protect mice from tumours; however, this function was due to the structure of the antibody rather than to binding specificity. In a reductionist culture system, IgA directly suppressed epithelial growth. Co-immunoprecipitation mass spectrometry and targeted CRISPR screening identified DMBT1 as an IgA-binding epithelial surface protein that is required for IgA-mediated suppression of proliferation. Together, IgA and DMBT1 tune the normal cycling of absorptive colonocyte progenitors. In IgA-knockout mice, deleting the transmembrane and cytoplasmic signalling portions of DMBT1 was sufficient to reverse both the increased epithelial cell proliferation and the increased tumour susceptibility seen in these mice. These experiments establish a homeostatic function for IgA in tempering physiological epithelial responses to the microbiota to maintain mucosal health.",
+  "arxiv_id": null,
+  "authors": [
+    "Gregory P Donaldson",
+    "Gabriella Lima Dos Reis",
+    "Marwa Saad",
+    "Christopher Wichmann",
+    "Izabela Mamede",
+    "Guo Chen",
+    "Caroline E Harrer",
+    "Nicole L DelGaudio",
+    "Dayu Zhang",
+    "Begüm Aydin",
+    "Tiago B R Castro",
+    "Sergei I Grivennikov",
+    "Bernardo S Reis",
+    "Elise G Liu",
+    "Stephanie C Eisenbarth",
+    "Kivanç Birsoy",
+    "Sohail F Tavazoie",
+    "Beth M Stadtmueller",
+    "Gabriel D Victora",
+    "Daniel Mucida"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41586-026-11264-2",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Mice lacking gut IgA get more colorectal tumors. IgA calms colon cell growth via a protein, DMBT1.",
+  "hook_turn": "IgA calms colon cell growth via a protein, DMBT1.",
+  "id": "doi-10.1038-s41586-026-11264-2",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "In several mouse models, missing IgA made colon cells divide faster in response to gut bacteria and raised tumor rates. Giving IgA by mouth reversed this, and a CRISPR screen found DMBT1 as the epithelial protein that mediates it. All evidence is from mice and cell culture, so the effect in people is untested.",
+  "tags": [
+    "IgA",
+    "colorectal cancer",
+    "microbiome"
+  ],
+  "title": "Suppression of epithelial proliferation and tumorigenesis by IgA.",
+  "url": "https://doi.org/10.1038/s41586-026-11264-2",
+  "venue": "Nature"
+}

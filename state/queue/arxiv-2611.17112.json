@@ -1,0 +1,38 @@
+{
+  "abstract": "Developments in single-molecule imaging and sensing techniques have enabled direct observation of biomolecular dynamics at interfaces, which has important implications for the fields of membrane biophysics, nanofluidic sensing and transport. However, integrating active surface transport, localization and control over molecule motion remains challenging, limiting further progress in the realization of single-molecule devices. Here, we introduce an integrated surface acoustic wave (SAW)-hexagonal boron nitride (hBN) platform as a contactless actuation platform for directional transport of biomolecules over hBN surfaces. hBN provides an atomically flat surface on which DNA can be confined and still retain in-plane mobility, whereas SAW actuation enables active and guided transport without requiring specific electrical, dielectric or magnetic properties of the biomolecules. Trajectory- and jump-based analyses show that increasing the SAW power leads to higher displacement bias in the streaming direction, resulting in transport velocities along increasingly more linearized trajectories. We thus demonstrate that SAWs can induce tunable directional transport of DNA molecules confined on hBN surfaces, providing a new approach for the on-chip manipulation of biomolecules in nanofluidic systems. Our findings have important implications for the development of advanced single-molecule sequencing platforms and other technologies for biomolecular manipulation and analysis.",
+  "arxiv_id": "2611.17112",
+  "authors": [
+    "Hande N. A\\c{c}{\\i}kg\\\"oz",
+    "Kenji Watanabe",
+    "Takashi Taniguchi",
+    "Peter G. Steeneken",
+    "Sabina Caneva"
+  ],
+  "categories": [
+    "cond-mat.mes-hall"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17112"
+  },
+  "hook": "Surface sound waves push DNA in a chosen direction across a flat boron nitride sheet.",
+  "id": "arxiv-2611.17112",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Surface acoustic waves moved DNA confined on hexagonal boron nitride, and higher wave power gave a stronger bias in displacement along the streaming direction and straighter paths. Tracking individual molecules gave the result, with no electrical or magnetic handle on the DNA needed. It is a proof of principle for transport, not yet a working sequencing device.",
+  "tags": [
+    "single molecules",
+    "acoustic transport"
+  ],
+  "title": "Acoustically driven motion of single molecules at hBN surfaces",
+  "url": "https://arxiv.org/abs/2611.17112",
+  "venue": "arXiv"
+}

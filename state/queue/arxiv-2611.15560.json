@@ -1,0 +1,48 @@
+{
+  "abstract": "Measuring the mass of the Milky Way is essential for understanding galaxy formation and evolution, characterizing the Galactic potential and assembly history, and probing the nature of dark matter. We derive the enclosed mass profile of the Milky Way out to Galactocentric distances of $\\sim80\\,\\mathrm{kpc}$ using two halo tracers with full 3D kinematics: RR Lyraes (RRLs) and blue horizontal-branch stars (BHBs). Our sample consists of 7,550 RRLs and 8,230 BHBs constructed from the Large Sky Area Multi-Object Fiber Spectroscopic Telescope (LAMOST), the Sloan Digital Sky Survey (SDSS), and the Dark Energy Spectroscopic Instrument (DESI), spanning Galactocentric distances from $10$ to $100\\,\\mathrm{kpc}$. We estimate the enclosed mass using two independent methods: the spherical Jeans equation and the tracer mass estimator (TME). The two tracers yield consistent results, with $M(<81.7\\,\\mathrm{kpc}) = (4.76 \\pm 0.23)\\times10^{11}\\,\\mathrm{M}_\\odot$ from RRLs and $M(<82.8\\,\\mathrm{kpc}) = (4.66 \\pm 0.35)\\times10^{11}\\,\\mathrm{M}_\\odot$ from BHBs. Adopting an NFW profile to extrapolate the enclosed mass beyond the outermost radius probed by our tracers, we infer virial masses of $M_{200} = 8.12^{+0.72}_{-0.65}\\times10^{11}\\,\\mathrm{M}_\\odot$ from RRLs and $M_{200} = 8.13^{+0.78}_{-0.67}\\times10^{11}\\,\\mathrm{M}_\\odot$ from BHBs. We further validate our methodology using mock RRL and BHB samples constructed from two Auriga halos, finding that the inferred masses are underestimated by $15.5\\%\\pm2.8\\%$ for RRLs and $11.9\\%\\pm3.4\\%$ for BHBs, respectively. After correcting for these systematic errors, the Milky Way virial masses are $M_{200} = 9.79^{+0.93}_{-0.84}\\times10^{11}\\,\\mathrm{M}_\\odot$ from RRLs and $M_{200} = 9.24^{+0.95}_{-0.84}\\times10^{11}\\,\\mathrm{M}_\\odot$ from BHBs.",
+  "arxiv_id": "2611.15560",
+  "authors": [
+    "Xiangyu Li",
+    "Yang Huang",
+    "Jifeng Liu",
+    "Xinyi Li",
+    "Qikang Feng",
+    "Haozhu Fu",
+    "Shenglan Sun",
+    "Jiahui Wang"
+  ],
+  "categories": [
+    "astro-ph.GA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15560"
+  },
+  "hook": "Two kinds of halo stars both put the Milky Way's mass near one trillion suns.",
+  "hook_turn": "near one trillion suns.",
+  "id": "arxiv-2611.15560",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "exponent": 11,
+    "label": "Milky Way virial mass, RR Lyrae, corrected",
+    "unit": "solar masses",
+    "value": "9.79"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Motions of 7,550 RR Lyrae and 8,230 blue horizontal-branch stars out to about 80 kpc give consistent enclosed masses. Extrapolating with an NFW profile and correcting a 12 to 16 percent underestimate found in simulated galaxies gives a virial mass near 9 to 10 times 10^11 suns. The extrapolation and the simulation-based correction carry model assumptions.",
+  "tags": [
+    "Milky Way",
+    "dark matter"
+  ],
+  "title": "Measuring Milky Way Mass with RR Lyraes and Blue Horizontal Branch Stars",
+  "url": "https://arxiv.org/abs/2611.15560",
+  "venue": "arXiv"
+}

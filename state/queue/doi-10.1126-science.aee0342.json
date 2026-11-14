@@ -1,0 +1,52 @@
+{
+  "abstract": "Whether genomic data can be used to effectively predict adaptation in natural populations is unknown. Here, we tested the efficacy of genomic prediction of complex trait evolution by monitoring genome-wide allele frequencies and pigmentation variation in genetically diverse populations of Drosophila melanogaster during evolution in both field mesocosms and a controlled, lab-based setting. At two points during trait evolution, we produced a high-powered, well-resolved genotype-phenotype map that exhibited marked stability across independent populations. Although we were able to use this map to correctly infer the direction of pigmentation evolution in both the lab and field settings, the particular loci responding to selection were largely unpredictable based on the direction of trait evolution itself. Our results hold implications for the promise, and limitations, of genomic prediction.",
+  "arxiv_id": null,
+  "authors": [
+    "J A Smiley-Rhodes",
+    "M C Bitter",
+    "S Berardi",
+    "J Beltz",
+    "D A Petrov",
+    "P Schmidt"
+  ],
+  "categories": [
+    "Animals",
+    "Drosophila melanogaster",
+    "Pigmentation",
+    "Chromosome Mapping",
+    "Genomics",
+    "Evolution, Molecular",
+    "Gene Frequency",
+    "Genotype",
+    "Phenotype",
+    "Quantitative Trait Loci",
+    "Genome, Insect",
+    "Selection, Genetic",
+    "Biological Evolution"
+  ],
+  "doi": "10.1126/science.aee0342",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Fly genomes predicted which way pigmentation evolved, but not which genes changed.",
+  "hook_turn": "but not which genes changed.",
+  "id": "doi-10.1126-science.aee0342",
+  "license": null,
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Researchers tracked allele frequencies and body color in diverse fruit fly populations evolving in outdoor mesocosms and in the lab. A genotype-phenotype map stayed stable across populations and gave the right direction of change, yet the loci that responded were mostly unpredictable. One trait in one species was studied, so limits for other traits remain open.",
+  "tags": [
+    "evolution",
+    "genomic prediction"
+  ],
+  "title": "Limited genomic predictability of complex trait evolution despite genotype-phenotype stability.",
+  "url": "https://doi.org/10.1126/science.aee0342",
+  "venue": "Science"
+}

@@ -1,0 +1,35 @@
+{
+  "abstract": "Abstract Line intensity mapping (LIM) is a novel observational technique in astrophysics that utilizes the integrated emission from multiple atomic and molecular transition lines from galaxies to probe the complex physics of galaxy formation and evolution, as well as the large-scale structure of the Universe. Modeling multiple line luminosities of galaxies with varying masses or their host halo masses poses significant uncertainty due to the lack of observational data across a wide redshift range and the intricate nature of astrophysical processes, making them challenging to model analytically or in simulations. While future experiments aim to measure multiple line intensities up to z ∼ 8 across a wide volume using tomographic methods, we leverage publicly available datasets from the cosmic microwave background (CMB) experiment Planck and the galaxy survey eBOSS to constrain the CO(3–2) emission from galaxies. We stack galaxies on the Planck CO(2–1) map and measure galaxy-correlated emission at z ∼ 0.5. Its interpretation as CO(3–2) depends on the continuum model, spectral response, and background treatment, which turns into the signal detection confidence between 2.2 σ and 3.4 σ . Our findings demonstrate that stacking methods are already viable with existing observations from CMB experiments and galaxy surveys, and are complementary to traditional LIM experiments.",
+  "arxiv_id": null,
+  "authors": [
+    "Anirban Roy",
+    "Nicholas Battaglia",
+    "Anthony R. Pullen"
+  ],
+  "categories": [],
+  "doi": "10.3847/2041-8213/aebb26",
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Stacking eBOSS galaxies on a Planck map reveals CO emission at redshift 0.5 at 2.2 to 3.4 sigma.",
+  "hook_turn": "at 2.2 to 3.4 sigma.",
+  "id": "doi-10.3847-2041-8213-aebb26",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Averaging Planck microwave map pixels at the positions of eBOSS galaxies picks up faint carbon monoxide light tied to those galaxies at redshift about 0.5. The detection is weak, and its significance depends on how the continuum, spectral response and background are modeled. It shows that existing data can serve line intensity mapping, but the signal is not yet firm.",
+  "tags": [
+    "line intensity mapping",
+    "galaxy evolution"
+  ],
+  "title": "A Measurement of CO(3–2) Line Emission from eBOSS Galaxies at z ∼ 0.5 Using Planck Data",
+  "url": "https://doi.org/10.3847/2041-8213/aebb26",
+  "venue": "The Astrophysical Journal Letters"
+}

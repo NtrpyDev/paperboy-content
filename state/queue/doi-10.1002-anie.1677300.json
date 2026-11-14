@@ -1,0 +1,54 @@
+{
+  "abstract": "The large-area deterministic integration of distinct halide perovskites into designed heterostructures is essential for advanced optoelectronics, but remains challenging due to solvent incompatibility, lattice mismatch, interfacial instability, and mechanical fragility. Here, we report a scaffold-guided, layer-by-layer integration strategy that overcomes these limitations through a synergistic mechanical-reinforcement and chemical-coordination paradigm. Using a porous electrospun polyacrylonitrile nanofiber network as an active, coordinating macromolecular scaffold, we fabricate freestanding, large-area rebar perovskite films with high perovskite content (>99 wt%), thickness tunability across orders of magnitude (sub-µm to mm), and exceptional mechanical robustness. Beyond its physical role as a support matrix for perovskite deposition, the nanofibrous scaffold functions as an active interface-coordinating regulator, which passivates interfacial defects, suppresses non-radiative recombination, and directs crystallization. This platform enables the deterministic layer-by-layer integration of various perovskites into sharp-interfaced two-dimensional (2D)/ three-dimensional (3D) heterostructures and complex 3D architectures with programmable composition and geometry. As a functional demonstration, a 2D/3D (PEA)2PbI4/MAPbI3 rebar perovskite heterostructure achieves high-sensitivity x-ray detection with ultralow dark-current drift and a self-powered detection limit surpassing medical standard.",
+  "arxiv_id": null,
+  "authors": [
+    "Jie Meng",
+    "Qin Xiong",
+    "Wenbo Ma",
+    "Lijun Chai",
+    "Ming Xia",
+    "Sisi Wang",
+    "Xin Sheng",
+    "Hongzhi Shen",
+    "Zhihao Gong",
+    "Changle Mu",
+    "Lingyu Xiao",
+    "Zhongpu Wang",
+    "Yiling Zhang",
+    "Mengchen Li",
+    "Rui Wang",
+    "Yunfan Guo",
+    "Yang Michael Yang",
+    "Enzheng Shi"
+  ],
+  "categories": [],
+  "doi": "10.1002/anie.1677300",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A polymer nanofiber scaffold lets perovskite films stack layer by layer, up to millimeters thick.",
+  "id": "doi-10.1002-anie.1677300",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Perovskite content in the rebar films",
+    "unit": "wt%",
+    "value": ">99"
+  },
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Researchers grew perovskite films inside an electrospun polyacrylonitrile nanofiber network that reinforces the film and passivates defects. The films stack into sharp 2D/3D heterostructures, and one such stack detected x-rays with low dark-current drift. The detection claim comes from one device type, and scale-up and long-term stability are not shown in the abstract.",
+  "tags": [
+    "perovskites",
+    "x-ray detection"
+  ],
+  "title": "Chemically Anchored Rebar Perovskites for Deterministic Layer-by-Layer Integration.",
+  "url": "https://doi.org/10.1002/anie.1677300",
+  "venue": "Angewandte Chemie International Edition"
+}

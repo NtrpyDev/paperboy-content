@@ -1,0 +1,40 @@
+{
+  "abstract": "Sleep is essential for brain health, yet how it maintains neuronal homeostasis at the cellular level remains poorly understood. Here, we show that extended wakefulness selectively suppressed neuronal autophagic flux in the cortex of mice, whereas sleep rapidly restored it, accompanied by a shift in autophagic cargo from mitochondrial components to synaptic proteins. Sleep upregulated ATG7 expression in the cortex, involving both lysosomal degradation and a putative noncanonical secretory route. Moreover, low neuronal activity is associated with efficient flux, as Gq-mediated neuronal activation impaired autophagy and promoted intracellular amyloid-beta; accumulation. Notably, closed-loop optogenetic stimulation of lysosomal acidification, exclusively during sleep, reduced amyloid pathology in 5xFAD mice, whereas wake-targeted stimulation worsened pathology. Together, these findings demonstrate that sleep serves as a physiological gatekeeper for cortical neuronal autophagy, and highlight the importance of brain-state timing for enhancing intracellular proteostasis in neurodegenerative disease.",
+  "arxiv_id": null,
+  "authors": [
+    "Yang, L.",
+    "Zhang, X.",
+    "Li, J.",
+    "Liu, X.",
+    "Liu, D."
+  ],
+  "categories": [
+    "neuroscience"
+  ],
+  "doi": "10.64898/2026.11.08.764098",
+  "explain": false,
+  "field": "neuroscience",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/12/2026.11.08.764098.source.xml"
+  },
+  "hook": "Sleep restores brain-cell cleanup that waking suppresses, and sleep-timed stimulation cut amyloid in mice.",
+  "hook_turn": "sleep-timed stimulation cut amyloid in mice.",
+  "id": "doi-10.64898-2026.11.08.764098",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "In mice, long wakefulness suppressed autophagy, the cell's recycling process, in cortical neurons, and sleep restored it. Optogenetically boosting lysosome acidification only during sleep reduced amyloid pathology in 5xFAD Alzheimer model mice, while doing it during wake worsened it. This is a preprint in mice, and a mouse Alzheimer model may not transfer to people.",
+  "tags": [
+    "sleep",
+    "autophagy",
+    "Alzheimer's disease"
+  ],
+  "title": "Sleep promotes neuronal autophagy for intracellular clearance",
+  "url": "https://doi.org/10.64898/2026.11.08.764098",
+  "venue": "bioRxiv"
+}

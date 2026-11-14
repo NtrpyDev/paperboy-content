@@ -1,0 +1,50 @@
+{
+  "abstract": "Using the Planet Finder Spectrograph (PFS) on the 6.5-m Magellan Clay Telescope at the Las Campanas Observatory we have discovered a cold gas giant exoplanet orbiting the K7V dwarf star HIP88962. 16 yrs of PFS observations imply an exoplanet with an orbital period of $\\approx$ 19.3 yrs and a radial velocity semiamplitude (K) of 94.9 m s$^{-1}$. With a host star mass of 0.62 $M_\\odot$, this implies a planet mass $M_p sin(i) \\sim 5 M_{Jup}$. While stable M dwarfs have a PFS RMS of $\\approx$ 3 m s$^{-1}$, the single Keplerian fit for HIP88962 has an RMS of $\\approx$ 6 m s$^{-1}$, hinting at a second exoplanet. The best double planet Keplerian fit, with a 4.113 d period, still results in a RMS of $\\approx$ 5 m s$^{-1}$. HIP88962 has Ca II H lines with twice the emission of four stable stars, implying that stellar activity may contribute to the RMS jitter error for the single Keplerian fit. When combined with Hipparcos and Gaia astrometry, HIP88962 b has a nearly edge-on orbit with inclination 91 $\\pm$ 22 deg, true planet mass $4.83$ M$_{Jup}$, semimajor axis 6.15 $\\pm$ 0.5 au, and eccentricity 0.718 $\\pm$ 0.02. Including a PFS jitter of $\\approx$ 7 m s$^{-1}$ yields $\\chi^2 = 0.995$ for the combined solution. A massive gas giant orbiting at $\\approx$ 6 au around a 0.62 $M_\\odot$ star is incompatible with published core accretion population synthesis models, but consistent with formation by gas disk gravitational instability.",
+  "arxiv_id": "2611.16032",
+  "authors": [
+    "Alan P. Boss",
+    "R. Paul Butler",
+    "Johanna K. Teske",
+    "Guang-Yao Xiao",
+    "Yifan Xuan",
+    "Fabo Feng",
+    "Jiayin Li",
+    "Sharon X. Wang",
+    "Stephen A. Shectman",
+    "Jeffrey D. Crane"
+  ],
+  "categories": [
+    "astro-ph.EP",
+    "astro-ph.SR"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16032"
+  },
+  "hook": "A planet five times Jupiter's mass circles a dim star at 6 au. Core accretion struggles to explain it.",
+  "hook_turn": "Core accretion struggles to explain it.",
+  "id": "arxiv-2611.16032",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Orbital period of HIP88962 b",
+    "unit": "years",
+    "value": "~19.3"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Sixteen years of radial velocity data from the Magellan PFS, combined with Hipparcos and Gaia astrometry, reveal a gas giant of about 4.8 Jupiter masses orbiting a 0.62 solar mass star every 19.3 years. The authors argue its mass and orbit fit formation by disk instability better than core accretion models. The star shows extra scatter that may be activity or a second planet, and the formation argument is an interpretation.",
+  "tags": [
+    "exoplanets",
+    "planet formation"
+  ],
+  "title": "Magellan PFS Discovery of a Cold Gas Giant Exoplanet Likely Formed by a Gas Disk Gravitational Instability",
+  "url": "https://arxiv.org/abs/2611.16032",
+  "venue": "arXiv"
+}

@@ -1,0 +1,35 @@
+{
+  "abstract": "We study the online graph exploration problem, in which an agent must visit every vertex of an initially unknown weighted graph on $n$ vertices and return to its starting vertex. In this model, a vertex's incident edges and their weights are revealed when it is first visited. Despite extensive research, the best known competitive guarantee for general graphs had remained $\\mathcal{O}(\\log n)$, a bound already established in 1977 for the greedy TSP heuristic Nearest Neighbor. Subsequent approaches, including hierarchical depth-first search (hDFS) and Blocking, achieve better guarantees on restricted graph classes but have logarithmic or worse competitive ratios on general graphs. This raises the question of whether the logarithmic barrier is inherent and Nearest Neighbor is asymptotically optimal. We answer this question in the negative by giving an $\\mathcal{O}(\\log n/\\log \\log n)$-competitive algorithm. Our algorithm is a slight modification of hDFS, and we establish its competitive guarantee with a surprisingly short proof.",
+  "arxiv_id": "2611.14827",
+  "authors": [
+    "Julia Baligacs"
+  ],
+  "categories": [
+    "cs.DS",
+    "cs.DM"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14827"
+  },
+  "hook": "A small change to a classic algorithm breaks the 1977 log n barrier for online graph exploration.",
+  "id": "arxiv-2611.14827",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A slight modification of hierarchical depth-first search gives an O(log n / log log n)-competitive algorithm for exploring unknown weighted graphs, beating the O(log n) bound standing since 1977. The proof is short. It is an upper bound only, and the paper does not show it is the best possible.",
+  "tags": [
+    "online algorithms",
+    "graph exploration"
+  ],
+  "title": "Sublogarithmic Online Graph Exploration",
+  "url": "https://arxiv.org/abs/2611.14827",
+  "venue": "arXiv"
+}

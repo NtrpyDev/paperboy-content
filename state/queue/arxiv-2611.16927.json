@@ -1,0 +1,39 @@
+{
+  "abstract": "With the discovery of blue large-amplitude pulsators (BLAPs), one of the most important questions to be answered was in which evolutionary channel(s) these radially pulsating stars could form. Located in the Hertzsprung-Russell diagram between hot subdwarfs and main sequence, BLAPs cannot be the products of single-star evolution. Therefore, virtually all scenarios explaining their origin assume binarity at some stage of evolution. One of these scenarios proposed that some BLAPs may have formed as a result of the merger of two low-mass white dwarfs or a white dwarf and a main-sequence star. The merger scenario may result in the formation of a magnetic field in the merger product, as is postulated for magnetic white dwarfs. Pulsations in a star with a strong magnetic field can manifest themselves in a way known from rapidly oscillating Ap stars, i.e. in the form of evenly spaced multiplets (usually triplets) in the frequency spectrum. This phenomenon can be explained by the oblique pulsator model. We have shown that the three evenly spaced frequency modes discovered in the first BLAP, OGLE-BLAP-001, can be explained in this way. Similar behaviour has also been found in two other BLAPs.",
+  "arxiv_id": "2611.16927",
+  "authors": [
+    "Andrzej Pigulski",
+    "Piotr A. Ko{\\l}aczek-Szyma\\'nski",
+    "Marta \\'Swi\\k{e}ch",
+    "Piotr {\\L}ojko",
+    "Kacper J. Kowalski"
+  ],
+  "categories": [
+    "astro-ph.SR"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16927"
+  },
+  "hook": "Three rare pulsating stars show magnetic-star oscillation patterns, hinting they formed in mergers.",
+  "hook_turn": "hinting they formed in mergers.",
+  "id": "arxiv-2611.16927",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Blue large-amplitude pulsators are odd stars that single-star evolution cannot make. Three evenly spaced frequencies in the first one found, OGLE-BLAP-001, fit the oblique pulsator model used for magnetic stars, and two other BLAPs behave similarly. That supports a merger origin, but the magnetic field itself has not been measured directly.",
+  "tags": [
+    "variable stars",
+    "stellar mergers"
+  ],
+  "title": "Magnetic blue large-amplitude pulsators",
+  "url": "https://arxiv.org/abs/2611.16927",
+  "venue": "arXiv"
+}

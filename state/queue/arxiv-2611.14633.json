@@ -1,0 +1,51 @@
+{
+  "abstract": "Electronic Fabry-P\\'erot interferometers provide a powerful probe of coherent quantum Hall edge transport, yet the presence of multiple spin and valley degrees of freedom in existing van der Waals material platforms can complicate their interpretation. Monolayer WSe$_2$ offers a distinct opportunity because strong spin-orbit coupling and spin-valley locking lift these degeneracies, producing intrinsically single-component Landau levels. Here we realize the first gate-defined quantum Hall Fabry-P\\'erot interferometer in monolayer WSe$_2$. By continuously tuning the cavity size in a single device, we observe robust Aharonov-Bohm (AB) interference of quantum Hall edge channels across the interferometer; the observed predominance in the AB regime is consistent with a weak bulk-edge coupling ($\\Delta \\approx 0.034$) estimated by electrostatics. Moreover, temperature and bias dependence measurements consistently yield an edge velocity $v \\approx (4.9 \\pm 0.2) \\times 10^4\\,\\mathrm{m\\,s^{-1}}$. Our results establish monolayer WSe$_2$ as a clean, flavor-resolved platform for quantum Hall interferometry and provide a foundation for future studies of single-component fractional quantum Hall states and interferometric probes of anyonic statistics in transition-metal dichalcogenides.",
+  "arxiv_id": "2611.14633",
+  "authors": [
+    "Himadri Chakraborti",
+    "Charles L. Tschirhart",
+    "James Fang",
+    "Saisab Bhowmik",
+    "Chengrui Yu",
+    "Shujian Cao",
+    "William Caro",
+    "Kenji Watanabe",
+    "Takashi Taniguchi",
+    "Jie Shan",
+    "Kin Fai Mak"
+  ],
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.str-el"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14633"
+  },
+  "hook": "First gate-defined quantum Hall interferometer in monolayer WSe2 shows clean electron interference.",
+  "id": "arxiv-2611.14633",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "exponent": 4,
+    "label": "Quantum Hall edge velocity",
+    "unit": "m/s",
+    "value": "4.9"
+  },
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The team built an electronic interferometer in monolayer WSe2, where spin-valley locking leaves each Landau level a single component, and saw Aharonov-Bohm interference of quantum Hall edge channels as they tuned the cavity size. Temperature and bias dependence gave a consistent edge velocity. The results come from one device, and the fractional states and anyon physics it is meant to enable are not yet shown.",
+  "tags": [
+    "quantum Hall effect",
+    "2D materials"
+  ],
+  "title": "Quantum Hall Fabry-P\\'erot Interferometry in Monolayer WSe$_2$",
+  "url": "https://arxiv.org/abs/2611.14633",
+  "venue": "arXiv"
+}

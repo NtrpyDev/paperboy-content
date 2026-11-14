@@ -1,0 +1,38 @@
+{
+  "abstract": "Genomic diversity provides the raw material through which all evolutionary processes occur. Accurately describing how environmental features affect patterns of diversity shows promise in predicting the resilience of populations and entire communities to dynamic environments and novel stressors. Identifying the contribution of purely neutral responses to environmental effects can be difficult, especially across large spatial ranges with many covarying environmental features. Using an individual-based model of larvae carried by ocean currents, we predict patterns of neutral genomic diversity in a passively dispersed coastal species, suggesting large geographic regions of relative homogeneity with ancestry determined by the nearest \"upstream\" population with limited larval input. The genomic identity that dominates each region sharply transitions at the next such interruption, generating hierarchical structure and violating assumptions of isolation-by-distance. We call these upstream populations \"lineage source regions\" (LSRs), and we find strong concordance between LSR model predictions and an empirical population genomic survey of a keystone salt marsh mussel (Geukensia demissa). We quantitatively validate model performance and goodness-of-fit, updating baseline predictions of genomic diversity patterns from the classic isolation-by-distance model to this LSR framework. This spatially explicit coastal ancestry model has potential for generalization across passive dispersing species.",
+  "arxiv_id": null,
+  "authors": [
+    "Smith, C. A.",
+    "Petersen, K. N.",
+    "Pringle, J. M.",
+    "Wares, J. P."
+  ],
+  "categories": [
+    "evolutionary biology"
+  ],
+  "doi": "10.64898/2026.11.09.764070",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/11/2026.11.09.764070.source.xml"
+  },
+  "hook": "An ocean-current model predicts where salt marsh mussel ancestry changes, matching genomic data.",
+  "hook_turn": "matching genomic data.",
+  "id": "doi-10.64898-2026.11.09.764070",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "A simulation of larvae drifting on ocean currents predicts broad regions with uniform ancestry set by the nearest upstream source, with sharp breaks between them. It fits a genomic survey of the ribbed mussel better than the usual isolation-by-distance baseline. It is tested on one species, so generalizing to other drifters is unproven.",
+  "tags": [
+    "population genomics",
+    "ocean currents"
+  ],
+  "title": "Ocean current models predict spatial structure for coastal biodiversity",
+  "url": "https://doi.org/10.64898/2026.11.09.764070",
+  "venue": "bioRxiv"
+}

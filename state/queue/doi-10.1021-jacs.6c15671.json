@@ -1,0 +1,36 @@
+{
+  "abstract": "Abstract Paramagnetic metal complexes are powerful tools in chemical catalysis and, increasingly, quantum information science, positioning them as ideal tools for quantum sensing within reactions themselves. However, this application requires an interface between spins and light in chemically relevant platforms. Here, we demonstrate that circularly polarized light can generate electron spin coherence in low-symmetry, catalytically relevant Pd(I) complexes. By measuring ultrafast changes in optical polarization with time-resolved Faraday rotation, we optically detect coherent superhyperfine interaction between the Pd(I)-centered electron spin and adjacent 31P nuclei from the ligand at ambient temperature in solution. The electronic origins of this behavior are attributed to excited-state orbital angular momentum through combined spectroscopic and computational analysis, and the optically measured coherence is benchmarked against pulsed electron paramagnetic resonance. Spin polarization is coherently exchanged between the electron spin and initially incoherent nuclear spins, constituting a rare example of optical access to a nuclear spin register in an ambient-temperature, solution-phase molecular system. Both reactivity and quantum spin function are mediated by the bisphosphine ligand; taken together with in situ detection of coherent Pd(I) spin dynamics directly in reaction mixtures, this work moves molecular qubits toward quantum sensing in chemical reactions.",
+  "arxiv_id": null,
+  "authors": [
+    "Sojung F. Kim",
+    "Erica Sutcliffe",
+    "Ryan G. Hadt"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c15671",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Light creates and reads out coherent electron spin in palladium(I) complexes in room-temperature solution.",
+  "hook_turn": "in room-temperature solution.",
+  "id": "doi-10.1021-jacs.6c15671",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Circularly polarized light set up electron spin coherence in Pd(I) bisphosphine complexes, and time-resolved Faraday rotation detected its coupling to neighboring 31P nuclear spins at ambient temperature. The signals matched pulsed EPR and were seen in reaction mixtures. It is a demonstration of principle for molecular qubit sensing, not yet a working sensor of a reaction.",
+  "tags": [
+    "molecular qubits",
+    "spin coherence",
+    "palladium"
+  ],
+  "title": "Optical Access to a Molecular Nuclear-Spin Register in Catalytically Relevant Palladium(I) Complexes",
+  "url": "https://doi.org/10.1021/jacs.6c15671",
+  "venue": "Journal of the American Chemical Society"
+}

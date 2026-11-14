@@ -1,0 +1,38 @@
+{
+  "abstract": "An $r$-uniform loose triangle $C_3$ consists of three edges that intersect pairwise in exactly one vertex and have no vertex common to all three. For graphs, this is the usual triangle, and the Ramsey number $R(C_3,K_t)$ has order of magnitude $t^2/\\log t$ by celebrated results of Ajtai, Koml\\'os, and Szemer\\'edi and of Kim. Kostochka, Mubayi, and Verstra\\\"ete proved that $R(C_3,K_t^{(r)})=O_r(t^{3/2})$ for every fixed $r\\ge3$ and showed that this bound is sharp up to a logarithmic factor. Motivated by the logarithmic saving in the graph case, they conjectured in 2013 that the upper bound could be improved to $o(t^{3/2})$.This conjecture has since received significant attention and has been reiterated in several papers. We prove the conjecture by showing that, for every fixed $r\\ge3$, \\[ R(C_3,K_t^{(r)}) =O_r\\left(\\frac{t^{3/2}}{\\sqrt{\\log\\log t}}\\right). \\]",
+  "arxiv_id": "2611.16957",
+  "authors": [
+    "Ayush Basu",
+    "Abhishek Dhawan",
+    "Abhishek Methuku"
+  ],
+  "categories": [
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16957"
+  },
+  "hook": "Loose-triangle Ramsey numbers beat the t^(3/2) bound, settling a 2013 conjecture.",
+  "hook_turn": "settling a 2013 conjecture.",
+  "id": "arxiv-2611.16957",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Ramsey numbers ask how large a structure must be before some pattern is unavoidable. The authors show that for hypergraphs, avoiding a loose triangle against a clique of size t forces a size only slightly below t^(3/2), improving by a factor of root log log t. The proof is a pure upper bound; the gap to the best known lower bound stays open.",
+  "tags": [
+    "ramsey theory",
+    "hypergraphs",
+    "combinatorics"
+  ],
+  "title": "Ramsey numbers of loose triangles versus cliques",
+  "url": "https://arxiv.org/abs/2611.16957",
+  "venue": "arXiv"
+}

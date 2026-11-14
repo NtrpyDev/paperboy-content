@@ -1,0 +1,34 @@
+{
+  "abstract": "The goal of this paper is to start proving the Brou\\'e--Digne--Michel conjectures concerning the cohomology of Deligne--Lusztig varieties attached to roots of the full twist. The main result establishes that the $\\mathrm{Ext}$-algebras of the cohomology complexes attached to roots of the full twist are concentrated in degree $0$. The main idea is to reduce the problem to a calculation in the Hecke category. The resulting argument is essentially topological and applies to all realizations of the Hecke category.",
+  "arxiv_id": "2611.16017",
+  "authors": [
+    "Arnaud Eteve"
+  ],
+  "categories": [
+    "math.RT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16017"
+  },
+  "hook": "A step toward the Broue-Digne-Michel conjectures: the relevant Ext-algebras live in degree 0",
+  "id": "arxiv-2611.16017",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper proves that Ext-algebras of cohomology complexes of Deligne-Lusztig varieties, attached to roots of the full twist, are concentrated in degree 0. The proof reduces the question to a calculation in the Hecke category and is essentially topological. It settles only the first part of the conjectures, not the whole program.",
+  "tags": [
+    "representation theory",
+    "Hecke category"
+  ],
+  "title": "On the Brou\\'e--Digne--Michel conjectures: disjointness of the cohomology groups",
+  "url": "https://arxiv.org/abs/2611.16017",
+  "venue": "arXiv"
+}

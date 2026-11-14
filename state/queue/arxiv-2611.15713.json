@@ -1,0 +1,46 @@
+{
+  "abstract": "Optically addressable electron spins are promising platforms for quantum technologies, with molecular systems offering chemical control over their spin and optical properties. Achieving optical readout of molecular spin states at room temperature and without an applied magnetic field is an important step towards their practical implementation. Quintet states generated via singlet fission are promising optically addressable multilevel qudits, but their intrinsic spin transitions at zero and weak magnetic fields remain largely unexplored, while substantial room-temperature quintet coherence has predominantly been demonstrated in structurally constrained molecular architectures. Here, we combine zero-field optically detected magnetic resonance (zero-field ODMR) with transient and pulsed electron paramagnetic resonance (EPR) to investigate the magnetic-field dependence and coherent spin properties of quintet states in conformationally flexible, through-space coupled tetracene oligomers. We demonstrate zero-field optical readout of quintet states at room temperature in both tetracene dimers and hexamers, and map the response of optically detected transitions to weak applied magnetic fields. Complementary EPR measurements support quintet formation through stochastic exchange fluctuations and demonstrate a room-temperature phase-memory time of 446 ns, showing that the conformational dynamics enabling high-spin formation remain compatible with substantial spin coherence. Together, these results integrate field-free optical readout, weak-field response and room-temperature spin coherence within a chemically modular, through-space coupled molecular architecture, expanding the design space for optically addressable molecular qudits and quantum sensors.",
+  "arxiv_id": "2611.15713",
+  "authors": [
+    "Jeannine Gr\\\"une",
+    "Maciej Majdecki",
+    "William K. Myers",
+    "Przemys{\\l}aw Gawe{\\l}",
+    "Hannah L. Stern"
+  ],
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15713"
+  },
+  "hook": "Flexible tetracene molecules let light read out spin quintets at room temperature, no magnet needed.",
+  "hook_turn": "no magnet needed.",
+  "id": "arxiv-2611.15713",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Room-temperature phase-memory time",
+    "unit": "ns",
+    "value": "446"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Tetracene dimers and hexamers show quintet spin states that can be read optically at room temperature with no applied magnetic field. The authors combined zero-field optically detected magnetic resonance with pulsed EPR and measured a 446 ns phase-memory time. Results come from two oligomer types in the lab, so practical sensing is not yet shown.",
+  "tags": [
+    "molecular qudits",
+    "singlet fission",
+    "quantum sensing"
+  ],
+  "title": "Zero-Field Optical Readout of Quintet States in Through-Space Coupled Tetracene Oligomers at Room Temperature",
+  "url": "https://arxiv.org/abs/2611.15713",
+  "venue": "arXiv"
+}

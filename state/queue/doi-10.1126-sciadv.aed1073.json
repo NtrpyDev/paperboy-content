@@ -1,0 +1,44 @@
+{
+  "abstract": "High-resolution x-ray spectroscopy of classical T Tauri stars (CTTs) reveals a soft x-ray excess, low electron density, and accretion rate inferred from helium-like oxygen (O VII). Accretion shock models have been widely studied via numerical simulations and can reproduce observations with appropriate accretion stream structures. Within the standard accretion shock framework, we propose a distinct physical model involving energy exchange between postshock hot plasma and cold infalling material during reverse shock propagation into the accretion stream. Incorporating charge exchange processes, the electron density derived from the O VII triplet shows excellent agreement with helium-like neon diagnostics and standard accretion shock model predictions. The mass accretion rate inferred from O VII emission also becomes consistent with optical results. Complementing our theoretical work, we conducted a laboratory simulation of CTT accretion shocks supported by hydrodynamic similarity principles. Time-integrated x-ray self-emission and temporal optical shadowgraphy reveal the dynamic formation of two dense clumps, the “core” and “shell,” which morphologically resemble hydrodynamic oscillations driven by heating/cooling instabilities in CTT accretion shocks. The core is a standing shock formed by a preheated low-density plasma flow impinging on a carbon-hydrogen foil, while the shell is shocked aluminum plasma (the reverse shock) arising from interactions between accumulated aluminum plasma and its following flow. High-resolution experimental spectra confirm that charge exchange occurs in the shocked x-ray–emitting region. Our results demonstrate that dynamic interactions between postshock and infalling material, mediated by charge exchange cooling, is the reason for the low O VII density problem in CTTs.",
+  "arxiv_id": null,
+  "authors": [
+    "Guiyun Liang",
+    "Huigang Wei",
+    "Dawei Yuan",
+    "Jiayong Zhong",
+    "Zuolin Ma",
+    "Yongli Ping",
+    "Lifeng Wang",
+    "Jun Xiong",
+    "Zhiyong Xie",
+    "Xinwen Ma",
+    "Wei Cui",
+    "Gang Zhao"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aed1073",
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Charge exchange between hot and cold gas may explain the low density in young stars' x-ray emission.",
+  "hook_turn": "explain the low density in young stars' x-ray emission.",
+  "id": "doi-10.1126-sciadv.aed1073",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "X-ray spectra of T Tauri stars suggest odd low densities and accretion rates. A model with charge exchange at the reverse shock fixes both, and a laser-plasma lab analogue confirmed charge exchange in the shocked region. The lab experiment is a scaled stand-in, not the star itself.",
+  "tags": [
+    "T Tauri stars",
+    "accretion shocks"
+  ],
+  "title": "Origins of low density and low accretion rate in classical T Tauri stars",
+  "url": "https://doi.org/10.1126/sciadv.aed1073",
+  "venue": "Science Advances"
+}

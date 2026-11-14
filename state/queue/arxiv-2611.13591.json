@@ -1,0 +1,38 @@
+{
+  "abstract": "We use the Lax formulation of classical integrable systems to characterize the topology of nonlinear periodic orbits. For a Hamiltonian system with one degree of freedom, we express the chiral-symmetric Lax operator along a periodic orbit in a frequency basis. Energy conservation makes both bands of the resulting tight-binding model exactly flat. The harmonic oscillator corresponds to a fully dimerized topological Su-Schrieffer-Heeger model, while nonlinearity generates long-range hopping through higher harmonics. In the symmetric double well, the winding number changes as intrawell periodic orbits give way to an orbit spanning both wells, and the zero-energy edge mode of the semi-infinite chain disappears. We derive the edge-mode profile and show that its localization length diverges logarithmically as the separatrix is approached. At the separatrix, the period and the hopping decay length diverge while the band gap remains finite; this singular limit of the periodic motion allows the winding number of the infinite frequency chain to change. Canonical quantization of the Lax operator also connects the chiral winding numbers to supersymmetric quantum mechanics: for a bound system on the real line with simple turning points, their sum over all periodic orbits at a common positive energy equals the Witten index. We also apply the construction to periodic nonlinear waves through traveling-wave reductions. The finite-period winding number becomes undefined in their solitary-wave limits.",
+  "arxiv_id": "2611.13591",
+  "authors": [
+    "Urei Miura",
+    "Hisao Hayakawa"
+  ],
+  "categories": [
+    "cond-mat.mes-hall",
+    "nlin.CD",
+    "nlin.SI"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13591"
+  },
+  "hook": "A swinging pendulum-like orbit maps onto a topological chain whose winding flips at the separatrix",
+  "hook_turn": "whose winding flips at the separatrix",
+  "id": "arxiv-2611.13591",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "By rewriting the Lax operator of a one-degree-of-freedom orbit in a frequency basis, the authors get a flat-band Su-Schrieffer-Heeger-type model. In a symmetric double well, the winding number changes when orbits merge across wells and the edge mode vanishes. The winding sum also equals the Witten index in the quantum case. It is a theory result for idealized integrable systems.",
+  "tags": [
+    "topological physics",
+    "nonlinear dynamics"
+  ],
+  "title": "Topological flat bands from nonlinear periodic motion",
+  "url": "https://arxiv.org/abs/2611.13591",
+  "venue": "arXiv"
+}

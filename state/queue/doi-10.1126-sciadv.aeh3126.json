@@ -1,0 +1,47 @@
+{
+  "abstract": "Rapid and accurate identification of the spectropolarimetric characteristics of light is increasingly demanded across modern optical technologies. Existing spectral-polarimetric analysis typically relies on a limited number of filters and polarizers, yielding discrete and often disordered outputs that require extensive calibration and computational reconstruction. Here, we present a compass-like meta-device that enables direct visualization of both spectrum and polarization by spatially locating resonant signatures. Through dual-dimensional geometric engineering in polar coordinates—based on collective resonances analogous to quasi-bound states in the continuum with symmetry-broken meta-atom anisotropy—the compass-like meta-device exhibits dihedral group ( D n ) symmetry and radially conformal scaling of unit-cell geometry, mapping polarization and wavelength onto azimuthal and radial spatial positions, respectively. This design enables continuous characterization of linear-polarization orientation with a mean absolute angular error of 6.2°, together with continuous spectral readout over the 1450–1600 nm range at a visually resolvable spectral resolution of ∼6 nm. Our approach functions as an intuitive, single-shot, and robust spectropolarimeter for on-chip multidimensional optical sensing and imaging.",
+  "arxiv_id": null,
+  "authors": [
+    "Yifeng Xiong",
+    "Shaochen Fang",
+    "Haotian Xu",
+    "Tianyue Li",
+    "Xiangyu Ma",
+    "Hong Zhang",
+    "Ye Chen",
+    "Jinhui Chen",
+    "Yu Lei",
+    "C. T. Chan",
+    "Fei Xu"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aeh3126",
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A compass-shaped metasurface shows light's color and polarization as positions on the device.",
+  "id": "doi-10.1126-sciadv.aeh3126",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Mean absolute polarization angle error",
+    "unit": "degrees",
+    "value": "6.2"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "A patterned meta-device maps wavelength to radial position and polarization angle to azimuth, so both can be read at a glance in a single shot. It reads linear polarization with a 6.2 degree mean absolute error and resolves wavelength to about 6 nm across 1450 to 1600 nm. It covers only linear polarization and a narrow infrared band.",
+  "tags": [
+    "metasurfaces",
+    "spectropolarimetry"
+  ],
+  "title": "Direct visualization of light’s polarization and spectrum with a compass-like meta-device",
+  "url": "https://doi.org/10.1126/sciadv.aeh3126",
+  "venue": "Science Advances"
+}

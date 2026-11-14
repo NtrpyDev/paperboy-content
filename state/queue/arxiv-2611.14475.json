@@ -1,0 +1,40 @@
+{
+  "abstract": "We construct an explicit family of real $m\\times n$ restricted isometries with $m\\to\\infty$, $m/n\\to 0$, $\\delta_k\\to 0$, and $k=m^{2/3-o(1)}$. We combine Gershgorin's circle theorem with a flat RIP estimate to reduce the problem to choosing a large vertex set in a strongly regular graph with the property that every small subset spans few edges. We select this vertex set using an incidence geometric result due to Zahl. The proof only uses the entrywise absolute value of the Gram matrix despite the conventional wisdom that such proof techniques exhibit a barrier of $m^{1/2}$. We prove that this barrier is actually $m^{2/3}$, and we show that our particular construction exhibits the same barrier.",
+  "arxiv_id": "2611.14475",
+  "authors": [
+    "Christian K\\\"ummerle",
+    "Dustin G. Mixon"
+  ],
+  "categories": [
+    "math.FA",
+    "cs.IT",
+    "math.CO",
+    "math.IT",
+    "math.MG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14475"
+  },
+  "hook": "Explicit sensing matrices now reach sparsity m^(2/3), past the old m^(1/2) barrier.",
+  "hook_turn": "past the old m^(1/2) barrier.",
+  "id": "arxiv-2611.14475",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors build explicit matrices that preserve the length of sparse vectors up to sparsity about m^(2/3), where earlier explicit constructions stalled near m^(1/2). They reduce the problem to picking a vertex set in a strongly regular graph and use a geometry result of Zahl. They also show this proof style cannot go beyond m^(2/3). Sparsity is still far below what random matrices achieve.",
+  "tags": [
+    "compressed sensing",
+    "restricted isometry"
+  ],
+  "title": "Explicit restricted isometries with $k=m^{2/3-o(1)}$",
+  "url": "https://arxiv.org/abs/2611.14475",
+  "venue": "arXiv"
+}

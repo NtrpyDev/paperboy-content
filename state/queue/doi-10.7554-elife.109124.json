@@ -1,0 +1,59 @@
+{
+  "abstract": "Ewing sarcoma (EwS) is a fusion-driven malignancy, peaking in adolescence. Although EwS tumors are driven uniquely by EWS::FLI1 and related fusions, patient outcomes vary greatly. If and how tumor plasticity of EWS::FLI1-regulated transcriptional signatures contributes to disease progression is not known. To address this, we utilized a single-cell co-assay of RNA and chromatin accessibility (ATAC) sequencing to identify gene regulatory networks in EwS. By comprehensively characterizing regulatory elements across cell lines, we identified multiple unique modules of gene regulation. Differential usage and prevalence of these modules was evident across cell lines, associated with distinct epigenetic and transcriptomic signatures, and in specific cases, modifiable by exogenous TGF-β. When we examined primary EwS patient tumors, we observed these same regulatory modules were variably enriched both across and within tumors, highlighting the existence of intratumoral heterogeneity in gene regulatory networks. Our findings demonstrate that multiple, co-existing transcriptional programs shape the phenotypic diversity of EwS and suggest that the balance between these networks may have important implications for clinical outcomes and targeted therapy development.",
+  "arxiv_id": null,
+  "authors": [
+    "Olivia G Waltner",
+    "April A Apfelbaum",
+    "Emma D Wrenn",
+    "Shruti S Bhise",
+    "Sami B Kanaan",
+    "Rula Green Gladden",
+    "Mark A Mendoza",
+    "Roger Volden",
+    "Zev Kronenberg",
+    "Anand G Patel",
+    "Michael A Dyer",
+    "Jay F Sarthy",
+    "Elizabeth R Lawlor",
+    "Scott N Furlan"
+  ],
+  "categories": [
+    "Cell Line, Tumor",
+    "Humans",
+    "RNA-Binding Protein EWS",
+    "Oncogene Proteins, Fusion",
+    "Transcription, Genetic",
+    "Gene Expression Regulation, Neoplastic",
+    "Proto-Oncogene Protein c-fli-1",
+    "Gene Regulatory Networks",
+    "Single-Cell Analysis",
+    "Sarcoma, Ewing",
+    "Single-Cell Gene Expression Analysis"
+  ],
+  "doi": "10.7554/elife.109124",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "europepmc",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13754278/fullTextXML"
+  },
+  "hook": "Ewing sarcoma tumors mix several gene-regulation programs, even within a single tumor.",
+  "hook_turn": "even within a single tumor.",
+  "id": "doi-10.7554-elife.109124",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Ewing sarcoma is driven by one fusion protein, yet patients fare very differently. Joint single-cell RNA and chromatin accessibility profiling found distinct gene-regulation modules in cell lines, one shifted by TGF-beta, and the same modules appeared unevenly within patient tumors. The link to clinical outcome is suggested, not shown.",
+  "tags": [
+    "ewing sarcoma",
+    "single-cell",
+    "cancer"
+  ],
+  "title": "Multimodal single-cell analyses reveal distinct fusion-regulated transcriptional programs in Ewing sarcoma.",
+  "url": "https://europepmc.org/articles/PMC13754278",
+  "venue": "eLife"
+}

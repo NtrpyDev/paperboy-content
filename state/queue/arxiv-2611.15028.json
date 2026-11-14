@@ -1,0 +1,39 @@
+{
+  "abstract": "Natural ice commonly contains entrapped air, yet its dynamical role during melting remains unresolved. Using numerical simulations and theoretical analysis, we show that melt-front-released bubbles activate entrapped air as a mechanical forcing on the liquid. Bubble buoyancy disrupts density-anomaly-induced thermal structure and injects momentum into the melt-controlling boundary layer, producing melt rates more than twice the bubble-free value at percent-level gas fractions. The evolving interface and background convection regulate this coupling, which weakens again under sufficiently vigorous convection, producing a finite coupling window. A mechanical-power ratio comparing bubble-generated and background-flow power organizes this behavior. Recasting the bubble contribution as an effective near-boundary velocity extends standard ice-ocean melt closures, while reported field conditions can enter the mechanically significant regime. More broadly, a moving phase boundary can activate an embedded dispersed phase as an internal mechanical forcing.",
+  "arxiv_id": "2611.15028",
+  "authors": [
+    "Jin Hu",
+    "Feng Wang",
+    "Yihong Du",
+    "Enrico Calzavarini",
+    "Chao Sun"
+  ],
+  "categories": [
+    "physics.flu-dyn"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15028"
+  },
+  "hook": "Air bubbles released by melting ice more than double its melt rate in simulations.",
+  "hook_turn": "more than double its melt rate in simulations.",
+  "id": "arxiv-2611.15028",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Simulations and theory show that bubbles freed at the melting surface stir the water next to the ice, disrupting its temperature layers and raising melt rates above twice the bubble-free value at percent-level gas fractions. The effect fades when background convection is vigorous enough. It is a numerical result with no laboratory or field measurement behind it.",
+  "tags": [
+    "ice melting",
+    "fluid dynamics"
+  ],
+  "title": "Melting Ice Activates Mechanical Forcing from Entrapped Air",
+  "url": "https://arxiv.org/abs/2611.15028",
+  "venue": "arXiv"
+}

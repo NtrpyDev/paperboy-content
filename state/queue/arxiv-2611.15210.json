@@ -1,0 +1,39 @@
+{
+  "abstract": "We show that for every integer $n\\ge2$ that is not a power of two there are constants $c_n>0$ and $B_n>2$ such that $s(C_n^r)\\ge c_nB_n^r$ for all $r\\ge1$. For powers of two, Harborth's formula gives growth rate exactly $2$. For the remaining even exponents, the previous lower bounds were of order $r2^r$. When $n=2m$ with $m\\ge3$ odd, we prove the transfer inequality \\[ A_n(H\\oplus C_n^5)\\ \\ge\\ 12\\,A_n(H\\oplus C_n)+8\\,A_n(H\\oplus C_m), \\] where $A_n(G)$ is the maximal length of a sequence over $G$ without an $n$-term zero-sum subsequence and $H$ is any finite abelian group whose exponent divides $n$. The transfer extends a configuration of Elsholtz to twenty full cyclic fibers. Combined with a nine-point binary construction for $2m$-term zero-sums over $C_m^r$, it gives bases at least $2.0341$ that tend to $2.0394\\ldots$; combined with a finite-field construction, it gives $s(C_6^r)\\ge c\\cdot 2.0491^r$. For exponents divisible by $4$ that are not powers of two, we obtain a base above two from a weighted random construction on the eighteen-point configuration of Wang and Zeng.",
+  "arxiv_id": "2611.15210",
+  "authors": [
+    "Krishnendu Bhowmick"
+  ],
+  "categories": [
+    "math.CO",
+    "math.NT"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15210"
+  },
+  "hook": "Zero-sum constants for every n that is not a power of two are proved to grow faster than 2^r.",
+  "id": "arxiv-2611.15210",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Growth base, lower bound on s(C6^r)",
+    "value": "2.0491"
+  },
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For every n that is not a power of two, the Erdos-Ginzburg-Ziv constant of the group C_n^r is shown to grow at least like B^r with B above 2, replacing older bounds of order r2^r. The proof uses a transfer inequality that builds long zero-sum-free sequences from smaller ones, plus explicit constructions. For n=6 the base reaches 2.0491; these are lower bounds only, and the true growth rate stays unknown.",
+  "tags": [
+    "zero-sum sequences",
+    "additive combinatorics"
+  ],
+  "title": "Cyclic fibers and exponential lower bounds for Erd\\H{o}s--Ginzburg--Ziv constants",
+  "url": "https://arxiv.org/abs/2611.15210",
+  "venue": "arXiv"
+}

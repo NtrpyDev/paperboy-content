@@ -1,0 +1,40 @@
+{
+  "abstract": "The spatially and temporally varied mechanical and biochemical properties of the extracellular matrix (ECM) are critical regulators of cell function. Despite the emerging importance of ECM viscoelasticity in dictating cell fate, suitable biomaterials systems enabling spatiotemporal control over matrix viscoelasticity to direct cell function in physiologically relevant 3D contexts are lacking. A dynamic covalent hydrogel platform was developed that enables user-defined, in situ modulation of stress relaxation kinetics decoupled from bulk network stiffness via self-contained, radical-free photochemistries. By introducing photocaged alkoxyamines into initially rapidly relaxing hydrazone-based networks, the viscoelasticity of the networks can be tuned on demand by converting the hydrazone crosslinks to more stable oxime crosslinks following light exposure. This hydrazone-to-oxime bond exchange drives a dramatic shift in stress relaxation half time from approximately ~10^2 s to ~10^4 s within a single, continuous matrix, without altering stiffness or introducing cytotoxicity. This platform enabled real-time control over cellular adaptations to spatiotemporally patterned viscoelastic mechanical cues, directing fibroblast morphological transitions in 2D, human neural progenitor cell stemness maintenance in 3D, and neurite outgrowth from encapsulated motor neuron spheroids. This phototunable hydrogel system represents a robust platform for selectively patterning viscoelastic cues to direct mechanosensitive cell fate transitions.",
+  "arxiv_id": null,
+  "authors": [
+    "Wang, Y.",
+    "Liu, A. C.",
+    "Zhou, P.",
+    "Kwon, T. Y.",
+    "Norris, L. T.",
+    "Lu, D.",
+    "Madl, C. M."
+  ],
+  "categories": [
+    "bioengineering"
+  ],
+  "doi": "10.64898/2026.11.10.764845",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/12/2026.11.10.764845.source.xml"
+  },
+  "hook": "Light switches a hydrogel from fast to slow stress relaxation at constant stiffness, steering cells.",
+  "id": "doi-10.64898-2026.11.10.764845",
+  "license": "cc-by-nc",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "A hydrogel with photocaged groups converts fast-relaxing hydrazone crosslinks into stable oxime ones when lit, so viscoelasticity can be patterned in place. Fibroblast shape, neural progenitor stemness and neurite outgrowth responded to the patterns. Limit: results are in cultured cells, and in vivo behavior is untested.",
+  "tags": [
+    "biomaterials",
+    "mechanobiology"
+  ],
+  "title": "Directing Cell Fate via Spatiotemporally Patterned Viscoelasticity Driven by Dynamic Crosslink Exchange",
+  "url": "https://doi.org/10.64898/2026.11.10.764845",
+  "venue": "bioRxiv"
+}

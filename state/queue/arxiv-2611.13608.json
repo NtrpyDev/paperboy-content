@@ -1,0 +1,36 @@
+{
+  "abstract": "Let $G$ be a graph with $m$ edges, $t(G)$ triangles, and adjacency spectral radius $\\lambda(G)>\\sqrt m$. Li, Feng and Peng (2025) conjectured that $t(G)\\ge\\sqrt m-O(1)$ if no vertex belongs to every triangle of $G$. We prove the stronger bound $t(G)\\ge\\lambda(G)-C$ for an absolute constant $C$, and give an explicit choice of $C$. The proof bounds the sum of the squared adjacency eigenvalues other than the largest and smallest. Interlacing and matrix perturbation estimates then restrict the neighbourhood of a vertex corresponding to a largest entry of a Perron vector to two disjoint edges and isolated vertices. A weighted count of the triangles completes the proof.",
+  "arxiv_id": "2611.13608",
+  "authors": [
+    "Dongxiu Cai",
+    "Xiao-Dong Zhang"
+  ],
+  "categories": [
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13608"
+  },
+  "hook": "Graphs whose triangles share no common vertex have at least about lambda triangles, proving a conjecture",
+  "hook_turn": "proving a conjecture",
+  "id": "arxiv-2611.13608",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "For graphs with spectral radius above the square root of the edge count, the paper shows the triangle count is at least the spectral radius minus a constant, which is stronger than the conjecture of Li, Feng and Peng. The proof bounds eigenvalue sums, uses interlacing and perturbation estimates to pin down the structure near a Perron vector peak, then counts triangles by weights.",
+  "tags": [
+    "spectral graph theory",
+    "extremal graph theory"
+  ],
+  "title": "Triangles without a common vertex",
+  "url": "https://arxiv.org/abs/2611.13608",
+  "venue": "arXiv"
+}

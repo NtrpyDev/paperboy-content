@@ -1,0 +1,40 @@
+{
+  "abstract": "Chemotaxis-directed movement in response to environmental cues-is fundamental to biological systems but remains rare in artificial systems, where it typically relies on complex catalytic pathways or intricate adaptive designs. The molecular mechanisms underlying artificial chemotaxis are still scarce and poorly understood, posing challenges for the rational design of advanced artificial chemotactic systems. Here we present a minimal polymeric system that achieves negative chemotaxis through intrinsic conformational dynamics, enabling mechanical transduction and directional movement without the need for catalysis or external energy input. Our study uncovers a previously unrecognized molecular mechanism in which hydrophobic membrane domains dynamically reconfigure in response to chemical signals, triggering a cascade of events, from conformational rearrangements to interfacial tension alterations that generate self-sustained motile behaviour. By elucidating the interplay between membrane dynamics, interfacial forces and directional transport, our findings advance the molecular understanding of synthetic systems that emulate cytoskeletal remodelling in biological motility and establish a versatile framework for engineering functional artificial protocells with life-like behaviours.",
+  "arxiv_id": null,
+  "authors": [
+    "Danni Wang",
+    "Jiabin Luan",
+    "Ajeeth Kanagarajan",
+    "Rachel L Hendrikse",
+    "Mark R Wilson",
+    "Shaohua Zhang",
+    "Wei Li",
+    "Daniela A Wilson"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41557-026-02298-0",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Simple polymer vesicles move away from a chemical signal with no catalyst or fuel.",
+  "hook_turn": "with no catalyst or fuel.",
+  "id": "doi-10.1038-s41557-026-02298-0",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "A minimal polymer vesicle shows negative chemotaxis, moving away from a chemical gradient, with no catalysis or external energy. Its hydrophobic membrane domains rearrange in response to the chemical, changing interfacial tension and driving motion. The system is synthetic and minimal, so how closely it mirrors living cell motility is untested.",
+  "tags": [
+    "artificial cells",
+    "chemotaxis"
+  ],
+  "title": "Conformationally driven negative chemotaxis in synthetic vesicles.",
+  "url": "https://doi.org/10.1038/s41557-026-02298-0",
+  "venue": "Nature Chemistry"
+}

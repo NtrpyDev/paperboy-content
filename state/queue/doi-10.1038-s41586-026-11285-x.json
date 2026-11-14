@@ -1,0 +1,45 @@
+{
+  "abstract": "Plastic pollution is a defining feature of the Anthropocene1, and microplastics are dispersed by air and water into even remote terrestrial habitats2-7, yet the ecological and landscape-level processes that shape microplastic accumulation in terrestrial ecosystems remain poorly understood. Human land-use change is rapidly transforming landscapes worldwide, but the influence of this expanding human footprint on the microplastic burdens in wildlife remains largely unknown. This knowledge gap is particularly pressing in regions that are facing escalating environmental pressures, such as Brazil. Here we pair in vivo microplastic measurements with high-resolution tracking data from lowland tapirs and giant anteaters across Brazil and show that the microplastic burdens carried by free-ranging mammals increase with both the magnitude of their human footprint exposure and their proximity to development and waste management infrastructure. Microplastics were also detected in the blood of individuals occupying seemingly pristine habitats far from development, suggesting that direct exposure to human-modified landscapes is unlikely to be the sole driver of systemic microplastic burdens. In a period of accelerating global land-use change, these findings reveal how individual habitat use and anthropogenic land-use change interact to shape wildlife exposure to microplastics and suggest that managing animals' proximity to development and waste management infrastructure may reduce the microplastic burdens carried by terrestrial wildlife.",
+  "arxiv_id": null,
+  "authors": [
+    "Marcia de Almeida Monteiro Melo Ferraz",
+    "Arnaud L J Desbiez",
+    "Mario Henrique Alves",
+    "Justin M Calabrese",
+    "Alexandra Tiso Cumerlato",
+    "Fernanda Cristina Jacoby",
+    "Nicole Grechi",
+    "Danilo Kluyber",
+    "Erika Y Lin",
+    "Marcella Pecora Milazzotto",
+    "Grazielle Soresini",
+    "Emília Patrícia Medici",
+    "Gabriela Mastromonaco",
+    "Michael J Noonan"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41586-026-11285-x",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Wild tapirs and anteaters in Brazil carry more microplastics the more human development they live near.",
+  "id": "doi-10.1038-s41586-026-11285-x",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Researchers measured microplastics in lowland tapirs and giant anteaters and matched them with GPS tracking. Burdens rose with human footprint and proximity to waste infrastructure, yet blood from animals in remote habitat also had microplastics. Only two species in Brazil were studied, and the link is correlational.",
+  "tags": [
+    "microplastics",
+    "wildlife"
+  ],
+  "title": "Human land use drives microplastic abundance in terrestrial wildlife.",
+  "url": "https://doi.org/10.1038/s41586-026-11285-x",
+  "venue": "Nature"
+}

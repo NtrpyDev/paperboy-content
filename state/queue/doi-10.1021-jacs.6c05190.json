@@ -1,0 +1,42 @@
+{
+  "abstract": "Abstract Carbyne─the one-dimensional sp-hybridized allotrope of carbon─has long been predicted to exhibit unique properties, yet its synthesis remains elusive. To probe its behavior, finite sp-carbon chains such as cumulenes and polyynes have been studied. While much has been established about the ground-state properties of cumulenes and polyynes, our understanding of their photophysical dynamics, which gives critical insight into how electronic relaxation, structural reorganization, and spin formation evolve, has focused almost exclusively on short, linear systems, with little consideration of topology. Here, we investigate long 48-carbon linear and cyclic polyynes in the liquid phase using steady-state and ultrafast, temperature- and polarization-resolved optical and vibrational spectroscopy. We find highly delocalized ground states in both topologies, with softened Peierls distortion and reduced bond-length alternation relative to shorter chains. In contrast, the excited state singlet dipole depolarization mechanism and subsequent intersystem crossing are strongly dependent on chain length and topology. As in shorter polyynes, transient infrared spectroscopy shows that photoexcitation of long linear polyynes induces a cumulene-like excited-state geometry; however, this structural rearrangement is weaker and shorter-lived than in shorter analogues. Comparison with shorter-chain trends and theoretical predictions shows that the Huang–Rhys factor remains far below the ideal infinite-chain value at 48 carbons, suggesting that vibronic coupling grows more slowly at long chain length than expected from simple extrapolation. Our results reveal how topology influences the largely backbone-dominated electronic dynamics of long polyynes and refine our understanding of finite sp-carbon systems at longer chain lengths than previously accessible with such time-resolved methods.",
+  "arxiv_id": null,
+  "authors": [
+    "Soumyadip Bhunia",
+    "Yueze Gao",
+    "Jack Woolley",
+    "Ross Milverton",
+    "Harry L. Anderson",
+    "Raj Pandya"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c05190",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Light bends 48-carbon chains toward a cumulene shape less strongly and briefly than short chains.",
+  "id": "doi-10.1021-jacs.6c05190",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Length of the long polyynes studied",
+    "unit": "carbon atoms",
+    "value": "48"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Ultrafast optical and infrared spectroscopy of long linear and ring-shaped carbon chains found delocalized ground states and softened bond alternation. Photoexcitation still pushes linear chains toward a cumulene-like geometry, but less strongly, and the vibronic coupling grows more slowly with length than extrapolation predicted. The work covers dissolved chains of a single length.",
+  "tags": [
+    "carbon chains",
+    "ultrafast spectroscopy"
+  ],
+  "title": "Electronic Dynamics in Long Linear and Cyclic Polyynes",
+  "url": "https://doi.org/10.1021/jacs.6c05190",
+  "venue": "Journal of the American Chemical Society"
+}

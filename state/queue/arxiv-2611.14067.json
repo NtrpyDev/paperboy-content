@@ -1,0 +1,48 @@
+{
+  "abstract": "An anomalous Hall crystal (AHC) is a quantum state of matter, in which spontaneous electron crystallization leads to a quantized Hall effect without a magnetic field. The state can emerge in materials with strong Coulomb interaction and large Berry curvatures, such as few-layer rhombohedral graphene. Although the idea of AHCs has been invoked to explain some of the observed Chern insulators in moir\\'e rhombohedral graphene (mRG), direct experimental evidence of AHCs has been missing so far. Here, we report experimental evidence of AHCs in hole-doped mRG through combined electrical transport and noise measurements. We identify a series of distinct Chern insulators spanning a broad and continuous range of doping densities incommensurate with the underlying moir\\'e lattice; the states exhibit current-induced broadband noise and memory effects as well as pronounced gate hysteresis. Systematic magnetic field, temperature and gate dependence studies further support the emergence of a spontaneously charge-ordered state that acts as a parental state for the observed Chern insulators. The absence of Chern insulators at nearby integer fillings also distinguishes the observed state from the reported reentrant or extended quantum (anomalous) Hall states. Altogether, our results establish experimental evidence of AHCs in mRG and open the door for further exploration of the collective dynamics in this new state of matter.",
+  "arxiv_id": "2611.14067",
+  "authors": [
+    "Hongyuan Li",
+    "Zuhan Geng",
+    "Annika Weber",
+    "Chenxi Xu",
+    "Yifan Jiang",
+    "Jiabin Xie",
+    "Lujin Min",
+    "Kenji Watanabe",
+    "Takashi Taniguchi",
+    "Kenji Yasuda",
+    "Xiaomeng Liu",
+    "Jie Shan",
+    "Kin Fai Mak"
+  ],
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci",
+    "cond-mat.str-el"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14067"
+  },
+  "hook": "Twisted graphene shows signs of an electron crystal with a quantized Hall effect and no magnetic field.",
+  "id": "arxiv-2611.14067",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Transport and noise measurements in hole-doped moire rhombohedral graphene reveal Chern insulators at densities unrelated to the moire lattice, with current-induced noise, memory effects, and gate hysteresis. These point to a spontaneously charge-ordered parent state. The evidence is indirect, since the crystal itself is not imaged.",
+  "tags": [
+    "anomalous Hall crystal",
+    "graphene"
+  ],
+  "title": "Evidence of anomalous Hall crystals in moir\\'e rhombohedral graphene",
+  "url": "https://arxiv.org/abs/2611.14067",
+  "venue": "arXiv"
+}

@@ -1,0 +1,52 @@
+{
+  "abstract": "We present time-resolved JWST/NIRSpec PRISM spectrophotometry of the white dwarf (WD)-brown dwarf (BD) binary SDSS J141126.20+200911.1 (SDSS1411). Close WD-BD binaries provide powerful laboratories for studying the effects of stellar irradiation on substellar atmospheres because of their high companion-to-host flux ratios, short orbital periods, and intense UV irradiation from the WD. We measure strong wavelength-dependent variability, with day-night relative flux variations reaching ~280%. The SDSS1411B phase curves are well described by a second-order Fourier model, and correlations among the Fourier amplitudes suggest larger flux and temperature variations in the upper atmosphere. Non-irradiated forward models under chemical equilibrium do not reproduce the observed phase-resolved SDSS1411B spectra, indicating substantial departures from isolated-BD atmospheric structures. In contrast, atmospheric retrievals successfully reproduce both the dayside and nightside spectra. The retrievals reveal a prominent dayside temperature inversion, favor cloud-free atmospheres, and provide evidence for CO2 disequilibrium chemistry. An energy-budget analysis indicates low day-to-night heat redistribution efficiency and constrains the BD cooling age to ~3 Gyr, while the inferred BD radius is significantly more compact than predicted by BD evolutionary models. These results reveal the rich atmospheric dynamics and disequilibrium chemistry of a UV-irradiated BD and demonstrate the power of full-orbit JWST phase-resolved spectroscopy for constraining the atmospheric physics of strongly irradiated substellar objects.",
+  "arxiv_id": "2611.14703",
+  "authors": [
+    "Lael Shin",
+    "Daniel Apai",
+    "Yifan Zhou",
+    "Joshua D. Lothringer",
+    "Daphne Broski-Laing",
+    "Sarah L. Casewell",
+    "Siyi Xu",
+    "Ben W. P. Lew",
+    "Xianyu Tan",
+    "Jenni R. French",
+    "Vivien Parmentier",
+    "Mark S. Marley",
+    "L. C. Mayorga"
+  ],
+  "categories": [
+    "astro-ph.EP",
+    "astro-ph.SR"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14703"
+  },
+  "hook": "A brown dwarf orbiting a white dwarf varies about 280% between day and night side, JWST shows.",
+  "id": "arxiv-2611.14703",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Day-night relative flux variation",
+    "unit": "%",
+    "value": "~280"
+  },
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "JWST tracked a brown dwarf circling a white dwarf through a full orbit. Retrievals of its spectra point to a hot dayside temperature inversion, cloud-free air, CO2 disequilibrium chemistry and weak heat transport to the night side. The inferred radius is smaller than evolutionary models predict, a tension that the single-object study cannot resolve.",
+  "tags": [
+    "brown dwarfs",
+    "JWST"
+  ],
+  "title": "Dwarfs of Fire and Ice: UV-Irradiation-Driven Thermal Inversion, Disequilibrium Chemistry, and a Cloud-Free Atmosphere in a Strongly Irradiated Brown Dwarf Probed by JWST/NIRSpec Phase-Resolved Spectroscopy",
+  "url": "https://arxiv.org/abs/2611.14703",
+  "venue": "arXiv"
+}

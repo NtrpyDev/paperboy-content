@@ -1,0 +1,44 @@
+{
+  "abstract": "The fabrication of visible-spectrum three-dimensional (3D) photonic crystals (PhCs) remains highly challenging, because existing manufacturing techniques cannot simultaneously achieve high processing precision and sufficient geometric freedom. Here, we propose a suspended pyrolysis-assisted two-photon polymerization (SP-TPP) printing strategy, achieving the controllable fabrication of visible-spectrum 3D PhCs. The resulting 3D diamond PhCs exhibit a remarkable lattice-period standard deviation of only 5.75 nm, approximately 1/45 of that achieved without suspended pyrolysis. Microscopic reflection spectra confirm these PhCs possess uniform optical responses across all spatial positions. By tuning the lattice period and structural duty cycle, the PhCs operating at diverse wavelengths are systematically realized. Moreover, through the demonstration of PhC prototype structures and in situ arrayed fabrication, the SP-TPP printing strategy paves the way for applications in photonic microcavities, 3D optical waveguides, optical splitters, and integrated micro-optical systems.",
+  "arxiv_id": null,
+  "authors": [
+    "Huace Hu",
+    "Daqian Li",
+    "Hui Gao",
+    "Fayu Chen",
+    "Mingduo Zhang",
+    "Zongjing Li",
+    "Aofei Mao",
+    "Wei Xiong"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aej0287",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A pyrolysis-assisted 3D printing method makes visible-light photonic crystals with 5.75 nm period variation.",
+  "id": "doi-10.1126-sciadv.aej0287",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Lattice-period standard deviation",
+    "unit": "nanometers",
+    "value": "5.75"
+  },
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Printing by two-photon polymerization with a suspended pyrolysis step shrinks and evens out the structure, giving 3D diamond photonic crystals for visible wavelengths. The lattice-period spread is 5.75 nm, about 1/45 of that without the step, and reflection spectra are uniform. Only prototype structures and small arrays are shown, not working devices.",
+  "tags": [
+    "photonic crystals",
+    "3D printing"
+  ],
+  "title": "Controllable fabrication of visible-spectrum 3D photonic crystals.",
+  "url": "https://doi.org/10.1126/sciadv.aej0287",
+  "venue": "Science Advances"
+}

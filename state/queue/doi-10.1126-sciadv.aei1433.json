@@ -1,0 +1,42 @@
+{
+  "abstract": "How semigamy generates haploids during double fertilization has remained elusive for more than six decades. Here, we identify Gamete Expressed 1 ( GEX1 ) as the gene underlying semigamy and show that it mediates dual-origin haploid induction in cotton. A naturally occurring mutation in GEX1 disrupts normal nuclear membrane fusion during fertilization, resulting in delayed or incomplete karyogamy. Cytological analyses reveal that delayed karyogamy allows the closely apposed but unfused gametic nuclei to undergo independent mitotic divisions, giving rise to maternal haploids, paternal haploids, and chimeric progeny. CRISPR-Cas9–mediated disruption of GEX1 reproduced the characteristic defects in nuclear fusion and enabled both maternal and paternal haploid induction within a single generation. Together, our findings uncover a genetically tractable mechanism underlying semigamy that links nuclear membrane fusion dynamics to haploid formation and establish a versatile strategy for rapidly generating doubled haploids from both parental genomes to accelerate crop breeding.",
+  "arxiv_id": null,
+  "authors": [
+    "Tengyu Li",
+    "Jingwen Pan",
+    "Yan Li",
+    "Jinbo Yao",
+    "Shengtao Fang",
+    "Zongpeng Cao",
+    "Shouhong Zhu",
+    "Yongshan Zhang",
+    "Wei Chen"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aei1433",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "One gene, GEX1, lets cotton make haploid seedlings from either parent.",
+  "hook_turn": "from either parent.",
+  "id": "doi-10.1126-sciadv.aei1433",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "A natural mutation in GEX1 stops the egg and sperm nuclei from fusing promptly, so each divides on its own and yields maternal, paternal or chimeric haploids. Cytology traced the process, and CRISPR disruption of GEX1 reproduced it. This could speed breeding of doubled haploids, though the work is in cotton and induction efficiency is not given.",
+  "tags": [
+    "plant breeding",
+    "haploids",
+    "fertilization"
+  ],
+  "title": "GEX1-mediated semigamy induces both maternal and paternal haploids in cotton",
+  "url": "https://doi.org/10.1126/sciadv.aei1433",
+  "venue": "Science Advances"
+}

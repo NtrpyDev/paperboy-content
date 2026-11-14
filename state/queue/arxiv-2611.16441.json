@@ -1,0 +1,36 @@
+{
+  "abstract": "For the representation of signals on the sphere band-limited at $L$ using the optimal number of samples, $L^2$, equal to the number of degrees of freedom in harmonic space and placed on $L$ iso-latitude rings, we develop a spherical harmonic transform (SHT) that is theoretically exact, requires no solution of linear systems and no precomputation beyond the placement of the rings, and has complexity $O(L^3)$. The transform rests on the observation that, for each order $m$, the samples on the rings that resolve order $m$ are a complete set of samples for the order-$m$ profile of the signal, so that its values on the remaining rings follow from a closed-form Lagrange basis, the sampling functions of order $m$. We prove that the proposed optimal-dimensionality SHT (OSHT) recovers every band-limited signal exactly in exact arithmetic, so that the $L^2$ samples admit a sampling theorem in the collocation sense. For the final harmonic analysis we give two exact back-ends: Gauss-Legendre quadrature of the interpolated profiles and the algorithm of the equiangular sampling theorem, which applies without change because the rings coincide with its grid. We identify the amplification constant that governs numerical error, show that it replaces the condition number used previously for the placement of rings, propose a placement that minimizes it, and give an error propagation model that explains the growth of error with the band-limit. A multi-pass refinement converges in two passes to the rounding floor of the samples. We also describe a stable log-domain evaluation of the sampling functions, a rescaled Legendre recurrence, and a forbidden-region skipping rule that halves the cost of the elimination. Numerical experiments up to $L=2048$ characterize the accuracy, measured by the maximum and mean coefficient errors and the signal-to-noise ratio, the stability and the computation time.",
+  "arxiv_id": "2611.16441",
+  "authors": [
+    "Zubair Khalid"
+  ],
+  "categories": [
+    "math.NA",
+    "cs.NA",
+    "eess.SP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16441"
+  },
+  "hook": "A spherical harmonic transform recovers signals exactly from the minimum possible L^2 samples.",
+  "id": "arxiv-2611.16441",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors build a spherical transform that is exact in theory on the smallest sample count that can hold a band-limited signal, and costs O(L^3) operations. It works by filling in each order's profile with a closed-form interpolation, then applying standard exact analysis steps. Real accuracy is limited by rounding error, which grows with band-limit; tests go only up to L=2048.",
+  "tags": [
+    "spherical harmonics",
+    "sampling theorem"
+  ],
+  "title": "An $O(L^3)$ Spherical Harmonic Transform on $L^2$ Samples",
+  "url": "https://arxiv.org/abs/2611.16441",
+  "venue": "arXiv"
+}

@@ -1,0 +1,42 @@
+{
+  "abstract": "Memory effects in open quantum systems do not by themselves imply quantum memory, since non-Markovian dynamics can often be reproduced by classical-memory models. Known criteria certify the presence of quantum memory in the environment by comparing the evolution of the system at two different times. We show that quantum memory can remain hidden from all such pairwise tests and become detectable only when three or more times are considered jointly. We derive an analytical three-time witness and use it to certify quantum memory in a minimal qubit example in which every pair of times has a classical-memory explanation, thus establishing a strict hierarchy of quantum memory effects. Genuine multi-time quantum memory does not rely on fine-tuned time-dependent Hamiltonians or gate-based evolution. We experimentally demonstrate the hierarchy of quantum memory in a time-continuous realization on a superconducting-qubit platform with time-independent couplings.",
+  "arxiv_id": "2611.17268",
+  "authors": [
+    "Konstantin Beyer",
+    "Valentin Link",
+    "Surihan Sean Borjigin",
+    "Qian Cao",
+    "Orion Lee",
+    "Kater Murch",
+    "Igor Pikovski",
+    "Philip Taranto"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17268"
+  },
+  "hook": "Quantum memory can hide from every two-time test and show up only when three times are compared",
+  "hook_turn": "show up only when three times are compared",
+  "id": "arxiv-2611.17268",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A three-time witness certifies quantum memory in a qubit model where each pair of times has a classical-memory explanation. A superconducting-qubit experiment with time-independent couplings shows the effect, establishing a strict hierarchy of memory effects. It is a small device with a minimal model, so it shows the principle rather than a practical use.",
+  "tags": [
+    "quantum memory",
+    "open quantum systems"
+  ],
+  "title": "Observation of Genuine Multi-Time Quantum Memory",
+  "url": "https://arxiv.org/abs/2611.17268",
+  "venue": "arXiv"
+}

@@ -1,0 +1,36 @@
+{
+  "abstract": "Let $F=\\F_{2^n}$ and let \\[ \\mathcal T_1=\\{t\\in F:\\Tr_{F/\\F_2}(t)=1\\}. \\] For an integer $u=\\sum_{i=0}^{n-1}u_i2^i$ of even binary weight, put \\[ L_u(X)=\\sum_{i=0}^{n-1}u_iX^{2^i}, \\qquad L_{1,u}(t)=t+L_u(t^{-1}). \\] Hollmann and Xiang conjectured that $L_{1,u}$ permutes $\\mathcal T_1$ if and only if $u\\in\\{0,3,6,10\\}$. We prove the necessity by a moment method; the sufficiency is their Theorem~4.1. The quadratic moment yields a cyclic autocorrelation identity, while the cubic moment gives a two-variable group-algebra identity. An elimination argument reduces the coefficient word to a monomial or a complementary monomial, and explicit cubic and quartic moments complete the classification. We also prove Hollmann and Xiang's Conjecture~4.5. Namely, if $n>3$ and \\[ L_{c,d}(x)=L_c(x)+L_d(x^{-1}) \\] is a Kloosterman polynomial on $\\F_{2^n}$, then its positive linearized part $L_c$ is injective on both trace fibers. This second result follows from relative quadratic and cubic moment identities and a spectral-zero rigidity argument. Consequently every Kloosterman polynomial is obtained by composing one of $L_{1,0},L_{1,3},L_{1,6},L_{1,10}$ with a linearized map that is injective on both trace fibers.",
+  "arxiv_id": "2611.13848",
+  "authors": [
+    "Yi Li"
+  ],
+  "categories": [
+    "math.NT",
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13848"
+  },
+  "hook": "A conjecture on finite-field Kloosterman polynomials is proved: only four base cases exist.",
+  "hook_turn": "only four base cases exist.",
+  "id": "arxiv-2611.13848",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper proves both Hollmann and Xiang conjectures, showing that only four simple maps permute the trace-one elements of a binary finite field. Every Kloosterman polynomial then comes from one of those four composed with a suitable linear map. The proof uses moment identities and is a preprint that experts still need to check.",
+  "tags": [
+    "finite fields",
+    "number theory"
+  ],
+  "title": "A Moment Proof of the Hollman-Xiang Conjectures on Kloosterman Polynomials",
+  "url": "https://arxiv.org/abs/2611.13848",
+  "venue": "arXiv"
+}

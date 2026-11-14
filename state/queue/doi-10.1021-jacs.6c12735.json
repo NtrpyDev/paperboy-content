@@ -1,0 +1,45 @@
+{
+  "abstract": "Abstract The magneto-optical properties─magnetic circular dichroism (MCD) and magnetic circularly polarized luminescence (MCPL)─of octahedral hexanuclear [Mo6I8Y6]2– clusters (1, 2, and 3, possessing OPOPh2, N3, and CF3COO as the terminal Y ligands, respectively) were studied. In their MCD spectra, negative Faraday A terms corresponding to the S0 → Sn transitions were observed at ∼400 nm, reflecting the orbital angular momentum (OAM) and high symmetry of the molecular orbitals (MOs). In their highly concentrated solutions, positive Faraday A terms corresponding to the spin-forbidden S0 → Tn transitions were observed at ∼600 nm due to large spin–orbit coupling (SOC). To the best of our knowledge, this is the first direct observation of the spin-forbidden S0 → Tn transition in metal clusters by MCD. In their MCPL spectra, negative, strong phosphorescent MCPL signals (g ≈ 1.0 × 10–2 at 1.6 T) were observed at ∼690 nm, indicating that these Mo clusters are promising candidates for novel CPL materials. Time-dependent density functional theory (TD-DFT) calculations performed for the model cluster [Mo6I8Cl6]2– could reproduce UV–vis absorption and MCD spectroscopic properties. Especially, the MCD signals were evaluated by analyzing the SOC and the Zeeman effects of the OAM and spin angular momentum in the excited triplet state. TD-DFT gradient calculations indicated the geometrical distortion and stabilization of the lowest excited triplet [Mo6I8Cl6]2– and the destabilization of its Franck–Condon ground state, which explain the large red shift of phosphorescence. These results open new possibilities for understanding and functionalizing metal clusters.",
+  "arxiv_id": null,
+  "authors": [
+    "Hirohisa Yanagikawa",
+    "Toranosuke Tomikawa",
+    "Yuichi Kitagawa",
+    "Yasuchika Hasegawa",
+    "Kaplan Kirakci",
+    "Kamil Lang",
+    "Kazuyuki Ishii"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c12735",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Mo6 clusters glow with circularly polarized light, and MCD sees a spin-forbidden transition.",
+  "hook_turn": "and MCD sees a spin-forbidden transition.",
+  "id": "doi-10.1021-jacs.6c12735",
+  "license": "other",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "exponent": -2,
+    "label": "MCPL g value at 1.6 T, ~690 nm",
+    "value": "1.0"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Three Mo6 iodide clusters show magnetic circular dichroism from a normally forbidden singlet-to-triplet transition, which the authors say is a first for metal clusters. Their phosphorescence at about 690 nm is strongly circularly polarized under 1.6 T. Calculations on a chloride model cluster reproduce the spectra, but the triplet signal appeared only in highly concentrated solutions.",
+  "tags": [
+    "metal clusters",
+    "circular polarized luminescence",
+    "spectroscopy"
+  ],
+  "title": "Magneto-Optical Studies on the Orbital Angular Momenta and Spin–Orbit Coupling in the Excited Triplet States of Octahedral Mo6 Clusters: Magnetic Circular Dichroism and Magnetic Circularly Polarized Luminescence",
+  "url": "https://doi.org/10.1021/jacs.6c12735",
+  "venue": "Journal of the American Chemical Society"
+}

@@ -1,0 +1,41 @@
+{
+  "abstract": "Public health recommendations often advise people to isolate when infected with influenza-like illness (ILI) with the goal of promoting physical distancing and limiting face-to-face interactions when risk of transmission is highest. Because isolation may have negative consequences, it is important to carefully assess whether encouragement to physically distance actually prevents cases of ILI. College campuses can be especially vulnerable to outbreaks of ILI and are ideal environments for assessing the impact of encouragement-to-physically-distance interventions. The eX-FLU cluster-randomized trial followed 579 students on a college campus over a ten-week period during flu season to evaluate such an intervention. Students in the trial were randomized to receive the intervention—encouragement to isolate in their dorm room when symptomatic for ILI—or control. Evaluating the effect of this intervention is challenging because of dependence between students in the trial and an anticipated spillover effect of the intervention. Moreover, while the intervention was designed to affect both face-to-face interactions and ILI infections, the effect on ILI infections is of primary public health interest. In this paper, a randomization-based testing procedure is proposed to assess the intervention effect specifically on ILI infections in the presence of dependent data and spillover effects. The testing procedure is shown theoretically and empirically to control the type I error rate and have good statistical power to detect an intervention effect in trials similar to eX-FLU. When applied to the eX-FLU data, this testing procedure gives moderate evidence that the intervention reduced ILI infections.",
+  "arxiv_id": null,
+  "authors": [
+    "Brian D. Richardson",
+    "Allison E. Aiello",
+    "Michael G. Hudgens"
+  ],
+  "categories": [],
+  "doi": "10.1073/pnas.2626810123",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Telling sick students to isolate in dorms moderately reduced flu-like illness in a campus trial.",
+  "hook_turn": "moderately reduced flu-like illness in a campus trial.",
+  "id": "doi-10.1073-pnas.2626810123",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Students in the eX-FLU trial",
+    "unit": "students",
+    "value": "579"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "In a randomized trial of 579 students over ten weeks, those encouraged to isolate when symptomatic were compared with controls. The authors built a randomization-based test that handles dependence and spillover between students, and it showed moderate evidence of fewer infections. One campus and one flu season limit how far this generalizes.",
+  "tags": [
+    "influenza",
+    "clinical trial",
+    "public health"
+  ],
+  "title": "Physical distancing to prevent influenza-like illness on a college campus: The eX-FLU trial",
+  "url": "https://doi.org/10.1073/pnas.2626810123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

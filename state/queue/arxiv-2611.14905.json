@@ -1,0 +1,46 @@
+{
+  "abstract": "Detrital remanent magnetization (DRM), the alignment of ferromagnetic grains with the geomagnetic field during sedimentation, is the primary mechanism of paleomagnetic remanence acquisition in sedimentary rocks, yet its microphysical mechanism remains contested. Measured DRM intensities consistently fall below theoretical predictions-the long-standing \"DRM efficiency gap\"-and no single-particle resolving observations have been available to test DRM acquisition models directly. Here we apply quantum diamond microscopy (QDM) to laboratory-redeposited lacustrine sediments to obtain the first single-particle magnetizations of DRM carriers. We compare these measurements with the results of bulk magnetometry and a Langevin-based kinetic model. We observe a statistically significant mean alignment of individual detrital particle moments with the applied field, $10\\%$ when averaged as unit vectors and $24\\%$ when weighted by moment magnitude, with the vector sum of all particles reproducing the direction of the bulk DRM, which is $\\sim1.8\\%$ of saturation remanence. Particle-level analysis shows that alignment rises with particle moment, a trend reproduced by our kinetic model in which floc-hosted magnetite rotates toward the field until the surrounding sediment locks it in place. Even where post-depositional disturbance is minimal and the measured DRM reaches the upper end of reported efficiencies, it remains well below its theoretical maximum, limited in comparable measure by incomplete particle-level alignment and sub-saturation within-particle magnetization. Beyond its implications for the DRM mechanism, this strong particle-level bias provides a quantitative foundation for magnetic minerals as natural chiral agents, a proposed pathway for the emergence of biomolecular homochirality on the prebiotic Earth.",
+  "arxiv_id": "2611.14905",
+  "authors": [
+    "S. Furkan Ozturk",
+    "Roger R. Fu",
+    "Jose A. P. M. Devienne",
+    "Sammy Piascik",
+    "Perri Thaler",
+    "Aaron T. Kuan",
+    "Richard J. Harrison",
+    "Dimitar D. Sasselov"
+  ],
+  "categories": [
+    "physics.chem-ph"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "earth",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14905"
+  },
+  "hook": "Single sediment grains align only 10% with Earth's field, a first direct look at rock magnetization",
+  "id": "arxiv-2611.14905",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Mean particle alignment, unit-vector average",
+    "unit": "%",
+    "value": "10"
+  },
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Using quantum diamond microscopy, the team measured the magnetic moments of individual particles in sediments redeposited in the lab. Particles aligned with the applied field by 10% on average, and a kinetic model of magnetite rotating in clumps until sediment locks it in place reproduced the trend. Both findings come from artificially redeposited lake sediment, so natural rocks may behave differently.",
+  "tags": [
+    "paleomagnetism",
+    "quantum diamond microscopy"
+  ],
+  "title": "Detrital Remanent Magnetization Analysis at the Particle Scale: Implications for Prebiotic Origins of Homochirality",
+  "url": "https://arxiv.org/abs/2611.14905",
+  "venue": "arXiv"
+}

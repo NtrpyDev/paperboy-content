@@ -1,0 +1,52 @@
+{
+  "abstract": "The evolution of traits can increase yield potential but may create physiological constraints. Jasmonic acid (JA) signaling regulates sex determination in male (tassel) and female (ear) inflorescences in maize. Although the formation of ears laid the foundation for high yields, the asynchronous development of the tassel and the ear prolongs the anthesis-silking interval (ASI), threatening reproductive success and reducing yield. Whether JA signaling coordinates ear and tassel development remains unclear. Here, we show that the core JA signaling module, ZmJAZ14-ZmMYC2a/b, orchestrates the expression of SPL29 for reproductive transition, BA1 for female inflorescence initiation, and EXPA5 for silk elongation. Coordination of these physiological processes underpins synchronous growth of the tassel and ears, whereas disruption of ZmMYC2a/b or accumulation of the repressor ZmJAZ14 prolongs ASI. Our work suggests that the repurposing of JA signaling to coordinate ear and tassel development may represent a lineage-specific evolutionary burden in maize. Deciphering the link between gains and unforeseen costs of evolution could further improve yields.",
+  "arxiv_id": null,
+  "authors": [
+    "Xiangyu Lu",
+    "Di Lv",
+    "Shuai Ma",
+    "Yu Yan",
+    "Chunhui Li",
+    "Jiameng Zhu",
+    "Liqing Miao",
+    "Suzhen Li",
+    "Wenzhu Yang",
+    "Xiaojin Zhou",
+    "Rumei Chen"
+  ],
+  "categories": [
+    "Zea mays",
+    "Flowers",
+    "Cyclopentanes",
+    "Plant Proteins",
+    "Transcription Factors",
+    "Signal Transduction",
+    "Gene Expression Regulation, Plant",
+    "Oxylipins"
+  ],
+  "doi": "10.1126/sciadv.aeh7015",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A jasmonic acid gene module syncs maize tassel and ear timing; disrupting it lengthens the silking delay.",
+  "hook_turn": "disrupting it lengthens the silking delay.",
+  "id": "doi-10.1126-sciadv.aeh7015",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "A jasmonic acid signaling module, ZmJAZ14 with ZmMYC2a/b, switches on genes for flowering transition, ear initiation, and silk growth so tassel and ear develop in step. Disrupting ZmMYC2a/b or piling up ZmJAZ14 widens the gap between pollen shed and silking. The evolutionary cost idea is an interpretation, not tested directly.",
+  "tags": [
+    "maize",
+    "plant hormones"
+  ],
+  "title": "The ZmJAZ14-ZmMYC2 module regulates anthesis-silking synchrony in maize.",
+  "url": "https://doi.org/10.1126/sciadv.aeh7015",
+  "venue": "Science Advances"
+}

@@ -1,0 +1,55 @@
+{
+  "abstract": "Altair (alpha Aql) is one of the nearest stars to the Sun at 5.13 pc and its age has recently been revised to 88+/-10 Myr, making it one of the youngest stars in the Solar neighborhood. This makes Altair a compelling target for high-contrast direct imaging searches for giant planets. We present two epochs of simultaneous F444W and F200W MASK430R JWST/NIRCam coronagraphic imaging observations. After post-processing, these data achieve F444W contrast levels of 2 x 10^-6 at 1\" (5.1 au), 1.5 x 10^-7 at 2\" (10.3 au), and a few x 10^-8 beyond 4\"(20 au). Using the Sonora Flame Skimmer models, this corresponds to sub-Jupiter mass sensitivity beyond 5 au and sub-Saturn mass sensitivity beyond 10 au. We identified several candidate point sources in the field in the first epoch data. Second epoch observations confirmed that none of the candidates were co-moving with Altair and their colors are consistent with background stars. Altair has no known companions, no detected debris disk, and is not associated with any stellar association. Despite this, its youth and proximity ensure it will remain a high-priority target for future high-contrast imaging observations. We additionally discuss Altair as a potential reference star for future observations, presenting measurements of background sources in the field and showing that Altair will remain at least a few arcsec from background stars over the next 10-20 years, making it a reliable reference target for upcoming imaging campaigns including the Roman Space Telescope Coronagraph Instrument.",
+  "arxiv_id": "2611.13132",
+  "authors": [
+    "Tiffany Meshkat",
+    "Charles Beichman",
+    "Jorge Llop-Sayson",
+    "Geoffrey Bryden",
+    "Alexandra Z. Greenbaum",
+    "Eric E. Mamajek",
+    "Marie Ygouf",
+    "Julien Girard",
+    "Jarron Leisenring",
+    "Aniket Sanghi",
+    "Marshall Perrin",
+    "Michael Meyer",
+    "Laurent Pueyo",
+    "William Balmer",
+    "Andr\\'as G\\'asp\\'ar",
+    "Klaus Hodapp"
+  ],
+  "categories": [
+    "astro-ph.EP"
+  ],
+  "doi": "10.3847/1538-3881/aeac14",
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13132"
+  },
+  "hook": "JWST finds no planets around Altair. Every candidate point source is a background star.",
+  "hook_turn": "Every candidate point source is a background star.",
+  "id": "arxiv-2611.13132",
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Revised age of Altair",
+    "unit": "Myr",
+    "value": "88"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Two epochs of JWST coronagraphic imaging of the young, nearby star Altair reached sub-Jupiter mass sensitivity beyond 5 au. Candidate sources from the first epoch failed a common-motion check in the second, and their colors match background stars. The result is a non-detection, so planets below those mass limits or closer in are not ruled out.",
+  "tags": [
+    "exoplanets",
+    "direct imaging"
+  ],
+  "title": "Searching for Planets around Altair with JWST/NIRcam",
+  "url": "https://arxiv.org/abs/2611.13132",
+  "venue": "arXiv"
+}

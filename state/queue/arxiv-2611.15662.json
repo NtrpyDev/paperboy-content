@@ -1,0 +1,37 @@
+{
+  "abstract": "We derive a global isotropic representation of the ultrastatic Ellis wormhole and establish which features of its electromagnetic response can, and cannot, be reproduced by a finite device. An orientation-preserving coordinate map sends the signed proper-radial line to a punctured Euclidean chart with refractive index $n(\\rho)=1+a^2/(4\\rho^2)$. Through the Pleba\\'nski correspondence, this gives the exact impedance-matched continuum medium $\\varepsilon_r=\\mu_r=n(\\rho)\\,\\mathbb{1}$ and its full vector-Maxwell operator. For the ideal two-ended geometry, we derive the electromagnetic radial operator, establish its spectral properties, and express its scattering amplitudes through Jost solutions and Wronskians. Nonzero transmission into the second asymptotic end implies $|R_{\\rm id}|<1$ at every real frequency, whereas a regular, lossless finite one-port has unit-modulus reflection. The reverse triangle inequality therefore yields a strictly positive lower bound on the complex reflection-amplitude mismatch. This theorem applies to the stated lossless single-port class and is not extended to lossy or multiport realizations. We compute converged multipole scattering data and establish the low-frequency threshold scaling $|T_L|^2\\propto(\\omega a/c)^{4L+2}$, with coefficients independently validated for $L=1,2,3,4$. The transmission cross section tends to $\\pi a^2$, while the ideal profile's total scattering cross section has a logarithmic forward divergence. We also construct a smooth finite-shell target and derive an exact finite-band constitutive-error formula for a calibrated passive Lorentz model. The constitutive benchmark is kept distinct from scattering equivalence throughout.",
+  "arxiv_id": "2611.15662",
+  "authors": [
+    "Abdullah Guvendi",
+    "Claudio Furtado",
+    "Omar Mustafa"
+  ],
+  "categories": [
+    "gr-qc",
+    "physics.optics"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15662"
+  },
+  "hook": "A lossless finite device cannot perfectly mimic an Ellis wormhole's electromagnetic reflection.",
+  "id": "arxiv-2611.15662",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors give an exact refractive-index medium that reproduces Maxwell's equations on an Ellis wormhole geometry, then prove that a lossless single-port device must reflect with unit strength, while the wormhole must not. That gives a strictly positive gap between them. The theorem does not cover lossy or multiport devices, and nothing was built.",
+  "tags": [
+    "wormholes",
+    "transformation optics"
+  ],
+  "title": "Exact transformation-optics representation of the Ellis wormhole and limits of finite-device scattering emulation",
+  "url": "https://arxiv.org/abs/2611.15662",
+  "venue": "arXiv"
+}

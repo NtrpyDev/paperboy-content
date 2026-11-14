@@ -1,0 +1,51 @@
+{
+  "abstract": "Abstract Biomarker-specific molecular imaging is vital in precision medicine. However, a fundamental challenge of most molecular imaging methods is the difficulty of distinguishing specific molecular signal from nonspecific signal arising from the distribution of the molecular probe. This is even more pronounced in metabolically active organs such as the kidney and liver where the probe may concentrate prior to elimination. As a result, almost all molecular imaging relies on delayed imaging to achieve specificity, but this constrains clinical throughput and impedes rapid assessment of the diseased organ. Here, we report a magnetic resonance (MR) probe, Fe(II)-IAFP2, which combines 3 drivers of relaxivity enhancement to decouple disease specificity from probe distribution. Fe(II)-IAFP2 is MR-silent in its Fe(II) state, producing negligible MR signal even at high concentrations. In inflammatory, fibrogenic microenvironments common to many diseases, rapid oxidation to Fe(III) activates MR enhancement, while reversible aldehyde-mediated binding to remodeled extracellular matrix further amplifies relaxivity and promotes retention at the site of tissue injury. This dual activation–retention mechanism enables robust signal generation within minutes of administration. In mouse models of renal and liver fibrogenesis, Fe(II)-IAFP2 generated disease-associated MR contrast within minutes after intravenous administration. Together, this work demonstrates an effective strategy for rapid, activity-based molecular MR imaging through the combination of pathological activation and complementary tissue retention.",
+  "arxiv_id": null,
+  "authors": [
+    "Yuanlin Zhang",
+    "Ilknur Ay",
+    "Fumitaro Masaki",
+    "Veronica Clavijo Jordan",
+    "Hua Ma",
+    "Iris Y. Zhou",
+    "Chloe Brasket",
+    "Dongjun Li",
+    "Lydia Pollard",
+    "Mariane Le Fur",
+    "Ivy A. Rosales",
+    "Stuti Shroff",
+    "Nicholas J. Rotile",
+    "Jessica Klein",
+    "Jinbin Pan",
+    "Tingting Zha",
+    "Eric M. Gale",
+    "Peter Caravan"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c16146",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "An MRI probe switches on in scarring tissue, showing kidney and liver fibrosis within minutes in mice.",
+  "hook_turn": "within minutes in mice.",
+  "id": "doi-10.1021-jacs.6c16146",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "An iron(II) probe is invisible to MRI until inflammation oxidizes it to iron(III), and it also binds remodeled tissue, which boosts and holds the signal. Contrast appeared minutes after injection in mouse fibrosis models. It has not been tested in people.",
+  "tags": [
+    "MRI",
+    "fibrosis",
+    "molecular imaging"
+  ],
+  "title": "Magnetic Resonance Silent Activatable Probe with Massive Signal Amplification for Rapid Detection of Inflammation-Associated Fibrogenesis",
+  "url": "https://doi.org/10.1021/jacs.6c16146",
+  "venue": "Journal of the American Chemical Society"
+}

@@ -1,0 +1,49 @@
+{
+  "abstract": "Plants integrate widely fluctuating temperature over seasons to regulate their development. In vernalization, FLOWERING LOCUS C (FLC) is repressed by cold-induced antisense (COOLAIR) transcription and epigenetically silenced by Polycomb (PRC2) epigenetic switching. Here, we show how COOLAIR co-transcriptional dynamics are central to integrating different facets of the natural temperature profile over different timescales. Constant cold alters COOLAIR RNA polymerase II processivity, splicing and polyadenylation site choice with distinct kinetics over days to weeks. In contrast, fluctuations below freezing at the same mean temperature caused extensive premature termination and chromatin retention of COOLAIR. High-resolution chromatin contact mapping showed COOLAIR premature termination altered local chromatin topology. This enhanced FLC promoter-gene body contacts, coincident with H3K4me1 loss and reduced FLC transcription. Multiple features of COOLAIR co-transcriptional sensitivity therefore act as thermosensory antennae, integrating distinct facets of winter temperature through local chromatin regulation, to robustly repress FLC in natural conditions.",
+  "arxiv_id": null,
+  "authors": [
+    "Xu, J.",
+    "Menon, G.",
+    "Guo, C.",
+    "Montez, M.",
+    "JIN, X.",
+    "Yang, M.",
+    "Sindalovskaya, M.",
+    "Reeck, S.",
+    "Duncan, S.",
+    "Mateo Bonmati, E.",
+    "Xu, C.",
+    "Jang, G.-J.",
+    "Zhang, Y.",
+    "Zhai, J.",
+    "Ding, Y.",
+    "Dean, C."
+  ],
+  "categories": [
+    "plant biology"
+  ],
+  "doi": "10.64898/2026.11.10.765395",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/12/2026.11.10.765395.source.xml"
+  },
+  "hook": "Freezing swings make COOLAIR RNA end early, reshaping chromatin to repress the flowering gene FLC.",
+  "id": "doi-10.64898-2026.11.10.765395",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "In the plant cold-memory system, constant cold and fluctuating sub-freezing temperatures at the same mean changed how COOLAIR is transcribed and terminated. Premature termination altered chromatin contacts at FLC, with loss of H3K4me1 and lower transcription. Limit: this is the molecular mechanism in lab-grown plants, not field winters.",
+  "tags": [
+    "vernalization",
+    "epigenetics"
+  ],
+  "title": "Complex temperature profiles recorded through antisense co-transcriptional sensitivity",
+  "url": "https://doi.org/10.64898/2026.11.10.765395",
+  "venue": "bioRxiv"
+}

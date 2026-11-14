@@ -1,0 +1,38 @@
+{
+  "abstract": "We demonstrate that optically driven chiral phonons induce an anomalous Hall response in a nonmagnetic, centrosymmetric material. Using first-principles calculations to parameterize an effective $\\mathbf{k}\\cdot\\mathbf{p}$ Hamiltonian for bilayer MoSe$_2$, we show that circular excitation of an $E_u$ phonon generates a circular dynamical Rashba spin-orbit coupling. The resulting Floquet bands carry same-sign Berry curvature at the two valleys, producing a Hall response whose sign follows the phonon handedness. We obtain a range of $\\sigma_{xy}\\sim10^{-2}-0.21$ $\\frac{e^2}{2\\pi\\hbar}$ for experimentally accessible light pulses. Our results show that chiral phonons provide a route to controlling electronic Berry curvature and transport on ultrafast time scales.",
+  "arxiv_id": "2611.15761",
+  "authors": [
+    "Omer Yaniv",
+    "Swati Chaudhary",
+    "Carolina Paiva",
+    "Dominik M. Juraschek"
+  ],
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15761"
+  },
+  "hook": "In simulation, circular phonon motion gives bilayer MoSe2 a Hall effect without magnetism.",
+  "hook_turn": "without magnetism.",
+  "id": "arxiv-2611.15761",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Light-driven circular lattice vibrations in a nonmagnetic bilayer create Berry curvature, giving a Hall response whose sign follows the phonon handedness. The result comes from first-principles calculations feeding an effective model. It is theory only, with no experiment yet.",
+  "tags": [
+    "chiral phonons",
+    "Hall effect"
+  ],
+  "title": "Chiral-phonon-induced anomalous Hall effect in bilayer MoSe$_2$",
+  "url": "https://arxiv.org/abs/2611.15761",
+  "venue": "arXiv"
+}

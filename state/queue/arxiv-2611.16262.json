@@ -1,0 +1,35 @@
+{
+  "abstract": "We prove analogues of Tur\\'an's theorem and the Erd\\H{o}s--Stone theorem for graph $a$-numbers. The $i$th $a$-number $a_i(G)$ equals the $i$th rational Betti number of the real toric manifold associated with the graph associahedron of $G$. We show that the Tur\\'an graph $T_r(n)$ maximizes every $a$-number among $K_{r+1}$-free graphs on $n$ vertices. We also show that for any fixed graph $H$ with at least one edge and each fixed $i\\geq1$, the limiting extremal density of the $i$th $a$-number among $H$-free graphs depends only on the chromatic number of $H$. Since $a_1(G)$ is the number of edges of $G$, these results recover the two classical theorems in degree one and extend them to higher $a$-numbers.",
+  "arxiv_id": "2611.16262",
+  "authors": [
+    "Suyoung Choi",
+    "Younghan Yoon"
+  ],
+  "categories": [
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16262"
+  },
+  "hook": "Turan's theorem and the Erdos-Stone theorem carry over to graph a-numbers.",
+  "id": "arxiv-2611.16262",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The a-numbers of a graph are the Betti numbers of a related toric manifold, and the first one counts edges. The authors prove that the Turan graph maximizes every a-number among graphs with no complete subgraph of a given size, and that the asymptotic density depends only on chromatic number. This is a pure proof in extremal graph theory with no applied claim.",
+  "tags": [
+    "extremal graph theory",
+    "toric topology"
+  ],
+  "title": "The graph $a$-Tur\\'an theorem",
+  "url": "https://arxiv.org/abs/2611.16262",
+  "venue": "arXiv"
+}

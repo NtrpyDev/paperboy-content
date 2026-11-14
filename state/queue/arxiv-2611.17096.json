@@ -1,0 +1,44 @@
+{
+  "abstract": "The low-frequency (LF) mode observed in the THz spectrum of liquid water near 10 meV has been known for decades, yet its microscopic origin remains debated. Leading interpretations assign it to a transverse acoustic-like excitation, a transverse optic-like mode, or a mode-mode coupling mechanism. We address this question by probing the collective dynamics of H$_2$O and D$_2$O at room temperature and pressures from 0.1 to 1 GPa using high-resolution (1.6 meV) inelastic X-ray scattering (IXS). The LF mode remains heavily damped, close to critical damping, throughout the explored range, while its frequency hardens markedly with pressure, much more than expected for a transverse acoustic mode. Comparison with IXS measurements and \\textit{ab initio} simulations of crystalline Ice VI reveals a cluster of weakly dispersive modes in the same energy range, suggesting that the low-frequency mode in liquid water reflects a mixed character arising from the superposition of several branches rather than a single well-defined excitation, providing a coherent microscopic picture of water's anomalous THz dynamics under compression.",
+  "arxiv_id": "2611.17096",
+  "authors": [
+    "Maria Rescigno",
+    "Guillaume Radtke",
+    "Umbertoluca Ranieri",
+    "Richard Gaal",
+    "Luigi Paolasini",
+    "Andrea Piovano",
+    "Ferdinando Formisano",
+    "Paola Giura",
+    "Livia Eleonora Bove"
+  ],
+  "categories": [
+    "cond-mat.other",
+    "cond-mat.mtrl-sci"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.17096"
+  },
+  "hook": "Water's 10 meV terahertz mode is a blend of several modes, not one sound-like wave.",
+  "hook_turn": "not one sound-like wave.",
+  "id": "arxiv-2611.17096",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "X-ray scattering on H2O and D2O at pressures up to 1 GPa shows the low-frequency mode stays heavily damped and stiffens far more than a sound-like wave would. Comparing with crystalline Ice VI, which has a cluster of weakly dispersive modes at similar energies, the authors read the liquid mode as a superposition of branches. The interpretation rests on analogy with ice and room temperature data only.",
+  "tags": [
+    "liquid water",
+    "x-ray scattering"
+  ],
+  "title": "High-pressure behavior of the low-frequency mode of water",
+  "url": "https://arxiv.org/abs/2611.17096",
+  "venue": "arXiv"
+}

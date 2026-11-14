@@ -1,0 +1,37 @@
+{
+  "abstract": "Given an asymptotically conical unstable expanding gradient Ricci soliton, we provide the existence of a family of Ricci flows starting at the same metric cone up to isometry. Moreover, the family of solutions we construct is shown to be parametrized by positive modes of the weighted Lichnerowicz operator associated to the background expanding gradient Ricci soliton. Each solution of this family is shown not to be induced by an expanding gradient Ricci soliton. If the background expander has no non-trivial infinitesimal deformations, we show furthermore that the solutions we provide are not self-similar. We finally prove that solutions are distinct up to isometries preserving the potential function of the background expanding gradient Ricci soliton.",
+  "arxiv_id": "2611.16976",
+  "authors": [
+    "Alix Deruelle",
+    "Tristan Ozuch",
+    "Felix Schulze"
+  ],
+  "categories": [
+    "math.DG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16976"
+  },
+  "hook": "Ricci flow can leave a metric cone in many ways, and none of the new flows are self-similar.",
+  "hook_turn": "and none of the new flows are self-similar.",
+  "id": "arxiv-2611.16976",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Ricci flow smooths the shape of a space over time. Starting from a cone tied to an unstable expanding soliton, the authors construct a whole family of distinct flows, indexed by positive modes of an associated operator. The result shows non-uniqueness for such starting points, but it covers only unstable asymptotically conical solitons.",
+  "tags": [
+    "ricci flow",
+    "differential geometry"
+  ],
+  "title": "Non self-similar solutions to the Ricci flow coming out of metric cones",
+  "url": "https://arxiv.org/abs/2611.16976",
+  "venue": "arXiv"
+}

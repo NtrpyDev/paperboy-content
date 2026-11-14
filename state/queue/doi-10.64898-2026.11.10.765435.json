@@ -1,0 +1,54 @@
+{
+  "abstract": "An on-body network of sensors and drug delivery implants could transform treatments for rapid-onset morbidities that require bystander intervention. During opioid overdoses, for example, lone and incapacitated victims often cannot self-administer life-saving naloxone in the minutes before respiratory collapse. However, the bulkiness of existing closed-loop systems threatens patient acceptance. Here, we present the Rapid Emergency Subcutaneous platform (RES-Q), a network of wearable sensors and syringe-implantable autoinjectors for closed-loop therapy. RES-Q implants are similar in size to FDA-approved drug rod implants and fit inside 6-gauge needles to facilitate outpatient administration. Informed by implant fibrosis fracture mechanics, RES-Q employs miniature jet injectors that deliver 0.4 mg human-relevant doses of naloxone through fibrotic encapsulation for rapid uptake. RES-Q implants communicate with wearable sensors through tissue conductivity, resulting in 25 nA standby current draws that ensure long-term functionality. In swine, we sequentially trigger multiple implants using ionic tissue communication. In rats, RES-Q detects fentanyl overdoses using wearable photoplethysmography sensors and performs autonomous, dose-titratable rescue in < 6 minutes.",
+  "arxiv_id": null,
+  "authors": [
+    "Jackson, J.",
+    "Sohn, W.",
+    "Testu, L.",
+    "Ghanim, R.",
+    "Aamir, M.",
+    "Angia, M.",
+    "Cig, A.",
+    "Healy, S.",
+    "Lee, Z.",
+    "Chin, J. Y.",
+    "Ding, J. Z.",
+    "Park, J.",
+    "Maisha, J.",
+    "Lee, Y. J.",
+    "Abramson, A."
+  ],
+  "categories": [
+    "bioengineering"
+  ],
+  "doi": "10.64898/2026.11.10.765435",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/12/2026.11.10.765435.source.xml"
+  },
+  "hook": "A wearable sensor and injectable implants rescued rats from fentanyl overdose in under 6 minutes",
+  "hook_turn": "rescued rats from fentanyl overdose in under 6 minutes",
+  "id": "doi-10.64898-2026.11.10.765435",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Autonomous rescue time after overdose, rats",
+    "unit": "minutes",
+    "value": "<6"
+  },
+  "significance": 7,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "A network of skin sensors and needle-injectable implants detected fentanyl overdose in rats and released naloxone on its own. The implants use tiny jet injectors that push drug through scar tissue, and they talk to the sensors through the body's tissue. Rescue worked in rats and multi-implant triggering only in swine, so human overdose performance is untested.",
+  "tags": [
+    "implantable devices",
+    "opioid overdose"
+  ],
+  "title": "A network of syringe-injectable bioelectronics for closed-loop therapeutic rescue",
+  "url": "https://doi.org/10.64898/2026.11.10.765435",
+  "venue": "bioRxiv"
+}

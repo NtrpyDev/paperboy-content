@@ -1,0 +1,35 @@
+{
+  "abstract": "Recent studies from various experiments at the LHC and RHIC suggest that small collision systems exhibit quark-gluon plasma (QGP) like signatures that were typically observed in large systems. While QGP like signatures have been observed in the soft sector, strong constraints on possible partonic energy loss were established in the hard sector. At the same time, there are multiple pieces of evidence pointing to correlations between hard and soft particle production in proton-proton collisions. The correlations between hard and soft particle production in $pp$ collisions are studied in events with $\\Upsilon$ mesons, which provide a valuable hard probe to study such effects. The multiplicity and distributions of kinematic variables of charged particles produced in association with an $\\Upsilon$ meson are measured using 139 fb$^{-1}$ of data at $\\ensuremath{\\sqrt{s}}\\xspace = 13$~TeV collected by the ATLAS experiment at the LHC. The measurement is performed separately for the first three $\\Upsilon$(nS) states in intervals of their transverse momentum. At low transverse momentum, the associated charged-particle multiplicity is observed to be systematically lower in collisions where $\\Upsilon$(2S) or $\\Upsilon$(3S) is produced compared to $\\Upsilon$(1S), with the difference decreasing as the $\\Upsilon$ transverse momentum increases.",
+  "arxiv_id": "2611.13643",
+  "authors": [
+    "Baidyanath Sahoo"
+  ],
+  "categories": [
+    "hep-ex"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13643"
+  },
+  "hook": "Collisions that make heavier Upsilon states come with fewer charged particles at low momentum.",
+  "hook_turn": "come with fewer charged particles at low momentum.",
+  "id": "arxiv-2611.13643",
+  "license": "cc-by",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "ATLAS counted charged particles produced alongside Upsilon(1S), (2S) and (3S) mesons in proton-proton collisions at 13 TeV, using 139 fb^-1 of data. Events with the 2S or 3S state have systematically lower multiplicity than 1S at low Upsilon momentum, and the gap shrinks as momentum rises. It is a measurement of correlation and does not itself identify the mechanism.",
+  "tags": [
+    "upsilon mesons",
+    "proton collisions"
+  ],
+  "title": "Correlations between $\\ensuremath{\\mit{\\Upsilon}(n\\text{S})}\\xspace$ production and the underlying event in $\\ensuremath{p\\!p}\\xspace$ collisions with the ATLAS detector",
+  "url": "https://arxiv.org/abs/2611.13643",
+  "venue": "arXiv"
+}

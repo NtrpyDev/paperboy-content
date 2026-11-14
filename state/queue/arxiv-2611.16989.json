@@ -1,0 +1,46 @@
+{
+  "abstract": "The $N\\Omega$ system is a promising dibaryon candidate because its constituents share no valence quarks and therefore avoid valence-quark Pauli repulsion. We determine the $^{5}S_{2}$ $N\\Omega$ interaction in (2+1)-flavor lattice QCD at physical quark masses ($m_\\pi\\simeq137~\\text{MeV}$) using the HAL QCD method. The interaction is attractive over the resolved range and supports a shallow state near unitarity. A direct $T$-matrix pole analysis gives $B_{n\\Omega} = 0.61\\,(^{+0.41}_{-0.30})\\,(^{+0.60}_{-0.18})~\\text{MeV}$; including finite-charge-size Coulomb attraction yields $B_{p\\Omega} = 1.25\\,(^{+0.46}_{-0.39})\\,(^{+0.69}_{-0.25})~\\text{MeV}$. These results provide a first-principles benchmark for future $N\\Omega$ femtoscopy and dibaryon searches.",
+  "arxiv_id": "2611.16989",
+  "authors": [
+    "Liang Zhang",
+    "Yan Lyu",
+    "Sinya Aoki",
+    "Takumi Doi",
+    "Tetsuo Hatsuda",
+    "Song Zhang",
+    "Yu-Gang Ma"
+  ],
+  "categories": [
+    "hep-lat"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16989"
+  },
+  "hook": "Lattice QCD predicts a shallow bound state of a nucleon and an Omega baryon, bound by about 1 MeV.",
+  "hook_turn": "bound by about 1 MeV.",
+  "id": "arxiv-2611.16989",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Neutron-Omega binding energy, lattice QCD",
+    "unit": "MeV",
+    "value": "0.61"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The Omega baryon and a nucleon share no valence quarks, so they may bind without Pauli repulsion. Using lattice QCD at nearly physical quark masses, the authors find an attractive interaction and a state near unitarity, with a neutron-Omega binding energy of 0.61 MeV. The uncertainties are large, about as big as the value, and the state has not been observed.",
+  "tags": [
+    "lattice qcd",
+    "dibaryons"
+  ],
+  "title": "$N\\Omega$ Dibaryon near Unitarity from Physical-Point Lattice QCD",
+  "url": "https://arxiv.org/abs/2611.16989",
+  "venue": "arXiv"
+}

@@ -1,0 +1,54 @@
+{
+  "abstract": "The process of speciation, through which two reproductively isolated species emerge from an ancestral population, is often gradual, including a period during which gene flow still occurs, and hence speciation remains reversible. However, if isolation persists, the progressive accumulation of genetic incompatibilities ultimately locks the speciation process, reaching the point where hybrid offspring are inviable or sterile. In plants and animals, the establishment of species barriers is quite rapid: Beyond a net genetic divergence of 0.02 substitutions per synonymous site, interspecific introgressions become extremely rare. Here we report that in ciliates, species barriers can be broken despite huge genetic divergence. We show that the genome of Paramecium sonneborni contains hundreds of DNA segments that were acquired by recurrent horizontal transfers from multiple very distant lineages (synonymous divergence ~1 substitution/site). These segments approach the size of full-length chromosomes, which indicates that they were introgressed by interspecific mating. These data show that in the ancestry of P. sonneborni, hybridization events with highly divergent species occurred repeatedly and led to viable and fertile offspring. We propose that this unexpected promiscuous sexual behavior is made possible by the fact that paramecia separate somatic and germline functions in two types of nuclei: The elimination of non-self-DNA fragments during the development of the somatic genome allows individuals of a species to remain phenotypically the same, despite recurrent genetic flow from distant species into their germline.",
+  "arxiv_id": null,
+  "authors": [
+    "Florian Bénitière",
+    "Olivier Arnaiz",
+    "Simon Penel",
+    "Xue Zhang",
+    "Sandra Duharcourt",
+    "Eric Meyer",
+    "Linda Sperling",
+    "Laurent Duret"
+  ],
+  "categories": [
+    "Animals",
+    "Paramecium",
+    "Hybridization, Genetic",
+    "Phylogeny",
+    "Species Specificity",
+    "Genome, Protozoan",
+    "Genetic Speciation",
+    "Genetic Variation"
+  ],
+  "doi": "10.1073/pnas.2611799123",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Paramecium sonneborni interbred with very distant species again and again.",
+  "hook_turn": "again and again.",
+  "id": "doi-10.1073-pnas.2611799123",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Synonymous divergence of donor lineages",
+    "unit": "substitution per site",
+    "value": "~1"
+  },
+  "significance": 7,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "The genome of Paramecium sonneborni holds hundreds of DNA segments, some near chromosome length, from lineages so divergent that plants or animals could not hybridize. The authors infer repeated interspecific mating, and suggest its separate somatic and germline nuclei let it tolerate foreign DNA. The history is reconstructed from genome comparison, not observed mating.",
+  "tags": [
+    "speciation",
+    "hybridization"
+  ],
+  "title": "Recurrent hybridization between highly divergent paramecium species.",
+  "url": "https://doi.org/10.1073/pnas.2611799123",
+  "venue": "Proceedings of the National Academy of Sciences"
+}

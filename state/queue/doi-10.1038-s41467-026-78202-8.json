@@ -1,0 +1,47 @@
+{
+  "abstract": "Abstract Inhibiting the aggregation of Amyloid β (1-42) is a promising strategy for the development of disease-modifying Alzheimer’s disease therapeutics. To date, however, no sufficiently efficacious inhibitors have been identified, despite the best efforts of more than 200 advanced drug development campaigns. This failure can be partially attributed to limitations in current in vitro compound screening and in vivo validation assays. Here, we report a high throughput assay platform based on the use of a fluorescence lifetime aggregation sensor that can be applied in vitro and in vivo. This microfluidic “nanoFLIM” assay presents a cost-effective and reliable alternative to conventional early-stage small molecule discovery platforms for cell-free Amyloid β aggregation. The fluorescence lifetime sensor can dynamically monitor peptide aggregation in cellular and Caenorhabditis elegans disease models, providing directly comparable aggregation kinetics, which is not achievable by any other method. The power of this unified platform for accelerating hit-to-lead strategies, lowering attrition rates and expediting in vivo screening, was demonstrated with a pilot screening campaign of 445 compounds, revealing an inhibitor that can inhibit Amyloid β self-assembly both in vitro as well as in cellular and whole organism disease models.",
+  "arxiv_id": null,
+  "authors": [
+    "Súil Collins",
+    "Liisa D. van Vliet",
+    "Fabrice Gielen",
+    "Matej Janeček",
+    "Nino F. Läubli",
+    "Sara Wagner Valladolid",
+    "Chetan Poudel",
+    "Ana Fernandez-Villegas",
+    "Tomas Deingruber",
+    "Giuliana Fusco",
+    "Alfonso De Simone",
+    "Claire Michel",
+    "Clemens F. Kaminski",
+    "David R. Spring",
+    "Florian Hollfelder",
+    "Gabriele S. Kaminski Schierle"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-78202-8",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A fluorescence lifetime assay screens Amyloid β aggregation inhibitors in vitro, in cells and in worms.",
+  "id": "doi-10.1038-s41467-026-78202-8",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "A fluorescence lifetime sensor reads out Amyloid β clumping in microfluidic droplets, human cells, and C. elegans models, giving comparable kinetics across formats. A pilot screen of 445 compounds found one inhibitor that worked in all three settings. It is a screening tool, and the single hit has not been tested in mammals or people.",
+  "tags": [
+    "amyloid beta",
+    "drug screening"
+  ],
+  "title": "A microfluidic fluorescence lifetime screening platform bridges in vitro and in vivo formats and enables discovery of Amyloid β aggregation inhibitors",
+  "url": "https://doi.org/10.1038/s41467-026-78202-8",
+  "venue": "Nature Communications"
+}

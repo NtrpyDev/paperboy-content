@@ -1,0 +1,40 @@
+{
+  "abstract": "This work summarizes some updates to the ropelength problem, concerning the shortest possible contour length of a unit-thickness knot, that were derived with the assistance of ChatGPT-5.6 Luna. The first of two main results is that the universal lower bound for a knot with crossing number C has been improved from $L\\geq1.105C^{3/4}$ to $L\\geq2.0996C^{3/4}$, achieved by further separating local and global terms in an optimization integral. The second main result is a bound relating ropelength to stick number (s), such that $L\\geq\\pi(s-1)$. This implies stronger lower bounds for the ropelengths of at least 41 torus knots, and a specific class of pretzel knots. Other results include an improved packing-based lower bound for T(Q,Q) links and an optimized standard parameterization for torus knots. There were many problems for which the LLM was unable to render assistance, for example in reducing the numerical coefficients or scalings of known universal upper bounds.",
+  "arxiv_id": "2611.14234",
+  "authors": [
+    "Alexander Klotz"
+  ],
+  "categories": [
+    "math.GT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14234"
+  },
+  "hook": "An AI-assisted proof nearly doubles the known lower bound on how much rope a knot needs.",
+  "hook_turn": "how much rope a knot needs.",
+  "id": "arxiv-2611.14234",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "New ropelength bound coefficient of C^(3/4)",
+    "value": "2.0996"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The lower bound on the length of rope needed to tie a knot with C crossings rises from 1.105C^(3/4) to 2.0996C^(3/4), and length is also bounded below by pi(s-1) for stick number s. The author reached these with ChatGPT-5.6 Luna, using sharper handling of an optimization integral. The model failed on many other problems, such as tightening upper bounds, and the paper is an unrefereed preprint.",
+  "tags": [
+    "knot theory",
+    "ropelength",
+    "AI-assisted math"
+  ],
+  "title": "LLM-Assisted Advances in the Ropelength Problem",
+  "url": "https://arxiv.org/abs/2611.14234",
+  "venue": "arXiv"
+}

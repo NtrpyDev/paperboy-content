@@ -1,0 +1,47 @@
+{
+  "abstract": "Abstract Terawatt-scale deployment of proton-exchange membrane water electrolyzers (PEMWEs) requires low iridium (Ir) loading, which disrupts the catalyst layer’s in-plane electronic percolation network and severely degrades performance. Here, we overcome this bottleneck via an interfacial confinement strategy that electrostatically enriches cationic Ir intermediates on the negatively charged, oxygen-deficient TiOx surface, thereby redirecting Ir deposition from three-dimensional island growth to a two-dimensional conformal film on TiO2 supports. The resulting IrOx-NF@TiO2 catalyst with low Ir packing density maintains long-range in-plane electron percolation, reducing reliance on the high Ir loading typically required by conventional IrOx nanoparticle catalysts to establish quasi-continuous conductive pathways. At a loading of 0.166 mgIr cm−2, blade-coated membrane electrode assemblies incorporating this architecture feature ∼7 μm-thick catalyst layers with an Ir packing density of only ∼0.25 gIr cm–3, allowing an ∼84% reduction in Ir use while achieving performance comparable to that of commercial IrO2. This work highlights the potential of supported conformal IrOx catalysts as competitive candidates for next-generation low-Ir PEMWEs.",
+  "arxiv_id": null,
+  "authors": [
+    "Jun-Jie Peng",
+    "Ru-Yang Shao",
+    "Xian Zhang",
+    "Dian-Ding Sun",
+    "Zi-Ang Sun",
+    "Lan Li",
+    "Dong-Sheng Li",
+    "Yu-Qian Yan",
+    "Gongming Wang",
+    "Lei Tong",
+    "Hai-Wei Liang"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c18729",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A conformal IrOx film on TiO2 cuts iridium use by about 84% in water electrolyzers at similar performance.",
+  "id": "doi-10.1021-jacs.6c18729",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Reduction in iridium use",
+    "unit": "%",
+    "value": "~84"
+  },
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Charged iridium species gather on an oxygen-deficient TiOx surface, so iridium grows as a thin continuous film instead of clumps and still conducts electrons at low loading. Membrane assemblies at 0.166 mg Ir per cm2 matched commercial IrO2. Durability over long operation is not described in the abstract.",
+  "tags": [
+    "water electrolysis",
+    "iridium catalysts"
+  ],
+  "title": "Interfacial Confinement Enables Conformal IrOx Nanofilms for Low-Ir-Loading PEM Water Electrolysis",
+  "url": "https://doi.org/10.1021/jacs.6c18729",
+  "venue": "Journal of the American Chemical Society"
+}

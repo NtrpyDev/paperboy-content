@@ -1,0 +1,52 @@
+{
+  "abstract": "Despite a century of BCG use, tuberculosis remains a leading cause of death from infectious diseases and more effective vaccines are urgently needed. Here we combined antigen discovery in zebrafish with mRNA vaccine technology to generate multivalent vaccine candidates, TUmRNA4, TUmRNA6 and TUmRNA9, encoding four, six, or nine Mycobacterium tuberculosis antigens, respectively. The vaccines were well tolerated, and induced robust antigen-specific cellular immune responses, including IFN{gamma} production and expansion of memory T-cell populations. In mice, TUmRNA4 and TUmRNA6 reduced pulmonary M. tuberculosis burden and lung pathology to levels comparable to BCG vaccination and TUmRNA6 enhanced BCG-mediated protection when used as a booster vaccine. In guinea pigs, TUmRNA9 reduced bacterial burden in the lungs, spleen, and lymph nodes and decreased pulmonary lesions. These findings demonstrate that protective antigens identified in zebrafish can be translated into effective multivalent mRNA vaccines and establish a framework for tuberculosis vaccine development across multiple preclinical models.",
+  "arxiv_id": null,
+  "authors": [
+    "Saralahti, A. K.",
+    "Isotalo, T. A.",
+    "Niskanen, M. T.",
+    "Kummola, L.",
+    "Mäkinen, L.",
+    "Nguyen, D.",
+    "Ackart, D. F.",
+    "Hunstad, L.",
+    "Miller, O. R.",
+    "Elkashif, A.",
+    "Easton, R. J.",
+    "Gonzalez-Rodriguez, M.",
+    "Junno, M.",
+    "Valanne, S.",
+    "Junttila, I. S.",
+    "Podell, B. K.",
+    "Saunders, B. M.",
+    "Rämet, M."
+  ],
+  "categories": [
+    "immunology"
+  ],
+  "doi": "10.64898/2026.11.09.765257",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/13/2026.11.09.765257.source.xml"
+  },
+  "hook": "Zebrafish-derived mRNA vaccines cut tuberculosis in mice and guinea pigs, rivaling BCG in mice.",
+  "hook_turn": "rivaling BCG in mice.",
+  "id": "doi-10.64898-2026.11.09.765257",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Researchers used zebrafish to find tuberculosis antigens and packaged four, six, or nine of them into mRNA vaccines. In mice two vaccines lowered lung bacteria and damage to levels like BCG, and one boosted BCG; in guinea pigs the nine-antigen vaccine cut bacteria and lesions. All results are in animals, and protection in humans is untested. This is a preprint.",
+  "tags": [
+    "tuberculosis",
+    "mRNA vaccines"
+  ],
+  "title": "Multivalent mRNA tuberculosis vaccines protect against mycobacterial infection in zebrafish, mice and guinea pigs",
+  "url": "https://doi.org/10.64898/2026.11.09.765257",
+  "venue": "bioRxiv"
+}

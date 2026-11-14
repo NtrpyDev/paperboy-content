@@ -1,0 +1,36 @@
+{
+  "abstract": "For a Haar unitary matrix $U_N$ of size $N$, we prove that the first absolute moment of $\\operatorname{tr}(\\operatorname{Sym}^k U_N)$ tends to zero as $\\min(N,k)\\to\\infty$. This settles the random matrix version of Harper's beyond square-root conjecture formulated by Wang and Xu, with no restriction on $k/N$. The proof is elementary and self-contained, combining exact weighted trace moments with a Gaussian change of measure. It also connects the result to the critical chaos model studied by Soundararajan and Zaman, also known as holomorphic multiplicative chaos.",
+  "arxiv_id": "2611.09753",
+  "authors": [
+    "William Verreault",
+    "Max Wenqiang Xu"
+  ],
+  "categories": [
+    "math.NT",
+    "math.PR"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.09753"
+  },
+  "hook": "The average size of a symmetric-power trace of a random unitary matrix shrinks to zero",
+  "id": "arxiv-2611.09753",
+  "license": "cc-by",
+  "published": "2026-11-06",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper treats a random matrix analogue of a conjecture by Harper about very large sums of random signs. It shows the first absolute moment of the trace of the k-th symmetric power of a Haar unitary matrix goes to zero as both N and k grow, using exact moments and a Gaussian change of measure. This is the random matrix version only; the original number theory conjecture stays open.",
+  "tags": [
+    "random matrices",
+    "number theory"
+  ],
+  "title": "Harper's beyond square-root conjecture for random matrices",
+  "url": "https://arxiv.org/abs/2611.09753",
+  "venue": "arXiv"
+}

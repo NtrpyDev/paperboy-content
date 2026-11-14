@@ -1,0 +1,37 @@
+{
+  "abstract": "The Gilbert-Varshamov (GV) bound is a fundamental benchmark for the existence of error-correcting codes. For non-linear $q$-ary codes of code length $n$, its finite length form is known to admit a multiplicative improvement of order $\\Theta(n)$. In contrast, for $q$-ary linear codes of arbitrary rates, the best previously known general improvement was only of order $\\Theta(\\sqrt n)$. This leaves open whether the algebraic constraint of linearity inherently prevents a linear-order refinement. We show that it does not. For every fixed prime power $q$ and relative distance $0<\\delta<1-1/q$, we obtain a $\\Theta(n)$-multiplicative improvement of the GV bound for $q$-ary linear codes of arbitrary rate, matching the corresponding result for nonlinear codes. Our proof is based on a simple change of viewpoint. Rather than requiring the initial random linear construction to contain no low-weight vectors, we allow $O(n)$ low-weight points, show that they are independent in the underlying projective space, and then eliminate all of them simultaneously at the cost of a single dimension. The key probabilistic ingredient is an exponential bound on nontrivial linear dependencies among low-weight vectors. We further show that this approach can be extended to quantum codes despite the symplectic self-orthogonality constraint. We obtain a $\\Theta(n)$-multiplicative improvement of the quantum GV bound for every fixed $0<\\delta<1-1/q^2$ satisfying $H_{q^2}(\\delta)<1/2$. Thus, the same $\\Theta(n)$ finite length improvement is applicable to both general linear structure and symplectic self-orthogonality.",
+  "arxiv_id": "2611.16447",
+  "authors": [
+    "Chen Yuan",
+    "Ruiqi Zhu"
+  ],
+  "categories": [
+    "cs.IT",
+    "math.IT"
+  ],
+  "doi": null,
+  "explain": true,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16447"
+  },
+  "hook": "Linear codes beat the Gilbert-Varshamov bound by a factor of n, matching nonlinear codes.",
+  "hook_turn": "matching nonlinear codes.",
+  "id": "arxiv-2611.16447",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Linear error-correcting codes can exceed the classic Gilbert-Varshamov existence bound by a factor that grows in proportion to code length, as nonlinear codes already could. The proof starts from a random linear code, tolerates a linear number of short vectors, and removes them all by giving up one dimension. The same gain extends to quantum codes, but only for distances where the entropy condition H(delta) < 1/2 holds.",
+  "tags": [
+    "error-correcting codes",
+    "coding theory"
+  ],
+  "title": "A $\\Theta(n)$-Multiplicative Improvement of the Gilbert-Varshamov Bound for Linear and Quantum Codes",
+  "url": "https://arxiv.org/abs/2611.16447",
+  "venue": "arXiv"
+}

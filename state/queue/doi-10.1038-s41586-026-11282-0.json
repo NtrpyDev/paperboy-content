@@ -1,0 +1,44 @@
+{
+  "abstract": "Accessing reversible four-electron iodine redox chemistry in aqueous metal-iodine batteries offers a promising route towards high-energy aqueous energy storage, but has conventionally relied on highly concentrated, corrosive halogen-containing electrolytes to stabilize reactive hypervalent iodine cations through interhalogen complexation1-9. Here we show a kosmotropic anion-polar anion-nucleophilic species (Nuc) electrolyte framework that harnesses anionic chemistry to coordinate the interfacial microenvironment and molecular interactions, enabling reversible four-electron iodine conversion in halogen-free aqueous electrolytes. Polar anions establish a water-deficient, anion-enriched interfacial microenvironment, whereas kosmotropic anions regulate water-Nuc interactions to increase the availability of Nuc for stabilizing hypervalent iodine cations through Nuc-I+-Nuc halogen bonds. This electrolyte framework is validated across diverse Nuc and in both aqueous Zn-I2 and Al-I2 batteries. Moving beyond conventional interhalogen stabilization, these findings establish a distinct electrolyte chemistry framework and represent a mechanistic shift for reversible multi-electron iodine chemistry in aqueous environments.",
+  "arxiv_id": null,
+  "authors": [
+    "Ruwei Chen",
+    "Haobo Dong",
+    "Yuhang Dai",
+    "Jingyu Wang",
+    "Jie Chen",
+    "Jiyang Liu",
+    "Jianrui Feng",
+    "Yunpeng Zhong",
+    "Wei Zong",
+    "Wei Zhang",
+    "Hang Yang",
+    "Zhe Cui",
+    "Guanjie He"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41586-026-11282-0",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A new salt recipe lets water-based batteries store four electrons per iodine without corrosive halides.",
+  "id": "doi-10.1038-s41586-026-11282-0",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Water-based zinc and aluminum iodine batteries usually need harsh halogen-rich electrolytes to use iodine's full four-electron chemistry. Here, paired anions shape the water near the electrode so added nucleophiles can stabilize the reactive iodine cations. It worked across several nucleophiles, but the abstract gives no cycle-life or energy figures.",
+  "tags": [
+    "batteries",
+    "iodine chemistry"
+  ],
+  "title": "Non-halogen aqueous electrolytes for four-electron iodine conversion.",
+  "url": "https://doi.org/10.1038/s41586-026-11282-0",
+  "venue": "Nature"
+}

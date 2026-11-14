@@ -1,0 +1,45 @@
+{
+  "abstract": "Abstract Order–disorder transitions allow many proteins to shift between compact and flexible/unfolded states, thereby acting as structural switches that regulate catalysis, signaling, recognition, and allostery. We applied time-resolved serial oscillation crystallography to establish the structural kinetics of the light-triggered order–disorder transition of an animal-like cryptochrome as a six-second-long molecular movie with near-atomic all-residue spatial resolution and millisecond temporal resolution. Our 29 structural snapshots mapped the propagation of disorder across the tertiary structure motifs of a cryptochrome’s C-terminal region, triggered by a single broken D321–R492 salt bridge. The order–disorder transition followed a nucleation-propagation mechanism reminiscent of helix–coil dynamics and proceeded over up to five seconds, with regions distal to the D321–R492 trigger initially undergoing slow zero-order disordering before switching to first-order unfolding kinetics. Our per-residue density analysis provides a detailed structural-kinetic basis for understanding how order–disorder transitions emerge through directional propagation across protein tertiary structures, as occurring in signaling and many other biological systems.",
+  "arxiv_id": null,
+  "authors": [
+    "Nicolas Caramello",
+    "Yuhei Hosokawa",
+    "Kai-Chun Yang",
+    "Po-Hsun Wang",
+    "Sylvain Engilberge",
+    "Pei-Jyun Liu",
+    "Yu-Chen Chang",
+    "Thierry Giraud",
+    "Ming-Daw Tsai",
+    "Junpei Yamamoto",
+    "Lars-Oliver Essen",
+    "Antoine Royant",
+    "Manuel Maestre-Reyna"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c20043",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A six-second molecular movie shows disorder spreading through a protein from one broken salt bridge.",
+  "hook_turn": "from one broken salt bridge.",
+  "id": "doi-10.1021-jacs.6c20043",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 7,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Time-resolved crystallography of a light-activated cryptochrome produced 29 snapshots with millisecond steps. Disorder spreads from a broken D321-R492 salt bridge along the C-terminal region like a helix-to-coil transition, with distant regions first unraveling slowly. It covers one protein in crystals, which may differ from behavior in cells.",
+  "tags": [
+    "protein dynamics",
+    "time-resolved crystallography"
+  ],
+  "title": "Mapping the Slow Propagation of Disorder across a Photoreceptor’s Tertiary Structure with Time-Resolved Crystallography",
+  "url": "https://doi.org/10.1021/jacs.6c20043",
+  "venue": "Journal of the American Chemical Society"
+}

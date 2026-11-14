@@ -1,0 +1,34 @@
+{
+  "abstract": "We establish finite-sample Berry--Esseen bounds over all convex subsets of $\\R^{d}$ for sums of independent random vectors. The upper bounds give explicit dependence on the sample size, dimension, and moments of the summands, with numerical constants. They allow arbitrary dependence among coordinates and cover every real moment order from three onward. For i.i.d. summands, we determine the optimal dependence of the worst-case error on the sample size, the dimension, and the prescribed moment bound. We obtain matching lower bounds using bounded distributions that can be chosen independently of the sample size. The results reveal a fourth-moment threshold for normal approximation over convex sets. Four is the first moment order for which uniform bounds on the corresponding coordinate moments yield a worst-case error bound linear in the dimension. Bounds on higher moments give the same worst-case rate. The proof combines convexity with the addition of independent Gaussian noise to establish a normal approximation bound for Rademacher sums on Parseval frames. Random swaps with independent copies then allow us to apply this bound conditionally to general sums of independent random vectors.",
+  "arxiv_id": "2611.13106",
+  "authors": [
+    "Mayya Zhilova"
+  ],
+  "categories": [
+    "math.PR"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13106"
+  },
+  "hook": "Normal approximation over convex sets has a fourth-moment threshold for error linear in dimension.",
+  "id": "arxiv-2611.13106",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper proves explicit Berry-Esseen bounds, showing how fast sums of random vectors approach a Gaussian over convex sets, and matches them with lower bounds. Fourth moments are the first order giving error linear in dimension. The proof adds Gaussian noise to Rademacher sums, and the constants are numerical rather than tuned for practice.",
+  "tags": [
+    "probability",
+    "central limit theorem"
+  ],
+  "title": "Sharp and explicit Berry--Esseen inequalities over convex sets",
+  "url": "https://arxiv.org/abs/2611.13106",
+  "venue": "arXiv"
+}

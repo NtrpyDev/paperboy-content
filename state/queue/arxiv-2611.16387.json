@@ -1,0 +1,38 @@
+{
+  "abstract": "Superconductors expel magnetic fields through the Meissner effect. Even slightly above the superconducting transition temperature, electrons can briefly form Cooper pairs, leading to an orbital diamagnetic susceptibility that diverges as the transition is approached. In this work, we use Gaussian fluctuation theory to study a generic multicomponent superconductor above its transition temperature and show that fluctuations can instead produce a paramagnetic response. We identify two competing contributions: the usual diamagnetic contribution from the center-of-mass motion of Cooper pairs and a paramagnetic contribution from interference between different components of the superconducting order parameter. The latter is related to pair quantum geometry, which describes how the internal components of the Cooper pair change with momentum. We then apply our theory to a model of a kagome superconductor with two chiral pairing modes. When the parent state preserves time-reversal symmetry, the paramagnetic contribution can outweigh the conventional diamagnetic contribution, producing net fluctuation paramagnetism. However, when the orbital time-reversal symmetry is broken, e.g., by forming a weak loop-current order, the degeneracy between the two chiral modes is then lifted. Upon cooling toward the superconducting transition, the lower-energy mode dominates the fluctuations, and diamagnetism wins as single-component physics takes over. Our results provide a mechanism for fluctuation paramagnetism in superconductors and show that the orbital magnetic response can probe the quantum geometry of Cooper pairs.",
+  "arxiv_id": "2611.16387",
+  "authors": [
+    "Zi-Ting Sun",
+    "Ying-Ming Xie",
+    "Chunli Huang",
+    "Naoto Nagaosa"
+  ],
+  "categories": [
+    "cond-mat.supr-con",
+    "cond-mat.mes-hall"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16387"
+  },
+  "hook": "Fluctuating Cooper pairs can make a superconductor paramagnetic just above its transition temperature.",
+  "id": "arxiv-2611.16387",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Above the transition, superconducting fluctuations usually repel magnetic fields. Using Gaussian fluctuation theory, the authors show that interference between components of a multicomponent order parameter, tied to pair quantum geometry, can instead give a paramagnetic response. A kagome model with two chiral pairing modes shows it. This is theory and a model system, with no measurement yet.",
+  "tags": [
+    "superconductivity",
+    "quantum geometry"
+  ],
+  "title": "Quantum geometry drives orbital paramagnetism in superconducting fluctuations",
+  "url": "https://arxiv.org/abs/2611.16387",
+  "venue": "arXiv"
+}

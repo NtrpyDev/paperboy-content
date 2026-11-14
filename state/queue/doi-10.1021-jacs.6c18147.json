@@ -1,0 +1,39 @@
+{
+  "abstract": "Abstract The development of sustainable organic–inorganic hybrid materials with a molecular level of covalent integration remains a major challenge. Here, we report a one-pot synthesis of covalently integrated poly(α-lipoic acid)-silicate (PLAOH·SiO2) hybrid networks using α-lipoic acid, an abundant natural building block, and complementary silicate precursors. Strategic selection of silicate precursors enables direct Si–O–C covalent bonding with hydroxyl groups on the poly(α-lipoic acid) backbone, yielding molecularly integrated, single-phase hybrid materials across varied organic-to-inorganic ratios. Systematic compositional variation enables continuous tuning of mechanical properties (Young’s modulus: 0.94 ± 0.03 – 63.3 ± 5.67 MPa, Hardness: 1.14 ± 0.07 – 73.10 ± 8.81 MPa) while preserving optical transparency (>75% transmittance) and thermal stability (Td > 220 °C) across the entire series. The hybrid material can be reprocessed and chemically recycled to the monomer. This provides a practical synthesis of sustainable hybrid materials with tunable mechanical properties, addressing critical needs in sustainable advanced materials manufacturing.",
+  "arxiv_id": null,
+  "authors": [
+    "Basim Basheer",
+    "Zhibin Guan"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c18147",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Natural lipoic acid bonds to silicate into a recyclable, transparent hybrid with tunable stiffness.",
+  "hook_turn": "with tunable stiffness.",
+  "id": "doi-10.1021-jacs.6c18147",
+  "license": "other",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Top Young's modulus in the hybrid series",
+    "unit": "MPa",
+    "value": "63.3"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "A one-pot reaction links a polymer made from lipoic acid to silicate through covalent Si-O-C bonds, giving a single-phase material. Changing the organic-to-inorganic ratio tunes Young's modulus from 0.94 to 63.3 MPa while keeping over 75% transparency. It can be chemically recycled to the monomer, though only lab-scale samples are described.",
+  "tags": [
+    "sustainable materials",
+    "polymers"
+  ],
+  "title": "Covalent Integration of Poly(α-lipoic acid) with Silicate Networks: Sustainable Hybrid Materials with Tunable Properties",
+  "url": "https://doi.org/10.1021/jacs.6c18147",
+  "venue": "Journal of the American Chemical Society"
+}

@@ -1,0 +1,35 @@
+{
+  "abstract": "We numerically solve the ground state wavefunction of SU(2) BFSS matrix quantum mechanics. We compare ground correlators against islands obtained using the matrix bootstrap and find agreement up to five significant figures. The power law tail of this wavefunction determines the three-point amplitude, which agrees with the computation of Herderschee and Maldacena. Beyond the ground state, we extract the non-perturbative four-point scattering amplitude using L\\\"uscher's method. In the appropriate regime, we find agreement with the Born-Oppenheimer approximation that yields the well-known $v^4/r^7$ interaction. We also find explicit bound states with positive energies in various SO(9) irreps. These are closely related to the bound states whose existence was recently discovered by OpenAI. Finally, we identify metastable resonances in the spectrum.",
+  "arxiv_id": "2611.14512",
+  "authors": [
+    "Kabir Bajaj",
+    "Henry W. Lin"
+  ],
+  "categories": [
+    "hep-th"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14512"
+  },
+  "hook": "Numerics solve the SU(2) BFSS matrix model's ground state and match bootstrap bounds to five digits.",
+  "id": "arxiv-2611.14512",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors numerically solve the ground state of SU(2) BFSS matrix quantum mechanics, a toy model tied to M-theory. Its correlators agree with matrix bootstrap results to five significant figures, and Luscher's method gives the four-point scattering amplitude, matching the known v^4/r^7 force. They also find bound states and metastable resonances. The model uses the smallest gauge group, so larger groups are untested.",
+  "tags": [
+    "matrix models",
+    "quantum gravity"
+  ],
+  "title": "Solving the SU(2) BFSS model",
+  "url": "https://arxiv.org/abs/2611.14512",
+  "venue": "arXiv"
+}

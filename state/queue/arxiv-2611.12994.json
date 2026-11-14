@@ -1,0 +1,49 @@
+{
+  "abstract": "The $^{169}\\mathrm{Tm}(\\gamma,n)^{168}\\mathrm{Tm}$ cross section has been measured at the Shanghai Laser Electron Gamma Source (SLEGS) using quasi-monoenergetic laser-Compton-scattering $\\gamma$ rays over the energy range from the neutron threshold to 14.61~MeV. The photon flux and energy distribution were determined with a LaBr$3$(Ce) spectrometer, and monoenergetic cross sections were obtained using an iterative unfolding method. Below 12~MeV, the present cross sections agree well with the NewSUBARU data and the IAEA-2019 evaluations. However, near the maximum of the $(\\gamma,n)$ excitation function, the present cross sections are significantly higher than both the NewSUBARU data and the IAEA-2019 evaluated values. The $E1$ $\\gamma$-ray strength functions were derived by fitting the experimental cross sections measured at SLEGS and NewSUBARU. The stellar reaction rates for $^{169}\\mathrm{Tm}(\\gamma,n)$ and $^{168}\\mathrm{Tm}(n,\\gamma)$ were calculated by incorporating these constrained $\\gamma$-ray strength functions into the TALYS code. The calculated $^{169}\\mathrm{Tm}(\\gamma,n)$ rates were adopted in a full $p$-process reaction network for the shock-heated O/Ne-rich layers of a $20 M\\odot$ core-collapse supernova model to perform a sensitivity analysis. The updated rates have a negligible effect on the final $p$-nucleus abundances.",
+  "arxiv_id": "2611.12994",
+  "authors": [
+    "De-Xin Wang",
+    "Su-Ya-La-Tu Zhang",
+    "Hao Zi-rui",
+    "Han Guo",
+    "Wen-Yu Xin",
+    "Guo Li",
+    "Yong-Shun Huang",
+    "Jin-Feng Bai",
+    "Kai Wang",
+    "Mei-Rong Huang",
+    "Xi Bao-Shan",
+    "Peter Mohr",
+    "Jian-Fang Zhang",
+    "Gong-Tao Fan",
+    "Hong-Wei Wang"
+  ],
+  "categories": [
+    "nucl-ex"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.12994"
+  },
+  "hook": "Thulium-169 gives off neutrons under gamma rays more strongly near its peak than earlier data said.",
+  "hook_turn": "more strongly near its peak than earlier data said.",
+  "id": "arxiv-2611.12994",
+  "license": "cc-by",
+  "published": "2026-11-08",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Using laser-Compton gamma beams, the team measured how often thulium-169 ejects a neutron up to 14.61 MeV. Their cross sections match earlier data below 12 MeV but run significantly higher near the peak. Feeding the result into supernova models changes element abundances negligibly, and the model is one 20 solar mass case.",
+  "tags": [
+    "nuclear physics",
+    "p-process"
+  ],
+  "title": "Measurement of the $^{169}$Tm$(\\gamma,n)$$^{168}$Tm Cross Section and Implications for $\\gamma$-Process Calculations",
+  "url": "https://arxiv.org/abs/2611.12994",
+  "venue": "arXiv"
+}

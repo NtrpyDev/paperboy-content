@@ -1,0 +1,35 @@
+{
+  "abstract": "Bounded Knapsack asks how many copies of each item to take to maximize profit under a capacity constraint. Given $n$ records with binary-encoded multiplicities, we return optimal counts in randomized time with a fixed power saving in the maximum item weight $w_{\\max}$ or maximum item profit $p_{\\max}$. Fix $1<\\rho<2$ and suppose integer $(\\min,+)$-convolution on length-$m$ arrays can be computed with failure probability at most $\\eta$ in $\\widetilde O(m^\\rho)$ time, up to polynomial factors in the entry bit length and $\\log(1/\\eta)$. Put $f(\\rho)=4(3-\\rho)/(8-3\\rho).$ For any fixed $\\epsilon>0$, on inputs whose integers have magnitude polynomial in $n+\\min(w_{\\max},p_{\\max})$, our algorithm runs in time $$\\widetilde O\\bigl(n\\min(w_{\\max},p_{\\max})^{f(\\rho)+\\epsilon}\\bigr).$$ It returns optimal counts with high probability. If convolution saves $\\delta=2-\\rho$ in its exponent, knapsack retains $\\delta/(1+3\\delta/2)$. With the integer convolution exponent $1.9601397040925$, a separate parameter choice gives $\\widetilde O(n+\\min(w_{\\max},p_{\\max})^{1.961})$, including for 0-1 Knapsack. We keep the copies compressed. Witnessed convolutions generate residual queries, and local linear programs filter them by cost. Resilient lattice cores allow recursive states to coalesce. Progression reserves support rounding, and a thin affordable fiber yields a lift that reduces the normalized column volume. This volume bounds the number of LP regions a grid lookup examines.",
+  "arxiv_id": "2611.15792",
+  "authors": [
+    "Huanyi Zhou"
+  ],
+  "categories": [
+    "cs.DS",
+    "cs.CG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15792"
+  },
+  "hook": "Bounded knapsack gets a power saving over quadratic time in the largest item weight or profit.",
+  "id": "arxiv-2611.15792",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper gives a randomized algorithm for the bounded knapsack problem that beats quadratic dependence on the largest weight or profit. It builds on fast (min,+) convolution and a geometric argument with local linear programs. The general bound depends on an assumed convolution speedup, and the unconditional version only reaches an exponent of about 1.961, which is still theory with no implementation.",
+  "tags": [
+    "knapsack",
+    "algorithms"
+  ],
+  "title": "Bounded Knapsack in Truly Subquadratic Time",
+  "url": "https://arxiv.org/abs/2611.15792",
+  "venue": "arXiv"
+}

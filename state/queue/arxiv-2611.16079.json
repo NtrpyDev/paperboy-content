@@ -1,0 +1,35 @@
+{
+  "abstract": "We show that every classifiable stably finite $C^*$-algebra is isomorphic to the $C^*$-algebra of a second countable, locally compact Hausdorff, principal \\'etale groupoid. Equivalently, every such $C^*$-algebra has a $C^*$-diagonal whose Weyl twist is trivial. Together with Evington and Sibbel's recent result for all UCT Kirchberg algebras, this provides untwisted principal groupoid models for every classifiable $C^*$-algebra.",
+  "arxiv_id": "2611.16079",
+  "authors": [
+    "Nikolay A. Ivanov",
+    "Ali I. Raad"
+  ],
+  "categories": [
+    "math.OA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16079"
+  },
+  "hook": "Every classifiable stably finite C*-algebra has an untwisted etale groupoid model",
+  "id": "arxiv-2611.16079",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper shows each such C*-algebra can be written as the algebra of a principal etale groupoid, equivalently that it has a C*-diagonal with trivial Weyl twist. Combined with a recent result for Kirchberg algebras, this covers every classifiable C*-algebra. It is an existence result and does not give an explicit groupoid in each case.",
+  "tags": [
+    "operator algebras",
+    "groupoids"
+  ],
+  "title": "Every classifiable stably finite $C^*$-algebra has an untwisted \\'etale groupoid model",
+  "url": "https://arxiv.org/abs/2611.16079",
+  "venue": "arXiv"
+}

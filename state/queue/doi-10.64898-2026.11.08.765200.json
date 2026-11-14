@@ -1,0 +1,38 @@
+{
+  "abstract": "Architectural RNAs (arcRNAs) scaffold membraneless organelles (MLOs), yet how they organize functional proteins remains unclear. Nuclear stress bodies (nSBs), MLOs scaffolded by HSATIII arcRNAs, incorporate SRSFs during stress. During stress recovery, nSBs function as reaction crucibles that recruit the kinase CLK1 to accelerate SRSF rephosphorylation and normalize stress-induced splicing. Here, we identify the ASAP complex as a recruitment factor that recognizes Ser341-phosphorylated, catalytically activated CLK1. HSATIII-bound SRSFs recruit ASAP, assembling a platform for CLK1 recruitment. Biochemical reconstitution reveals that this platform enhances SRSF phosphorylation by concentrating SRSFs and CLK1 while selectively recruiting activated CLK1, establishing nSB reaction crucibles as molecular concentrators and selectors. The SRSF-ASAP-CLK1 interaction network is conserved between humans and mice, suggesting that primate-specific HSATIII arcRNAs co-opted this pre-existing network to establish reaction-crucible function in nSBs. Our findings reveal how arcRNAs organize functional proteins through quantitative enrichment and qualitative selection to build biochemically active MLOs.",
+  "arxiv_id": null,
+  "authors": [
+    "Ueno, T.",
+    "Adachi, S.",
+    "Yamazaki, T.",
+    "Ninomiya, K.",
+    "Hirose, T."
+  ],
+  "categories": [
+    "molecular biology"
+  ],
+  "doi": "10.64898/2026.11.08.765200",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/11/2026.11.08.765200.source.xml"
+  },
+  "hook": "An architectural RNA concentrates splicing proteins and picks active CLK1 kinase in stress bodies.",
+  "id": "doi-10.64898-2026.11.08.765200",
+  "license": "cc-by-nc",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "In stressed human cells, HSATIII RNA binds SRSF proteins, which recruit the ASAP complex, and ASAP in turn captures activated CLK1 kinase. Test-tube reconstitution shows this speeds SRSF phosphorylation. The network is conserved in mice, but HSATIII is primate specific, and the findings come from cell and biochemical systems.",
+  "tags": [
+    "RNA biology",
+    "stress response"
+  ],
+  "title": "An architectural RNA builds a reaction crucible through molecular concentration and activated enzyme selection",
+  "url": "https://doi.org/10.64898/2026.11.08.765200",
+  "venue": "bioRxiv"
+}

@@ -1,0 +1,44 @@
+{
+  "abstract": "Beta-lactamases are a major mechanism of bacterial resistance to beta-lactam antibiotics; however, their functional diversity and mutational potential in environmental microbial communities remain partially understood. This study aimed to characterize environmental beta-lactamase diversity and investigate how sequence variation influences antibiotic resistance. By integrating protein language model (PLMs) with ensemble learning, we identified more than 46,000 putative beta-lactamases across all four Ambler classes from environmental metagenomes, widely distributed across diverse habitats, with distinct habitat-associated class compositions. The candidates sharing approximately 30% sequence identity with known beta-lactamases conferred resistance to multiple beta-lactam antibiotics when expressed in Escherichia coli. Combining inverse folding model with PLMs further identified mutations that altered resistance profiles, including substitutions that increased resistance to carbapenems. Predicted high-fitness sites exhibited greater natural sequence variability overall, with higher variability in wastewater-derived than ocean-derived enzymes. These findings reveal undercharacterized beta-lactamase diversity and substantial mutational flexibility in environmental microbiomes, providing a basis for investigating their potential contribution to the diversification of antibiotic resistance.",
+  "arxiv_id": "2611.14568",
+  "authors": [
+    "Liangjun Ge",
+    "Qiandi Gao",
+    "Haiming Xu",
+    "Zhiwei Qin",
+    "Heqian Zhang"
+  ],
+  "categories": [
+    "q-bio.GN",
+    "cs.AI"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14568"
+  },
+  "hook": "Protein language models flag over 46,000 likely resistance enzymes in environmental DNA.",
+  "id": "arxiv-2611.14568",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Beta-lactamases found in metagenomes",
+    "unit": "putative enzymes",
+    "value": ">46,000"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Protein language models plus ensemble learning found over 46,000 putative beta-lactamases in environmental metagenomes. Candidates sharing about 30% identity with known enzymes conferred resistance when expressed in E. coli, and model-suggested mutations changed resistance profiles. Only a subset was tested in the lab, and the link to real-world resistance spread remains untested.",
+  "tags": [
+    "antibiotic resistance",
+    "metagenomics"
+  ],
+  "title": "Deep learning-guided discovery reveals the diversity and mutational potential of environmental beta-lactamases",
+  "url": "https://arxiv.org/abs/2611.14568",
+  "venue": "arXiv"
+}

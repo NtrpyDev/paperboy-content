@@ -1,0 +1,53 @@
+{
+  "abstract": "Ingestible capsules have garnered considerable attention due to their high gastrointestinal (GI) transitability and minimally invasive nature. However, constrained by pill-sized dimensions (approximately 2 to 4 cubic centimeters), current ingestible capsules face persistent challenges in achieving both controllable high mechanical output and sufficient onboard power delivery, limiting their capacity for effective in vivo therapeutic interventions. Here, we present a wirelessly powered ingestible electronic capsule that integrates programmable soft phase-change actuation within a rigid-soft architecture to enable programmable, high-output mechanical operations. Leveraging bidirectional thermoelectric regulation and guided rigid-soft coupling, the capsule delivers a peak force of 3.8 newtons and a volumetric stroke of ∼250 cubic millimeters within a confined geometry based on the phase-change actuation. To power this actuation, we implemented a compact wireless power transfer system that achieved a maximum load-received power per unit receiver-coil volume of 9.15 watts per cubic centimeter at a 5-centimeter transfer distance under the tested conditions. The structural adaptability of the soft actuator allows modular integration of functional end-effectors, supporting high-output tissue acquisition, site-directed delivery of model liquid or gel payloads, and active biofluid sampling under magnetic navigation. In vivo experiments in beagles demonstrated the feasibility of mechanical interventions in physiological environments. By overcoming the long-standing power and actuation constraints of capsule architecture, this work establishes a physical framework for high-output ingestible robotics and advances the development of minimally invasive robotic platforms for complex GI interventions.",
+  "arxiv_id": null,
+  "authors": [
+    "Hubiao Fang",
+    "Ran Xie",
+    "Xi Jiang",
+    "Jiaqi Zhu",
+    "Chen He",
+    "Kexin Zhang",
+    "Wei Tang",
+    "Hanjie Wang",
+    "Wenyan Zhang",
+    "Qifeng Zhu",
+    "Qing Cao",
+    "Jie Hu",
+    "Huayong Yang",
+    "Li Zhang",
+    "Zhuan Liao",
+    "Dong Han"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aeh3758",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A wirelessly powered pill-sized capsule pushes with 3.8 newtons and needs no battery.",
+  "hook_turn": "needs no battery.",
+  "id": "doi-10.1126-sciadv.aeh3758",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Peak force of the capsule actuator",
+    "unit": "newtons",
+    "value": "3.8"
+  },
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "A swallowable capsule uses a soft phase-change actuator, heated and cooled electrically, to reach 3.8 newtons of peak force and about 250 cubic millimeters of stroke. A compact receiver coil supplies power wirelessly at 5 centimeters. It took tissue samples, released payloads and sampled fluid; beagle tests show feasibility only, not therapeutic benefit.",
+  "tags": [
+    "ingestible robots",
+    "wireless power"
+  ],
+  "title": "Battery-free ingestible electronic capsule with programmable high-output soft actuation for active gastrointestinal interventions",
+  "url": "https://doi.org/10.1126/sciadv.aeh3758",
+  "venue": "Science Advances"
+}

@@ -1,0 +1,43 @@
+{
+  "abstract": "Abstract Intramolecular charge transport is conventionally described as proceeding along a static ground-state potential, with the carrier acting as a passive probe of a fixed electronic landscape. Here, using alkanethiolate-based molecular junctions, we show that the carrier itself can drive conformational reorganization once the applied bias brings backbone-delocalized molecular orbitals into the transmission window. Combined electrical and in situ structural measurements resolve a threshold-activated transition to a gauche-defect state coincident with the onset of orbital-mediated transport. We rationalize this coupling through a quantum resonance scattering framework in which accessible orbitals act as scattering potentials that transiently host the injected charge, depositing energy into nuclear motion with an efficiency set by molecule–electrode coupling and Franck–Condon overlap. The framework quantitatively reproduces the measured response and predicts the enhanced behavior of amide-containing junctions. Together, these results suggest that charge-transport–structure feedback can be understood in terms of microscopic parameters governing resonance-mediated energy transfer, and that these parameters may be tuned through chemical design.",
+  "arxiv_id": null,
+  "authors": [
+    "YoungJu Park",
+    "Taegil Kim",
+    "Jonghyeok Baek",
+    "Seongbin Park",
+    "Daeho Kim",
+    "ChaeHo Shin",
+    "Sokhuoy Sam",
+    "Wonyoung Kim",
+    "Sun Dongbang",
+    "Doseok Kim",
+    "Young Woo Choi",
+    "Junwoo Park"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-79555-w",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "In molecular junctions, charge flow itself pushes alkane chains into kinked states above a bias threshold",
+  "id": "doi-10.1038-s41467-026-79555-w",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Electrical and in situ structural measurements on alkanethiolate junctions show a gauche-defect transition once the bias brings delocalized orbitals into the transmission window. A resonance scattering model reproduces it and predicts stronger effects with amide groups. The model is fit to a few junction types, so generality is untested.",
+  "tags": [
+    "molecular electronics",
+    "charge transport"
+  ],
+  "title": "Non-equilibrium resonance scattering in intramolecular charge transport drives conformational changes",
+  "url": "https://doi.org/10.1038/s41467-026-79555-w",
+  "venue": "Nature Communications"
+}

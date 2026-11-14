@@ -1,0 +1,50 @@
+{
+  "abstract": "Terrestrial free-space quantum key distribution (QKD) provides a flexible complement to fiber-based networks, but its deployment over long horizontal paths in dense metropolitan environments remains challenging, as atmospheric turbulence, demanding pointing and tracking requirements, and operational constraints can substantially increase system complexity. We experimentally demonstrate the operation of a decoy-state BB84 system over an 18.9~km free-space link across a densely populated urban area in the metropolitan region of Barcelona using an aviation-compliant optical architecture. The system operates at 785~nm using room-temperature single-photon detectors and requires no adaptive optics at the receiver. The modular QKD transmitter, based on a deployment-oriented design, is interfaced with a versatile free-space optical terminal and an independent GPS-disciplined synchronization architecture, facilitating its integration into heterogeneous optical infrastructures. We present the transmitter performance and optical-link characteristics, together with a 40-minute field test characterized by an average channel attenuation of approximately 19~dB and a mean QBER of 1.31\\%. From the measured channel parameters, we estimate an average finite-size secret key rate exceeding 11~kbit/s. These results demonstrate the feasibility of inter-city free-space QKD over dense urban areas using a comparatively simple architecture.",
+  "arxiv_id": "2611.16774",
+  "authors": [
+    "Ignacio H. L\\'opez Grande",
+    "Nicolas Linale",
+    "Giacomo Paganini",
+    "Achraf El Bouazzaoui",
+    "Adri\\'an S. Blanca",
+    "Ilektra Karakosta-Amarantidou",
+    "Manu Canals i Codina",
+    "Adam Vall\\'es",
+    "Andrea Gorni",
+    "Jorge Fuenzalida",
+    "Evelyn A. Ortega",
+    "Valerio Pruneri"
+  ],
+  "categories": [
+    "quant-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16774"
+  },
+  "hook": "Quantum-secure keys were generated over an 18.9 km free-space link across Barcelona.",
+  "id": "arxiv-2611.16774",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Free-space QKD link length, Barcelona",
+    "unit": "km",
+    "value": "18.9"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Researchers ran a decoy-state BB84 quantum key distribution system between two points over a dense urban area, using room-temperature detectors and no adaptive optics. A 40-minute field test had about 19 dB average loss and a 1.31% error rate. The key rate above 11 kbit/s is estimated from measured channel parameters, not delivered keys, and comes from a single short test.",
+  "tags": [
+    "quantum key distribution",
+    "free-space optics"
+  ],
+  "title": "Inter-city 18.9 km free-space QKD over a dense urban corridor",
+  "url": "https://arxiv.org/abs/2611.16774",
+  "venue": "arXiv"
+}

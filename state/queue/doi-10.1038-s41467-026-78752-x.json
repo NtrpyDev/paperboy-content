@@ -1,0 +1,60 @@
+{
+  "abstract": "This phase Ib/II investigator-initiated, open label trial aims to show the safety and efficacy of Cystadane (betaine) in aspartylglucosaminuria, a lysosomal storage disorder characterized by progressive cognitive decline, in Finnish patients homozygous for the Finnish major mutation, aged between 3 and 17 years at study begin (recruited: 25, analyzed: 21). Oral Cystadane efficacy and safety were studied over 48 months. The primary endpoint of the study, reduction of glycoasparagines in the urine, was quantitatively determined using liquid chromatography/mass spectrometry and normalized to urine creatinine. Urine glycoasparagines are significantly reduced upon Cystadane treatment (by 68.6% ±10.8%; p = 0.000), and the study thus meets its primary endpoint. Our data show that Cystadane/betaine efficiently improves the main disease biomarker, and it is safe to use in aspartylglucosaminuria. Further studies should be carried out in a larger patient population over a longer time to demonstrate the effects on disease progression. EudraCT registration number 2017-000645-48.",
+  "arxiv_id": null,
+  "authors": [
+    "Minna Laine",
+    "Antje Banning",
+    "Viljami Sairanen",
+    "Günter Lochnit",
+    "Timo Roine",
+    "Elina L Harjunen",
+    "Ulrika Roine",
+    "Anna M Tokola",
+    "Hanna Terinkoski",
+    "Daniel Leufkens",
+    "Päivi Helenius",
+    "Taina H Autti",
+    "Ritva Tikkanen"
+  ],
+  "categories": [
+    "Humans",
+    "Treatment Outcome",
+    "Adolescent",
+    "Child",
+    "Child, Preschool",
+    "Finland",
+    "Female",
+    "Aspartylglucosaminuria",
+    "Biomarkers"
+  ],
+  "doi": "10.1038/s41467-026-78752-x",
+  "explain": false,
+  "field": "medicine",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Betaine cut a urine disease marker by about 69% in children with a rare brain disorder.",
+  "hook_turn": "in children with a rare brain disorder.",
+  "id": "doi-10.1038-s41467-026-78752-x",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Drop in urine glycoasparagines",
+    "unit": "%",
+    "value": "68.6"
+  },
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "In a 48-month open-label trial in Finland, children and teens with aspartylglucosaminuria took betaine, and urine glycoasparagines fell 68.6%. The drug was safe in the 21 patients analyzed. With no control group and a biomarker as the endpoint, benefit for cognitive decline is unproven.",
+  "tags": [
+    "rare disease",
+    "clinical trial"
+  ],
+  "title": "Pharmacological chaperone treatment with Cystadane in aspartylglucosaminuria: an open-label, phase Ib/II trial.",
+  "url": "https://doi.org/10.1038/s41467-026-78752-x",
+  "venue": "Nature Communications"
+}

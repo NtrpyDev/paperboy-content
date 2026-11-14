@@ -1,0 +1,40 @@
+{
+  "abstract": "Age-progressive seamount chains are fundamental archives in revealing the past plate motion and mantle convection. However, for a representative example such as the New England Seamounts chain on the North American Plate, both its plume source and its evolutionary trajectory remain debatable. This long-lasting uncertainty is mainly caused by the absence of quantitative high-resolution constraints on plume dynamics and its interactions with multiple plates. Here, we aim to answer this question using data-assimilation–based numerical simulations. We propose that the New England chain and the Corner Seamounts on the North American Plate, the Great Meteor Seamounts on the African Plate, and the Azores archipelago on the Eurasian Plate were created by a single plume—the Azores plume. This plume experienced two stages of motion through time. Subduction-induced sublithospheric mantle flow exerts a dominant control on the spatiotemporal distribution of volcanoes along the track and the geometry of this track, surpassing the influence of plume-plate interaction. The latter primarily affects the continuity of this trans-plate hotspot system. These findings offer a reinterpretation of hotspot-track formation and new constraints on how mantle flow reorganizes across multiple plates.",
+  "arxiv_id": null,
+  "authors": [
+    "Mengxue Liu",
+    "Shijie Xie",
+    "Dinghui Yang",
+    "Taras Gerya",
+    "Lijun Liu",
+    "Rui Qi",
+    "Xinjian Shan",
+    "Xingpeng Dong",
+    "Xiaobing Xu"
+  ],
+  "categories": [],
+  "doi": "10.1126/sciadv.aee1780",
+  "explain": false,
+  "field": "earth",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "One Azores plume may have built the New England Seamounts, a simulation study suggests.",
+  "id": "doi-10.1126-sciadv.aee1780",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "The authors propose that a single mantle plume created the New England and Corner Seamounts, the Great Meteor Seamounts, and the Azores islands across three plates. Data-assimilation numerical simulations indicate that subduction-driven mantle flow shaped the track more than plate-plume interaction did. This is a model-based reinterpretation, so it rests on the assumptions built into the simulations.",
+  "tags": [
+    "hotspots",
+    "mantle plumes"
+  ],
+  "title": "The Azores plume origin of the New England Seamounts chain",
+  "url": "https://doi.org/10.1126/sciadv.aee1780",
+  "venue": "Science Advances"
+}

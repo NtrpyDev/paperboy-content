@@ -1,0 +1,35 @@
+{
+  "abstract": "We prove a tight bound for one-shot channel simulation via a stronger version of the strong functional representation lemma: for any random variables $X,Y$, there exists a random variable $Z$ with $I(Z;X)=H(Y|X,Z)=0$ and $H(Y|Z)\\le I+\\log I+(1-\\gamma)\\log e-\\log\\log e+O(I^{-1}\\log I)$, where $I=I(X;Y)$ and $\\gamma$ is the Euler-Mascheroni constant. A more convenient bound is $H(Y|Z)<I+\\log(I+2)+1$. The first bound is notable in the sense that the constant term $(1-\\gamma)\\log e-\\log\\log e$ is optimal, and cannot be improved for any bound stated only in terms of $I$. Hence, this is the tightest form of the strong functional representation lemma up to the third order. We also prove that the Poisson functional representation is almost optimal up to a constant gap, and provide a simple finite-blocklength achievability bound that implies the $(1/2)\\log n$ redundancy of the simulation of memoryless non-singular channel. These are proved via a generalization of the functional information, in particular, the exponential functional information, which closely approximates the cost of one-shot channel simulation.",
+  "arxiv_id": "2611.13397",
+  "authors": [
+    "Cheuk Ting Li"
+  ],
+  "categories": [
+    "cs.IT",
+    "math.IT"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "cs",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13397"
+  },
+  "hook": "The best possible constant for one-shot channel simulation is pinned down.",
+  "id": "arxiv-2611.13397",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Channel simulation asks how little shared randomness-assisted information is needed to reproduce a noisy channel from one sample. The paper proves a tighter strong functional representation lemma, with an optimal constant term at third order. The proof uses a generalized functional information. It is a theoretical bound with no experiments.",
+  "tags": [
+    "information theory",
+    "channel simulation"
+  ],
+  "title": "The Optimal Constant for One-Shot Channel Simulation and Strong Functional Representation Lemma",
+  "url": "https://arxiv.org/abs/2611.13397",
+  "venue": "arXiv"
+}

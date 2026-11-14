@@ -1,0 +1,35 @@
+{
+  "abstract": "We report a Neptune Trojan found by a shift-and-stack search of archival Zwicky Transient Facility (ZTF) difference images of 2019 October, and recovered in public images of seven other telescopes back to 2008. The orbit uses 88 positions on 54 nights from 2008 to 2025, a 17.22-year arc, all measured on our own Gaia DR3 plate solutions. Its heliocentric osculating elements at JD 2460000.5 are a = 30.2158 +/- 0.0004 au, e = 0.0661 and i = 20.32 deg; a fit of the same positions with the independent orbit code Find_Orb agrees within 0.4 sigma in every element. The nominal orbit librates about Neptune's leading Lagrange point L4 with a period of 9.25 kyr and an amplitude of 8.7 deg over the next Myr, and 84 +/- 2% of 500 clones of the orbit remain L4 Trojans for 4.5 Gyr. Its absolute magnitude is H_V = 6.96 +/- 0.10 (linear phase law), or 6.81 +/- 0.06 on the H, G convention of the Minor Planet Center's list of Neptune Trojans, whose brightest L4 member has H = 7.26, so the object is possibly the brightest known L4 Neptune Trojan. Its color, g-r = 0.52 +/- 0.05, lies in the g-r range of the red Neptune Trojans, and for albedos of 0.05-0.15 its diameter is about 140-240 km.",
+  "arxiv_id": "2611.16046",
+  "authors": [
+    "Jorrit B. Jongma"
+  ],
+  "categories": [
+    "astro-ph.EP",
+    "astro-ph.IM"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16046"
+  },
+  "hook": "A possibly record-bright Neptune Trojan, about 140 to 240 km wide, turns up in archival ZTF images",
+  "id": "arxiv-2611.16046",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A shift-and-stack search of archival Zwicky Transient Facility images found a Neptune Trojan, later traced in images back to 2008 for a 17-year orbit arc. Its orbit librates around Neptune's L4 point and stays stable in 84% of clones over 4.5 billion years. Its brightness makes it possibly the brightest known L4 Trojan, but the size depends on an assumed albedo.",
+  "tags": [
+    "Neptune Trojans",
+    "small bodies"
+  ],
+  "title": "A Bright L4 Neptune Trojan Found by Stacking Archival ZTF Images",
+  "url": "https://arxiv.org/abs/2611.16046",
+  "venue": "arXiv"
+}

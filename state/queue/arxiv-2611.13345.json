@@ -1,0 +1,60 @@
+{
+  "abstract": "We present constraints on the cosmic microwave background (CMB) circular polarization anisotropy at arcminute angular scales, using dedicated measurements from the Simons Array taken with a quarter-wave plate and rotating half-wave plate. A detection of circular polarization in the CMB would probe a range of proposed generation mechanisms, from Standard Model astrophysics to physics beyond it. At an observing frequency of 90 GHz, we place constraints over the multipole range $300 \\leq \\ell \\leq 2000$, corresponding to angular scales of 5.4-36 arcmin, in bands of width $\\Delta \\ell = 100$, roughly tripling the highest multipole previously reached by a $V$-mode power spectrum measurement. Within this domain, we constrain the 95% confidence upper bound of $\\ell (\\ell+1) C_\\ell^{VV} / (2\\pi)$ to range from $\\sim 22\\,\\mu\\mathrm{K}_\\mathrm{CMB}^2$ at the $\\ell = 350$ bandpower to $\\sim 3.5 \\times 10^3\\,\\mu\\mathrm{K}_\\mathrm{CMB}^2$ at the $\\ell = 1950$ bandpower. These limits are derived from $\\sim$2.5 months of observations of each of two small regions of the sky located away from the Galactic plane, totaling $\\sim$12 deg$^2$ of effective sky area. Because the methodology of this study marginalizes known foreground contamination, these bounds serve as robust, conservative limits on the true CMB circular polarization signal down to the sensitivity limits of the instrument. Additionally, we provide an experimental and analytical framework for implementing circular polarization observations on other telescopes by utilizing a quarter-wave plate and half-wave plate design.",
+  "arxiv_id": "2611.13345",
+  "authors": [
+    "POLARBEAR Collaboration: Kam Arnold",
+    "Darcy R. Barron",
+    "Yuji Chinone",
+    "Matthew R. Chu",
+    "Nicole Farias",
+    "Takuro Fujino",
+    "Masaya Hasegawa",
+    "Masashi Hazumi",
+    "Haruaki Hirose",
+    "Kailey Hwang",
+    "Ethan H. Ish",
+    "Jennifer Ito",
+    "Brian Keating",
+    "Adrian T. Lee",
+    "Anto I. Lonappan",
+    "Alec Miyashita",
+    "Lindsay Ng Lowry",
+    "Luke M. Porter",
+    "Shahed Shayan Arani",
+    "Praween Siritanasak"
+  ],
+  "categories": [
+    "astro-ph.CO",
+    "astro-ph.IM"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13345"
+  },
+  "hook": "CMB circular polarization limits now reach scales three times finer than before.",
+  "hook_turn": "three times finer than before.",
+  "id": "arxiv-2611.13345",
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "95% upper limit on V-mode power at l=350",
+    "unit": "microkelvin squared",
+    "value": "~22"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Simons Array data at 90 GHz bound circular polarization of the cosmic microwave background between 5.4 and 36 arcminutes. The telescope used a quarter-wave plate and a rotating half-wave plate. No signal is claimed: these are upper limits from about 2.5 months on two small patches totaling roughly 12 square degrees.",
+  "tags": [
+    "cosmic microwave background",
+    "polarization"
+  ],
+  "title": "Millimeter-Wavelength Constraints on Circular Polarization of the Cosmic Microwave Background at Arcminute Scales with the Simons Array",
+  "url": "https://arxiv.org/abs/2611.13345",
+  "venue": "arXiv"
+}

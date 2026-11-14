@@ -1,0 +1,48 @@
+{
+  "abstract": "Abstract Plasmonic materials enable subwavelength confinement of light through the collective response of free carriers, but their operational spectral range is typically constrained by intrinsic carrier densities. Hyperdoped semiconductors offer a route to engineer plasmonic properties within a CMOS-compatible platform, yet their plasmonic response in silicon remains largely limited to the mid-infrared. Here we show that nanoantenna engineering extends the plasmonic response of phosphorus-hyperdoped silicon toward the near-infrared. The nanoantenna arrays exhibit tunable, polarization-dependent resonances in the 1–2 μm range, arising from geometry-driven localized modes on a Drude-like electronic background. Leveraging these effects, we realize all-silicon photoconductive detectors operating at 1.55 μm and room temperature, with a maximum bias-assisted responsivity of 0.58 A/W at 0.5 V. This response arises from plasmon-enhanced sub-bandgap absorption combined with trap-assisted photoconductive gain and therefore does not represent the intrinsic quantum efficiency. These results extend the spectral functionality of silicon photonics beyond its intrinsic absorption limits for integrated sensing, imaging, and optical communication.",
+  "arxiv_id": null,
+  "authors": [
+    "Rang Li",
+    "Yi Liu",
+    "Mohd Saif Shaikh",
+    "Xia Wang",
+    "Yordan Georgiev",
+    "Xiaoli Sun",
+    "Chi Pang",
+    "Kambiz Jamshidi",
+    "Manfred Helm",
+    "Yonder Berencén",
+    "Shengqiang Zhou",
+    "Feng Chen"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-79686-0",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Phosphorus-doped silicon nanoantennas detect 1.55 micrometer light at room temperature, all in silicon.",
+  "id": "doi-10.1038-s41467-026-79686-0",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Peak responsivity at 1.55 um, 0.5 V bias",
+    "unit": "A/W",
+    "value": "0.58"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Patterned nanoantenna arrays in heavily phosphorus-doped silicon support light resonances at 1 to 2 micrometers. The authors built photoconductive detectors from them for 1.55 micrometer telecom light. The 0.58 A/W figure includes trap-assisted gain, so it does not reflect intrinsic quantum efficiency.",
+  "tags": [
+    "silicon photonics",
+    "plasmonics"
+  ],
+  "title": "Near-infrared plasmonic response in hyperdoped silicon nanoantennas for all-silicon photodetection",
+  "url": "https://doi.org/10.1038/s41467-026-79686-0",
+  "venue": "Nature Communications"
+}

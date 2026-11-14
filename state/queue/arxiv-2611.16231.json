@@ -1,0 +1,36 @@
+{
+  "abstract": "We prove that the split rank of a rational pure-integer polyhedron is polynomially bounded in its input length, resolving a conjecture of Basu, Conforti, Di Summa, and Jiang. If the defining system has dense binary encoding length $L$, then $O((L+1)^9)$ split rounds suffice to reach the integer hull in arbitrary dimension.",
+  "arxiv_id": "2611.16231",
+  "authors": [
+    "Avinash Bhardwaj",
+    "Vishnu Narayanan"
+  ],
+  "categories": [
+    "math.OC",
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.16231"
+  },
+  "hook": "Polynomially many split-cut rounds, at most order (L+1)^9, always reach the integer hull.",
+  "id": "arxiv-2611.16231",
+  "license": "cc-by",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper proves the split rank of a rational pure-integer polyhedron is polynomial in its encoding length L, with O((L+1)^9) rounds enough in any dimension. This confirms a conjecture of Basu, Conforti, Di Summa and Jiang. The ninth-power bound is likely far from tight, and it is a rank bound, not a faster solver.",
+  "tags": [
+    "integer programming",
+    "cutting planes"
+  ],
+  "title": "A Polynomial Bound on Split Rank",
+  "url": "https://arxiv.org/abs/2611.16231",
+  "venue": "arXiv"
+}

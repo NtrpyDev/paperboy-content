@@ -1,0 +1,41 @@
+{
+  "abstract": "Abstract Cholesterol crystallization within phospholipid bilayers necessarily remodels the surrounding membrane, creating dynamic feedback between growing crystallites and locally changing membrane. Using fluorescence microscopy, we show that lipid-coated, cholesterol-rich crystallites self-propel on the bilayer surface along directional trajectories, including circular, unidirectional, and reciprocating motion. We hypothesize that crystallite motilities arise from local cholesterol depletion in the underlying bilayer, generating gradients in composition, rigidity, and thus adhesion, which induce directional forces analogous to those involved in haptotaxis and/or durotaxis. Fluorescence lifetime imaging with a mechanosensitive probe reveals time-resolved changes in membrane packing, consistent with this mechanism. Single particle tracking and mathematical modeling support the mechanical plausibility of a working model in which crystallization-induced cholesterol redistribution may generate dynamic rigidity gradients at crystallite–membrane interface. Tuning membrane states yields a quantitative operating map that relates composition to motility, providing model-dependent design guidance for controlling cholesterol crystallite transport on lipid interfaces.",
+  "arxiv_id": null,
+  "authors": [
+    "Hyunhyuk Tae",
+    "Younghwan Choe",
+    "Dongping Jiang",
+    "Lepakshi Gnanasekaran",
+    "Soohyun Park",
+    "Ji-Yu Zhu",
+    "Guillermo C. Bazan",
+    "Vladimir P. Zhdanov",
+    "Atul N. Parikh",
+    "Nam-Joon Cho"
+  ],
+  "categories": [],
+  "doi": "10.1038/s41467-026-79445-1",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Cholesterol crystals self-propel across lipid membranes in circles and straight lines",
+  "id": "doi-10.1038-s41467-026-79445-1",
+  "license": "cc-by",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Fluorescence microscopy shows cholesterol-rich crystallites moving on supported bilayers along circular, straight and back-and-forth paths. The authors propose that local cholesterol depletion creates stiffness gradients that push the crystal. Support comes from lifetime imaging and modeling, so the mechanism remains a working hypothesis in a model membrane.",
+  "tags": [
+    "cholesterol",
+    "membranes"
+  ],
+  "title": "Directional motility of crystallizing cholesterol on supported lipid bilayers",
+  "url": "https://doi.org/10.1038/s41467-026-79445-1",
+  "venue": "Nature Communications"
+}

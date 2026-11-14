@@ -1,0 +1,59 @@
+{
+  "abstract": "Stationary power exhaust in the X-Point Target (XPT) divertor configuration is investigated in high-power ($2.5\\,\\text{MW}$) TCV L-mode discharges, in which the Lengyel detachment scaling metric $P_{\\text{SOL}}B_{0}/(R_{0}n_{e,\\text{u}}^{2})$ lies in the range expected for reactors (SPARC, ITER, ARC). Compared with a conventional single-null (SN) divertor, the XPT improves power exhaust performance, reducing the peak outer target heat flux by 40--60\\% and enabling divertor detachment with nitrogen seeding under conditions in which the SN cannot be detached. Detachment evolves asymmetrically across the multiple XPT outer strike points. The sensitivities of the peak target heat fluxes and impurity emission front positions to the X-point separation ($\\text{d}R_{\\text{u},X2}$) are characterized and found to decrease at higher nitrogen seeding levels. Field-reversal experiments reveal the critical role of $E\\times B$ drifts inherent to the magnetic topology of the secondary X-point, which drive an unconventional redistribution of density and impurity radiation in the XPT divertor and thereby cause the asymmetries between the XPT outer strike points, largely confirming the expectations from recent SOLPS-ITER modelling. A framework for understanding the power exhaust physics of the XPT is presented, detailing the roles of SOL splitting, connection length peaking, $E\\times B$ drifts, and vessel geometry. Together, these results establish an experimental physics basis for the XPT divertor as a potential power exhaust solution for tokamak reactors.",
+  "arxiv_id": "2611.13179",
+  "authors": [
+    "K. Lee",
+    "M. Carpita",
+    "C. Theiler",
+    "M. Zurita",
+    "O. F\\'evrier",
+    "A. Mele",
+    "R.I. Morgan",
+    "F. Pastore",
+    "H. Reimerdes",
+    "K. Verhaegh",
+    "M. Winkel",
+    "D. Brida",
+    "B.Y.K. Brown",
+    "M.J.H. Cornelissen",
+    "R. Ducker",
+    "G. Durr-Legoupil-Nicoud",
+    "D. Hamm",
+    "M. Pedrini",
+    "A. Perek",
+    "O. Sauter",
+    "P. Sintre",
+    "E. Tonello",
+    "Y. Wang",
+    "the TCV Team",
+    "the EUROfusion Tokamak Exploitation Team"
+  ],
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13179"
+  },
+  "hook": "An X-point target divertor cut peak tokamak heat flux 40-60% and detached where the standard one could not.",
+  "hook_turn": "detached where the standard one could not.",
+  "id": "arxiv-2611.13179",
+  "license": "cc-by",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "On the TCV tokamak, a divertor with a second X-point lowered peak heat flux at the outer target and allowed detachment with nitrogen seeding at 2.5 MW. Field-reversal runs show drifts cause asymmetry between its strike points. Results are from one device in low-confinement mode, so reactor performance remains an extrapolation.",
+  "tags": [
+    "fusion",
+    "tokamak"
+  ],
+  "title": "High-power X-Point Target divertor experiments on the TCV tokamak",
+  "url": "https://arxiv.org/abs/2611.13179",
+  "venue": "arXiv"
+}

@@ -1,0 +1,50 @@
+{
+  "abstract": "Transcription regulation depends on interactions between enhancers and gene promoters, which often occur over large genomic distances. The molecular drivers of long-range enhancer-promoter interactions remain poorly understood. Enhancers themselves are known to be transcribed into non-coding RNAs, but the function of these transcripts is unclear. Here, we use acute genetic and chemical perturbations of transcription elongation and termination to study the role of non-coding RNA in enhancer-promoter interactions. By integrating high-resolution 3D genome mapping, transcriptomics, proteomics, biochemistry and live-cell super-resolution imaging in these perturbation contexts, we demonstrate that a strong increase in RNA molecules at enhancers disrupts their long-range interactions with gene promoters, whereas decreased RNA levels lead to stabilization of these interactions. Using separation-of-function perturbations, we show that this regulatory function of RNA is independent from the process of transcription and the proteins recruited to initiate transcription. Functionally, we show that RNA-mediated disruption of enhancer-promoter interactions is associated with reduced transcription of target genes, indicating a regulatory feedback mechanism. Together, our results uncover an additional regulatory principle of enhancer-promoter interactions mediated by non-coding RNA.",
+  "arxiv_id": null,
+  "authors": [
+    "Sagropoulou, S.",
+    "Velychko, T.",
+    "Laparra Cuervo, L.",
+    "Stitzinger, S.",
+    "Nicol, J.",
+    "Walshe, J.",
+    "Yan, Y.",
+    "Ramasamy, S.",
+    "tom Dieck, L.",
+    "Bahr, F.",
+    "Dybkov, O.",
+    "Urlaub, H.",
+    "Zumer, K.",
+    "Lidschreiber, M.",
+    "Oudelaar, A. M."
+  ],
+  "categories": [
+    "genomics"
+  ],
+  "doi": "10.64898/2026.11.10.765568",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/11/2026.11.10.765568.source.xml"
+  },
+  "hook": "RNA made at enhancers pulls them away from distant gene promoters and lowers target gene activity.",
+  "hook_turn": "pulls them away from distant gene promoters and lowers target gene activity.",
+  "id": "doi-10.64898-2026.11.10.765568",
+  "license": "cc-by-nc",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "Using acute chemical and genetic changes to transcription, plus 3D genome mapping and live-cell imaging, the team found more enhancer RNA weakened long-range contacts with promoters, while less RNA stabilized them. The effect did not depend on transcription itself and reduced target gene output. It was shown in cell models, so how widely it applies is unclear.",
+  "tags": [
+    "enhancers",
+    "non-coding RNA",
+    "genome folding"
+  ],
+  "title": "Non-coding RNA controls long-range enhancer-promoter interactions",
+  "url": "https://doi.org/10.64898/2026.11.10.765568",
+  "venue": "bioRxiv"
+}

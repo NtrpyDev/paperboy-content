@@ -1,0 +1,41 @@
+{
+  "abstract": "Parental genes shape the offspring's rearing environment and, consequently, offspring phenotypes. However, the molecular mechanisms underlying these indirect genetic effects remain largely unknown. Here, using the clonal raider ant Ooceraea biroi, we uncover a neurohormonal mechanism by which caregiver genotypes affect larval body size and caste fate. Larval transcriptomics revealed caregiver-genotype effects on neuropeptides and an ecdysteroid biosynthesis gene, while enrichment analyses implicated changes in lipid metabolism. We found that the receptors of these candidate neuropeptides are expressed in the prothoracic gland, the site of ecdysteroid synthesis, and pharmacological manipulations revealed a neuropeptide-ecdysone axis that regulates body size in ants. The same hormonal axis also regulates multiple lipid-binding carrier protein genes expressed in larval fat-body cells. Together, we identify a neurohormonal pathway that is modulated by caregivers in developing larvae, linking lipid metabolism, systemic growth, and caste development.",
+  "arxiv_id": null,
+  "authors": [
+    "Piekarski, P. K.",
+    "Chiba, Y.",
+    "Lee, J.",
+    "Valdes-Rodriguez, S.",
+    "Carroll, T. S.",
+    "Kronauer, D. J. C."
+  ],
+  "categories": [
+    "evolutionary biology"
+  ],
+  "doi": "10.64898/2026.11.09.765415",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/11/2026.11.09.765415.source.xml"
+  },
+  "hook": "Ant caregivers' genes change how big their larvae grow, through a brain hormone that controls ecdysone.",
+  "hook_turn": "through a brain hormone that controls ecdysone.",
+  "id": "doi-10.64898-2026.11.09.765415",
+  "license": "cc-by",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "In clonal raider ants, the genotype of the nurse workers shifted larval body size and caste fate. Larval gene expression and drug treatments pointed to neuropeptides acting on the ecdysone-producing prothoracic gland, also linked to lipid metabolism. Findings rest on one ant species, and some links come from correlation in gene expression.",
+  "tags": [
+    "ants",
+    "caste development",
+    "hormones"
+  ],
+  "title": "Caregiver genotype influences larval body size in ants by modulating ecdysteroid production",
+  "url": "https://doi.org/10.64898/2026.11.09.765415",
+  "venue": "bioRxiv"
+}

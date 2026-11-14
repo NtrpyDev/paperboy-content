@@ -1,0 +1,42 @@
+{
+  "abstract": "Organic semiconductors are key materials for high-performance organic electronics, where both high carrier density and fast carrier mobility are required to achieve high conductivity. However, increasing carrier concentrations inevitably introduces scattering effect that severely impair charge transport. Here we report a strategy to synthesize highly polarized covalent organic frameworks (COFs) through chirality-induced crystallization and a subsequent COF-to-COF transformation, yielding benzothiazole-linked fully conjugated frameworks. The resulting porous organic crystals feature an enhanced polarization arising from the parallel stacking of benzothiazole moieties, which enables precise N-over-N and S-over-S atomic alignment across neighboring layers. Benefiting from anisotropic polarization, the chiral COF film exhibits an excellent intrinsic conductivity of 1.9 × 10-2 S cm-1, along with a high carrier concentration of 1.1 × 1017 cm-3 and a fast carrier mobility of 1.1 cm2 V-1 s-1. Upon iodine doping, the optimal conductivity of the chiral COFs is enhanced by more than one order of magnitude compared to that of the achiral analog with antiparallel stacking. We provide insights into the polaron-mediated conduction mechanism through electron-phonon coupling in the axisymmetric polarized frameworks, which addresses the carrier-scattering issue even at high carrier densities. Our findings establish highly polarized organic crystals as promising semiconductors for advanced electronics.",
+  "arxiv_id": null,
+  "authors": [
+    "Weijun Weng",
+    "Zihan Zhu",
+    "Yifei Xu",
+    "Changchun Wang",
+    "Jia Guo"
+  ],
+  "categories": [],
+  "doi": "10.1002/anie.3719317",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "Chiral covalent organic frameworks conduct well even at high carrier density, easing a scattering limit.",
+  "id": "doi-10.1002-anie.3719317",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "exponent": -2,
+    "label": "Intrinsic conductivity, chiral COF film",
+    "unit": "S/cm",
+    "value": "1.9"
+  },
+  "significance": 5,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Researchers built benzothiazole-linked chiral frameworks whose stacked layers align atom over atom, giving a film mobility of 1.1 cm2 V-1 s-1. Iodine doping raised conductivity more than tenfold over an achiral analog. Results come from film measurements on one material family, and the conduction mechanism is partly inferred.",
+  "tags": [
+    "organic semiconductors",
+    "covalent organic frameworks"
+  ],
+  "title": "Fully Conjugated Chiral Covalent Organic Frameworks Enabling High-Density Polaron Hopping Conduction via Spin-Frustration Relief.",
+  "url": "https://doi.org/10.1002/anie.3719317",
+  "venue": "Angewandte Chemie International Edition"
+}

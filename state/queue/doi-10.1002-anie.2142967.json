@@ -1,0 +1,47 @@
+{
+  "abstract": "Developing solution-processable molecular materials with long-range magnetic order remains a formidable challenge for molecular electronic and spintronic applications. Herein, we present a diethoxybenzene-fused neutral-radical gold dithiolene complex, Au(4OEt), as a solution-processable single-component molecular antiferromagnet. Owing to its ethoxy substituents, Au(4OEt) adopts a two-dimensional (2D) herringbone arrangement and exhibits semiconducting behavior characteristic of a Mott insulator. Magnetic susceptibility, solid-state 1H NMR, and magnetic torque measurements reveal the emergence of long-range canted antiferromagnetic (CAF) order below approximately 8 K. Combined with transfer-integral calculations and magnetic analyses, these results suggest that constructing a 2D herringbone arrangement of neutral-radical molecules with dominant 2D exchange interactions (|J2| > |J1|) is important for stabilizing the magnetic ordering. Leveraging its solubility, we successfully fabricated solution-processed crystalline thin films that retain the CAF phase. Moreover, the crystalline thin film functions as an ambipolar field-effect transistor (FET). This work thus provides a remarkable example of a solution-processable single-component molecular antiferromagnet exhibiting ambipolar FET characteristics, and establishes a structural design strategy for realizing magnetically ordered crystalline thin films toward future antiferromagnetic devices.",
+  "arxiv_id": null,
+  "authors": [
+    "So Yokomori",
+    "Shun Dekura",
+    "Shusaku Imajo",
+    "Toshiki Higashino",
+    "Masatoshi Ito",
+    "Tomoko Fujino",
+    "Takuya Kobayashi",
+    "Shigeki Fujiyama",
+    "Nobuyuki Matsushita",
+    "Hatsumi Mori"
+  ],
+  "categories": [],
+  "doi": "10.1002/anie.2142967",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A gold-based radical molecule orders magnetically below 8 K and can be coated from solution.",
+  "hook_turn": "can be coated from solution.",
+  "id": "doi-10.1002-anie.2142967",
+  "license": null,
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Canted antiferromagnetic order sets in below",
+    "unit": "K",
+    "value": "~8"
+  },
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "Chemists made a neutral-radical gold dithiolene crystal that becomes a canted antiferromagnet at low temperature and also works as an ambipolar transistor in thin films. Magnetic, NMR, and torque measurements support the ordering. The ordering appears only near 8 K, far below any practical device temperature.",
+  "tags": [
+    "molecular magnets",
+    "spintronics"
+  ],
+  "title": "A Solution-Processable Single-Component Molecular Antiferromagnet.",
+  "url": "https://doi.org/10.1002/anie.2142967",
+  "venue": "Angewandte Chemie International Edition"
+}

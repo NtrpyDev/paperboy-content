@@ -1,0 +1,38 @@
+{
+  "abstract": "Recently, the LHAASO Collaboration reported gamma-ray emission from the Peanut-shaped source (Peanut), which extends over $4.5^\\circ$ parallel to the Galactic plane at $b=-17.5^\\circ$. The source is associated with the millisecond pulsar PSR J0218+4232, located at the eastern edge of the Peanut, at a distance of 3 kpc from the Earth and 0.9 kpc from the Galactic plane. Its location and bright gamma-ray emission above 25 TeV make it a natural laboratory for studying the Galactic magnetic field (GMF) in the transition region between the Galactic plane and halo. We interpret the observed emission as inverse-Compton scattering of CMB photons by electrons propagating along the large-scale GMF, accounting for turbulence through two models: Kolmogorov and Goldreich-Sridhar (GS). These models correspond to diffusive and ballistic particle propagation, respectively. While the GS case naturally provides conditions for one-sided gamma-ray emission, in the Kolmogorov case assumptions of one-sided particle injection and magnetic mirror at the source are necessary. We find that, in the Kolmogorov scenario, the Peanut's hotspots are likely associated with magnetic bottling, whereas in the GS scenario, they are related to magnetic field line geometry. Both models yield constraints on the GMF at the location of the Peanut.",
+  "arxiv_id": "2611.15473",
+  "authors": [
+    "Maksim Kleimenov",
+    "Yuan Li",
+    "Gwenael Giacinti",
+    "Dmitri Semikoz"
+  ],
+  "categories": [
+    "astro-ph.HE",
+    "astro-ph.GA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15473"
+  },
+  "hook": "A model of the Peanut's TeV gamma rays constrains the Galactic magnetic field high above the disk.",
+  "id": "arxiv-2611.15473",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "LHAASO saw a 4.5 degree gamma-ray source near the millisecond pulsar PSR J0218+4232. The authors explain it as electrons scattering CMB photons while following the Galactic magnetic field, with two turbulence models, and read off constraints on the field there. The result rests on modeling assumptions such as one-sided injection, and two different pictures fit the data.",
+  "tags": [
+    "gamma rays",
+    "galactic magnetic field"
+  ],
+  "title": "LHAASO's Peanut source is a laboratory for studying magnetic fields in the Milky Way",
+  "url": "https://arxiv.org/abs/2611.15473",
+  "venue": "arXiv"
+}

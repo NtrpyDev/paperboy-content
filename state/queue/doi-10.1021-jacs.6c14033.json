@@ -1,0 +1,48 @@
+{
+  "abstract": "Abstract Thiamine diphosphate (ThDP)-dependent enzymes are versatile biocatalysts for carbon–carbon bond formation, yet their catalytic repertoire has been largely confined to linear homologation and intramolecular cyclizations that rely on single-site reactive intermediates such as the Breslow or ketyl radical species. Intermolecular annulation─a powerful strategy for constructing cyclic architectures─has remained elusive within this enzyme class. Here, we report the first intermolecular [3 + 2] annulation catalyzed by a ThDP-dependent enzyme, achieved through a homoenolate-mediated nucleophilic addition pathway. A phylogeny-guided enzyme mining identified a previously uncharacterized enzyme from Variovorax boronicumulans(ThDP-5), and subsequent protein engineering yielded the F484S variant, which exhibits markedly enhanced activity and exquisite stereocontrol. This biocatalytic system exhibits a broad substrate scope (30 examples), accommodating diverse substituted cinnamaldehydes and isatins to afford chiral spirooxindole lactones with excellent stereoselectivity (up to > 20:1 dr and 99% ee). Preparative-scale reactions (2 mmol) validate its synthetic utility. This work expands ThDP-dependent biocatalysis to intermolecular annulations, providing a robust and selective platform for the construction of pharmaceutically relevant spirocyclic architectures.",
+  "arxiv_id": null,
+  "authors": [
+    "Huimin Liu",
+    "Yinhong Lai",
+    "Huangong Li",
+    "Xuesi Chen",
+    "Lintao Pan",
+    "Tiantian Liu",
+    "Zekun He",
+    "Jingyu Zhang",
+    "Lixin Zhang",
+    "Yonggui Robin Chi",
+    "Yongtao Xie"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c14033",
+  "explain": false,
+  "field": "chemistry",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "An engineered vitamin B1 enzyme joins two molecules into rings, a first for this enzyme family.",
+  "hook_turn": "a first for this enzyme family.",
+  "id": "doi-10.1021-jacs.6c14033",
+  "license": "other",
+  "published": "2026-11-12",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Top enantiomeric excess, spirooxindole products",
+    "unit": "% ee",
+    "value": "99"
+  },
+  "significance": 6,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Researchers mined a bacterial thiamine diphosphate enzyme and engineered a variant that links cinnamaldehydes and isatins into chiral spirooxindole lactones. It handled 30 substrate pairs and ran at 2 mmol scale. Scope is limited to this one reaction type.",
+  "tags": [
+    "biocatalysis",
+    "enzyme engineering"
+  ],
+  "title": "Reprogramming ThDP-Dependent Enzyme for Intermolecular [3 + 2] Annulation via a Homoenolate Intermediate",
+  "url": "https://doi.org/10.1021/jacs.6c14033",
+  "venue": "Journal of the American Chemical Society"
+}

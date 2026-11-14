@@ -1,0 +1,44 @@
+{
+  "abstract": "During their expansion from Africa, modern humans interbred with Neanderthals, resulting in introgression of Neanderthal DNA into their genomes. This process contributed to a Southeast-to-Northwest gradient of Neanderthal ancestry across Europe. We investigate the population dynamics underlying the emergence and persistence of this gradient through two successive human range expansions. We developed a three-population, layered, spatially explicit simulation framework to track the spatiotemporal evolution of Neanderthal ancestry under a model of interactions among Neanderthals, pre-Neolithic hunter-gatherers, and Neolithic farmers. Our results indicate that the ancestry cline emerged from the interplay between the direction of the initial hunter-gatherer expansion, the northern limit of the Neanderthal range, and strong reproductive isolation, without requiring natural selection. The similar direction of the subsequent Neolithic expansion explains the cline's persistence and Neanderthal ancestry differences between hunter-gatherers and farmers. These findings demonstrate how spatiotemporal patterns in ancient DNA provide insights into past population dynamics.",
+  "arxiv_id": null,
+  "authors": [
+    "Alexandros Tsoupas",
+    "Claudio S Quilodrán",
+    "Jérémy Rio",
+    "Mathias Currat"
+  ],
+  "categories": [
+    "Humans",
+    "Genetics, Population",
+    "Population Dynamics",
+    "Europe",
+    "Neanderthals",
+    "DNA, Ancient",
+    "European People"
+  ],
+  "doi": "10.1126/sciadv.aeg6161",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "In simulation, Europe's Neanderthal ancestry gradient arises without natural selection.",
+  "hook_turn": "arises without natural selection.",
+  "id": "doi-10.1126-sciadv.aeg6161",
+  "license": null,
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "europepmc",
+  "status": "peer_reviewed",
+  "summary": "The Southeast-to-Northwest gradient of Neanderthal DNA in Europeans can come from the direction of the first hunter-gatherer expansion, the northern edge of the Neanderthal range, and strong reproductive isolation. A later Neolithic expansion in a similar direction keeps the gradient in place. This comes from a spatial simulation of three populations, so it shows plausibility, not proof of what happened.",
+  "tags": [
+    "human evolution",
+    "ancient DNA"
+  ],
+  "title": "Tracing Neanderthal ancestry patterns through successive population expansions in Europe.",
+  "url": "https://doi.org/10.1126/sciadv.aeg6161",
+  "venue": "Science Advances"
+}

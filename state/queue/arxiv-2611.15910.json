@@ -1,0 +1,58 @@
+{
+  "abstract": "Studying protostellar ejections is crucial to understanding the formation of young stars and planetary systems. The Class I/II star HL Tau, with its ringed disk and prominent bipolar outflows, is a benchmark system for these studies. We provide a first overview of our Cycle 3 JWST program targeting HL Tau, focusing on the morphology and kinematics of the various wind components as well as on the water emission lines excited in the inner disk. Our observations cover the 1.66-28 $\\mu$m spectral range, combining NIRSpec and MIRI MRS mosaics to map the inner 10\" of the red-shifted lobe of the outflow and the base of the blue-shifted lobe. In the red-shifted lobe we observe a stratified wind of three nested layers: a fast, highly collimated atomic jet structured in a chain of eight knots and with radial velocities of 160 km/s; a wide-angle H$_2$ wind with velocities of 45 km/s exhibiting complex arc-like substructures; and a warm gas shell, of radial velocity of 35 km/s, visible in low-excitation transitions of CO ($\\nu$=1-0). This CO shell appears co-spatial with the CO (J=2-1) emission detected by ALMA with velocities from 3 to 25 km/s. In the first 1\" of the blue-shifted lobe we detect a similar stratification, but the jet is faster and less collimated. The observed stratification and kinematics of the flow may support a magnetically driven disk-wind scenario in which the distinct components originate in the disk at progressively larger distances from the star. However, while the external components observed in CO have the laminar and regular appearance predicted for such winds, the knots in the inner jet and the arcs in the wind could be the manifestation of a pulsed ejection mechanism. Additionally, in MIRI spectra taken at the star position we detect a forest of water lines dominated by cold-to-warm (< 500 K) gas. Their distribution suggests an extended reservoir of sublimated ices.",
+  "arxiv_id": "2611.15910",
+  "authors": [
+    "T. Nony",
+    "F. Bacciotti",
+    "C. Dougados",
+    "M.G. Navarro",
+    "B. Nisini",
+    "P. Kavanagh",
+    "A. Banzatti",
+    "V. Delabrosse",
+    "L. Podio",
+    "S. Cabrit",
+    "A. Caratti o Garatti",
+    "D. Coffey",
+    "T.P. Ray",
+    "F. Massi",
+    "D. Fedele",
+    "E. Whelan",
+    "A. Garufi",
+    "S. Antoniucci"
+  ],
+  "categories": [
+    "astro-ph.SR",
+    "astro-ph.GA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.15910"
+  },
+  "hook": "JWST shows HL Tau blowing three nested winds, from a fast jet to a cool CO shell.",
+  "hook_turn": "from a fast jet to a cool CO shell.",
+  "id": "arxiv-2611.15910",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-11",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Radial velocity of HL Tau atomic jet",
+    "unit": "km/s",
+    "value": "160"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "JWST maps the outflow of the young star HL Tau as a fast atomic jet, a wider H2 wind, and an outer shell of warm CO gas. The layering fits a magnetic wind launched from the disk at growing distances, though the jet knots and wind arcs may instead come from pulsed ejections. Mid-infrared spectra also show many water lines from cool gas. This is an overview of one system, with kinematics for only part of the outflow.",
+  "tags": [
+    "protostars",
+    "jwst"
+  ],
+  "title": "Sailing with the winds of HL Tau: the JWST view",
+  "url": "https://arxiv.org/abs/2611.15910",
+  "venue": "arXiv"
+}

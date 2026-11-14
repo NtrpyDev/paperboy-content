@@ -1,0 +1,49 @@
+{
+  "abstract": "Abstract Ether-based electrolytes have attracted considerable attention due to their excellent ion-transport kinetics and favorable interfacial compatibility with hard carbon anodes. However, their poor thermal stability severely limits the long-term stable operation of sodium-ion batteries (SIBs) under high-temperature operating conditions. Herein, a multi-anion ether-based electrolyte is proposed to concurrently boost the high-temperature tolerance and fast-charging performance of SIBs by regulating solvation structures and enriching electrolyte molecular diversity. The introduction of FSI– and TFSI– anions not only favors the formation of an anion-reinforced solvation microenvironment but also substantially diminishes the size of ionic clusters. The anion-reinforced solvation structure lowers the desolvation energy barrier and promotes the formation of robust, inorganic-rich electrode–electrolyte interphases, which significantly improves high-temperature stability. Meanwhile, the smaller ionic clusters facilitate higher ionic conductivity and homogeneous Na+ flux distribution, thereby effectively suppressing sodium plating under fast-charging conditions. As a result, the Prussian blue||hard carbon full cell delivers superior rate performance and cycling stability at a wide temperature range of 10–100 °C. In addition, Ah-level pouch cells exhibit stable cycling at 55 °C with a reversible capacity of 1023.58 mAh after 800 cycles (80.8% retention) and deliver a high discharge capacity of 1008.99 mAh at 2.0 C.",
+  "arxiv_id": null,
+  "authors": [
+    "Xinhui Zeng",
+    "Jian Chen",
+    "Xu Xu",
+    "Xiaoyan Shi",
+    "Xiaosa Zhang",
+    "Yun Wan",
+    "Haoyu Si",
+    "Yixuan Zhang",
+    "Huanhuan Dong",
+    "Xunzhu Zhou",
+    "Amit Kumar",
+    "Shu-Lei Chou",
+    "Lin Li"
+  ],
+  "categories": [],
+  "doi": "10.1021/jacs.6c18128",
+  "explain": false,
+  "field": "engineering",
+  "fulltext": {
+    "available": false,
+    "kind": null,
+    "url": null
+  },
+  "hook": "A multi-anion ether electrolyte lets sodium-ion cells run from 10 to 100 °C and fast-charge.",
+  "id": "doi-10.1021-jacs.6c18128",
+  "license": "other",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Pouch cell retention, 800 cycles at 55 °C",
+    "unit": "%",
+    "value": "80.8"
+  },
+  "significance": 5,
+  "source": "crossref",
+  "status": "peer_reviewed",
+  "summary": "Mixing FSI and TFSI anions into an ether electrolyte shrinks ion clusters and builds a sturdy inorganic-rich layer on the electrodes. Prussian blue and hard carbon cells cycled across 10 to 100 °C, and Ah-level pouch cells held 80.8% capacity after 800 cycles at 55 °C. Results come from one electrolyte family and cell chemistry, tested at modest cycle counts.",
+  "tags": [
+    "sodium-ion batteries",
+    "electrolytes"
+  ],
+  "title": "Overturning the Thermal Instability Paradigm of Ether-Based Electrolytes via Multi-Anion-Driven Solvation Reconstruction",
+  "url": "https://doi.org/10.1021/jacs.6c18128",
+  "venue": "Journal of the American Chemical Society"
+}

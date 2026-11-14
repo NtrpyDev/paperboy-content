@@ -1,0 +1,36 @@
+{
+  "abstract": "In a hereditary graph class $\\mathcal{G}$, the treewidth of a graph in $\\mathcal{G}$ is bounded by a function of the size of a largest clique minor of the graph if and only if the class $\\mathcal{G}$ excludes some planar graph as an induced minor. Campbell et al. (arXiv 2024) conjectured that such a bounding function can always be chosen to be linear. We verify this conjecture for several classes of graphs (including even-hole-free graphs) and show that if a hereditary graph class $\\mathcal{G}$ has dominated binary-weighted balanced separators, then the bounding function can be taken to be in ${O(h \\log h)}$, where $h$ is the Hadwiger number. We say that $\\mathcal{G}$ has dominated binary-weighted balanced separators if, for every ${G \\in \\mathcal{G}}$ and every $\\mathsf{w} \\colon V(G) \\to \\{0,1\\}$, there is a set ${D \\subseteq V(G)}$ of bounded size so that deleting the closed neighbourhood $N_G[D]$ of $D$ leaves each component with at most a fixed fraction of the total weight of $G$. Our result reduces the quasi-linear weakening of the conjecture of Campbell et al. to a conjecture of Gartland and Lokshtanov stating that every graph class excluding a planar graph as an induced minor admits dominated binary-weighted balanced separators.",
+  "arxiv_id": "2611.14070",
+  "authors": [
+    "Cl\\'ement Dallard",
+    "J. Pascal Gollin",
+    "Andrea Munaro"
+  ],
+  "categories": [
+    "math.CO"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.14070"
+  },
+  "hook": "In some graph classes, treewidth is bounded by about h log h, where h is the largest clique minor.",
+  "id": "arxiv-2611.14070",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The authors show that classes with dominated binary-weighted balanced separators have treewidth O(h log h) in the Hadwiger number h, and verify a linear bound for several classes such as even-hole-free graphs. This reduces a quasi-linear conjecture to another known conjecture. The result is conditional on that separator property.",
+  "tags": [
+    "graph theory",
+    "treewidth"
+  ],
+  "title": "Treewidth versus Hadwiger number: Graph classes with dominated balanced separators are quasi-linearly treewidth-Hadwiger bounded",
+  "url": "https://arxiv.org/abs/2611.14070",
+  "venue": "arXiv"
+}

@@ -1,0 +1,40 @@
+{
+  "abstract": "We prove that the $\\mathbb F_5$-gonality and the $\\mathbb Q$-gonality of the modular curve $X_1(42)$ are both $12$, improving the previous lower bound of $10$. Since $J_1(42)(\\mathbb Q)$ is finite, it follows that $12$ is the least degree in which $X_1(42)$ has infinitely many points. The lower bound comes from an exhaustive search over Riemann--Roch spaces, following Derickx and van Hoeij, using a new reduction by the orbits of a cyclic group of automorphisms of order $12$ on places of degree at most $5$ ($743\\,231$ Riemann--Roch spaces). An earlier search with the reductions from van Hoeij's code (about $3$ million Riemann--Roch spaces, about $6$ times more CPU time) gives the same result and serves as supporting evidence. We prove the reductions and record the data needed to reproduce the computations.",
+  "arxiv_id": "2611.13155",
+  "authors": [
+    "Sourajyoti Maiti"
+  ],
+  "categories": [
+    "math.NT",
+    "math.AG"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "math",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13155"
+  },
+  "hook": "The modular curve X_1(42) has gonality 12, so 12 is the lowest degree with infinitely many points.",
+  "hook_turn": "so 12 is the lowest degree with infinitely many points.",
+  "id": "arxiv-2611.13155",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Q-gonality of modular curve X_1(42)",
+    "value": "12"
+  },
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "The paper proves the gonality of the modular curve X_1(42) is 12, raising the old lower bound of 10. The proof is an exhaustive computer search of Riemann-Roch spaces, shortened by using a symmetry group of order 12. The result rests on a large computation, and the authors publish data so others can reproduce it.",
+  "tags": [
+    "number theory",
+    "modular curves"
+  ],
+  "title": "The $\\mathbb Q$-gonality of $X_1(42)$ is $12$",
+  "url": "https://arxiv.org/abs/2611.13155",
+  "venue": "arXiv"
+}

@@ -1,0 +1,45 @@
+{
+  "abstract": "Despite advances in long-read sequencing and telomere-to-telomere assembly, population-scale analysis of large satellite arrays remains challenging. Human Yq12 is a megabase-scale heterochromatic region composed primarily of DYZ1/HSat3A6 and DYZ2/HSat1B repeats, whose near-equal proportions are maintained despite extensive variation in total array length. Here, using complete Y-chromosome assemblies, we developed k-mer-based tools to estimate Yq12 size directly from short- and long-read sequencing data without requiring sample-specific complete assemblies. Across 1,597 males from the 1000 Genomes Project, Yq12 length ranged from ~1 to 52 Mb (mean 26.5 Mb) and varied substantially within and between Y haplogroups. Phylogenetic analyses supported long-term constraint of total Yq12 length near an equilibrium of 26 Mb and strongly coupled evolution of DYZ1 and DYZ2 around near-parity composition. In 303 father-son pairs, fathers had longer estimated Yq12 regions in 70.6% of pairs, while sons more often showed DYZ1:DYZ2 ratios closer to 1:1. Testis Iso-Seq identified transcripts containing DYZ1 and DYZ2 satellite sequences, while single-cell RNA-seq revealed their expression in haploid spermatids. These results establish a scalable framework for studying Yq12 population variation, intergenerational dynamics, and transcription, providing new opportunities to investigate how extreme satellite-array variation relates to Y-chromosome evolution and male germ-cell biology.",
+  "arxiv_id": null,
+  "authors": [
+    "Loftus, M.",
+    "Hallast, P.",
+    "Martino, G. V.",
+    "Petris, G.",
+    "Lee, C.",
+    "Konkel, M. K."
+  ],
+  "categories": [
+    "genetics"
+  ],
+  "doi": "10.64898/2026.11.11.765874",
+  "explain": false,
+  "field": "biology",
+  "fulltext": {
+    "available": true,
+    "kind": "biorxiv",
+    "url": "https://www.biorxiv.org/content/early/2026/11/13/2026.11.11.765874.source.xml"
+  },
+  "hook": "Human Y chromosome block Yq12 ranges from about 1 to 52 million bases across 1,597 men.",
+  "hook_turn": "ranges from about 1 to 52 million bases across 1,597 men.",
+  "id": "doi-10.64898-2026.11.11.765874",
+  "license": "cc-by-nc-nd",
+  "published": "2026-11-13",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Mean Yq12 length, 1,597 males",
+    "unit": "Mb",
+    "value": "26.5"
+  },
+  "significance": 6,
+  "source": "biorxiv",
+  "status": "preprint",
+  "summary": "New k-mer tools estimate the length of the repeat-rich Yq12 region directly from ordinary sequencing reads, with no full assembly needed. In 1,597 men the region varied enormously yet seemed pulled toward a roughly 26 Mb average, and fathers more often had the longer array than sons. Lengths are estimates from sequence counts, not direct measurements.",
+  "tags": [
+    "genomics",
+    "Y chromosome"
+  ],
+  "title": "Assembly-independent measurement of human Yq12 heterochromatin reveals population-scale variation and Yq12-derived RNA in testis",
+  "url": "https://doi.org/10.64898/2026.11.11.765874",
+  "venue": "bioRxiv"
+}

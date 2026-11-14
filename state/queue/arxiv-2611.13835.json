@@ -1,0 +1,49 @@
+{
+  "abstract": "Although the James Webb Space Telescope has pushed the observational frontier to $z\\sim14$, the onset of star formation in the earliest galaxies remains beyond direct reach, making the star formation histories (SFH) of observed galaxies a key tool for probing earlier epochs. We develop and validate a new SFH model based on an Ornstein-Uhlenbeck process, capable of reproducing the bursty star formation expected in high-redshift galaxies. Tested on the SPHINX$^{20}$ mock catalogs, it accurately recovers stellar masses and SFRs and reconstructs cumulative SFHs at population level; the formation redshift is well constrained at $z\\gtrsim9$ but not at $z\\sim8$. Applied to 400 galaxies at $9<z<15$ from the UNICORN/GOODS-South sample, we find that sources observed at $z<10$ typically reached 20% of their stellar mass no earlier than $z\\sim12$, disfavoring a clear evolutionary link to spectroscopically confirmed galaxies at $z\\gtrsim13$. Among 218 galaxies at $10<z<15$, only 28 had formed 20% of their stellar mass by $z=15$, with a median formation redshift $z_{\\rm form,20\\%}=16.9^{+1.1}_{-1.1}$, and 24% of our sample had already reached $10^7$M$_{\\odot}$ by $z=15$. At $z=17$, only 11 of these 28 galaxies had reached 20% of their stellar mass. The derived survey areas required to detect them are consistent with or slightly more optimistic than previous constraints at the bright end, and larger than some literature estimates at the faint end. At $z=20$, a single galaxy had formed 20% of its stellar mass, yielding a tentative constraint of one object at $M_{\\rm UV}=-18.1\\pm0.6$ per $\\sim200$\\,arcmin$^2$. Our results suggest a relatively slow decline in star formation activity between $z\\sim15$ and $z\\sim17$, followed by a more rapid decline up to $z\\sim20$.",
+  "arxiv_id": "2611.13835",
+  "authors": [
+    "L. Ciesla",
+    "C. Carvajal-Bohorquez",
+    "D. Elbaz",
+    "G. Aufort",
+    "O. Ilbert",
+    "S. Finkelstein",
+    "A. M. Koekemoer",
+    "P. Oesch",
+    "M. Boquien",
+    "C. Gruppioni",
+    "N. Laporte"
+  ],
+  "categories": [
+    "astro-ph.GA"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "space",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13835"
+  },
+  "hook": "Only 28 of 218 early galaxies had formed 20% of their stars by redshift 15.",
+  "hook_turn": "had formed 20% of their stars by redshift 15.",
+  "id": "arxiv-2611.13835",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-10",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "readout": {
+    "label": "Median formation redshift, 20% of stellar mass",
+    "value": "16.9"
+  },
+  "significance": 5,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "A new model of bursty star formation, tested on simulated galaxies, was applied to 400 Webb-observed galaxies at redshifts 9 to 15 to infer when they built their mass. It suggests a slow decline in star activity from redshift 15 to 17, then a faster one. The redshift 20 result rests on a single galaxy, and formation times are poorly constrained at redshift 8.",
+  "tags": [
+    "early galaxies",
+    "JWST"
+  ],
+  "title": "Tracing early galaxies back in time: implications for the dearth of galaxies beyond z~15",
+  "url": "https://arxiv.org/abs/2611.13835",
+  "venue": "arXiv"
+}

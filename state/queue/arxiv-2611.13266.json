@@ -1,0 +1,40 @@
+{
+  "abstract": "Understanding when gravitational collapse produces a black hole remains a central challenge in general relativity. Black-hole uniqueness results characterize the stationary endpoint under suitable assumptions, while singularity theorems establish geodesic incompleteness in the presence of trapped surfaces and appropriate energy and global conditions. Neither, however, provides a general criterion for horizon formation. The hoop conjecture offers such a criterion by relating the enclosed mass to the compactness of a matter distribution in every direction. We construct axisymmetric families of initial data describing rotating dust and test a formulation of the conjecture adapted to this setting. We explore highly prolate and oblate configurations with both constant and differential rescaled angular-velocity profiles, including configurations near the threshold for apparent-horizon formation. We find that the conjecture holds for rotating configurations, with a coefficient within 14% of unity as in the nonrotating case, provided the quasilocal mass includes the rotational energy. If the irreducible mass of the apparent horizon is used instead, the deviations grow with spin, as they do for Kerr black holes. For horizonless configurations, the conjecture likewise holds when the mass is restricted to the energy enclosed by the matter surface, whereas using the ADM mass, which also includes rotational field energy outside the matter, leads to apparent violations of up to $\\approx$25%. We also discuss the possible evolution of compact configurations without apparent horizons, their relation to weak cosmic censorship, and their implications for horizonless compact objects.",
+  "arxiv_id": "2611.13266",
+  "authors": [
+    "Robin Croft",
+    "Gerardo Garc\\'ia-Moreno",
+    "Paolo Pani"
+  ],
+  "categories": [
+    "gr-qc",
+    "hep-th",
+    "math-ph",
+    "math.MP"
+  ],
+  "doi": null,
+  "explain": false,
+  "field": "physics",
+  "fulltext": {
+    "available": true,
+    "kind": "arxiv_html",
+    "url": "https://arxiv.org/html/2611.13266"
+  },
+  "hook": "The hoop conjecture holds for spinning dust, within 14% of its predicted size, if rotational energy counts.",
+  "hook_turn": "if rotational energy counts.",
+  "id": "arxiv-2611.13266",
+  "license": "arxiv-nonexclusive",
+  "published": "2026-11-09",
+  "queued_at": "2026-11-14T02:19:00Z",
+  "significance": 6,
+  "source": "arxiv",
+  "status": "preprint",
+  "summary": "Numerical initial data for rotating dust, from prolate to oblate shapes, were checked against the hoop conjecture for horizon formation. It holds when the mass includes rotational energy, while using the horizon's irreducible mass or the ADM mass gives deviations up to about 25%. Only axisymmetric initial data were tested, not full collapse evolutions.",
+  "tags": [
+    "general relativity",
+    "black holes"
+  ],
+  "title": "Challenging the hoop conjecture with spinning pancakes and baguettes",
+  "url": "https://arxiv.org/abs/2611.13266",
+  "venue": "arXiv"
+}
