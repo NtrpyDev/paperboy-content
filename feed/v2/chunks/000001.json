@@ -73,6 +73,220 @@
       "title": "The Brown Dwarf Desert is a Mass-Ratio Desert: Astrometric Demographics of 63,254 Stars",
       "url": "https://arxiv.org/abs/2611.12881",
       "venue": "arXiv"
+    },
+    {
+      "added_at": "2026-11-14T02:57:27Z",
+      "authors_short": "Aoki et al.",
+      "depth": "abstract",
+      "explainer": "papers/doi-10.1038-s41467-026-78753-w/",
+      "field": "biology",
+      "has_explainer": true,
+      "hero": {
+        "height": 614,
+        "kind": "illustration",
+        "night": {
+          "height": 614,
+          "path": "papers/doi-10.1038-s41467-026-78753-w/hero-night.webp",
+          "width": 780
+        },
+        "path": "papers/doi-10.1038-s41467-026-78753-w/hero.webp",
+        "to_scale": false,
+        "width": 780
+      },
+      "hook": "Mammalian cells took up algae and kept algal chromosomes for 95 generations.",
+      "hook_turn": "kept algal chromosomes for 95 generations.",
+      "id": "doi-10.1038-s41467-026-78753-w",
+      "published": "2026-11-12",
+      "readout": {
+        "label": "Algal DNA kept in hybrid cells",
+        "unit": "Mb",
+        "value": ">16"
+      },
+      "significance": 8,
+      "status": "peer_reviewed",
+      "summary": "Mammalian cells that engulfed whole algal cells sometimes ended up with algal DNA in their nuclei, and hybrid lines kept it as chromosome-like pieces. Imaging and sequencing show methylation builds up on the foreign DNA, and cells lacking a DNA methyltransferase retain it less well. Transfer is rare, far less frequent than cell fusion, and was shown in cultured cells only.",
+      "tags": [
+        "horizontal gene transfer",
+        "epigenetics"
+      ],
+      "title": "Epigenetic gatekeeping enables genome-scale horizontal gene transfer in eukaryotic cells.",
+      "url": "https://doi.org/10.1038/s41467-026-78753-w",
+      "venue": "Nature Communications"
+    },
+    {
+      "added_at": "2026-11-14T02:57:27Z",
+      "authors_short": "Wang",
+      "depth": "abstract",
+      "explainer": "papers/arxiv-2611.16777/",
+      "field": "math",
+      "has_explainer": true,
+      "hero": {
+        "height": 614,
+        "kind": "illustration",
+        "night": {
+          "height": 614,
+          "path": "papers/arxiv-2611.16777/hero-night.webp",
+          "width": 780
+        },
+        "path": "papers/arxiv-2611.16777/hero.webp",
+        "to_scale": false,
+        "width": 780
+      },
+      "hook": "Three Lipschitz functions on a Hilbert space can share no point of differentiability.",
+      "id": "arxiv-2611.16777",
+      "published": "2026-11-12",
+      "significance": 8,
+      "status": "preprint",
+      "summary": "On any infinite-dimensional Hilbert space, the author builds three real-valued Lipschitz functions that have no common point where all are Fréchet differentiable. This answers a long-standing question of Lindenstrauss, Preiss, and Tišer. The construction uses elementary calculus and finite-dimensional linear algebra. Three is the smallest possible number, since any two such functions always share a differentiability point.",
+      "tags": [
+        "functional analysis",
+        "differentiability"
+      ],
+      "title": "Three Lipschitz functions on infinite-dimensional Hilbert spaces with no common point of Fr\\'echet differentiability",
+      "url": "https://arxiv.org/abs/2611.16777",
+      "venue": "arXiv"
+    },
+    {
+      "added_at": "2026-11-14T02:57:27Z",
+      "authors_short": "Morgan et al.",
+      "depth": "abstract",
+      "explainer": "papers/doi-10.1126-science.aed9544/",
+      "field": "earth",
+      "has_explainer": true,
+      "hero": {
+        "height": 614,
+        "kind": "data",
+        "night": {
+          "height": 614,
+          "path": "papers/doi-10.1126-science.aed9544/hero-night.webp",
+          "width": 780
+        },
+        "path": "papers/doi-10.1126-science.aed9544/hero.webp",
+        "width": 780
+      },
+      "hook": "Air measurements show the ocean sink for CO2 grew since 1990 while the land sink stalled.",
+      "hook_turn": "while the land sink stalled.",
+      "id": "doi-10.1126-science.aed9544",
+      "published": "2026-11-12",
+      "readout": {
+        "label": "Growth in ocean carbon sink, 1990 to 2019",
+        "unit": "Pg C per year per decade",
+        "value": "0.63"
+      },
+      "significance": 8,
+      "status": "peer_reviewed",
+      "summary": "Thirty years of atmospheric oxygen and CO2 records let the authors separate ocean from land uptake, finding the ocean sink grew and took up 35% of fossil emissions in 1990 to 2019. The net land sink shows no clear trend. The results conflict with many process-based models, and the land estimate carries large uncertainty.",
+      "tags": [
+        "carbon cycle",
+        "ocean carbon sink"
+      ],
+      "title": "Atmospheric O2 reveals a strengthening ocean carbon sink and a stagnant net land sink since 1990.",
+      "url": "https://doi.org/10.1126/science.aed9544",
+      "venue": "Science"
+    },
+    {
+      "added_at": "2026-11-14T02:57:27Z",
+      "authors_short": "Huang et al.",
+      "depth": "abstract",
+      "explainer": "papers/arxiv-2611.16853/",
+      "field": "physics",
+      "has_explainer": true,
+      "hero": {
+        "height": 546,
+        "kind": "illustration",
+        "night": {
+          "height": 546,
+          "path": "papers/arxiv-2611.16853/hero-night.webp",
+          "width": 780
+        },
+        "path": "papers/arxiv-2611.16853/hero.webp",
+        "to_scale": false,
+        "width": 780
+      },
+      "hook": "A smooth rotating vacuum black hole must be Kerr, with no analyticity or smallness assumed.",
+      "hook_turn": "with no analyticity or smallness assumed.",
+      "id": "arxiv-2611.16853",
+      "published": "2026-11-12",
+      "significance": 8,
+      "status": "preprint",
+      "summary": "The paper argues that the exterior of a smooth, stationary, asymptotically flat vacuum black hole with one rotating non-degenerate horizon is isometric to that of a subextremal Kerr black hole. The route applies a Harrison transform, then uses area comparison and the area-charge inequality to meet the conditions of the Ionescu-Klainerman theorem. The result still depends on stated geometric and physical assumptions, and this is an unreviewed preprint.",
+      "tags": [
+        "black holes",
+        "Kerr uniqueness",
+        "general relativity"
+      ],
+      "title": "The uniqueness of smooth stationary black holes",
+      "url": "https://arxiv.org/abs/2611.16853",
+      "venue": "arXiv"
+    },
+    {
+      "added_at": "2026-11-14T02:57:27Z",
+      "authors_short": "Englert et al.",
+      "depth": "abstract",
+      "explainer": "papers/doi-10.1126-science.aef8444/",
+      "field": "earth",
+      "has_explainer": true,
+      "hero": {
+        "height": 546,
+        "kind": "illustration",
+        "night": {
+          "height": 546,
+          "path": "papers/doi-10.1126-science.aef8444/hero-night.webp",
+          "width": 780
+        },
+        "path": "papers/doi-10.1126-science.aef8444/hero.webp",
+        "to_scale": false,
+        "width": 780
+      },
+      "hook": "Divers' instruments caught undersea landslides creeping slowly uphill, which no one had watched before.",
+      "hook_turn": "which no one had watched before.",
+      "id": "doi-10.1126-science.aef8444",
+      "published": "2026-11-12",
+      "significance": 8,
+      "status": "peer_reviewed",
+      "summary": "Direct underwater monitoring at the Homathko Delta in Canada recorded fully submarine landslides that retreat slowly upslope, the signature of breaching failure. This had been hypothesized but never observed in nature. The slow failures also start lasting turbidity currents that carry sediment and carbon offshore. The observations come from a single delta, so other settings may behave differently.",
+      "tags": [
+        "submarine landslides",
+        "turbidity currents",
+        "sediment transport"
+      ],
+      "title": "Direct monitoring of breaching in deltaic submarine landslides.",
+      "url": "https://doi.org/10.1126/science.aef8444",
+      "venue": "Science"
+    },
+    {
+      "added_at": "2026-11-14T02:57:27Z",
+      "authors_short": "Yang",
+      "depth": "abstract",
+      "explainer": "papers/arxiv-2611.16938/",
+      "field": "math",
+      "has_explainer": true,
+      "hero": {
+        "height": 614,
+        "kind": "illustration",
+        "night": {
+          "height": 614,
+          "path": "papers/arxiv-2611.16938/hero-night.webp",
+          "width": 780
+        },
+        "path": "papers/arxiv-2611.16938/hero.webp",
+        "to_scale": false,
+        "width": 780
+      },
+      "hook": "Every finite group can be covered by h products of small subsets, proving Rohrbach's conjecture.",
+      "hook_turn": "proving Rohrbach's conjecture.",
+      "id": "arxiv-2611.16938",
+      "published": "2026-11-12",
+      "significance": 8,
+      "status": "preprint",
+      "summary": "For any finite group and any h, there is a subset A of size at most a constant times the h-th root of the group's size whose h-fold product is the whole group. The result is stronger, allowing uneven subset sizes. It is a new preprint on a long-open problem, so expert verification is still pending.",
+      "tags": [
+        "group theory",
+        "additive combinatorics"
+      ],
+      "title": "Rohrbach's Conjecture for Finite Groups",
+      "url": "https://arxiv.org/abs/2611.16938",
+      "venue": "arXiv"
     }
   ],
   "number": 1,
