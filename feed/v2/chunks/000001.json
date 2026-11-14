@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Gupta et al.",
+      "depth": "full",
+      "explainer": "papers/arxiv-2611.13585/",
+      "field": "cs",
+      "has_explainer": true,
+      "hero": {
+        "height": 590,
+        "kind": "data",
+        "night": {
+          "height": 590,
+          "path": "papers/arxiv-2611.13585/hero-night.webp",
+          "width": 780
+        },
+        "path": "papers/arxiv-2611.13585/hero.webp",
+        "width": 780
+      },
+      "hook": "Graphic TSP tours can be found within 89/64 of the lower bound, beating the long-standing 7/5",
+      "hook_turn": "beating the long-standing 7/5",
+      "id": "arxiv-2611.13585",
+      "published": "2026-11-10",
+      "readout": {
+        "label": "Approximation ratio for graphic TSP",
+        "value": "1.390625"
+      },
+      "significance": 8,
+      "status": "preprint",
+      "summary": "The authors give a polynomial-time algorithm for graphic TSP that returns a tour at most 89/64 times the subtour relaxation value, improving the 7/5 of Sebo and Vygen. They optimize a non-linear objective over an odd-join polytope using a new removable edge system. The gain is small, and the ratio is for graphic instances only, not general TSP.",
+      "tags": [
+        "traveling salesman",
+        "approximation algorithms"
+      ],
+      "title": "Approximating graphic TSP by b-matchings",
+      "url": "https://arxiv.org/abs/2611.13585",
+      "venue": "arXiv"
+    },
+    {
+      "added_at": "2026-11-13T16:35:19Z",
+      "authors_short": "Thompson et al.",
+      "depth": "full",
+      "explainer": "papers/arxiv-2611.12881/",
+      "field": "space",
+      "has_explainer": true,
+      "hero": {
+        "height": 654,
+        "kind": "data",
+        "night": {
+          "height": 654,
+          "path": "papers/arxiv-2611.12881/hero-night.webp",
+          "width": 780
+        },
+        "path": "papers/arxiv-2611.12881/hero.webp",
+        "width": 780
+      },
+      "hook": "The brown dwarf desert is set by mass ratio, not mass: companions drop sharply near q of 2%.",
+      "id": "arxiv-2611.12881",
+      "published": "2026-11-09",
+      "readout": {
+        "label": "Mass ratio at the brown dwarf desert floor",
+        "unit": "%",
+        "value": "1.76"
+      },
+      "significance": 8,
+      "status": "preprint",
+      "summary": "Joint modeling of Hipparcos and Gaia astrometry for 63,254 stars shows companions are depleted at a mass ratio near 2% from M to B stars, which rules out a desert at fixed companion mass. Occurrence also trends differently with metallicity below and above the desert, hinting at two formation channels. The data cover only 3 to 94 year orbits, about 2 to 20 au.",
+      "tags": [
+        "brown dwarfs",
+        "exoplanets"
+      ],
+      "title": "The Brown Dwarf Desert is a Mass-Ratio Desert: Astrometric Demographics of 63,254 Stars",
+      "url": "https://arxiv.org/abs/2611.12881",
+      "venue": "arXiv"
+    }
+  ],
+  "number": 1,
+  "v": 1
+}
