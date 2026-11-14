@@ -9,8 +9,9 @@
     "math.LO"
   ],
   "doi": null,
-  "explain": true,
+  "explain": false,
   "field": "math",
+  "full_failed": "After two revisions the checker still found that the curve figures draw P on the oval, where twice a generator cannot lie, and that the page miscounts the points of order two.",
   "fulltext": {
     "available": true,
     "kind": "arxiv_html",
